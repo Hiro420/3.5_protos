@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LHFDFKFLLDA.proto";
+
+message OIABFKOCGOI {
+	LHFDFKFLLDA EKCEOKPLHOL; = 7;
+	uint32 PDFLEGGDOCP; = 5;
+}

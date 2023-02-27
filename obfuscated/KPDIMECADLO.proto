@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "COFIOGPCLNN.proto";
+
+message KPDIMECADLO {
+	uint32 NLJFOOHENPC; = 2;
+	repeated COFIOGPCLNN ODOKHAPOONL; = 8;
+}

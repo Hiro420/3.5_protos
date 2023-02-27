@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FJDFAKJALPE.proto";
+
+message IFGNOHNIIAC {
+	uint32 GODBPLIMLMK; = 4;
+	repeated FJDFAKJALPE CLACIHMGMAB; = 12;
+}

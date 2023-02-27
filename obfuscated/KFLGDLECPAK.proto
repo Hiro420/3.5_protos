@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NFAGLBHALKL.proto";
+
+message KFLGDLECPAK {
+	repeated NFAGLBHALKL KIDKPLPCPHB; = 6;
+}

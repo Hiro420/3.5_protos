@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IGKGJNCLPBA.proto";
+
+message IEEEICOKCLM {
+	repeated IGKGJNCLPBA HADEOBCEINJ; = 4;
+}

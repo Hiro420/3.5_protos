@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "COPHAEDKHOK.proto";
+
+message MKHFANGKEBH {
+	uint32 BEKCJPOGBHB; = 13;
+	COPHAEDKHOK NDBMJFMCPAK; = 5;
+	uint32 PDFLEGGDOCP; = 3;
+}

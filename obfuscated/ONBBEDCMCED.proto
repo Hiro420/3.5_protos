@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BMEEBDAKJGL.proto";
+import "IPEDEGMBLIH.proto";
+
+message ONBBEDCMCED {
+	uint32 EBJNKJCIPHA; = 329;
+	string CKEODHDMPHJ; = 250;
+	bytes AALGEMMIKOP; = 675;
+	string NBAKJOIGFFG; = 7;
+	uint32 GECPGPICDOM; = 3;
+	string IDKNIFNMLNB; = 1478;
+	uint64 HPJFGGCGAKK; = 14;
+	string NONALOJNIEH; = 11;
+	uint32 BOABBGKMPFH; = 1305;
+	uint32 IIBLLJGKGJI; = 15;
+	bytes ECOMGADPHGK; = 780;
+	uint32 AAEBBDIDMAO; = 9;
+	string PFENIDHAKLG; = 13;
+	string MNLEHIICELC; = 8;
+	uint32 DOCKIMFAJKE; = 1;
+	string MANADEFHNGP; = 1310;
+	IPEDEGMBLIH CKAINKDJFGN; = 1944;
+	string MKGNPKJHIGM; = 423;
+	uint32 NAPONPBDAEP; = 1000;
+	bool DDCNKPKHBCL; = 6;
+	string LNFEIKEPIKC; = 901;
+	string KBFKJOIMANM; = 1581;
+	uint32 OICIOIHLBBL; = 1279;
+	uint32 BLNCNAHNBHI; = 1069;
+	string OBAKDAPJMLC; = 1560;
+	string KELIIFPLPLA; = 1937;
+	uint32 NHDDEPFOMFJ; = 163;
+	bool CMJOELGKBNO; = 563;
+	uint32 NKHNPCLCADD; = 1345;
+	string MJFFGADABJK; = 10;
+	bool CIEOJCGLECF; = 5;
+	string NDBMJFMCPAK; = 2;
+	bytes KFFDBEBBPBI; = 669;
+	uint32 JENDIGFFGOH; = 1511;
+	uint32 EIKJGAGPAOH; = 1490;
+	string LFEFIFPJMAO; = 341;
+	BMEEBDAKJGL EPPKBOGODJD; = 1947;
+	string MCBJBNBKLOC; = 567;
+	string ODGAEDLEJLH; = 368;
+	uint32 PHMIPHBEEBM; = 1176;
+	string BEPLFIDEFGE; = 4;
+	uint32 NJHJKHLBGDP; = 697;
+	string NABNGJANAPB; = 12;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message HKPAJNLJBOH {
+	uint32 PDFLEGGDOCP; = 7;
+	map<uint32, float> MIBGCBHMOLP; = 11;
+}

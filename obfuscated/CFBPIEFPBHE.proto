@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AAPBIOOIMNP.proto";
+
+message CFBPIEFPBHE {
+	AAPBIOOIMNP JFDDEKJKEML; = 8;
+	int32 IJIABMFLJGH; = 15;
+	int32 ABPJCCJHPJG; = 10;
+}

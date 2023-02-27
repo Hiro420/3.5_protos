@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FFEPOPDPELC.proto";
+
+message PHPBACJDBKA {
+	repeated FFEPOPDPELC NMLCAAMKMEA; = 12;
+	repeated uint32 AFKAECFOLAH; = 8;
+}

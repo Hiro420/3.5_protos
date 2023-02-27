@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FGFHDCEEKIH.GMINEAJLAEK.MNCLPFLPPFD.proto";
+
+message FGFHDCEEKIH {
+	FGFHDCEEKIH.GMINEAJLAEK.MNCLPFLPPFD KPADLDCELLO; = 3;
+	string HGGDOJGOMID; = 9;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ANIHIBEGDJC.proto";
+import "IPJNBCPPEAC.proto";
+
+message KDDEEFOPBJB {
+	uint32 JLMLALKOMFN; = 13;
+	IPJNBCPPEAC BMLIBIHBACF; = 4;
+	repeated ANIHIBEGDJC MLHEDBOCADP; = 14;
+	uint32 FOKCGCJOMBP; = 3;
+}

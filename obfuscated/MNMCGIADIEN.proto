@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KNOKLJBFHCE.proto";
+
+message MNMCGIADIEN {
+	uint64 BOPOMJIPJMI; = 3;
+	uint32 OEGEDJPNJAD; = 2;
+	KNOKLJBFHCE OHLNFFNBLLG; = 6;
+}

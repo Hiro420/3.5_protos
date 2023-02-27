@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message EOHNOGOKPLE {
+	uint32 DOKELIFOJAB; = 3;
+	uint32 PDFLEGGDOCP; = 15;
+	uint64 POGHDEAENAD; = 6;
+	repeated uint32 GDJCNOKDFEE; = 1;
+}

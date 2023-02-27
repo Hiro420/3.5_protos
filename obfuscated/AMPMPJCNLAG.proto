@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message AMPMPJCNLAG {
+	bool LLHDJNBMGMC; = 15;
+	repeated uint32 INPMFBCPAJH; = 1;
+	uint32 PDDPIHFNDBO; = 7;
+	uint32 BEJDBNONODA; = 2;
+	uint32 MEGEPCAJCKE; = 13;
+}

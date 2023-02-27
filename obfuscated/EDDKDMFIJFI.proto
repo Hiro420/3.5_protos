@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FLHBFICFCCM.proto";
+
+message EDDKDMFIJFI {
+	uint32 AIJOKLEENGC; = 4;
+	repeated FLHBFICFCCM KBJKNDGIPKM; = 7;
+	uint32 JIKFEHBKOCO; = 11;
+	bool DJKOKFDGKIG; = 10;
+}

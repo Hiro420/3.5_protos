@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ENANJKOACDB.proto";
+import "CGOOHEEBLLK.proto";
+
+message GPOEFPAIHOE {
+	uint32 PDFLEGGDOCP; = 8;
+	int32 IJIABMFLJGH; = 14;
+	CGOOHEEBLLK HDHCBKKBOIN; = 3;
+	ENANJKOACDB MLDIJGKBDLN; = 4;
+}

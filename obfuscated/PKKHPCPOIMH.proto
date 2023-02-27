@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BCMHCFICCDD.proto";
+
+message PKKHPCPOIMH {
+	bool AAANCEBLEGC; = 10;
+	BCMHCFICCDD JMKPOPCJKCE; = 11;
+}

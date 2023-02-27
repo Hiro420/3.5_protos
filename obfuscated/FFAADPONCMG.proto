@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FFAADPONCMG.GPDPJKELDEA.LCFCMAGCDAJ.proto";
+
+message FFAADPONCMG {
+	string NGFEJANHDBM; = 15;
+	FFAADPONCMG.GPDPJKELDEA.LCFCMAGCDAJ GNLDDLIKJDN; = 8;
+}

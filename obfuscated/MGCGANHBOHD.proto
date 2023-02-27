@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FBKBALODAED.proto";
+
+message MGCGANHBOHD {
+	repeated FBKBALODAED IBEPGEANHFI; = 10;
+}

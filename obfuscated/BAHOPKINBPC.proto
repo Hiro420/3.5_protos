@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KFALPHIPJOK.proto";
+
+message BAHOPKINBPC {
+	KFALPHIPJOK KAOBAJAEIPN; = 1;
+	uint32 ELNNIELNMBO; = 8;
+}

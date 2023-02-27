@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IHFHAKKFMHG.proto";
+
+message GLCFLDFINNO {
+	bool BBMCLILNKEO; = 1;
+	uint32 PDFLEGGDOCP; = 6;
+	IHFHAKKFMHG CBOLHDNGDGC; = 5;
+	uint32 EADMPCKCFEJ; = 3;
+}

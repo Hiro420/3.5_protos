@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BJAHBGJAENP.proto";
+
+message JEGJGGKPPKA {
+	repeated BJAHBGJAENP OACLEGKIENO; = 8;
+}

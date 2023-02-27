@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message IJHBAKEJLGM {
+	uint32 MHCGANALPFE; = 13;
+	uint64 POGHDEAENAD; = 12;
+}

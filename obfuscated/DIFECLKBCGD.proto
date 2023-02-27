@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DFNGPIGNBJJ.proto";
+
+message DIFECLKBCGD {
+	repeated DFNGPIGNBJJ GJLNDPMMIPG; = 13;
+	uint32 ICFIJIEKEEJ; = 12;
+	int32 IJIABMFLJGH; = 14;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message PICNEBDLCOA {
+	bool NHDPHIMDACF; = 9;
+	uint64 JAOBPKMBOKD; = 10;
+}

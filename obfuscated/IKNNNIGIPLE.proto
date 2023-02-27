@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NCCBAHIEMNM.proto";
+import "MAIEBCGCJMB.proto";
+
+message IKNNNIGIPLE {
+	uint32 GODBPLIMLMK; = 5;
+	uint64 POGHDEAENAD; = 3;
+	MAIEBCGCJMB DNACFIMPAIL; = 6;
+	NCCBAHIEMNM JJOPANIGDFH; = 12;
+	uint64 KEGIOLFOLNO; = 2;
+	uint32 AHFGCEDNLHM; = 9;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JGMCLGAMEOA.JEDKGANOLPC.AIFELBCMNGE.proto";
+
+message JGMCLGAMEOA {
+	JGMCLGAMEOA.JEDKGANOLPC.AIFELBCMNGE GNLDDLIKJDN; = 6;
+}

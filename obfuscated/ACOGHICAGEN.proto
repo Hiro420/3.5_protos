@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DILMJFDGLNH.proto";
+
+message ACOGHICAGEN {
+	DILMJFDGLNH HOMEEBJPBCL; = 1;
+	repeated uint32 CNJKFOCKGAA; = 2;
+}

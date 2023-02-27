@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KAPLNKOBMCI.proto";
+import "DALMLFNANKL.proto";
+import "ECDLKNIAMAF.PCBLELEOFLM.PIFLNEEKLJG.proto";
+
+message ECDLKNIAMAF {
+	ECDLKNIAMAF.PCBLELEOFLM.PIFLNEEKLJG HCMPEPODKPP; = 11;
+	DALMLFNANKL IPIIMJGBIPM; = 6;
+	DALMLFNANKL MEPKAGJBDAB; = 7;
+	int32 MLAGCDMHOLL; = 5;
+	KAPLNKOBMCI BHGODEBMBBH; = 12;
+}

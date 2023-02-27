@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OJEEKAIOFBO.proto";
+
+message JMBJHKIMDFC {
+	map<uint32, OJEEKAIOFBO> INEIHPIPILA; = 3;
+}

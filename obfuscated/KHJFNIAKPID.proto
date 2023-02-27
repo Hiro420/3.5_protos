@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BGNNBFGLOLE.proto";
+import "DCMLDNDFBDN.proto";
+
+message KHJFNIAKPID {
+	repeated DCMLDNDFBDN OFAHBBCMAGO; = 10;
+	bool KKNIHHNECIP; = 4;
+	repeated uint32 PAPNIEEPPEO; = 6;
+	bool CKMCPIOKFFE; = 5;
+	repeated uint32 PKHKDKLJOPD; = 15;
+	repeated BGNNBFGLOLE IPDABMHNEKD; = 1;
+}

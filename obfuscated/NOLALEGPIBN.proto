@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HILFJKMBAOA.proto";
+
+message NOLALEGPIBN {
+	uint32 OPPHFKLOKIA; = 4;
+	uint32 EDMHPIFGLJD; = 2;
+	HILFJKMBAOA AEBGOFAHGKL; = 9;
+	uint32 FGGCOCMKODE; = 5;
+	uint32 KNJGPLMHPIK; = 1;
+	bool CJIOJFBBJGB; = 7;
+	bool OEHFMPHOLOJ; = 3;
+	uint32 HCLIPPCDIEO; = 15;
+	uint32 DKLKABONJFC; = 8;
+	map<uint32, uint32> EOKDIOIFLIH; = 11;
+}

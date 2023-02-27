@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BBDPIINPKHI.proto";
+
+message BOLIJNNEPBK {
+	BBDPIINPKHI GNLDDLIKJDN; = 9;
+	uint32 FDFJGMKKEDA; = 13;
+}

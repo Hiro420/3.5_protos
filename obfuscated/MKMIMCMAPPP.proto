@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NOMPJNNKOKM.proto";
+
+message MKMIMCMAPPP {
+	bool AECKJJJPJGE; = 2;
+	NOMPJNNKOKM KPCHBEGMEKM; = 6;
+	uint32 KCLGPLGLCOH; = 14;
+}

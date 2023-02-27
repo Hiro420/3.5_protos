@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message GHAPMIGCIAM {
+	map<uint32, float> MIBGCBHMOLP; = 3;
+	uint32 PDFLEGGDOCP; = 7;
+}

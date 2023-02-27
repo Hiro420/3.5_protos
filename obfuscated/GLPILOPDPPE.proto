@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GABBGJCLKIK.proto";
+
+message GLPILOPDPPE {
+	repeated GABBGJCLKIK CANCLEDDKEP; = 15;
+	repeated uint32 ABFPOHLDEEL; = 11;
+	int32 IJIABMFLJGH; = 8;
+}

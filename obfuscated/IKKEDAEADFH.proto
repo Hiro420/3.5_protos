@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KIMICJIEGDD.proto";
+import "DOCPAPKDBBK.proto";
+import "NHIJPCNBKJE.proto";
+import "IPNEJCIGNLO.proto";
+
+message IKKEDAEADFH {
+	string NFGBBEGMFNN; = 1;
+	repeated IPNEJCIGNLO OOAAGOOIODO; = 2;
+	repeated NHIJPCNBKJE GJEKIOPKEBO; = 3;
+	DOCPAPKDBBK AFMPBGMFBEC; = 4;
+	KIMICJIEGDD ENCNPJNGPFM; = 5;
+}

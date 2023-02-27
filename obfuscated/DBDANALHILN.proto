@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message DBDANALHILN {
+	map<uint32, float> MIBGCBHMOLP; = 6;
+	uint64 POGHDEAENAD; = 13;
+}

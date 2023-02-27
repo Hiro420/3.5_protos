@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ECBPKIEBPLJ.BILCCABNGFJ.proto";
+import "object.proto";
+
+message ECBPKIEBPLJ {
+	uint32 AAHPGNIAFFG; = 9;
+	object FEEBAHEICDA; = 1340;
+	ECBPKIEBPLJ.BILCCABNGFJ KBECNFBINNO; = 1743;
+}

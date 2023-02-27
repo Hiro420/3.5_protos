@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+import "ANOGJOOKKKN.GJBFLHAJBIC.EMGBOCDIGED.proto";
+
+message ANOGJOOKKKN {
+	ANOGJOOKKKN.GJBFLHAJBIC.EMGBOCDIGED JANDJNMENNF; = 11;
+	DALMLFNANKL PFACEBGDOKI; = 6;
+	DALMLFNANKL DAPNOMHKANF; = 1;
+	uint32 FKMHOAALLGL; = 13;
+	repeated string JDKONHKFBAN; = 4;
+	uint32 PDFLEGGDOCP; = 10;
+}

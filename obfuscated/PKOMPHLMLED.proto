@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message PKOMPHLMLED {
+	uint32 CDCLLLEPBCB; = 2;
+	uint32 KCNLAHHKGBN; = 6;
+	string EJNMMOMKGCO; = 15;
+}

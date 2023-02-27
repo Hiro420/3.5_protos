@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HKNICPJLBBF.proto";
+
+message MDFCDBBABMB {
+	uint32 AAEBBDIDMAO; = 13;
+	HKNICPJLBBF FPKNBNEFGCL; = 1;
+}

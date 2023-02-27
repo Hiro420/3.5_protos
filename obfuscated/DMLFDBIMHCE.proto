@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message DMLFDBIMHCE {
+	repeated int32 BLOEGDPHGDD; = 14;
+	uint32 HCMPEPODKPP; = 10;
+	string BKLAPAFNFCC; = 3;
+	repeated float CCGDJOMMLOG; = 15;
+}

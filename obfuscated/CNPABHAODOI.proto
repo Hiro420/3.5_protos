@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BIMILKAGLEC.proto";
+
+message CNPABHAODOI {
+	bool GMODBCIADLM; = 14;
+	repeated BIMILKAGLEC HFCAIMJEDHH; = 10;
+	int32 IJIABMFLJGH; = 4;
+}

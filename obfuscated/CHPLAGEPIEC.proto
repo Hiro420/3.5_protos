@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CHPLAGEPIEC.IBOHELMBIJL.proto";
+import "object.proto";
+import "FGMDHBOGAHG.proto";
+import "NCCFFEPPCHN.proto";
+
+message CHPLAGEPIEC {
+	uint32 ODLEJBENFMI; = 1;
+	uint32 ECHCDODIGAN; = 11;
+	NCCFFEPPCHN MHANNMGPJCP; = 10;
+	uint32 BHAIDBNPGGC; = 15;
+	bool MFPGHFOFAFP; = 4;
+	map<uint32, FGMDHBOGAHG> IIEOKGNFEIK; = 6;
+	uint32 PNKEAFMICOH; = 3;
+	bool DBIKCJCJHFI; = 2;
+	object NGKAEIMKBBL; = 160;
+	CHPLAGEPIEC.IBOHELMBIJL BMIEBOMGFJM; = 278;
+}

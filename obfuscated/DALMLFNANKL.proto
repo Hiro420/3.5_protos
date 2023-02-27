@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message DALMLFNANKL {
+	float CEBNMGEFKJL; = 1;
+	float FEHDKBAABKF; = 2;
+	float DKFFAIKLJDE; = 3;
+}

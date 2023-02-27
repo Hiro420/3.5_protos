@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HOPFOECLFLA.proto";
+import "KINEAIJCOHJ.proto";
+import "HEIHACODPGK.proto";
+import "DJDNJCIODMP.proto";
+import "GKLODALBJDF.proto";
+
+message HPIGPCKEFDL {
+	map<uint32, GKLODALBJDF> OPOJJEBFIMH; = 14;
+	DJDNJCIODMP PAGBKOFKHEJ; = 5;
+	HEIHACODPGK EAHMNLGCOPB; = 10;
+	map<uint32, KINEAIJCOHJ> NJEBOJLICMF; = 2;
+	map<uint32, HOPFOECLFLA> OJHNCFLDPGA; = 4;
+	bool CKMCPIOKFFE; = 9;
+}

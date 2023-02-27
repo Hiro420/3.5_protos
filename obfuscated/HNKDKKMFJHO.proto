@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CNCEIOHAKKI.proto";
+
+message HNKDKKMFJHO {
+	uint32 PINCMCILICB; = 15;
+	map<uint32, CNCEIOHAKKI> HBOKOPNMMLI; = 6;
+	uint32 AHEFDMPHAAK; = 11;
+}

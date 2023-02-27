@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OKIMCDFNBMP.proto";
+
+message OIEINOHMODG {
+	uint32 MNPBMFLDGFK; = 10;
+	repeated OKIMCDFNBMP FIJFNNFDJAJ; = 14;
+	uint32 MHBBOHGLIEC; = 3;
+}

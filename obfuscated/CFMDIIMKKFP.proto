@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JADEEKLDMOG.proto";
+
+message CFMDIIMKKFP {
+	uint32 PICADOOPHPG; = 1;
+	uint32 BNIJIKCPOKJ; = 2;
+	repeated uint32 KFBGJODECKD; = 3;
+	repeated uint32 EEHPMLIFDLD; = 4;
+	map<uint32, JADEEKLDMOG> AJKONPEMADJ; = 5;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JBAOPFJOFMB.proto";
+
+message PODDCPLMFHG {
+	map<uint32, uint32> HKMBGBDMAED; = 4;
+	map<uint32, JBAOPFJOFMB> KFNIGALKGFM; = 7;
+	repeated uint32 DOFLHKBGEMN; = 8;
+}

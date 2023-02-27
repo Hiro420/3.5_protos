@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message LDBDLKGAKCB {
+	uint32 MHMANMAOBAF; = 162;
+	bool AMPGLKBGHIN; = 9;
+	uint32 EAAJKAHEPKL; = 1640;
+	uint32 CIGDKOHEPCA; = 1480;
+	uint32 HFGHKPOBBLK; = 10;
+	uint32 NAEGOGKCCIB; = 7;
+	uint32 JDJDOCNKLHI; = 14;
+	repeated uint32 IFHJPOFALMN; = 756;
+	bool GACFGGGMICG; = 184;
+	repeated uint32 KKBOGAFIKBF; = 15;
+	uint32 CMBCMNNFIGF; = 11;
+	float NOCCECFFIFI; = 1401;
+	uint32 DBCEEODIKCO; = 1;
+	uint32 KKJPLCNBNLD; = 3;
+	bool LEIOJKICPHB; = 726;
+	uint32 MIJOKJMFHMC; = 8;
+	uint32 LGHFADDEAJN; = 4;
+	uint64 DHJBPPJOKNK; = 5;
+}

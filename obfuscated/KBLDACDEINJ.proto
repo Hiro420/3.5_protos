@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IHFHAKKFMHG.proto";
+import "DPAJKOIMAOF.proto";
+import "FNGBAFLMEDH.proto";
+
+message KBLDACDEINJ {
+	FNGBAFLMEDH BOADNNJKPKG; = 6;
+	uint32 OMIOGANKAOP; = 7;
+	bool OHECBDEEAIC; = 5;
+	uint32 NMEJDIABOBH; = 1;
+	DPAJKOIMAOF IPHJHEHINJP; = 2;
+	IHFHAKKFMHG CBOLHDNGDGC; = 4;
+	double KOPABDHDONA; = 9;
+	bytes IFNLKCFBLMP; = 3;
+	uint32 PDFLEGGDOCP; = 11;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KNIKNHIMAFF.proto";
+
+message NJPBNLDFKIJ {
+	repeated KNIKNHIMAFF NAINFAHOBLH; = 8;
+}

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DNANMGCEKBC.proto";
+
+message JAHPLBMIKKP {
+	repeated uint32 CEKIBECCGEN; = 3;
+	uint32 OEGEDJPNJAD; = 4;
+	uint32 PDDPIHFNDBO; = 7;
+	uint32 OHHFOPHAGMC; = 9;
+	repeated DNANMGCEKBC FIKKALCMGHC; = 10;
+	uint32 DNJOGGHOALD; = 11;
+	repeated uint32 DPIACLPKFEK; = 13;
+	uint32 BEJDBNONODA; = 14;
+	uint32 NAIPFFHNDOH; = 8;
+	uint32 MEGEPCAJCKE; = 6;
+}

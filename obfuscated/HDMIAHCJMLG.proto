@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KFALPHIPJOK.proto";
+import "DALMLFNANKL.proto";
+
+message HDMIAHCJMLG {
+	bool GEEDHGLGGIN; = 5;
+	uint32 MGLBGKBAKOM; = 6;
+	DALMLFNANKL LOEGIFANAEN; = 2;
+	KFALPHIPJOK KAOBAJAEIPN; = 13;
+}

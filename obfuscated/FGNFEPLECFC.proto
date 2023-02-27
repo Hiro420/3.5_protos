@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KDMMAILHMCH.proto";
+
+message FGNFEPLECFC {
+	KDMMAILHMCH MMLFLKIEJHA; = 12;
+	uint32 PDFLEGGDOCP; = 2;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FOPGOIJCICK.proto";
+import "GGCMGFLFFPB.proto";
+
+message JLFKGLMLFHC {
+	GGCMGFLFFPB OGLAJOOKPKD; = 1;
+	repeated FOPGOIJCICK CANCLEDDKEP; = 3;
+}

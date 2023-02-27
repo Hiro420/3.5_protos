@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message KELICPOLEGO {
+	uint32 NFOPOKGDODK; = 15;
+	uint32 NDEGDDBLMKD; = 8;
+}

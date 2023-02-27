@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NMKDCJBDNHL.BFGMGKHDACD.NLPMIDEGMNA.proto";
+
+message NMKDCJBDNHL {
+	string NGFEJANHDBM; = 10;
+	NMKDCJBDNHL.BFGMGKHDACD.NLPMIDEGMNA JKDNHDLNHMJ; = 14;
+	uint32 APPJCEKCOBP; = 12;
+}

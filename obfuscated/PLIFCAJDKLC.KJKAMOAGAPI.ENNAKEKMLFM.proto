@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PLIFCAJDKLC.KJKAMOAGAPI.ENNAKEKMLFM.FOFFPCEAACJ.proto";
+import "object.proto";
+
+message PLIFCAJDKLC.KJKAMOAGAPI.ENNAKEKMLFM {
+	object NGKAEIMKBBL; = 7;
+	PLIFCAJDKLC.KJKAMOAGAPI.ENNAKEKMLFM.FOFFPCEAACJ BMIEBOMGFJM; = 2;
+}

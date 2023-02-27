@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DBDNABMNFAO.proto";
+
+message OLCBCCEKNOA {
+	map<uint32, DBDNABMNFAO> GAGONOJAEJH; = 1;
+	repeated uint32 JHAIPBNMPEF; = 7;
+	uint32 JIAHNLMJAPK; = 4;
+}

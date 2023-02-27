@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NIMPOFILFMP.proto";
+
+message JKOBCBECAAM {
+	uint32 BNKMOEDCMOF; = 7;
+	int32 IJIABMFLJGH; = 9;
+	NIMPOFILFMP GKGHGJKIKIG; = 12;
+}

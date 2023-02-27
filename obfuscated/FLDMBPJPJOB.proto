@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DDCNIPBHDIM.proto";
+
+message FLDMBPJPJOB {
+	uint32 NDEGDDBLMKD; = 3;
+	map<uint32, DDCNIPBHDIM> NDNMHJPEHAJ; = 2;
+}

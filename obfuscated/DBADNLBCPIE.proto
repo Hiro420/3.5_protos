@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IHFHAKKFMHG.proto";
+import "HLAGMEPBLFH.proto";
+
+message DBADNLBCPIE {
+	HLAGMEPBLFH JLKDLNCIOKH; = 5;
+	IHFHAKKFMHG CBOLHDNGDGC; = 1;
+}

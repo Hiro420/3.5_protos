@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message NALOPCHENIP {
+	uint32 AEIOMMGHALH; = 8;
+	bytes DIJEPGCODAD; = 6;
+	uint32 BGDLBOEDLAP; = 14;
+}

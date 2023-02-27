@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message BKAPIOCCGGM {
+	uint32 LMFGKMPGIPD; = 7;
+	uint64 POGHDEAENAD; = 9;
+}

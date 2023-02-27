@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PNGIMLOPGEG.ALIGAPLMDGC.proto";
+import "object.proto";
+
+message PNGIMLOPGEG {
+	uint32 GHKIKNJNIGG; = 11;
+	uint32 ODLPNAIPIFJ; = 12;
+	uint32 DGEMIMAKPDD; = 13;
+	uint32 MODGFBJMMHC; = 9;
+	uint32 PLMDDEEEAAB; = 3;
+	uint32 KCMEPPIKHLM; = 10;
+	uint32 JEEFNCHAJOJ; = 14;
+	object NGKAEIMKBBL; = 2012;
+	PNGIMLOPGEG.ALIGAPLMDGC BMIEBOMGFJM; = 1567;
+}

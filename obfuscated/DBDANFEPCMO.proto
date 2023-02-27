@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message DBDANFEPCMO {
+	uint32 BEJDBNONODA; = 7;
+	uint32 FEOMIOKBKJA; = 6;
+	uint32 GHGHAHFFPOF; = 3;
+	uint32 LOLDFOKEGGF; = 14;
+	bool DBIKCJCJHFI; = 12;
+	uint32 AHEFDMPHAAK; = 11;
+}

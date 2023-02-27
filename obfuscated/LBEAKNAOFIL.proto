@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message LBEAKNAOFIL {
+	uint32 OFDNCFCMENI; = 9;
+}

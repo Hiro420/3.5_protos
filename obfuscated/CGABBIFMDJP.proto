@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BBEAHHDMEPD.proto";
+
+message CGABBIFMDJP {
+	map<string, BBEAHHDMEPD> DONFMHLGAPO; = 1;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message EAMMPIMBPKH {
+	map<uint32, uint32> LKBMJPAKCKC; = 14;
+	map<uint32, uint32> OCLAEGDHFEP; = 13;
+	uint32 APPJCEKCOBP; = 12;
+}

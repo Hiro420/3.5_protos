@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message OLPCCONLNBI {
+	uint32 EABOGBAHJKA; = 3;
+	uint32 IHMAEEJLCCC; = 12;
+}

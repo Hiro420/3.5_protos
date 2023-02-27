@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KPMFNAPKPOK.proto";
+
+message IDIGJCADDCJ {
+	repeated KPMFNAPKPOK LIHEPHPKCOI; = 14;
+}

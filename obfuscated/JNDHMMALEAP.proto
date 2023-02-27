@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LBJMAKBIBJO.proto";
+
+message JNDHMMALEAP {
+	map<uint32, LBJMAKBIBJO> ANIEDMJHGCN; = 4;
+	repeated uint64 CMKKOGEFOLN; = 13;
+}

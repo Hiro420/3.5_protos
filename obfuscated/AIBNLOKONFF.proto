@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IGFMCNMHFFH.proto";
+import "AIBNLOKONFF.ADBBLFGKGGL.MMHNGODLMFF.proto";
+
+message AIBNLOKONFF {
+	AIBNLOKONFF.ADBBLFGKGGL.MMHNGODLMFF JLEBNFKGGMC; = 8;
+	repeated uint64 CLJCCHPHHLO; = 5;
+	repeated IGFMCNMHFFH BIEBLKAHOOP; = 9;
+	repeated uint32 NBNALIEKKPA; = 15;
+	bool JFFBBDANMDD; = 7;
+}

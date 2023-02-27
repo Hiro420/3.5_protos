@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KBLDACDEINJ.proto";
+
+message NDELNMOBIJO {
+	KBLDACDEINJ GEKIHFECCNK; = 10;
+	KBLDACDEINJ HLLKEMOMJPP; = 8;
+	KBLDACDEINJ MIPNLJKFAJK; = 4;
+	KBLDACDEINJ PNNDDJMKNAE; = 13;
+	KBLDACDEINJ CNHGGGLPPFC; = 1;
+	KBLDACDEINJ CJDOFFAIFEL; = 12;
+}

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GOGCALJCAMC.proto";
+import "DGNHHEPOEIP.proto";
+
+message FIIOKEKPAFG {
+	repeated DGNHHEPOEIP MHACHLFONFK; = 6;
+	repeated uint32 BOJMKOHEOEA; = 14;
+	uint32 GIPBJFBBEFI; = 11;
+	map<uint32, GOGCALJCAMC> KLDONBADCHB; = 5;
+	uint32 OEGEDJPNJAD; = 3;
+}

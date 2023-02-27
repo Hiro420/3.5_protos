@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MPHNEOMIAEB.proto";
+
+message KLCFLFODAOB {
+	uint32 MGGIEMKADBL; = 1;
+	uint32 KFEMBAPKMFH; = 2;
+	bool NPFDOLMAHIG; = 3;
+	repeated MPHNEOMIAEB ABLDBCKPKBP; = 4;
+}

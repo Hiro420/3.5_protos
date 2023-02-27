@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HPDLLEKEJEF.proto";
+
+message BJEKDEGDNEM {
+	map<uint32, HPDLLEKEJEF> HPJDEDKFNGP; = 10;
+}

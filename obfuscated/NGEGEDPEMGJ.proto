@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GDFLMPCLCBL.proto";
+
+message NGEGEDPEMGJ {
+	repeated GDFLMPCLCBL NICGGGNEFGI; = 11;
+}

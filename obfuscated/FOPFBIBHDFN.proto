@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FOPFBIBHDFN.MNJEBMCPGEO.LHHMCBIINHG.proto";
+import "CKNMIHFPLAI.proto";
+
+message FOPFBIBHDFN {
+	CKNMIHFPLAI DBGPMMDMFOE; = 9;
+	CKNMIHFPLAI AJGMIAACPIB; = 15;
+	FOPFBIBHDFN.MNJEBMCPGEO.LHHMCBIINHG BAJHMIBJPMG; = 1;
+}

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ENLCMOEBCFN.proto";
+import "ENOCIMKMJJG.proto";
+
+message FMIPFCFINIC {
+	int32 IJIABMFLJGH; = 4;
+	repeated ENOCIMKMJJG LFDCIGKFEHM; = 13;
+	ENLCMOEBCFN KNKNBCLCIIK; = 8;
+	repeated ENOCIMKMJJG MFJKCCOFHII; = 3;
+	repeated ENOCIMKMJJG INEKIGIFDDA; = 11;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message PNOJAMMOOGN {
+	bool EOLEDOEGGJE; = 9;
+	bool MFPGHFOFAFP; = 12;
+	uint32 KIBAJLBGNCK; = 7;
+	uint32 HFLJPDBCKKP; = 11;
+	uint32 EPODNOIKDEM; = 2;
+}

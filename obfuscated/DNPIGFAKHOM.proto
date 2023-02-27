@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GBHMJFABANH.proto";
+
+message DNPIGFAKHOM {
+	bool KBDMIAGCPKB; = 9;
+	uint32 BBEJEEENLPN; = 2;
+	bool HLCFBEMMOOA; = 8;
+	map<uint32, GBHMJFABANH> HMFNNGCBNDI; = 5;
+	uint32 BEJDBNONODA; = 4;
+	uint32 JFDMLBBNKEE; = 13;
+	uint32 IELIJACJAAB; = 10;
+}

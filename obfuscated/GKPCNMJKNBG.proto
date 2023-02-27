@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NOFAJOIHJPD.proto";
+
+message GKPCNMJKNBG {
+	NOFAJOIHJPD HGKCOCBKICE; = 12;
+	NOFAJOIHJPD POLMMJDEPLF; = 5;
+	NOFAJOIHJPD MFIPOJMJEFP; = 8;
+	repeated NOFAJOIHJPD COEICHIIBGA; = 10;
+	NOFAJOIHJPD LGCOFLEHINM; = 13;
+	NOFAJOIHJPD EFILDKAIPHA; = 1;
+}

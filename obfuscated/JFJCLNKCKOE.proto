@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HOCCDCBAJCL.proto";
+
+message JFJCLNKCKOE {
+	repeated HOCCDCBAJCL NHBHOIPDNPI; = 6;
+}

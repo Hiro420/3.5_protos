@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LANGJAKENPJ.proto";
+
+message LAMFKFNJMDN {
+	int32 IJIABMFLJGH; = 1;
+	uint32 AHEFDMPHAAK; = 2;
+	uint32 BEJDBNONODA; = 3;
+	uint32 HFKNDLGIPML; = 8;
+	repeated LANGJAKENPJ CMPPJDHENIF; = 4;
+}

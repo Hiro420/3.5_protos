@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EPKICJCBBIF.BLDAHLLFOHI.proto";
+import "object.proto";
+import "EGBBHBLNEAC.proto";
+import "FGMDHBOGAHG.proto";
+
+message EPKICJCBBIF {
+	uint32 LPCLEIFHIJD; = 1;
+	uint32 OEGEDJPNJAD; = 2;
+	uint32 DAFCJCAMMLM; = 11;
+	map<uint32, FGMDHBOGAHG> IIEOKGNFEIK; = 15;
+	uint32 LEGAOGOMKNJ; = 5;
+	EGBBHBLNEAC JNJDFCHELEG; = 4;
+	object DPDNKOIFCPO; = 7;
+	EPKICJCBBIF.BLDAHLLFOHI ILCCJNPMJMK; = 6;
+}

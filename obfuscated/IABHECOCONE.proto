@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CGJEFNPEPCF.proto";
+
+message IABHECOCONE {
+	CGJEFNPEPCF GNLDDLIKJDN; = 2;
+	uint32 APPJCEKCOBP; = 4;
+}

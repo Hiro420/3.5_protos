@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LIEADIEKNIB.proto";
+
+message MOIHGLFJHHP {
+	uint32 LLOBHFKCOJA; = 2;
+	bool DBIKCJCJHFI; = 3;
+	map<uint32, LIEADIEKNIB> BNEDMJBNGDD; = 6;
+	uint32 CMGBPGBEMBH; = 9;
+}

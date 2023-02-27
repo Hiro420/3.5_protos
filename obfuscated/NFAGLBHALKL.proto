@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NFAGLBHALKL.PDLEBFGKPLM.DMECJPCEPNH.proto";
+
+message NFAGLBHALKL {
+	uint32 GKHJKEGICOO; = 2;
+	NFAGLBHALKL.PDLEBFGKPLM.DMECJPCEPNH JKDNHDLNHMJ; = 4;
+	uint32 EMAKJPHNHDI; = 5;
+	uint32 BNGHDMNKMNB; = 11;
+}

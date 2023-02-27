@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JNCBMFIIBGA.proto";
+
+message PPCEKDHPNCC {
+	bool HLBNKGLEMFC; = 10;
+	repeated JNCBMFIIBGA JIMPICDBNLP; = 9;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JPEDGKIPECE.proto";
+
+message ILBKGJILLKB {
+	repeated JPEDGKIPECE HIAOLPIDBMK; = 2;
+	repeated JPEDGKIPECE BKMDNJJEABK; = 6;
+}

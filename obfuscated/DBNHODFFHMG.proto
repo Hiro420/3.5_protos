@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DBFMECFKJMM.proto";
+
+message DBNHODFFHMG {
+	map<uint32, DBFMECFKJMM> HHHJLJBINIH; = 4;
+}

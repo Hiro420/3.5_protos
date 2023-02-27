@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IABHECOCONE.proto";
+
+message ADCMDDJPBNL {
+	uint32 IGHODAEJNCH; = 5;
+	int32 IJIABMFLJGH; = 2;
+	repeated IABHECOCONE OOGPFPJAGLC; = 12;
+	uint32 MPOIBMDNGGL; = 4;
+}

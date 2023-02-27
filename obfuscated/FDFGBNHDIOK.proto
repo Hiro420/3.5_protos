@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FNABEPABCNG.proto";
+
+message FDFGBNHDIOK {
+	repeated FNABEPABCNG BFCBJGLNCGH; = 7;
+	int32 IJIABMFLJGH; = 2;
+}

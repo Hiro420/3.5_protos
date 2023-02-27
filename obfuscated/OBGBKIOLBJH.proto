@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HHHKDLMDEFF.proto";
+
+message OBGBKIOLBJH {
+	uint32 LNMKEBIADJJ; = 4;
+	repeated HHHKDLMDEFF AGKBMMIAKGP; = 3;
+	uint32 NLJFOOHENPC; = 2;
+	map<uint32, uint32> EPKMNPHDDID; = 14;
+}

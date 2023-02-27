@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GIELCMCDBEP.proto";
+
+message EAMOBGECJML {
+	bool CNGIKGKODHP; = 9;
+	int32 IJIABMFLJGH; = 5;
+	GIELCMCDBEP OAIHEGADPEO; = 2;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message ALPPJOBNODK {
+	int32 IJIABMFLJGH; = 15;
+	uint32 AAEBBDIDMAO; = 7;
+}

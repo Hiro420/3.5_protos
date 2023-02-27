@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+
+message GPDPAAPFOML {
+	DALMLFNANKL KLBCIKGCPEK; = 12;
+	uint32 DKMJKLJKDFK; = 15;
+}

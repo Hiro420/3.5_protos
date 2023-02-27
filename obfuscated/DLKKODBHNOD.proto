@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OCIIEKFBAEC.proto";
+
+message DLKKODBHNOD {
+	uint32 OPBEDPAPGBC; = 7;
+	OCIIEKFBAEC GNLDDLIKJDN; = 15;
+}

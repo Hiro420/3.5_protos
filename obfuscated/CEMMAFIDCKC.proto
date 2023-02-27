@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FGMHOBKFKJK.proto";
+
+message CEMMAFIDCKC {
+	uint32 HGNNFDONPCJ; = 12;
+	map<uint32, FGMHOBKFKJK> BNEDMJBNGDD; = 10;
+}

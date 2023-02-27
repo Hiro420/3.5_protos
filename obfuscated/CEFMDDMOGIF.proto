@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IHFHAKKFMHG.proto";
+import "HDKIFBIDOBJ.proto";
+
+message CEFMDDMOGIF {
+	HDKIFBIDOBJ OMAEJNOGAIB; = 2;
+	IHFHAKKFMHG CBOLHDNGDGC; = 13;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LHCNFJEHPLP.proto";
+import "FPBAKHENGML.proto";
+
+message CAPCHPIFEGL {
+	FPBAKHENGML BAJHMIBJPMG; = 7;
+	LHCNFJEHPLP KNEGMCGKFAL; = 13;
+}

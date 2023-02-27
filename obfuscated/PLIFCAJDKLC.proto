@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PLIFCAJDKLC.KJKAMOAGAPI.ENNAKEKMLFM.proto";
+
+message PLIFCAJDKLC {
+	uint32 BNPJJOACINH; = 5;
+	uint32 OHPEFFGHJJJ; = 12;
+	repeated uint32 GCJHELOJIME; = 13;
+	repeated PLIFCAJDKLC.KJKAMOAGAPI.ENNAKEKMLFM HJIKLDJEBOJ; = 15;
+}

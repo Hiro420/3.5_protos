@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DFNGPIGNBJJ.proto";
+import "FEPJMFICDGB.proto";
+
+message BAGAKCIOLPE {
+	FEPJMFICDGB GIPBJFBBEFI; = 9;
+	uint32 NGIGADJPGOB; = 3;
+	DFNGPIGNBJJ KDGDLKGKCDI; = 2;
+}

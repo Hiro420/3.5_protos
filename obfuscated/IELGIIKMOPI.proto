@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IKCAPLALLPO.proto";
+
+message IELGIIKMOPI {
+	uint32 BPAJGOBHAPL; = 14;
+	IKCAPLALLPO ABCACACAHNG; = 7;
+	uint32 JGAHPOJJDHJ; = 6;
+}

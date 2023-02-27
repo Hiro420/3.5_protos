@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message FDHMBLAHCMP {
+	repeated uint32 AAANFMDKBDB; = 10;
+	uint32 AIJOKLEENGC; = 9;
+}

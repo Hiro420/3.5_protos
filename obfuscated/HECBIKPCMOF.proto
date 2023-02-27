@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IEMOLLDEMBH.proto";
+
+message HECBIKPCMOF {
+	IEMOLLDEMBH NKHNPCLCADD; = 12;
+	uint32 BMMNFGPOIAM; = 13;
+}

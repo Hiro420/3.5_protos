@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MEMEFOMDNGE.LICOHJHLBNA.DAKKMFPGCFN.proto";
+
+message MEMEFOMDNGE {
+	uint32 GKHJKEGICOO; = 1;
+	string NFGBBEGMFNN; = 2;
+	MEMEFOMDNGE.LICOHJHLBNA.DAKKMFPGCFN IJIABMFLJGH; = 3;
+}

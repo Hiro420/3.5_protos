@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EIPLHBCKIIO.proto";
+
+message BKCOKLBOIIF {
+	EIPLHBCKIIO IDECOBGKNGL; = 9;
+}

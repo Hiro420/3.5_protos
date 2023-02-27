@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message ADCMNGICACP {
+	uint32 JEEFNCHAJOJ; = 2;
+	uint32 MODGFBJMMHC; = 11;
+	int32 IJIABMFLJGH; = 4;
+	uint32 NJAEFGBAJLN; = 9;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PDHELJKJFKI.LODKMHMDEMN.proto";
+import "object.proto";
+
+message PDHELJKJFKI {
+	uint32 ODLPNAIPIFJ; = 7;
+	object NGKAEIMKBBL; = 13;
+	PDHELJKJFKI.LODKMHMDEMN BMIEBOMGFJM; = 1;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OCBHBGFOOHK.proto";
+import "DBFMECFKJMM.proto";
+
+message FCMCKBMKEJG {
+	repeated DBFMECFKJMM CPFOAILGCPC; = 8;
+	OCBHBGFOOHK OFKDKGCPOGA; = 9;
+}

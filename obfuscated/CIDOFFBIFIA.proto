@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CIDOFFBIFIA.NEFJFCBJPCI.proto";
+import "object.proto";
+
+message CIDOFFBIFIA {
+	uint32 IAIEOLAOPAB; = 14;
+	uint32 IKJFGCLFNNA; = 3;
+	object NGKAEIMKBBL; = 12;
+	CIDOFFBIFIA.NEFJFCBJPCI BMIEBOMGFJM; = 7;
+}

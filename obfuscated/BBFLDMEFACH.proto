@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message BBFLDMEFACH {
+	uint32 LACANDOGIBF; = 1;
+	uint32 OFBMGFHIPAD; = 2;
+}

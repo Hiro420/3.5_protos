@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KDDEEFOPBJB.proto";
+
+message DNADNPFNICC {
+	repeated KDDEEFOPBJB IEPCNOEABPI; = 4;
+}

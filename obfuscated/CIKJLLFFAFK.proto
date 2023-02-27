@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EDLDMPIMDAB.proto";
+import "NMCLDDEHHKM.proto";
+
+message CIKJLLFFAFK {
+	uint32 DOGKMJOKNJA; = 7;
+	uint32 MBNDPCHNFLH; = 12;
+	uint32 KCMEPPIKHLM; = 10;
+	repeated NMCLDDEHHKM KKFDHAJCGFG; = 4;
+	repeated EDLDMPIMDAB PICLHLALNBE; = 2;
+	bool ILOILKOCMBN; = 6;
+}

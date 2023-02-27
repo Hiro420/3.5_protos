@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FCFKAAGEDPK.PDBAOGIMDHE.proto";
+import "object.proto";
+import "FCFKAAGEDPK.IAFNJJOJKMK.HIKGMNEMNOH.proto";
+
+message FCFKAAGEDPK {
+	FCFKAAGEDPK.IAFNJJOJKMK.HIKGMNEMNOH FGJGLNCBBGD; = 1;
+	uint32 MKIACGFABPG; = 12;
+	object ICFIJIEKEEJ; = 14;
+	FCFKAAGEDPK.PDBAOGIMDHE HKLBLAAGPKM; = 2;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KBLDACDEINJ.proto";
+
+message LFJEGCDDKCK {
+	uint32 PDFLEGGDOCP; = 7;
+	repeated KBLDACDEINJ KENBKHFDPOO; = 11;
+}

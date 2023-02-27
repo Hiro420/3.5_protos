@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CAHLCAONMAP.proto";
+import "OBGBKIOLBJH.proto";
+import "DKDAOPDHNED.proto";
+
+message NFDBAJIDFBG {
+	map<uint32, uint32> AGFHGGPEMBA; = 6;
+	DKDAOPDHNED PPNFNIDIKKH; = 2;
+	uint32 JBAMLMIOLJE; = 11;
+	uint32 FOBOPHJADNC; = 3;
+	int32 IJIABMFLJGH; = 9;
+	uint32 BDJPFEBKAIE; = 15;
+	bool AGLCKFFDFFI; = 14;
+	uint32 LNCENIMNMDL; = 12;
+	uint32 DDLACNABNPO; = 13;
+	map<uint32, uint32> CPBMDIMBANN; = 10;
+	repeated OBGBKIOLBJH KHKFLJIIIJP; = 1;
+	bool CEMONICLBEK; = 4;
+	uint32 OEMELLCEGBJ; = 7;
+	uint32 KBGPNFBPENC; = 1758;
+	DKDAOPDHNED CAGIDOEJFOL; = 622;
+	uint32 MMMFLBCKNKE; = 8;
+	CAHLCAONMAP KJFJLANLGKE; = 5;
+}

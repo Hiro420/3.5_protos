@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message CHJAKCHLIED {
+	repeated uint32 ONGOJAJMINM; = 2;
+	repeated uint32 JNEPBDBALEG; = 10;
+}

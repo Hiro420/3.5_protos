@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message PMPECEFOAEL {
+	uint32 LAMKPGOOMKN; = 12;
+	uint32 AHEFDMPHAAK; = 11;
+	repeated uint32 BIGKKHKAGNF; = 15;
+	uint32 KIBAJLBGNCK; = 4;
+}

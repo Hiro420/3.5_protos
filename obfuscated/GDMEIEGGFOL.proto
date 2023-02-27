@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GDMEIEGGFOL.KCEBLBFCIOC.MOCICMDGAAH.proto";
+
+message GDMEIEGGFOL {
+	GDMEIEGGFOL.KCEBLBFCIOC.MOCICMDGAAH GNLDDLIKJDN; = 4;
+}

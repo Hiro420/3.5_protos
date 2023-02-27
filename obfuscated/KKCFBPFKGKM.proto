@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KGMFLOMCIPP.proto";
+
+message KKCFBPFKGKM {
+	repeated KGMFLOMCIPP NPAFFOADNCP; = 12;
+}

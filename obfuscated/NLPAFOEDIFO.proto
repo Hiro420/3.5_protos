@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MBPAKAMJPFM.proto";
+
+message NLPAFOEDIFO {
+	map<uint32, uint32> LFOMGHBMGKA; = 8;
+	uint32 MODGFBJMMHC; = 2;
+	uint32 JEEFNCHAJOJ; = 6;
+	uint32 CBBBPNMKCIH; = 15;
+	repeated MBPAKAMJPFM DAGINEBHJBN; = 9;
+	uint64 GDJNONMGFJI; = 7;
+}

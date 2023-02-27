@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message DALFKONOPGL {
+	uint64 POGHDEAENAD; = 9;
+	uint32 MHCGANALPFE; = 10;
+}

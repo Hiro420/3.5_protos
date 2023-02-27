@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FEPJMFICDGB.proto";
+import "LLNEHDDNECO.LFBGJLPDGJC.GPKBCIHEKAE.proto";
+
+message LLNEHDDNECO {
+	LLNEHDDNECO.LFBGJLPDGJC.GPKBCIHEKAE GNLDDLIKJDN; = 13;
+	uint32 AAEBBDIDMAO; = 15;
+	FEPJMFICDGB GIPBJFBBEFI; = 10;
+}

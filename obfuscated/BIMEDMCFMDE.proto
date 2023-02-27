@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ENOCIMKMJJG.proto";
+
+message BIMEDMCFMDE {
+	repeated ENOCIMKMJJG CANCLEDDKEP; = 12;
+	repeated uint32 CEOAHLEFDBB; = 15;
+	uint32 HFKNDLGIPML; = 2;
+	int32 IJIABMFLJGH; = 11;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LDHOOCGFIIP.proto";
+
+message BLBNIBCKAHE {
+	map<uint32, LDHOOCGFIIP> AFCIDAJPGAA; = 14;
+	uint32 FOPEHAIOFEG; = 9;
+}

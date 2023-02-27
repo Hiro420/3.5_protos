@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OLACJIOMDIO.proto";
+import "GHECOJHFPKA.proto";
+
+message EGCBDDHMNGD {
+	repeated GHECOJHFPKA CJGKKNPKDDK; = 7;
+	repeated OLACJIOMDIO CCFPBHDNKCF; = 15;
+	uint32 KFEMBAPKMFH; = 12;
+}
