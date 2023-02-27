@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "MPJJDJEINNM.proto";
 
 message PDHJBMOMMGJ {
-	map<uint32, MPJJDJEINNM> CKAGIIBGCAG; = 11;
+	map<uint32, MPJJDJEINNM> CKAGIIBGCAG = 11;
 }

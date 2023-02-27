@@ -3,10 +3,10 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FBHPFOJEMEK {
-	bool HOMPLOJNGBP; = 2;
-	uint32 OOPPEDAOHGN; = 9;
-	int32 OMGEOKJKDGK; = 12;
-	uint32 JCGDEEEEPFD; = 14;
-	uint32 IKKCCMNJGKE; = 7;
-	uint32 CGNANPAOOEF; = 13;
+	bool HOMPLOJNGBP = 2;
+	uint32 OOPPEDAOHGN = 9;
+	int32 OMGEOKJKDGK = 12;
+	uint32 JCGDEEEEPFD = 14;
+	uint32 IKKCCMNJGKE = 7;
+	uint32 CGNANPAOOEF = 13;
 }

@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "KFALPHIPJOK.proto";
 
 message AIEDGAEMDHN {
-	KFALPHIPJOK KAOBAJAEIPN; = 7;
+	KFALPHIPJOK KAOBAJAEIPN = 7;
 }

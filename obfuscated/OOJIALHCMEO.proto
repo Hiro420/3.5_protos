@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "PGKMKCDIPCM.proto";
 
 message OOJIALHCMEO {
-	uint32 GCBFDDKPKNI; = 15;
-	repeated PGKMKCDIPCM OBDHKPDJNGE; = 12;
+	uint32 GCBFDDKPKNI = 15;
+	repeated PGKMKCDIPCM OBDHKPDJNGE = 12;
 }

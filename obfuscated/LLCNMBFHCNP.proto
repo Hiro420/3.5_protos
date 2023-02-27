@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "KFALPHIPJOK.proto";
 
 message LLCNMBFHCNP {
-	uint32 ELNNIELNMBO; = 7;
-	KFALPHIPJOK KAOBAJAEIPN; = 4;
+	uint32 ELNNIELNMBO = 7;
+	KFALPHIPJOK KAOBAJAEIPN = 4;
 }

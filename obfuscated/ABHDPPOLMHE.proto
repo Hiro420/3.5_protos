@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ABHDPPOLMHE {
-	repeated uint64 CLJCCHPHHLO; = 11;
+	repeated uint64 CLJCCHPHHLO = 11;
 }

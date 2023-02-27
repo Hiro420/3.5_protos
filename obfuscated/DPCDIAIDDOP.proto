@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DPCDIAIDDOP {
-	uint32 BEJDBNONODA; = 6;
-	bool LPGAJJALBDN; = 11;
-	uint32 MPGJJEALABF; = 1;
-	bool DJKOKFDGKIG; = 4;
+	uint32 BEJDBNONODA = 6;
+	bool LPGAJJALBDN = 11;
+	uint32 MPGJJEALABF = 1;
+	bool DJKOKFDGKIG = 4;
 }

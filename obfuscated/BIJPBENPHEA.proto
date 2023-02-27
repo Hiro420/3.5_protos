@@ -3,12 +3,12 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BIJPBENPHEA {
-	bool MFPGHFOFAFP; = 8;
-	uint32 JEEFNCHAJOJ; = 14;
-	uint32 MANKLDHPGMA; = 2;
-	uint32 DBCEEODIKCO; = 3;
-	bool DBIKCJCJHFI; = 6;
-	uint32 BMPBBANDEPM; = 5;
-	uint32 JMECAMPDNEE; = 9;
-	uint32 CNHCBFLHDDD; = 4;
+	bool MFPGHFOFAFP = 8;
+	uint32 JEEFNCHAJOJ = 14;
+	uint32 MANKLDHPGMA = 2;
+	uint32 DBCEEODIKCO = 3;
+	bool DBIKCJCJHFI = 6;
+	uint32 BMPBBANDEPM = 5;
+	uint32 JMECAMPDNEE = 9;
+	uint32 CNHCBFLHDDD = 4;
 }

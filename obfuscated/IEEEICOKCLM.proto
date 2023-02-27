@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "IGKGJNCLPBA.proto";
 
 message IEEEICOKCLM {
-	repeated IGKGJNCLPBA HADEOBCEINJ; = 4;
+	repeated IGKGJNCLPBA HADEOBCEINJ = 4;
 }

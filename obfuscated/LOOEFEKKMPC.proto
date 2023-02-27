@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "HPAIEMHJBDF.proto";
 
 message LOOEFEKKMPC {
-	HPAIEMHJBDF ICCBBCMELLL; = 5;
+	HPAIEMHJBDF ICCBBCMELLL = 5;
 }

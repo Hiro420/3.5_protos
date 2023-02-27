@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "GFEKIPGEAEH.proto";
 
 message HIHMHAENBGE {
-	repeated GFEKIPGEAEH HNAKLOOFNEO; = 12;
+	repeated GFEKIPGEAEH HNAKLOOFNEO = 12;
 }

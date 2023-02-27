@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "FEGCMMBGONJ.proto";
 
 message PPPFLECLGOC {
-	FEGCMMBGONJ GJDMBBAMIDJ; = 15;
+	FEGCMMBGONJ GJDMBBAMIDJ = 15;
 }

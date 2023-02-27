@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CKMGNHJBJBA {
-	repeated uint32 MBCLIENIEAH; = 6;
+	repeated uint32 MBCLIENIEAH = 6;
 }

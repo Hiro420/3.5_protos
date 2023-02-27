@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "EDCGEBDOJLH.proto";
 
 message NICOCIKJHBL {
-	bool DJKOKFDGKIG; = 11;
-	repeated uint32 MKJAOBCOLCE; = 8;
-	repeated EDCGEBDOJLH PDFHOAILMJO; = 10;
-	uint32 BEJDBNONODA; = 6;
-	repeated uint32 EIDOKJLFBIM; = 1;
+	bool DJKOKFDGKIG = 11;
+	repeated uint32 MKJAOBCOLCE = 8;
+	repeated EDCGEBDOJLH PDFHOAILMJO = 10;
+	uint32 BEJDBNONODA = 6;
+	repeated uint32 EIDOKJLFBIM = 1;
 }

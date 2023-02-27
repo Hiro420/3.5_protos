@@ -3,10 +3,10 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KPDGACKMNJA {
-	float ANHONECBNHL; = 14;
-	float DAAPMEHLGAJ; = 7;
-	uint32 ICIIKIJFHLA; = 10;
-	float AALOLFOGPFE; = 4;
-	float MIJCAIJNAOL; = 2;
-	uint32 CPGBNKDCPFK; = 3;
+	float ANHONECBNHL = 14;
+	float DAAPMEHLGAJ = 7;
+	uint32 ICIIKIJFHLA = 10;
+	float AALOLFOGPFE = 4;
+	float MIJCAIJNAOL = 2;
+	uint32 CPGBNKDCPFK = 3;
 }

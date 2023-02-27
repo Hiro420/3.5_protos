@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "GIELCMCDBEP.proto";
 
 message DNFALBNOKOJ {
-	GIELCMCDBEP OAIHEGADPEO; = 8;
+	GIELCMCDBEP OAIHEGADPEO = 8;
 }

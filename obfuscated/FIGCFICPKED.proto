@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "PMKCNFHPECF.proto";
 
 message FIGCFICPKED {
-	uint32 EGABCOAEGAN; = 15;
-	PMKCNFHPECF GNLDDLIKJDN; = 3;
+	uint32 EGABCOAEGAN = 15;
+	PMKCNFHPECF GNLDDLIKJDN = 3;
 }

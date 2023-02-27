@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KBFIFLBFIII {
-	map<uint32, uint64> OBOMGMKOPIN; = 3;
+	map<uint32, uint64> OBOMGMKOPIN = 3;
 }

@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IMCCMLOGCKM {
-	uint32 DLHIIMCIPGD; = 4;
+	uint32 DLHIIMCIPGD = 4;
 }

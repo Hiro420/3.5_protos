@@ -5,16 +5,16 @@ option java_package = "emu.grasscutter.net.proto";
 import "PAHEIEEOIED.proto";
 
 message JFGOFCIOKNH {
-	float EHKKCHJDPIH; = 8;
-	map<uint32, uint32> CPHMIFLOIJK; = 6;
-	uint32 BDDFIKLIPNK; = 1;
-	float KOEADDCNFJJ; = 2;
-	uint32 BDBOHOPEPKN; = 5;
-	uint32 MKOMLPGFEJG; = 14;
-	float KNEEAMHBKFC; = 13;
-	uint32 PDFLEGGDOCP; = 15;
-	uint32 JHJOFIANKED; = 3;
-	float IADJEOHJJJJ; = 10;
-	uint32 HMLIIKLLEJD; = 7;
-	repeated PAHEIEEOIED MMDADLPOIKD; = 11;
+	float EHKKCHJDPIH = 8;
+	map<uint32, uint32> CPHMIFLOIJK = 6;
+	uint32 BDDFIKLIPNK = 1;
+	float KOEADDCNFJJ = 2;
+	uint32 BDBOHOPEPKN = 5;
+	uint32 MKOMLPGFEJG = 14;
+	float KNEEAMHBKFC = 13;
+	uint32 PDFLEGGDOCP = 15;
+	uint32 JHJOFIANKED = 3;
+	float IADJEOHJJJJ = 10;
+	uint32 HMLIIKLLEJD = 7;
+	repeated PAHEIEEOIED MMDADLPOIKD = 11;
 }

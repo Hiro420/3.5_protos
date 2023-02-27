@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DPPHDAIPLBC {
-	string BHKGFPONKMP; = 1;
-	uint32 JAOBPKMBOKD; = 8;
+	string BHKGFPONKMP = 1;
+	uint32 JAOBPKMBOKD = 8;
 }

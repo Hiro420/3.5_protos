@@ -3,11 +3,11 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KAGPDLCBOHD {
-	uint32 NGCLEIEIBBL; = 1;
-	uint32 NCCDAMEHAMM; = 2;
-	uint32 BAHKGNDNPPC; = 3;
-	uint32 PCIOLIEFLNN; = 5;
-	uint32 FEBGPCJDBLI; = 6;
-	uint32 BJPGFIAFGDB; = 7;
-	uint32 AICAINIIKGN; = 8;
+	uint32 NGCLEIEIBBL = 1;
+	uint32 NCCDAMEHAMM = 2;
+	uint32 BAHKGNDNPPC = 3;
+	uint32 PCIOLIEFLNN = 5;
+	uint32 FEBGPCJDBLI = 6;
+	uint32 BJPGFIAFGDB = 7;
+	uint32 AICAINIIKGN = 8;
 }

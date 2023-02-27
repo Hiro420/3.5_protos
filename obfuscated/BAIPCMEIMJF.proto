@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "JJOLFAPBPNN.proto";
 
 message BAIPCMEIMJF {
-	JJOLFAPBPNN FKHCMPFAAHJ; = 4;
+	JJOLFAPBPNN FKHCMPFAAHJ = 4;
 }

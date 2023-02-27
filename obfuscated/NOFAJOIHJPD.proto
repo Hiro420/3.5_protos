@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message NOFAJOIHJPD {
-	uint32 DIJEPGCODAD; = 15;
-	uint32 JAOBPKMBOKD; = 2;
+	uint32 DIJEPGCODAD = 15;
+	uint32 JAOBPKMBOKD = 2;
 }

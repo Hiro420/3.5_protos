@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "MOOPCKFOLNC.proto";
 
 message MACMCNLAMHB {
-	bool NGBIOJHDFNG; = 9;
-	repeated MOOPCKFOLNC PDFHOAILMJO; = 15;
-	uint32 MKPAIADLFCJ; = 2;
-	map<uint32, uint32> IEMLNFLLGNP; = 6;
+	bool NGBIOJHDFNG = 9;
+	repeated MOOPCKFOLNC PDFHOAILMJO = 15;
+	uint32 MKPAIADLFCJ = 2;
+	map<uint32, uint32> IEMLNFLLGNP = 6;
 }

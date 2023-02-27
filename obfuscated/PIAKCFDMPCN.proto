@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "FEPJMFICDGB.proto";
 
 message PIAKCFDMPCN {
-	uint32 HIBOBLMJJIA; = 11;
-	int32 IJIABMFLJGH; = 12;
-	FEPJMFICDGB GIPBJFBBEFI; = 15;
-	bool ADNBNHMDIDH; = 2;
+	uint32 HIBOBLMJJIA = 11;
+	int32 IJIABMFLJGH = 12;
+	FEPJMFICDGB GIPBJFBBEFI = 15;
+	bool ADNBNHMDIDH = 2;
 }

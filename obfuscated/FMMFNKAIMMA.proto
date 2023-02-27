@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FMMFNKAIMMA {
-	uint32 IADILDFOPIE; = 8;
-	uint32 NJAEFGBAJLN; = 9;
+	uint32 IADILDFOPIE = 8;
+	uint32 NJAEFGBAJLN = 9;
 }

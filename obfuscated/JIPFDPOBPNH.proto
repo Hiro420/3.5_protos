@@ -5,12 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "ILGNCKHBGFO.proto";
 
 message JIPFDPOBPNH {
-	ILGNCKHBGFO GBGBILFNEFB; = 11;
-	map<uint32, uint32> JDEEEKDGPHK; = 3;
-	uint32 APPJCEKCOBP; = 8;
-	uint32 IAIEOLAOPAB; = 1;
-	string BHKGFPONKMP; = 9;
-	string MCBJBNBKLOC; = 7;
-	repeated uint32 KIOODOPEPAK; = 2;
-	string IDKNIFNMLNB; = 14;
+	ILGNCKHBGFO GBGBILFNEFB = 11;
+	map<uint32, uint32> JDEEEKDGPHK = 3;
+	uint32 APPJCEKCOBP = 8;
+	uint32 IAIEOLAOPAB = 1;
+	string BHKGFPONKMP = 9;
+	string MCBJBNBKLOC = 7;
+	repeated uint32 KIOODOPEPAK = 2;
+	string IDKNIFNMLNB = 14;
 }

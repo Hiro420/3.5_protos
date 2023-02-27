@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "AIFFCHGENAF.proto";
 
 message EIFBDKLAMCG {
-	uint32 DFNMDECBDAF; = 11;
-	repeated AIFFCHGENAF DEKCFKPIBGG; = 10;
-	bool DJKOKFDGKIG; = 12;
-	uint32 PLMDDEEEAAB; = 13;
+	uint32 DFNMDECBDAF = 11;
+	repeated AIFFCHGENAF DEKCFKPIBGG = 10;
+	bool DJKOKFDGKIG = 12;
+	uint32 PLMDDEEEAAB = 13;
 }

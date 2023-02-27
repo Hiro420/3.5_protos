@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KNBJIEBJOML {
-	uint32 NAEGOGKCCIB; = 5;
+	uint32 NAEGOGKCCIB = 5;
 }

@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KLEIGLIJJAK {
-	uint32 NFOPOKGDODK; = 11;
-	uint32 PDFLEGGDOCP; = 14;
-	uint32 KCMEPPIKHLM; = 8;
+	uint32 NFOPOKGDODK = 11;
+	uint32 PDFLEGGDOCP = 14;
+	uint32 KCMEPPIKHLM = 8;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "NICDJJJMPJJ.proto";
 
 message ODOAFPFGDPA {
-	NICDJJJMPJJ CDINIDINICE; = 11;
-	uint32 DCOFMENLNEE; = 5;
+	NICDJJJMPJJ CDINIDINICE = 11;
+	uint32 DCOFMENLNEE = 5;
 }

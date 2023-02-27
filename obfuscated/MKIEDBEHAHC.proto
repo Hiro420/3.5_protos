@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "GIKPGAHPHOM.proto";
 
 message MKIEDBEHAHC {
-	GIKPGAHPHOM HCMPEPODKPP; = 10;
-	uint32 MFPNLAFBOIB; = 15;
-	uint32 GKHJKEGICOO; = 5;
+	GIKPGAHPHOM HCMPEPODKPP = 10;
+	uint32 MFPNLAFBOIB = 15;
+	uint32 GKHJKEGICOO = 5;
 }

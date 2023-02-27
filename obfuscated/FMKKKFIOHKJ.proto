@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "DFMOCHLPHCF.proto";
 
 message FMKKKFIOHKJ {
-	map<uint32, DFMOCHLPHCF> AJDFGNMIKOC; = 2;
+	map<uint32, DFMOCHLPHCF> AJDFGNMIKOC = 2;
 }

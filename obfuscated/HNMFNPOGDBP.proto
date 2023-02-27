@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HNMFNPOGDBP {
-	uint32 BEJDBNONODA; = 11;
-	repeated uint32 CCLAGIJFOJP; = 7;
+	uint32 BEJDBNONODA = 11;
+	repeated uint32 CCLAGIJFOJP = 7;
 }

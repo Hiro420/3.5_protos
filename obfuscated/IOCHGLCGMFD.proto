@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "MFONNPHDELM.proto";
 
 message IOCHGLCGMFD {
-	int32 IJIABMFLJGH; = 6;
-	MFONNPHDELM JANCKEGCJLN; = 1;
+	int32 IJIABMFLJGH = 6;
+	MFONNPHDELM JANCKEGCJLN = 1;
 }

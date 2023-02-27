@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message INNAMCEODEG {
-	uint32 AKIOEMNHADK; = 9;
-	repeated uint32 DEKKPNNHJAF; = 5;
-	uint32 MGGIEMKADBL; = 1;
+	uint32 AKIOEMNHADK = 9;
+	repeated uint32 DEKKPNNHJAF = 5;
+	uint32 MGGIEMKADBL = 1;
 }

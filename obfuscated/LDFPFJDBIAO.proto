@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "JLFDNMKMFHD.proto";
 
 message LDFPFJDBIAO {
-	uint32 AIJOKLEENGC; = 15;
-	uint32 BEJDBNONODA; = 12;
-	uint32 KJBEOAEPLGD; = 7;
-	uint32 FIHDKPEIDMH; = 9;
-	repeated JLFDNMKMFHD NPAFFOADNCP; = 11;
+	uint32 AIJOKLEENGC = 15;
+	uint32 BEJDBNONODA = 12;
+	uint32 KJBEOAEPLGD = 7;
+	uint32 FIHDKPEIDMH = 9;
+	repeated JLFDNMKMFHD NPAFFOADNCP = 11;
 }

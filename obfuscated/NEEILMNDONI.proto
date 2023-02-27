@@ -6,20 +6,20 @@ import "KEKIOJDBHEP.proto";
 import "NGFKBELCGDK.proto";
 
 message NEEILMNDONI {
-	uint32 MFOOBHFPJPP; = 9;
-	uint32 GAHCPIALHNE; = 2;
-	uint32 BEJDBNONODA; = 15;
-	bool IGDOHLEBOJK; = 201;
-	map<uint32, NGFKBELCGDK> PPAGNIKDDKH; = 7;
-	repeated uint32 CBDHMNEBDNK; = 10;
-	uint32 LDMIJFCOGFM; = 13;
-	bool AHKAMEADHOK; = 6;
-	repeated KEKIOJDBHEP MNJANPNMFMH; = 11;
-	uint32 OEGEDJPNJAD; = 4;
-	uint32 BBEJEEENLPN; = 14;
-	uint32 GNIJCIBOGHJ; = 275;
-	repeated uint64 FDMHLNFONME; = 12;
-	float LMOGLGIGFBD; = 8;
-	uint32 OINMOMCHFPD; = 1502;
-	repeated uint64 MIKINHHKFOD; = 5;
+	uint32 MFOOBHFPJPP = 9;
+	uint32 GAHCPIALHNE = 2;
+	uint32 BEJDBNONODA = 15;
+	bool IGDOHLEBOJK = 201;
+	map<uint32, NGFKBELCGDK> PPAGNIKDDKH = 7;
+	repeated uint32 CBDHMNEBDNK = 10;
+	uint32 LDMIJFCOGFM = 13;
+	bool AHKAMEADHOK = 6;
+	repeated KEKIOJDBHEP MNJANPNMFMH = 11;
+	uint32 OEGEDJPNJAD = 4;
+	uint32 BBEJEEENLPN = 14;
+	uint32 GNIJCIBOGHJ = 275;
+	repeated uint64 FDMHLNFONME = 12;
+	float LMOGLGIGFBD = 8;
+	uint32 OINMOMCHFPD = 1502;
+	repeated uint64 MIKINHHKFOD = 5;
 }

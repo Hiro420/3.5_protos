@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DLNOJLIAACE {
-	uint32 HBMBODJGAPM; = 3;
-	uint32 KFEMBAPKMFH; = 10;
+	uint32 HBMBODJGAPM = 3;
+	uint32 KFEMBAPKMFH = 10;
 }

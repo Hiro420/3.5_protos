@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LEAMJFGPJOI {
-	string GELLHNONAID; = 7;
-	string PKDOPMCNAME; = 15;
+	string GELLHNONAID = 7;
+	string PKDOPMCNAME = 15;
 }

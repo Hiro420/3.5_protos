@@ -6,8 +6,8 @@ import "MNNNCKCAGLP.proto";
 import "EIPLHBCKIIO.proto";
 
 message HEJPPOICOAC {
-	repeated uint32 JDKMEGKOJCC; = 5;
-	repeated EIPLHBCKIIO MPDOMABCBCD; = 9;
-	int32 IJIABMFLJGH; = 11;
-	repeated MNNNCKCAGLP NKLNNPIIBGJ; = 15;
+	repeated uint32 JDKMEGKOJCC = 5;
+	repeated EIPLHBCKIIO MPDOMABCBCD = 9;
+	int32 IJIABMFLJGH = 11;
+	repeated MNNNCKCAGLP NKLNNPIIBGJ = 15;
 }

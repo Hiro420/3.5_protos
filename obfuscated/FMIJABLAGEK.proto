@@ -3,14 +3,14 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FMIJABLAGEK {
-	uint32 FGMFEFJEFAF; = 1;
-	uint32 BJILMHHDMKH; = 11;
-	repeated uint32 AOPFPLDIJFD; = 5;
-	repeated uint32 PJHJBLOFLFO; = 9;
-	uint32 OJFBJDNMMHD; = 13;
-	repeated uint32 HMKCBKNOOCH; = 7;
-	uint32 BCKKMMHLNMD; = 4;
-	map<uint32, uint32> BCNLENEMFNB; = 15;
-	uint32 LLNHJOECDIE; = 8;
-	int32 IJIABMFLJGH; = 3;
+	uint32 FGMFEFJEFAF = 1;
+	uint32 BJILMHHDMKH = 11;
+	repeated uint32 AOPFPLDIJFD = 5;
+	repeated uint32 PJHJBLOFLFO = 9;
+	uint32 OJFBJDNMMHD = 13;
+	repeated uint32 HMKCBKNOOCH = 7;
+	uint32 BCKKMMHLNMD = 4;
+	map<uint32, uint32> BCNLENEMFNB = 15;
+	uint32 LLNHJOECDIE = 8;
+	int32 IJIABMFLJGH = 3;
 }

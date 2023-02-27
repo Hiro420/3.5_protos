@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message JMFCLNAIMFG {
-	uint32 CKENLBDFJEI; = 10;
-	uint32 NJAEFGBAJLN; = 12;
+	uint32 CKENLBDFJEI = 10;
+	uint32 NJAEFGBAJLN = 12;
 }

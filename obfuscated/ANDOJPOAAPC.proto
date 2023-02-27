@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ANDOJPOAAPC {
-	uint32 JGEEAPIIMMJ; = 8;
+	uint32 JGEEAPIIMMJ = 8;
 }

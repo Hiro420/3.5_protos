@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "OAEDPFAIDHB.proto";
 
 message OAGALFMPOHL {
-	OAEDPFAIDHB JBKCKILACEA; = 9;
+	OAEDPFAIDHB JBKCKILACEA = 9;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "HNDMELNBJGE.proto";
 
 message OEAKJGIILOL {
-	int32 IJIABMFLJGH; = 15;
-	HNDMELNBJGE KCOKFILPHJH; = 11;
+	int32 IJIABMFLJGH = 15;
+	HNDMELNBJGE KCOKFILPHJH = 11;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "MOCGOKGHGNG.proto";
 
 message PMAPPANGOHF {
-	MOCGOKGHGNG MHFBFPNJJDL; = 4;
-	uint64 DHJBPPJOKNK; = 8;
+	MOCGOKGHGNG MHFBFPNJJDL = 4;
+	uint64 DHJBPPJOKNK = 8;
 }

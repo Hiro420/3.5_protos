@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OFFFCKBFOLM {
-	uint32 NDNJIKDILGL; = 10;
+	uint32 NDNJIKDILGL = 10;
 }

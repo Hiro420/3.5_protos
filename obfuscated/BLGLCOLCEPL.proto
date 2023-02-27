@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "ENOCIMKMJJG.proto";
 
 message BLGLCOLCEPL {
-	repeated ENOCIMKMJJG CANCLEDDKEP; = 1;
-	uint32 HFKNDLGIPML; = 3;
+	repeated ENOCIMKMJJG CANCLEDDKEP = 1;
+	uint32 HFKNDLGIPML = 3;
 }

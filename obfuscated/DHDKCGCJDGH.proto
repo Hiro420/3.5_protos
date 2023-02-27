@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "GIKPGAHPHOM.proto";
 
 message DHDKCGCJDGH {
-	map<uint32, uint32> HBBFPEJKDAK; = 1;
-	GIKPGAHPHOM HCMPEPODKPP; = 10;
-	repeated uint32 HEHOPCLFPIA; = 12;
-	repeated bool AMDOMJOLEEH; = 3;
+	map<uint32, uint32> HBBFPEJKDAK = 1;
+	GIKPGAHPHOM HCMPEPODKPP = 10;
+	repeated uint32 HEHOPCLFPIA = 12;
+	repeated bool AMDOMJOLEEH = 3;
 }

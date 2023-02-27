@@ -5,16 +5,16 @@ option java_package = "emu.grasscutter.net.proto";
 import "OMGFECMPJFA.proto";
 
 message HOCCDCBAJCL {
-	repeated OMGFECMPJFA HDEHPNLKIIH; = 6;
-	uint32 AIJOKLEENGC; = 9;
-	OMGFECMPJFA MBONFGBPDJH; = 15;
-	uint32 GPCOAAHFNMF; = 10;
-	bool NBIMJAAICCH; = 14;
-	bool GGPKJBNOJCM; = 13;
-	uint32 DNBONPEAFDE; = 4;
-	uint32 DBHLMPIPFCP; = 7;
-	bool FOCILBPFAGH; = 5;
-	uint32 JAKOHJKKOCD; = 3;
-	bool NLDPABIHALC; = 2;
-	uint32 IDGCMPCADGO; = 8;
+	repeated OMGFECMPJFA HDEHPNLKIIH = 6;
+	uint32 AIJOKLEENGC = 9;
+	OMGFECMPJFA MBONFGBPDJH = 15;
+	uint32 GPCOAAHFNMF = 10;
+	bool NBIMJAAICCH = 14;
+	bool GGPKJBNOJCM = 13;
+	uint32 DNBONPEAFDE = 4;
+	uint32 DBHLMPIPFCP = 7;
+	bool FOCILBPFAGH = 5;
+	uint32 JAKOHJKKOCD = 3;
+	bool NLDPABIHALC = 2;
+	uint32 IDGCMPCADGO = 8;
 }

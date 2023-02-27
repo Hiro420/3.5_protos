@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 
 message HDGFHDJCOOI {
-	uint32 JDDEJFKJHJN; = 6;
-	DALMLFNANKL IBJAJJOOACP; = 15;
+	uint32 JDDEJFKJHJN = 6;
+	DALMLFNANKL IBJAJJOOACP = 15;
 }

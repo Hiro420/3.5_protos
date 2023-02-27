@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MCMFADHIHGG {
-	uint32 HBMBODJGAPM; = 15;
-	uint32 OEGEDJPNJAD; = 7;
+	uint32 HBMBODJGAPM = 15;
+	uint32 OEGEDJPNJAD = 7;
 }

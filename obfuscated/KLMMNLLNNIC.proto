@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KLMMNLLNNIC {
-	int32 IJIABMFLJGH; = 6;
-	uint32 AIJOKLEENGC; = 13;
+	int32 IJIABMFLJGH = 6;
+	uint32 AIJOKLEENGC = 13;
 }

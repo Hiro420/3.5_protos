@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "GIMHFKKKBMN.proto";
 
 message MBJEENGOMAN {
-	map<uint32, GIMHFKKKBMN> DMPNHOAEEMO; = 9;
+	map<uint32, GIMHFKKKBMN> DMPNHOAEEMO = 9;
 }

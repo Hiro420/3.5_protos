@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MIEONFEPDMB {
-	int32 IJIABMFLJGH; = 10;
-	uint32 JAPAIFMDMPD; = 3;
+	int32 IJIABMFLJGH = 10;
+	uint32 JAPAIFMDMPD = 3;
 }

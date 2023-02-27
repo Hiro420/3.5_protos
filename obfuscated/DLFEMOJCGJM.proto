@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DLFEMOJCGJM {
-	uint32 OMLIHDGEOGC; = 8;
-	uint64 BOPOMJIPJMI; = 11;
+	uint32 OMLIHDGEOGC = 8;
+	uint64 BOPOMJIPJMI = 11;
 }

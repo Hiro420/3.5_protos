@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "JKFLGCKKEBD.proto";
 
 message KPCJGFAFHBP {
-	map<uint32, JKFLGCKKEBD> PNHMBADIGDP; = 10;
-	uint32 PMBDCJDNKPK; = 1;
+	map<uint32, JKFLGCKKEBD> PNHMBADIGDP = 10;
+	uint32 PMBDCJDNKPK = 1;
 }

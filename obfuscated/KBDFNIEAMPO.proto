@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KBDFNIEAMPO {
-	map<uint32, uint32> GHBCFBCOHGA; = 1;
+	map<uint32, uint32> GHBCFBCOHGA = 1;
 }

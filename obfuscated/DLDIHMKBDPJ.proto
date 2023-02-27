@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "ANJOMJAFKNK.proto";
 
 message DLDIHMKBDPJ {
-	int32 IJIABMFLJGH; = 12;
-	map<uint64, ANJOMJAFKNK> CAIPAJKGJPM; = 5;
+	int32 IJIABMFLJGH = 12;
+	map<uint64, ANJOMJAFKNK> CAIPAJKGJPM = 5;
 }

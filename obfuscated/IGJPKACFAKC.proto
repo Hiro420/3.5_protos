@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "FEPJMFICDGB.proto";
 
 message IGJPKACFAKC {
-	bool ADNBNHMDIDH; = 7;
-	FEPJMFICDGB GIPBJFBBEFI; = 11;
+	bool ADNBNHMDIDH = 7;
+	FEPJMFICDGB GIPBJFBBEFI = 11;
 }

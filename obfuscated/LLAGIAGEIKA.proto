@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "HGOBDHKMDHO.proto";
 
 message LLAGIAGEIKA {
-	int32 IJIABMFLJGH; = 15;
-	bool HEIMCBDADCB; = 10;
-	repeated HGOBDHKMDHO CMFPMDOFCFE; = 11;
-	bool JILHCAEFGBJ; = 13;
+	int32 IJIABMFLJGH = 15;
+	bool HEIMCBDADCB = 10;
+	repeated HGOBDHKMDHO CMFPMDOFCFE = 11;
+	bool JILHCAEFGBJ = 13;
 }

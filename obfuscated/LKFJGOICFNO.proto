@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "GHBBGOLDLCL.proto";
 
 message LKFJGOICFNO {
-	repeated GHBBGOLDLCL HCPOCOAPGBE; = 13;
-	uint32 ODJPCGIMADI; = 8;
-	int32 IJIABMFLJGH; = 10;
+	repeated GHBBGOLDLCL HCPOCOAPGBE = 13;
+	uint32 ODJPCGIMADI = 8;
+	int32 IJIABMFLJGH = 10;
 }

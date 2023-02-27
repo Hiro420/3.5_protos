@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LCLIIAEAFNG {
-	bool ALEBIIEOCJP; = 5;
+	bool ALEBIIEOCJP = 5;
 }

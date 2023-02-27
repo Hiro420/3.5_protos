@@ -7,13 +7,13 @@ import "FBDKBKEHACB.proto";
 import "PONFDKGBPMB.proto";
 
 message HBOPCIGKJHO {
-	repeated PONFDKGBPMB CNADFMPIGBI; = 9;
-	repeated FBDKBKEHACB MHACHLFONFK; = 1;
-	repeated uint64 CMKKOGEFOLN; = 11;
-	uint32 KHJIGDIHAPM; = 14;
-	map<uint32, LBJMAKBIBJO> ANIEDMJHGCN; = 7;
-	repeated uint32 OMHPFKNLDPL; = 2;
-	uint64 PMBGFPFMJIP; = 6;
-	repeated uint32 MCIKJAELHEC; = 12;
-	repeated uint32 ABIKAHKONKL; = 10;
+	repeated PONFDKGBPMB CNADFMPIGBI = 9;
+	repeated FBDKBKEHACB MHACHLFONFK = 1;
+	repeated uint64 CMKKOGEFOLN = 11;
+	uint32 KHJIGDIHAPM = 14;
+	map<uint32, LBJMAKBIBJO> ANIEDMJHGCN = 7;
+	repeated uint32 OMHPFKNLDPL = 2;
+	uint64 PMBGFPFMJIP = 6;
+	repeated uint32 MCIKJAELHEC = 12;
+	repeated uint32 ABIKAHKONKL = 10;
 }

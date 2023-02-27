@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "PENJFODAGGI.proto";
 
 message EMAGMDBBEJB {
-	repeated PENJFODAGGI LOHKOCDLKBM; = 1;
-	repeated uint32 KCKCMMICALP; = 2;
-	uint32 IAIEOLAOPAB; = 13;
+	repeated PENJFODAGGI LOHKOCDLKBM = 1;
+	repeated uint32 KCKCMMICALP = 2;
+	uint32 IAIEOLAOPAB = 13;
 }

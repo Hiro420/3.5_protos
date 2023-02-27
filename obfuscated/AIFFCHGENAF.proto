@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 
 message AIFFCHGENAF {
-	uint32 CELMHNAODJL; = 9;
-	DALMLFNANKL AKANNIGGDKH; = 3;
+	uint32 CELMHNAODJL = 9;
+	DALMLFNANKL AKANNIGGDKH = 3;
 }

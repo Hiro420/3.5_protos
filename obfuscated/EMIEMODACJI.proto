@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "DEIIEJODMDG.proto";
 
 message EMIEMODACJI {
-	repeated DEIIEJODMDG NOMIMDOOFLA; = 9;
+	repeated DEIIEJODMDG NOMIMDOOFLA = 9;
 }

@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 
 message GBGELAPCNII {
-	DALMLFNANKL AKANNIGGDKH; = 1;
-	uint32 NDEGDDBLMKD; = 9;
-	DALMLFNANKL LABCKOJLEFP; = 6;
-	uint32 BKAMDGJLMIN; = 5;
-	uint32 KFEMBAPKMFH; = 15;
+	DALMLFNANKL AKANNIGGDKH = 1;
+	uint32 NDEGDDBLMKD = 9;
+	DALMLFNANKL LABCKOJLEFP = 6;
+	uint32 BKAMDGJLMIN = 5;
+	uint32 KFEMBAPKMFH = 15;
 }

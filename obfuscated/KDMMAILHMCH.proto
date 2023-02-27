@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "FDIGHNLIKGA.proto";
 
 message KDMMAILHMCH {
-	repeated FDIGHNLIKGA BFOPDMDEHFA; = 1;
+	repeated FDIGHNLIKGA BFOPDMDEHFA = 1;
 }

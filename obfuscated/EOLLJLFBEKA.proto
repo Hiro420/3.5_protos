@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "MCJFKEKAFGO.proto";
 
 message EOLLJLFBEKA {
-	uint32 DNDDJPAFBCE; = 8;
-	bool DBIKCJCJHFI; = 13;
-	uint32 FEOMIOKBKJA; = 1;
-	uint32 KDJHNHNLNPE; = 6;
-	MCJFKEKAFGO GNLDDLIKJDN; = 11;
+	uint32 DNDDJPAFBCE = 8;
+	bool DBIKCJCJHFI = 13;
+	uint32 FEOMIOKBKJA = 1;
+	uint32 KDJHNHNLNPE = 6;
+	MCJFKEKAFGO GNLDDLIKJDN = 11;
 }

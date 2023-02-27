@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IFJPGGKMMNA {
-	uint32 EDAHGJJHDNL; = 3;
-	uint32 IBBGGDNDKOD; = 6;
-	float ECDFPCBADHB; = 8;
+	uint32 EDAHGJJHDNL = 3;
+	uint32 IBBGGDNDKOD = 6;
+	float ECDFPCBADHB = 8;
 }

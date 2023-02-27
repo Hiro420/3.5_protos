@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "GGFJJJMBFNM.proto";
 
 message DOBLPKBHILE {
-	repeated GGFJJJMBFNM IBJKPINGLEK; = 4;
+	repeated GGFJJJMBFNM IBJKPINGLEK = 4;
 }

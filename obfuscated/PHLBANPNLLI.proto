@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "DFNGPIGNBJJ.proto";
 
 message PHLBANPNLLI {
-	DFNGPIGNBJJ KDGDLKGKCDI; = 11;
-	uint32 AHOJAOIHIEB; = 8;
+	DFNGPIGNBJJ KDGDLKGKCDI = 11;
+	uint32 AHOJAOIHIEB = 8;
 }

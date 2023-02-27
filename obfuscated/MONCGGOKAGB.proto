@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MONCGGOKAGB {
-	uint32 INDCALDDJKO; = 11;
+	uint32 INDCALDDJKO = 11;
 }

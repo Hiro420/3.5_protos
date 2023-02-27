@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "HLBPPPNGNJF.proto";
 
 message MPKLBHMHOIK {
-	repeated uint32 ICBEDBNHBHH; = 10;
-	map<uint32, uint32> CAGNKIMHDDF; = 13;
-	repeated HLBPPPNGNJF BMFCCNNELHP; = 9;
+	repeated uint32 ICBEDBNHBHH = 10;
+	map<uint32, uint32> CAGNKIMHDDF = 13;
+	repeated HLBPPPNGNJF BMFCCNNELHP = 9;
 }

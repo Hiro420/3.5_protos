@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CIHILMMMOCG {
-	uint32 MAAACGNIINH; = 3;
-	uint32 LOLDFOKEGGF; = 15;
-	uint32 DBCEEODIKCO; = 2;
-	uint32 KKMLAEEAHJA; = 7;
+	uint32 MAAACGNIINH = 3;
+	uint32 LOLDFOKEGGF = 15;
+	uint32 DBCEEODIKCO = 2;
+	uint32 KKMLAEEAHJA = 7;
 }

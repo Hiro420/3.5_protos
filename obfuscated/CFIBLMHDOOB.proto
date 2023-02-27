@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CFIBLMHDOOB {
-	uint32 FCHGPOADCNL; = 13;
-	uint32 PFKDFHHKBFD; = 4;
+	uint32 FCHGPOADCNL = 13;
+	uint32 PFKDFHHKBFD = 4;
 }

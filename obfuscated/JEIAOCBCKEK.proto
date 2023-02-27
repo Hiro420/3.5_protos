@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "DIEEDAKFLAJ.proto";
 
 message JEIAOCBCKEK {
-	DIEEDAKFLAJ LNFKELDOBON; = 10;
-	uint32 KKMLAEEAHJA; = 4;
+	DIEEDAKFLAJ LNFKELDOBON = 10;
+	uint32 KKMLAEEAHJA = 4;
 }

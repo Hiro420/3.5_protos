@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KDIFONPIAEI {
-	uint32 OPLEJJBAPMI; = 14;
+	uint32 OPLEJJBAPMI = 14;
 }

@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "POLLPFJAIPM.proto";
 
 message JFAEOPHPBGL {
-	repeated POLLPFJAIPM LIHEPHPKCOI; = 12;
+	repeated POLLPFJAIPM LIHEPHPKCOI = 12;
 }

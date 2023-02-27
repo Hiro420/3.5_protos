@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LDACIPENNDP {
-	bool KEMCGEKPJFE; = 6;
+	bool KEMCGEKPJFE = 6;
 }

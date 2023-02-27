@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CACBCOONGOO {
-	uint32 KKPDIBFCOCK; = 5;
-	uint32 GKPECAOMNJN; = 10;
+	uint32 KKPDIBFCOCK = 5;
+	uint32 GKPECAOMNJN = 10;
 }

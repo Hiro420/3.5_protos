@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "FBKBALODAED.proto";
 
 message MGCGANHBOHD {
-	repeated FBKBALODAED IBEPGEANHFI; = 10;
+	repeated FBKBALODAED IBEPGEANHFI = 10;
 }

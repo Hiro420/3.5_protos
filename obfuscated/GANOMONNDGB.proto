@@ -6,10 +6,10 @@ import "MGMABEOADJL.proto";
 import "MFAFMALBKAP.proto";
 
 message GANOMONNDGB {
-	repeated uint32 LPNPPCIGHCD; = 1;
-	repeated uint32 ILLLMHCOOAB; = 14;
-	repeated MFAFMALBKAP DAGINEBHJBN; = 13;
-	repeated uint32 IKBPEMOGGDO; = 10;
-	repeated MGMABEOADJL EGOFENHIODK; = 9;
-	uint32 FHDINICBNIO; = 11;
+	repeated uint32 LPNPPCIGHCD = 1;
+	repeated uint32 ILLLMHCOOAB = 14;
+	repeated MFAFMALBKAP DAGINEBHJBN = 13;
+	repeated uint32 IKBPEMOGGDO = 10;
+	repeated MGMABEOADJL EGOFENHIODK = 9;
+	uint32 FHDINICBNIO = 11;
 }

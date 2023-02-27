@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message JEAIDHCCOGP {
-	map<uint32, uint32> KGEOFJLLFFB; = 6;
+	map<uint32, uint32> KGEOFJLLFFB = 6;
 }

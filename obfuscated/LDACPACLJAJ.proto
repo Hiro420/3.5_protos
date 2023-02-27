@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "ODHFJKNEAJB.proto";
 
 message LDACPACLJAJ {
-	repeated ODHFJKNEAJB OJBECGDMPMI; = 2;
+	repeated ODHFJKNEAJB OJBECGDMPMI = 2;
 }

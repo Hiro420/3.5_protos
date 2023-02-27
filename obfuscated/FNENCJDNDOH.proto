@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FNENCJDNDOH {
-	repeated uint32 AMDEJAHMKIA; = 8;
-	uint32 DFOOJFKOIPM; = 10;
-	bool HNODHHKJBFI; = 11;
-	uint32 NBJFKBBEAFA; = 7;
+	repeated uint32 AMDEJAHMKIA = 8;
+	uint32 DFOOJFKOIPM = 10;
+	bool HNODHHKJBFI = 11;
+	uint32 NBJFKBBEAFA = 7;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "GIELCMCDBEP.proto";
 
 message BLJGDDIJIHG {
-	bool CNGIKGKODHP; = 7;
-	GIELCMCDBEP OAIHEGADPEO; = 15;
+	bool CNGIKGKODHP = 7;
+	GIELCMCDBEP OAIHEGADPEO = 15;
 }

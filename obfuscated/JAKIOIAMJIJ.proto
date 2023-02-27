@@ -5,10 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "LIBILADMDKG.proto";
 
 message JAKIOIAMJIJ {
-	repeated LIBILADMDKG LCLMPAJFCJG; = 6;
-	int32 IJIABMFLJGH; = 13;
-	bool OCLOLLJBLFD; = 11;
-	bool PEKANJKGOHK; = 1;
-	uint32 EKAIAFPFJOB; = 14;
-	uint32 KHGFNNEIHJH; = 8;
+	repeated LIBILADMDKG LCLMPAJFCJG = 6;
+	int32 IJIABMFLJGH = 13;
+	bool OCLOLLJBLFD = 11;
+	bool PEKANJKGOHK = 1;
+	uint32 EKAIAFPFJOB = 14;
+	uint32 KHGFNNEIHJH = 8;
 }

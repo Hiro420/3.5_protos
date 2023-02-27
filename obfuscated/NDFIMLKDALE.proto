@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "CPHEBIHPPJC.proto";
 
 message NDFIMLKDALE {
-	repeated CPHEBIHPPJC HKOKCHLPCAJ; = 6;
-	int32 IJIABMFLJGH; = 9;
+	repeated CPHEBIHPPJC HKOKCHLPCAJ = 6;
+	int32 IJIABMFLJGH = 9;
 }

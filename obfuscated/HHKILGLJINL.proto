@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "PEPHBANPBCG.proto";
 
 message HHKILGLJINL {
-	PEPHBANPBCG DPILDFNIELM; = 9;
+	PEPHBANPBCG DPILDFNIELM = 9;
 }

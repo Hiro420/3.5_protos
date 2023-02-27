@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "KDDEEFOPBJB.proto";
 
 message OOFDGHBGGCB {
-	bool FNCIHCFJNPN; = 10;
-	repeated KDDEEFOPBJB FDHAOGJKFPI; = 1;
-	uint32 PCLLHONGBPM; = 6;
-	uint32 LCOOHOHDNMJ; = 2;
+	bool FNCIHCFJNPN = 10;
+	repeated KDDEEFOPBJB FDHAOGJKFPI = 1;
+	uint32 PCLLHONGBPM = 6;
+	uint32 LCOOHOHDNMJ = 2;
 }

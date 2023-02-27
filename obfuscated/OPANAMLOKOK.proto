@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OPANAMLOKOK {
-	string KALLOCFPCLM; = 6;
-	string AJEFEPAGBBJ; = 13;
-	int32 IJIABMFLJGH; = 12;
+	string KALLOCFPCLM = 6;
+	string AJEFEPAGBBJ = 13;
+	int32 IJIABMFLJGH = 12;
 }

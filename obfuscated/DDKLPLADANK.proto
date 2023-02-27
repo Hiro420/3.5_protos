@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DDKLPLADANK {
-	repeated uint32 KEOENBCOLHC; = 10;
-	uint32 APPJCEKCOBP; = 14;
-	int32 IJIABMFLJGH; = 2;
+	repeated uint32 KEOENBCOLHC = 10;
+	uint32 APPJCEKCOBP = 14;
+	int32 IJIABMFLJGH = 2;
 }

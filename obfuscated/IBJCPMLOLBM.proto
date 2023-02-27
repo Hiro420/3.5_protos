@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IBJCPMLOLBM {
-	uint32 BEJDBNONODA; = 14;
-	uint32 MPGJJEALABF; = 3;
-	bool DJKOKFDGKIG; = 15;
+	uint32 BEJDBNONODA = 14;
+	uint32 MPGJJEALABF = 3;
+	bool DJKOKFDGKIG = 15;
 }

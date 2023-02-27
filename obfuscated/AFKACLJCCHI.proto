@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "EALBKFBILFO.proto";
 
 message AFKACLJCCHI {
-	repeated EALBKFBILFO HBMOMAEDJDL; = 4;
+	repeated EALBKFBILFO HBMOMAEDJDL = 4;
 }

@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CIDANFONHIN {
-	uint32 LGLGGMGCBHM; = 11;
+	uint32 LGLGGMGCBHM = 11;
 }

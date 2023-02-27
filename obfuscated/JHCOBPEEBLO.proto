@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "KAGPDLCBOHD.proto";
 
 message JHCOBPEEBLO {
-	uint32 BJPGFIAFGDB; = 12;
-	uint32 AICAINIIKGN; = 4;
-	repeated KAGPDLCBOHD DKGOGJAAOBA; = 5;
+	uint32 BJPGFIAFGDB = 12;
+	uint32 AICAINIIKGN = 4;
+	repeated KAGPDLCBOHD DKGOGJAAOBA = 5;
 }

@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "AFGHMMDBPMD.proto";
 
 message GJEJIJMCIBA {
-	AFGHMMDBPMD HCMPEPODKPP; = 1;
-	map<uint32, uint32> FOENMLDLHGB; = 2;
-	map<uint32, uint32> IBIDIKMALJA; = 10;
+	AFGHMMDBPMD HCMPEPODKPP = 1;
+	map<uint32, uint32> FOENMLDLHGB = 2;
+	map<uint32, uint32> IBIDIKMALJA = 10;
 }

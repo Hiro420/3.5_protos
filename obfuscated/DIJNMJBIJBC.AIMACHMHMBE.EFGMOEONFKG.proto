@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DIJNMJBIJBC.AIMACHMHMBE.EFGMOEONFKG {
-	uint32 AHGGLLMBAAG; = 1;
-	bool JMAEJDGDIPI; = 9;
-	uint64 BOHOEFLEIML; = 7;
+	uint32 AHGGLLMBAAG = 1;
+	bool JMAEJDGDIPI = 9;
+	uint64 BOHOEFLEIML = 7;
 }

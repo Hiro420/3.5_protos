@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 
 message MDMPEIGLJMM {
-	DALMLFNANKL JGGKPJIBLBB; = 5;
-	uint64 JDDEJFKJHJN; = 9;
-	bool FKICAGCEBCA; = 15;
-	uint32 CJMCIOJABIJ; = 13;
+	DALMLFNANKL JGGKPJIBLBB = 5;
+	uint64 JDDEJFKJHJN = 9;
+	bool FKICAGCEBCA = 15;
+	uint32 CJMCIOJABIJ = 13;
 }

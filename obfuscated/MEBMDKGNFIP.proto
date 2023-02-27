@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MEBMDKGNFIP {
-	uint32 NCLEDAOBJLL; = 10;
-	bool FDCNBCLNHIL; = 6;
-	uint32 OGPJEOJIDNP; = 4;
+	uint32 NCLEDAOBJLL = 10;
+	bool FDCNBCLNHIL = 6;
+	uint32 OGPJEOJIDNP = 4;
 }

@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CPDBIKEOEDK {
-	uint32 AEIMCODOHEI; = 1;
-	uint32 KLDIMGLKFOA; = 2;
+	uint32 AEIMCODOHEI = 1;
+	uint32 KLDIMGLKFOA = 2;
 }

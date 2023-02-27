@@ -7,9 +7,9 @@ import "PLPINEPGFHD.proto";
 import "JFDLFELGAEJ.proto";
 
 message DPBAJDJIMAA {
-	repeated JFDLFELGAEJ KOAKPPEAFKE; = 13;
-	bool BOGIIHOKFML; = 15;
-	repeated uint32 PADEDBMHHMF; = 1;
-	repeated PLPINEPGFHD BOHHMACOIMI; = 6;
-	repeated MJMMGKPBGGH NAONPHINPJO; = 5;
+	repeated JFDLFELGAEJ KOAKPPEAFKE = 13;
+	bool BOGIIHOKFML = 15;
+	repeated uint32 PADEDBMHHMF = 1;
+	repeated PLPINEPGFHD BOHHMACOIMI = 6;
+	repeated MJMMGKPBGGH NAONPHINPJO = 5;
 }

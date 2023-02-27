@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BAEHNHHABBK {
-	uint32 OEGEDJPNJAD; = 12;
-	uint32 CEKDLLLCMKI; = 14;
-	bool FMLCKAJLIIP; = 4;
+	uint32 OEGEDJPNJAD = 12;
+	uint32 CEKDLLLCMKI = 14;
+	bool FMLCKAJLIIP = 4;
 }

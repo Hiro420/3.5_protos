@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ODHFJKNEAJB {
-	repeated uint32 MNIFANFJONP; = 10;
-	uint32 LIHBLAMMOCN; = 3;
+	repeated uint32 MNIFANFJONP = 10;
+	uint32 LIHBLAMMOCN = 3;
 }

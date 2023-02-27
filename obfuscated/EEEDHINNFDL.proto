@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EEEDHINNFDL {
-	uint32 NFOKBMLBAIA; = 12;
+	uint32 NFOKBMLBAIA = 12;
 }

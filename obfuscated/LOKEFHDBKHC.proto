@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "POGIPAEBEHM.proto";
 
 message LOKEFHDBKHC {
-	repeated POGIPAEBEHM KDHMIOJHOOG; = 8;
+	repeated POGIPAEBEHM KDHMIOJHOOG = 8;
 }

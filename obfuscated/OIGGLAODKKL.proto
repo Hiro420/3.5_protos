@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "BEBIONDAIJE.proto";
 
 message OIGGLAODKKL {
-	repeated BEBIONDAIJE OPCBBLFNIDA; = 4;
+	repeated BEBIONDAIJE OPCBBLFNIDA = 4;
 }

@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KLLDCDHIOEH {
-	uint32 BEJDBNONODA; = 3;
-	bool FMLCKAJLIIP; = 15;
+	uint32 BEJDBNONODA = 3;
+	bool FMLCKAJLIIP = 15;
 }

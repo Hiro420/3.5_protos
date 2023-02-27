@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "PCBMFAGFGHJ.proto";
 
 message GDHDICEJDBP {
-	bool MFPGHFOFAFP; = 5;
-	repeated PCBMFAGFGHJ OMOICEENHEL; = 13;
-	uint32 DEPLICDLIHN; = 1;
-	uint32 FALKHJGHBOD; = 8;
+	bool MFPGHFOFAFP = 5;
+	repeated PCBMFAGFGHJ OMOICEENHEL = 13;
+	uint32 DEPLICDLIHN = 1;
+	uint32 FALKHJGHBOD = 8;
 }

@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IPPCCDNLHEN {
-	bool LJJMALDPOOL; = 13;
-	uint32 DAIBJCNPOJG; = 2;
-	uint32 MHCGANALPFE; = 4;
-	int32 IJIABMFLJGH; = 14;
+	bool LJJMALDPOOL = 13;
+	uint32 DAIBJCNPOJG = 2;
+	uint32 MHCGANALPFE = 4;
+	int32 IJIABMFLJGH = 14;
 }

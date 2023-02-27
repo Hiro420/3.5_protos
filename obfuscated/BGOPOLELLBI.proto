@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BGOPOLELLBI {
-	uint32 NJAEFGBAJLN; = 7;
-	uint32 OLOICLLBLMC; = 3;
+	uint32 NJAEFGBAJLN = 7;
+	uint32 OLOICLLBLMC = 3;
 }

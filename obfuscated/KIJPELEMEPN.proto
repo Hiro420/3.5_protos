@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "KACCHOBDCLB.proto";
 
 message KIJPELEMEPN {
-	uint32 FLGDHAHGOGD; = 14;
-	KACCHOBDCLB PLCGHLEONOA; = 13;
+	uint32 FLGDHAHGOGD = 14;
+	KACCHOBDCLB PLCGHLEONOA = 13;
 }

@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "DFNGPIGNBJJ.proto";
 
 message JEPEAALKCBP {
-	uint32 HFGHKPOBBLK; = 12;
-	DFNGPIGNBJJ AFKLENIEKMJ; = 14;
-	uint32 FEOMIOKBKJA; = 4;
-	uint32 APPJCEKCOBP; = 13;
-	uint32 ANADAEMCLIO; = 15;
+	uint32 HFGHKPOBBLK = 12;
+	DFNGPIGNBJJ AFKLENIEKMJ = 14;
+	uint32 FEOMIOKBKJA = 4;
+	uint32 APPJCEKCOBP = 13;
+	uint32 ANADAEMCLIO = 15;
 }

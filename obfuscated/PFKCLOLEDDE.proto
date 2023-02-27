@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "IMEFDIKAJBD.proto";
 
 message PFKCLOLEDDE {
-	repeated IMEFDIKAJBD MFGKEEFJKJB; = 2;
+	repeated IMEFDIKAJBD MFGKEEFJKJB = 2;
 }

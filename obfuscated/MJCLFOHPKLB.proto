@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "CCNCLHGNBFP.proto";
 
 message MJCLFOHPKLB {
-	CCNCLHGNBFP NFPLGOIMHEN; = 12;
-	uint32 AAEBBDIDMAO; = 5;
+	CCNCLHGNBFP NFPLGOIMHEN = 12;
+	uint32 AAEBBDIDMAO = 5;
 }

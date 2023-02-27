@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BOAMAOEMPEN {
-	uint64 POGHDEAENAD; = 11;
-	uint32 GDHOJLEMNDP; = 1;
-	uint32 DJGFPDOGEBI; = 9;
+	uint64 POGHDEAENAD = 11;
+	uint32 GDHOJLEMNDP = 1;
+	uint32 DJGFPDOGEBI = 9;
 }

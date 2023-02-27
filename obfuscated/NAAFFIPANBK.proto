@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "PEBGLHDFPHB.proto";
 
 message NAAFFIPANBK {
-	repeated PEBGLHDFPHB BJHJBCAMFHJ; = 4;
+	repeated PEBGLHDFPHB BJHJBCAMFHJ = 4;
 }

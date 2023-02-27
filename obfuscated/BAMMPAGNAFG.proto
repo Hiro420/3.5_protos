@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BAMMPAGNAFG {
-	repeated uint32 IJHPEPJCGNO; = 8;
-	uint32 KFEMBAPKMFH; = 1;
+	repeated uint32 IJHPEPJCGNO = 8;
+	uint32 KFEMBAPKMFH = 1;
 }

@@ -6,12 +6,12 @@ import "MBIEJKBJKCH.proto";
 import "LDJBCPLPPHB.proto";
 
 message HDLOJBCLFLE {
-	string GFEPMNAKLAL; = 1;
-	string PDFLEGGDOCP; = 2;
-	string BOCKELBHKCA; = 3;
-	string KDNLODANHDI; = 4;
-	string BAFMLDIMHOG; = 5;
-	uint32 APPJCEKCOBP; = 6;
-	repeated LDJBCPLPPHB EADOMFAJOOE; = 7;
-	repeated MBIEJKBJKCH ACNMCKEKEDG; = 8;
+	string GFEPMNAKLAL = 1;
+	string PDFLEGGDOCP = 2;
+	string BOCKELBHKCA = 3;
+	string KDNLODANHDI = 4;
+	string BAFMLDIMHOG = 5;
+	uint32 APPJCEKCOBP = 6;
+	repeated LDJBCPLPPHB EADOMFAJOOE = 7;
+	repeated MBIEJKBJKCH ACNMCKEKEDG = 8;
 }

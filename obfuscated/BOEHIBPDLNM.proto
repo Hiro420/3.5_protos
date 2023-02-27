@@ -5,13 +5,13 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 
 message BOEHIBPDLNM {
-	uint32 PDFLEGGDOCP; = 6;
-	bool PAGCNEHPGNB; = 1;
-	string BDBCPNLPAMJ; = 2;
-	bool KPEAINFKMGP; = 5;
-	float NOCCECFFIFI; = 7;
-	float LBEKPOPGIAF; = 9;
-	repeated uint32 LHOJAGNOFLH; = 15;
-	DALMLFNANKL DJPBOLNGGKC; = 12;
-	float HGNKCGPNJBK; = 11;
+	uint32 PDFLEGGDOCP = 6;
+	bool PAGCNEHPGNB = 1;
+	string BDBCPNLPAMJ = 2;
+	bool KPEAINFKMGP = 5;
+	float NOCCECFFIFI = 7;
+	float LBEKPOPGIAF = 9;
+	repeated uint32 LHOJAGNOFLH = 15;
+	DALMLFNANKL DJPBOLNGGKC = 12;
+	float HGNKCGPNJBK = 11;
 }

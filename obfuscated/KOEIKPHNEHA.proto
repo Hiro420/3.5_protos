@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "EACNABDMBBF.proto";
 
 message KOEIKPHNEHA {
-	repeated EACNABDMBBF MOOLAOOHHIC; = 10;
+	repeated EACNABDMBBF MOOLAOOHHIC = 10;
 }

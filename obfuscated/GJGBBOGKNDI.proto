@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "DPCDIAIDDOP.proto";
 
 message GJGBBOGKNDI {
-	repeated DPCDIAIDDOP JIMPICDBNLP; = 5;
+	repeated DPCDIAIDDOP JIMPICDBNLP = 5;
 }

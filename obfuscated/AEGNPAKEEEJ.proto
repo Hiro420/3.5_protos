@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "ILGNCKHBGFO.proto";
 
 message AEGNPAKEEEJ {
-	map<uint32, uint32> KCALABEDFOH; = 1;
-	ILGNCKHBGFO GBGBILFNEFB; = 7;
-	uint32 APPJCEKCOBP; = 2;
-	string NGFEJANHDBM; = 3;
+	map<uint32, uint32> KCALABEDFOH = 1;
+	ILGNCKHBGFO GBGBILFNEFB = 7;
+	uint32 APPJCEKCOBP = 2;
+	string NGFEJANHDBM = 3;
 }

@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KBJAJFKCKGI {
-	bool NHDPHIMDACF; = 13;
-	uint64 JAOBPKMBOKD; = 10;
+	bool NHDPHIMDACF = 13;
+	uint64 JAOBPKMBOKD = 10;
 }

@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message JIMNIKFBCCK {
-	uint32 KFEMBAPKMFH; = 7;
+	uint32 KFEMBAPKMFH = 7;
 }

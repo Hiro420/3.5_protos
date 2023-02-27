@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "GGCMGFLFFPB.proto";
 
 message FJNLPMLBGBA {
-	GGCMGFLFFPB OGLAJOOKPKD; = 1;
-	int32 IJIABMFLJGH; = 3;
-	uint64 JDDEJFKJHJN; = 12;
+	GGCMGFLFFPB OGLAJOOKPKD = 1;
+	int32 IJIABMFLJGH = 3;
+	uint64 JDDEJFKJHJN = 12;
 }

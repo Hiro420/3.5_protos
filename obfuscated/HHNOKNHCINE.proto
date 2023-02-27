@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HHNOKNHCINE {
-	bool NHDPHIMDACF; = 1;
-	uint64 JAOBPKMBOKD; = 5;
+	bool NHDPHIMDACF = 1;
+	uint64 JAOBPKMBOKD = 5;
 }

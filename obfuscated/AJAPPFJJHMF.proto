@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "FJJOGOJMCOO.proto";
 
 message AJAPPFJJHMF {
-	uint64 JDDEJFKJHJN; = 9;
-	map<uint32, FJJOGOJMCOO> GDHFAHOCDFC; = 14;
+	uint64 JDDEJFKJHJN = 9;
+	map<uint32, FJJOGOJMCOO> GDHFAHOCDFC = 14;
 }

@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FMFLCOLFIOF {
-	uint32 KGHKFNGDPNI; = 13;
+	uint32 KGHKFNGDPNI = 13;
 }

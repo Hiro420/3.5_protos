@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DIIIIGIADBO {
-	float LNCPPBKKPGM; = 11;
+	float LNCPPBKKPGM = 11;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "ENOCIMKMJJG.proto";
 
 message EOLLGIAIKJG {
-	uint32 CEKDLLLCMKI; = 1;
-	repeated ENOCIMKMJJG CANCLEDDKEP; = 2;
+	uint32 CEKDLLLCMKI = 1;
+	repeated ENOCIMKMJJG CANCLEDDKEP = 2;
 }

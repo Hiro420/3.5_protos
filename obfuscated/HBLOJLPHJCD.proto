@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "LGAFMFIJKIE.proto";
 
 message HBLOJLPHJCD {
-	LGAFMFIJKIE NHOAHOMJLNK; = 14;
-	uint32 PDFLEGGDOCP; = 7;
+	LGAFMFIJKIE NHOAHOMJLNK = 14;
+	uint32 PDFLEGGDOCP = 7;
 }

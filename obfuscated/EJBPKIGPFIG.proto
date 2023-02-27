@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "AOBAFNIHINJ.proto";
 
 message EJBPKIGPFIG {
-	AOBAFNIHINJ BAJHMIBJPMG; = 11;
-	uint32 IAIEOLAOPAB; = 8;
+	AOBAFNIHINJ BAJHMIBJPMG = 11;
+	uint32 IAIEOLAOPAB = 8;
 }

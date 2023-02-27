@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CDOBHJNAGEO {
-	uint32 INOGMEJADOE; = 4;
+	uint32 INOGMEJADOE = 4;
 }

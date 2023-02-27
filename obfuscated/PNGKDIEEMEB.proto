@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PNGKDIEEMEB {
-	uint32 JLMLALKOMFN; = 12;
-	uint32 ELNNIELNMBO; = 1;
+	uint32 JLMLALKOMFN = 12;
+	uint32 ELNNIELNMBO = 1;
 }

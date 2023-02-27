@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "MOCGOKGHGNG.proto";
 
 message CPCDDAMLFFF {
-	MOCGOKGHGNG MHFBFPNJJDL; = 1;
-	repeated uint64 KGKOHDBBENG; = 3;
-	int32 IJIABMFLJGH; = 8;
+	MOCGOKGHGNG MHFBFPNJJDL = 1;
+	repeated uint64 KGKOHDBBENG = 3;
+	int32 IJIABMFLJGH = 8;
 }

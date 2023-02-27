@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FIKFNEBEPOB {
-	int32 IJIABMFLJGH; = 6;
-	repeated uint32 PJPBHLPJGLA; = 15;
-	uint64 GKGAAFFCLFM; = 1;
+	int32 IJIABMFLJGH = 6;
+	repeated uint32 PJPBHLPJGLA = 15;
+	uint64 GKGAAFFCLFM = 1;
 }

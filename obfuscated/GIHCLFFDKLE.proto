@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "MNNNCKCAGLP.proto";
 
 message GIHCLFFDKLE {
-	repeated MNNNCKCAGLP FLBNKGLCMLJ; = 5;
+	repeated MNNNCKCAGLP FLBNKGLCMLJ = 5;
 }

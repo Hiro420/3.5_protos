@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "HCOOANKLKCD.proto";
 
 message GOICFLKADLN {
-	repeated HCOOANKLKCD PJLABOFLCAK; = 14;
+	repeated HCOOANKLKCD PJLABOFLCAK = 14;
 }

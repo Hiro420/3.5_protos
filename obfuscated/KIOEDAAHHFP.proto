@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "IKKNLIMAHOL.proto";
 
 message KIOEDAAHHFP {
-	IKKNLIMAHOL GIHNGJPAIDN; = 10;
-	int32 IJIABMFLJGH; = 12;
+	IKKNLIMAHOL GIHNGJPAIDN = 10;
+	int32 IJIABMFLJGH = 12;
 }

@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "ILEGGBKJDDK.proto";
 
 message NPJACCMOFOE {
-	float OBNNMFOOMFF; = 12;
-	uint64 POGHDEAENAD; = 14;
-	ILEGGBKJDDK GNLDDLIKJDN; = 5;
-	float KMPLFMENCJA; = 6;
-	uint32 BKCFIMBKPND; = 15;
+	float OBNNMFOOMFF = 12;
+	uint64 POGHDEAENAD = 14;
+	ILEGGBKJDDK GNLDDLIKJDN = 5;
+	float KMPLFMENCJA = 6;
+	uint32 BKCFIMBKPND = 15;
 }

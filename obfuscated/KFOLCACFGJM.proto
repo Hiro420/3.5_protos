@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KFOLCACFGJM {
-	repeated uint32 CJMCIOJABIJ; = 9;
+	repeated uint32 CJMCIOJABIJ = 9;
 }

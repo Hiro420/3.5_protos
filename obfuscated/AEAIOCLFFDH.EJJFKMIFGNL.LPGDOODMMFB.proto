@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message AEAIOCLFFDH.EJJFKMIFGNL.LPGDOODMMFB {
-	uint32 PDFLEGGDOCP; = 2;
+	uint32 PDFLEGGDOCP = 2;
 }

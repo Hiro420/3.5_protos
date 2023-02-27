@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "OLACJIOMDIO.proto";
 
 message ICLKJAFLECK {
-	uint32 KFEMBAPKMFH; = 3;
-	OLACJIOMDIO FCOBIKAJMDD; = 2;
+	uint32 KFEMBAPKMFH = 3;
+	OLACJIOMDIO FCOBIKAJMDD = 2;
 }

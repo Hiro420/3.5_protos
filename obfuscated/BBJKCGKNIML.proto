@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "LLJAMLLPIIF.proto";
 
 message BBJKCGKNIML {
-	uint32 PKIPAOLPKNI; = 15;
-	string OAGJAHBDCCO; = 2;
-	LLJAMLLPIIF GNLDDLIKJDN; = 9;
+	uint32 PKIPAOLPKNI = 15;
+	string OAGJAHBDCCO = 2;
+	LLJAMLLPIIF GNLDDLIKJDN = 9;
 }

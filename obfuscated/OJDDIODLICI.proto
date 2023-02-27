@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "AFHDAIJGIMB.proto";
 
 message OJDDIODLICI {
-	uint32 OEGEDJPNJAD; = 12;
-	AFHDAIJGIMB MEGEPCAJCKE; = 14;
-	uint32 OFKOOHKDFEC; = 15;
+	uint32 OEGEDJPNJAD = 12;
+	AFHDAIJGIMB MEGEPCAJCKE = 14;
+	uint32 OFKOOHKDFEC = 15;
 }

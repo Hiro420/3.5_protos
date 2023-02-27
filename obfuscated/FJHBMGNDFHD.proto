@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FJHBMGNDFHD {
-	float POCAJHHOJFM; = 9;
+	float POCAJHHOJFM = 9;
 }

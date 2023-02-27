@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FONADLHMICH {
-	repeated uint32 PMKMANAEMFL; = 11;
+	repeated uint32 PMKMANAEMFL = 11;
 }

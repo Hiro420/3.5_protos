@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "GPDPAAPFOML.proto";
 
 message GCENKBAKPFM {
-	repeated GPDPAAPFOML GGGLAAHCLKF; = 15;
+	repeated GPDPAAPFOML GGGLAAHCLKF = 15;
 }

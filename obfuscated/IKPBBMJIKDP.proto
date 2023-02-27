@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "ONHDINIKADE.proto";
 
 message IKPBBMJIKDP {
-	uint32 MPNPEGNOKJJ; = 9;
-	uint32 INCIAKIONII; = 14;
-	ONHDINIKADE LGOJIMINMJD; = 6;
+	uint32 MPNPEGNOKJJ = 9;
+	uint32 INCIAKIONII = 14;
+	ONHDINIKADE LGOJIMINMJD = 6;
 }

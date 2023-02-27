@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message NLBMAKMGHOE {
-	int32 KJGHOCDEDDL; = 1;
-	uint32 AMJLLOEKGMD; = 2;
-	string LEAJOKJJPHC; = 3;
+	int32 KJGHOCDEDDL = 1;
+	uint32 AMJLLOEKGMD = 2;
+	string LEAJOKJJPHC = 3;
 }

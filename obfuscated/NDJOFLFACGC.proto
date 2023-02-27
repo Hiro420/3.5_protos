@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "IHFHAKKFMHG.proto";
 
 message NDJOFLFACGC {
-	bool CADJIFLHAKI; = 4;
-	IHFHAKKFMHG CBOLHDNGDGC; = 13;
-	uint32 PDFLEGGDOCP; = 12;
+	bool CADJIFLHAKI = 4;
+	IHFHAKKFMHG CBOLHDNGDGC = 13;
+	uint32 PDFLEGGDOCP = 12;
 }

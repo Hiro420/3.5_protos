@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message GPEGKGKAKDD {
-	float DAFCJCAMMLM; = 13;
-	float CLAFELJBCCC; = 4;
-	uint32 GIAEKPPMLPF; = 6;
+	float DAFCJCAMMLM = 13;
+	float CLAFELJBCCC = 4;
+	uint32 GIAEKPPMLPF = 6;
 }

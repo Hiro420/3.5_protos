@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "OJDHIEBPOKL.proto";
 
 message BOMMBPDKMOH {
-	uint32 PAKGCBBEOBJ; = 9;
-	repeated uint32 DDHDPFEAJOJ; = 5;
-	OJDHIEBPOKL LPAJNGLNIDL; = 7;
-	uint32 ECHCDODIGAN; = 13;
-	repeated uint32 PBJNIOMNEJB; = 3;
+	uint32 PAKGCBBEOBJ = 9;
+	repeated uint32 DDHDPFEAJOJ = 5;
+	OJDHIEBPOKL LPAJNGLNIDL = 7;
+	uint32 ECHCDODIGAN = 13;
+	repeated uint32 PBJNIOMNEJB = 3;
 }

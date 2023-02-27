@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "INNAMCEODEG.proto";
 
 message KOFKAPENCLO {
-	repeated INNAMCEODEG LFHBCJCAICD; = 2;
+	repeated INNAMCEODEG LFHBCJCAICD = 2;
 }

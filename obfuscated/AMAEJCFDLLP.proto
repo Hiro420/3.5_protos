@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "PNNCHCKBNDL.proto";
 
 message AMAEJCFDLLP {
-	uint32 BCMMCNECJEH; = 6;
-	repeated PNNCHCKBNDL HJJGPGFEHGA; = 2;
+	uint32 BCMMCNECJEH = 6;
+	repeated PNNCHCKBNDL HJJGPGFEHGA = 2;
 }

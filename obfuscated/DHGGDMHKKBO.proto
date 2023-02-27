@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "EACNABDMBBF.proto";
 
 message DHGGDMHKKBO {
-	map<uint32, EACNABDMBBF> IMCMLMOFALL; = 1;
+	map<uint32, EACNABDMBBF> IMCMLMOFALL = 1;
 }

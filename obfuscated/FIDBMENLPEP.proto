@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "PGHNMMFMKOF.proto";
 
 message FIDBMENLPEP {
-	repeated PGHNMMFMKOF LIHEPHPKCOI; = 1;
-	repeated uint32 EIDNDNKAKLL; = 14;
-	uint32 KMMNOJIIJKI; = 9;
+	repeated PGHNMMFMKOF LIHEPHPKCOI = 1;
+	repeated uint32 EIDNDNKAKLL = 14;
+	uint32 KMMNOJIIJKI = 9;
 }

@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BAJOKHOELIA {
-	bool DGCKNCPKJKA; = 14;
-	uint32 LGLGGMGCBHM; = 15;
+	bool DGCKNCPKJKA = 14;
+	uint32 LGLGGMGCBHM = 15;
 }

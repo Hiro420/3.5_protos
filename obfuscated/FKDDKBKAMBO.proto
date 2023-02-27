@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FKDDKBKAMBO {
-	uint32 PAKGCBBEOBJ; = 4;
-	uint32 KFEMBAPKMFH; = 2;
+	uint32 PAKGCBBEOBJ = 4;
+	uint32 KFEMBAPKMFH = 2;
 }

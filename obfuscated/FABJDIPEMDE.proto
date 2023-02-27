@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "FABJDIPEMDE.EHAEEIFELIH.ONKIMGOMOEL.proto";
 
 message FABJDIPEMDE {
-	uint32 GNLDDLIKJDN; = 6;
-	repeated uint32 HABOKNANIHB; = 2;
-	FABJDIPEMDE.EHAEEIFELIH.ONKIMGOMOEL PKFIPBDFDFH; = 10;
-	bool GPAHFKHCHDA; = 15;
-	repeated uint32 CLNJMCLMNEF; = 1;
+	uint32 GNLDDLIKJDN = 6;
+	repeated uint32 HABOKNANIHB = 2;
+	FABJDIPEMDE.EHAEEIFELIH.ONKIMGOMOEL PKFIPBDFDFH = 10;
+	bool GPAHFKHCHDA = 15;
+	repeated uint32 CLNJMCLMNEF = 1;
 }

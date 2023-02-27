@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "HHACKKBLLHO.proto";
 
 message INEIPAMELIP {
-	HHACKKBLLHO LDPJAECIFHI; = 4;
-	int32 IJIABMFLJGH; = 13;
+	HHACKKBLLHO LDPJAECIFHI = 4;
+	int32 IJIABMFLJGH = 13;
 }

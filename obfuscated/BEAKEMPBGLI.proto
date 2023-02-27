@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BEAKEMPBGLI {
-	uint32 NMNFNBJMPBJ; = 4;
-	int32 IJIABMFLJGH; = 7;
-	uint32 GJDMBBAMIDJ; = 2;
+	uint32 NMNFNBJMPBJ = 4;
+	int32 IJIABMFLJGH = 7;
+	uint32 GJDMBBAMIDJ = 2;
 }

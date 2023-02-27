@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "IAIKHNIKNHG.proto";
 
 message IOCBDHELKAJ {
-	uint32 IAIEOLAOPAB; = 15;
-	repeated uint32 KCKCMMICALP; = 1;
-	IAIKHNIKNHG GNLDDLIKJDN; = 11;
+	uint32 IAIEOLAOPAB = 15;
+	repeated uint32 KCKCMMICALP = 1;
+	IAIKHNIKNHG GNLDDLIKJDN = 11;
 }

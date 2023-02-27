@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OGGJCHBGMKC {
-	uint32 HANLAEOECDE; = 14;
+	uint32 HANLAEOECDE = 14;
 }

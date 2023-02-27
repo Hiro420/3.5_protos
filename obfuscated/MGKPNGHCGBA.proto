@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "NDJPPGGCPHK.proto";
 
 message MGKPNGHCGBA {
-	NDJPPGGCPHK LNFKELDOBON; = 1;
-	bool DBIKCJCJHFI; = 6;
+	NDJPPGGCPHK LNFKELDOBON = 1;
+	bool DBIKCJCJHFI = 6;
 }

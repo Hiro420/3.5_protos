@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "EDDGOJAGIOH.proto";
 
 message GDNFLHKNFHC {
-	uint32 HBMBODJGAPM; = 15;
-	EDDGOJAGIOH HGAFAGBNPDL; = 12;
-	uint32 OEGEDJPNJAD; = 4;
+	uint32 HBMBODJGAPM = 15;
+	EDDGOJAGIOH HGAFAGBNPDL = 12;
+	uint32 OEGEDJPNJAD = 4;
 }

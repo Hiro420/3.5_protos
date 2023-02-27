@@ -5,10 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "COFIOGPCLNN.proto";
 
 message CAHLCAONMAP {
-	uint32 FOLBGKHAPGF; = 2;
-	repeated COFIOGPCLNN ODOKHAPOONL; = 11;
-	bool ADBPFNDLNOE; = 6;
-	repeated uint32 EOMIMDEGFNA; = 3;
-	uint32 KFMJFMBCAGM; = 15;
-	bool NOMMCNFIONB; = 1;
+	uint32 FOLBGKHAPGF = 2;
+	repeated COFIOGPCLNN ODOKHAPOONL = 11;
+	bool ADBPFNDLNOE = 6;
+	repeated uint32 EOMIMDEGFNA = 3;
+	uint32 KFMJFMBCAGM = 15;
+	bool NOMMCNFIONB = 1;
 }

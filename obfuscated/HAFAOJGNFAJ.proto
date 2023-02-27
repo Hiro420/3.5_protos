@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HAFAOJGNFAJ {
-	uint32 FGGCOCMKODE; = 6;
+	uint32 FGGCOCMKODE = 6;
 }

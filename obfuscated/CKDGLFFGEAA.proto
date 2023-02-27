@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CKDGLFFGEAA {
-	uint32 EPDMPHHMPIO; = 9;
-	uint32 BKCFIMBKPND; = 4;
+	uint32 EPDMPHHMPIO = 9;
+	uint32 BKCFIMBKPND = 4;
 }

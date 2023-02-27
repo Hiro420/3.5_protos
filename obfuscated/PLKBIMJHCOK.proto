@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PLKBIMJHCOK {
-	bool MPLOILHKKMO; = 6;
-	uint32 KFEMBAPKMFH; = 8;
-	repeated uint32 BPLLBOMKPHN; = 7;
+	bool MPLOILHKKMO = 6;
+	uint32 KFEMBAPKMFH = 8;
+	repeated uint32 BPLLBOMKPHN = 7;
 }

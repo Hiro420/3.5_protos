@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "OBGBKIOLBJH.proto";
 
 message GMBOOECENCF {
-	bool CEMONICLBEK; = 7;
-	repeated OBGBKIOLBJH KHKFLJIIIJP; = 6;
+	bool CEMONICLBEK = 7;
+	repeated OBGBKIOLBJH KHKFLJIIIJP = 6;
 }

@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MOKEDLCHLMH {
-	uint32 AOPJJFCKLEP; = 8;
+	uint32 AOPJJFCKLEP = 8;
 }

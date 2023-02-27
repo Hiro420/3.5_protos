@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "JJOLFAPBPNN.proto";
 
 message NFIKNDINCMM {
-	JJOLFAPBPNN FKHCMPFAAHJ; = 5;
-	uint32 EBJNKJCIPHA; = 15;
+	JJOLFAPBPNN FKHCMPFAAHJ = 5;
+	uint32 EBJNKJCIPHA = 15;
 }

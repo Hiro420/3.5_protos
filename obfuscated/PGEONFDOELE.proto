@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PGEONFDOELE {
-	uint32 PDCLGLAHHCJ; = 13;
-	uint32 PIJFHJNJNHM; = 6;
-	uint32 CFEICPHGHIG; = 7;
-	uint32 HJHJNBFEAOB; = 9;
+	uint32 PDCLGLAHHCJ = 13;
+	uint32 PIJFHJNJNHM = 6;
+	uint32 CFEICPHGHIG = 7;
+	uint32 HJHJNBFEAOB = 9;
 }

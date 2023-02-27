@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IGENANOLEOL {
-	uint32 AIJOKLEENGC; = 11;
-	uint32 MEGEPCAJCKE; = 14;
+	uint32 AIJOKLEENGC = 11;
+	uint32 MEGEPCAJCKE = 14;
 }

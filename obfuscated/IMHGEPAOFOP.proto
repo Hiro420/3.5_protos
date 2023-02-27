@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IMHGEPAOFOP {
-	repeated uint32 KOEPJAIKKHG; = 5;
-	repeated uint32 MGOHBJCGELK; = 11;
+	repeated uint32 KOEPJAIKKHG = 5;
+	repeated uint32 MGOHBJCGELK = 11;
 }

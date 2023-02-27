@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "IHFHAKKFMHG.proto";
 
 message PPABGJHNOHL {
-	IHFHAKKFMHG CBOLHDNGDGC; = 6;
-	uint32 PDFLEGGDOCP; = 4;
+	IHFHAKKFMHG CBOLHDNGDGC = 6;
+	uint32 PDFLEGGDOCP = 4;
 }

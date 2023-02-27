@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "FHFHEHMGCCO.proto";
 
 message IBDHKPKIDND {
-	int64 GKHJKEGICOO; = 1;
-	repeated FHFHEHMGCCO MOOLAOOHHIC; = 2;
+	int64 GKHJKEGICOO = 1;
+	repeated FHFHEHMGCCO MOOLAOOHHIC = 2;
 }

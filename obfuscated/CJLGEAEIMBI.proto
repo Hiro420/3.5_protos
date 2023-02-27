@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CJLGEAEIMBI {
-	uint32 EGABCOAEGAN; = 12;
+	uint32 EGABCOAEGAN = 12;
 }

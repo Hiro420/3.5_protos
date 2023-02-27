@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BAFIKPMLBFP {
-	uint32 BNGHDMNKMNB; = 15;
-	uint32 KEBBACBLLLH; = 13;
+	uint32 BNGHDMNKMNB = 15;
+	uint32 KEBBACBLLLH = 13;
 }

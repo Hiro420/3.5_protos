@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OIEENDGMEIG {
-	map<uint32, uint32> KFCBCAKOONM; = 2;
-	uint32 NGFGJDLPGAN; = 12;
+	map<uint32, uint32> KFCBCAKOONM = 2;
+	uint32 NGFGJDLPGAN = 12;
 }

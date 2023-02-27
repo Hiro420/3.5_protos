@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "COPHAEDKHOK.proto";
 
 message NAFMLFFIGCN {
-	COPHAEDKHOK NDBMJFMCPAK; = 12;
-	uint32 PDFLEGGDOCP; = 6;
-	uint32 BEKCJPOGBHB; = 3;
+	COPHAEDKHOK NDBMJFMCPAK = 12;
+	uint32 PDFLEGGDOCP = 6;
+	uint32 BEKCJPOGBHB = 3;
 }

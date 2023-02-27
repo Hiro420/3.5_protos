@@ -3,14 +3,14 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FBKBALODAED {
-	uint32 DMAFBHJJMIF; = 9;
-	repeated uint32 MEPBBOLDMPM; = 8;
-	uint32 KCMEPPIKHLM; = 12;
-	uint32 MBNDPCHNFLH; = 3;
-	uint32 GHKIKNJNIGG; = 11;
-	uint32 FIFLKBGMGOH; = 7;
-	uint32 HCMPEPODKPP; = 13;
-	uint32 BNGHDMNKMNB; = 10;
-	uint32 NFOPOKGDODK; = 2;
-	uint32 JKDNHDLNHMJ; = 14;
+	uint32 DMAFBHJJMIF = 9;
+	repeated uint32 MEPBBOLDMPM = 8;
+	uint32 KCMEPPIKHLM = 12;
+	uint32 MBNDPCHNFLH = 3;
+	uint32 GHKIKNJNIGG = 11;
+	uint32 FIFLKBGMGOH = 7;
+	uint32 HCMPEPODKPP = 13;
+	uint32 BNGHDMNKMNB = 10;
+	uint32 NFOPOKGDODK = 2;
+	uint32 JKDNHDLNHMJ = 14;
 }

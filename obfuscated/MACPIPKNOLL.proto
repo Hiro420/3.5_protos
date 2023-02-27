@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "PCHDKENMKEJ.proto";
 
 message MACPIPKNOLL {
-	repeated PCHDKENMKEJ DLGNEDFGAFD; = 11;
-	uint32 JEEFNCHAJOJ; = 8;
+	repeated PCHDKENMKEJ DLGNEDFGAFD = 11;
+	uint32 JEEFNCHAJOJ = 8;
 }

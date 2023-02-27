@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message AKAOAPDHJBF {
-	float CEBNMGEFKJL; = 1;
-	float FEHDKBAABKF; = 2;
+	float CEBNMGEFKJL = 1;
+	float FEHDKBAABKF = 2;
 }

@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "CCNCLHGNBFP.proto";
 
 message HBKIPDFCPEM {
-	repeated CCNCLHGNBFP KMPHOILDIIK; = 12;
+	repeated CCNCLHGNBFP KMPHOILDIIK = 12;
 }

@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MKAPCIPKDFB {
-	uint32 DIJEPGCODAD; = 4;
+	uint32 DIJEPGCODAD = 4;
 }

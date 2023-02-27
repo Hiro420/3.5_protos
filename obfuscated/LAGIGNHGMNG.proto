@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LAGIGNHGMNG {
-	uint32 IAIEOLAOPAB; = 6;
+	uint32 IAIEOLAOPAB = 6;
 }

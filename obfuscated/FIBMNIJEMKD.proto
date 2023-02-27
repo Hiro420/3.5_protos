@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FIBMNIJEMKD {
-	string DODELGJMENP; = 2;
-	int32 JANHAFMHELC; = 9;
-	int32 IJIABMFLJGH; = 10;
+	string DODELGJMENP = 2;
+	int32 JANHAFMHELC = 9;
+	int32 IJIABMFLJGH = 10;
 }

@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FOKKOAKANJI {
-	uint32 CKEFLAMJNPN; = 4;
-	int32 IJIABMFLJGH; = 1;
-	uint32 KKMLAEEAHJA; = 13;
+	uint32 CKEFLAMJNPN = 4;
+	int32 IJIABMFLJGH = 1;
+	uint32 KKMLAEEAHJA = 13;
 }

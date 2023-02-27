@@ -3,18 +3,18 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IBPHKCENHNF {
-	uint32 DPJOJFFAOIB; = 1;
-	uint32 JKDNHDLNHMJ; = 2;
-	uint32 NFOPOKGDODK; = 4;
-	bool CIFHMCHNNIC; = 5;
-	uint32 BOFBIJGMIGM; = 6;
-	uint32 GHLLJNPOOGI; = 7;
-	uint32 OCMNJCADIGA; = 8;
-	uint32 LMINGFDNMCO; = 9;
-	repeated uint32 HCDNHIAOILN; = 10;
-	repeated uint32 AJPNFJNIMGF; = 11;
-	repeated uint32 EHEPJFNIMLH; = 12;
-	map<uint32, uint32> IHNODCPLAFI; = 13;
-	repeated uint32 KEILCBOIKAI; = 14;
-	map<uint32, uint32> DDBBMHMDACP; = 15;
+	uint32 DPJOJFFAOIB = 1;
+	uint32 JKDNHDLNHMJ = 2;
+	uint32 NFOPOKGDODK = 4;
+	bool CIFHMCHNNIC = 5;
+	uint32 BOFBIJGMIGM = 6;
+	uint32 GHLLJNPOOGI = 7;
+	uint32 OCMNJCADIGA = 8;
+	uint32 LMINGFDNMCO = 9;
+	repeated uint32 HCDNHIAOILN = 10;
+	repeated uint32 AJPNFJNIMGF = 11;
+	repeated uint32 EHEPJFNIMLH = 12;
+	map<uint32, uint32> IHNODCPLAFI = 13;
+	repeated uint32 KEILCBOIKAI = 14;
+	map<uint32, uint32> DDBBMHMDACP = 15;
 }

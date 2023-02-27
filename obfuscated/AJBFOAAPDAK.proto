@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message AJBFOAAPDAK {
-	uint32 MGIJKCNEIKB; = 6;
-	uint32 INOGMEJADOE; = 8;
+	uint32 MGIJKCNEIKB = 6;
+	uint32 INOGMEJADOE = 8;
 }

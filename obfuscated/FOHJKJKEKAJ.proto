@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "IMOOKGGFLKA.proto";
 
 message FOHJKJKEKAJ {
-	IMOOKGGFLKA DIJEPGCODAD; = 13;
+	IMOOKGGFLKA DIJEPGCODAD = 13;
 }

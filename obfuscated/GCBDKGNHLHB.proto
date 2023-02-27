@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "ILBGCAPNDLF.proto";
 
 message GCBDKGNHLHB {
-	int32 IJIABMFLJGH; = 1;
-	repeated ILBGCAPNDLF FIOJMKANAFF; = 13;
+	int32 IJIABMFLJGH = 1;
+	repeated ILBGCAPNDLF FIOJMKANAFF = 13;
 }

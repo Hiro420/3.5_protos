@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "GNNLENFEFKP.proto";
 
 message IAHCNIOCJCH {
-	uint32 LKDEOHLNFGP; = 4;
-	GNNLENFEFKP MCLBDMHDFME; = 1;
+	uint32 LKDEOHLNFGP = 4;
+	GNNLENFEFKP MCLBDMHDFME = 1;
 }

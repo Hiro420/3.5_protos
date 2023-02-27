@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EBNNHBHGOLP {
-	int32 IJIABMFLJGH; = 10;
-	uint32 EDDAOBIMJJB; = 2;
+	int32 IJIABMFLJGH = 10;
+	uint32 EDDAOBIMJJB = 2;
 }

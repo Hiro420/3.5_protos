@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PEPKLGNFLGE {
-	repeated uint32 PDFHOAILMJO; = 15;
+	repeated uint32 PDFHOAILMJO = 15;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "KNIKNHIMAFF.proto";
 
 message BKFNNPFHFBM {
-	repeated KNIKNHIMAFF NAINFAHOBLH; = 15;
-	int32 IJIABMFLJGH; = 14;
+	repeated KNIKNHIMAFF NAINFAHOBLH = 15;
+	int32 IJIABMFLJGH = 14;
 }

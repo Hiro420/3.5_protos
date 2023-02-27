@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "EIOOMOJGHCP.proto";
 
 message JENNEPEEJMO {
-	repeated EIOOMOJGHCP LFCJJJGJEKJ; = 1;
-	EIOOMOJGHCP EINJMBGPLGD; = 13;
-	repeated EIOOMOJGHCP GOKFCLPDOJN; = 9;
+	repeated EIOOMOJGHCP LFCJJJGJEKJ = 1;
+	EIOOMOJGHCP EINJMBGPLGD = 13;
+	repeated EIOOMOJGHCP GOKFCLPDOJN = 9;
 }

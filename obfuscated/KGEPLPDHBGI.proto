@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "PONFDKGBPMB.proto";
 
 message KGEPLPDHBGI {
-	repeated PONFDKGBPMB CNADFMPIGBI; = 12;
+	repeated PONFDKGBPMB CNADFMPIGBI = 12;
 }

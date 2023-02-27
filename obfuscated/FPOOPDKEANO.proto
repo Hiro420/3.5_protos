@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FPOOPDKEANO {
-	map<uint32, float> MIBGCBHMOLP; = 5;
-	uint64 POGHDEAENAD; = 8;
+	map<uint32, float> MIBGCBHMOLP = 5;
+	uint64 POGHDEAENAD = 8;
 }

@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OLMABJFMDLK {
-	uint32 DIGHGFNNKGA; = 8;
-	repeated uint32 IDLMJMJNADN; = 5;
+	uint32 DIGHGFNNKGA = 8;
+	repeated uint32 IDLMJMJNADN = 5;
 }

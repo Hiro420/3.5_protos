@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "PNGIMLOPGEG.proto";
 
 message EEELINAIEOJ {
-	PNGIMLOPGEG OMDCAKPEKJL; = 7;
+	PNGIMLOPGEG OMDCAKPEKJL = 7;
 }

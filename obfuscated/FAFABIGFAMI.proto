@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "EBFJBGCKDKC.proto";
 
 message FAFABIGFAMI {
-	EBFJBGCKDKC JGCNANDKMOH; = 14;
+	EBFJBGCKDKC JGCNANDKMOH = 14;
 }

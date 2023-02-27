@@ -3,11 +3,11 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LMHCKGGFINK {
-	uint32 MEJECDJKLCD; = 6;
-	uint32 KBGPNFBPENC; = 11;
-	uint32 DDLACNABNPO; = 1;
-	uint32 OPADEPDFEDA; = 3;
-	uint32 DCNMDMAPEHH; = 4;
-	uint32 OEMELLCEGBJ; = 9;
-	bool CEMONICLBEK; = 12;
+	uint32 MEJECDJKLCD = 6;
+	uint32 KBGPNFBPENC = 11;
+	uint32 DDLACNABNPO = 1;
+	uint32 OPADEPDFEDA = 3;
+	uint32 DCNMDMAPEHH = 4;
+	uint32 OEMELLCEGBJ = 9;
+	bool CEMONICLBEK = 12;
 }

@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "CBEGBPBBDMB.proto";
 
 message ANKBGAFHFKI {
-	repeated CBEGBPBBDMB CJMFOACHGHC; = 10;
-	uint32 HFKNDLGIPML; = 7;
-	uint32 PFKDFHHKBFD; = 1;
+	repeated CBEGBPBBDMB CJMFOACHGHC = 10;
+	uint32 HFKNDLGIPML = 7;
+	uint32 PFKDFHHKBFD = 1;
 }

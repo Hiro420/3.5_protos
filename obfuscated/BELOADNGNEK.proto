@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "KMNAIPMHDEG.proto";
 
 message BELOADNGNEK {
-	repeated KMNAIPMHDEG CEBFLKOHOBF; = 11;
+	repeated KMNAIPMHDEG CEBFLKOHOBF = 11;
 }

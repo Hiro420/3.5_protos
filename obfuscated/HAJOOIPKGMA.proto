@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HAJOOIPKGMA {
-	uint32 PDFLEGGDOCP; = 10;
-	string NKHNPCLCADD; = 6;
-	bool CANKFDJAHAN; = 9;
+	uint32 PDFLEGGDOCP = 10;
+	string NKHNPCLCADD = 6;
+	bool CANKFDJAHAN = 9;
 }

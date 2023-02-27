@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MONAENEBFNP {
-	uint32 IJPFNLFAPGI; = 2;
-	int32 IJIABMFLJGH; = 8;
+	uint32 IJPFNLFAPGI = 2;
+	int32 IJIABMFLJGH = 8;
 }

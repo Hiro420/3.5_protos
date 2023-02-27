@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "IAIKHNIKNHG.proto";
 
 message ADNOFILOCDI {
-	uint32 CJJBIEKIGPA; = 11;
-	uint32 IAIEOLAOPAB; = 3;
-	IAIKHNIKNHG GNLDDLIKJDN; = 12;
-	repeated uint32 LHILNNNBEME; = 7;
+	uint32 CJJBIEKIGPA = 11;
+	uint32 IAIEOLAOPAB = 3;
+	IAIKHNIKNHG GNLDDLIKJDN = 12;
+	repeated uint32 LHILNNNBEME = 7;
 }

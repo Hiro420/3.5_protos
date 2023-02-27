@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message NICDJJJMPJJ {
-	uint32 OGBNPABGBHH; = 6;
-	bool MHNAPHPMEOB; = 2;
-	uint32 NJAEFGBAJLN; = 11;
+	uint32 OGBNPABGBHH = 6;
+	bool MHNAPHPMEOB = 2;
+	uint32 NJAEFGBAJLN = 11;
 }

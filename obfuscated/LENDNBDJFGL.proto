@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LENDNBDJFGL {
-	uint32 AHEFDMPHAAK; = 11;
-	repeated uint32 BIGKKHKAGNF; = 15;
-	uint32 EPODNOIKDEM; = 6;
+	uint32 AHEFDMPHAAK = 11;
+	repeated uint32 BIGKKHKAGNF = 15;
+	uint32 EPODNOIKDEM = 6;
 }

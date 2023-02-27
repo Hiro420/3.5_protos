@@ -8,17 +8,17 @@ import "BBBEJBEBBLD.proto";
 import "EACNABDMBBF.proto";
 
 message LFKBPFHPKCN {
-	uint32 JAOBPKMBOKD; = 1;
-	map<uint32, EACNABDMBBF> PCLGCGJBFEK; = 2;
-	repeated uint32 OEHOLAFEDBD; = 3;
-	map<uint32, float> MIBGCBHMOLP; = 4;
-	uint32 DOKELIFOJAB; = 5;
-	uint32 EHBNKGEJCDL; = 6;
-	repeated uint32 CDOBNLGFLAA; = 7;
-	map<uint32, uint32> MIHGMNKKEGM; = 8;
-	map<uint32, uint32> KCPMHALGDKP; = 9;
-	repeated BBBEJBEBBLD ACJANLPCKHN; = 10;
-	CMMDBGIFBAL EFINMBAMAID; = 11;
-	uint32 LMFGKMPGIPD; = 12;
-	NEFCHPHBGAP DHPGKDIGGOL; = 13;
+	uint32 JAOBPKMBOKD = 1;
+	map<uint32, EACNABDMBBF> PCLGCGJBFEK = 2;
+	repeated uint32 OEHOLAFEDBD = 3;
+	map<uint32, float> MIBGCBHMOLP = 4;
+	uint32 DOKELIFOJAB = 5;
+	uint32 EHBNKGEJCDL = 6;
+	repeated uint32 CDOBNLGFLAA = 7;
+	map<uint32, uint32> MIHGMNKKEGM = 8;
+	map<uint32, uint32> KCPMHALGDKP = 9;
+	repeated BBBEJBEBBLD ACJANLPCKHN = 10;
+	CMMDBGIFBAL EFINMBAMAID = 11;
+	uint32 LMFGKMPGIPD = 12;
+	NEFCHPHBGAP DHPGKDIGGOL = 13;
 }

@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HJMDFHEGILD {
-	uint32 OMIOGANKAOP; = 14;
+	uint32 OMIOGANKAOP = 14;
 }

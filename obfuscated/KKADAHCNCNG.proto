@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "CMMDBGIFBAL.proto";
 
 message KKADAHCNCNG {
-	map<uint64, CMMDBGIFBAL> DMOKCMAGGDE; = 8;
+	map<uint64, CMMDBGIFBAL> DMOKCMAGGDE = 8;
 }

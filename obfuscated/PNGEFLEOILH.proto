@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PNGEFLEOILH {
-	repeated uint32 FMPCLKCKAMD; = 1;
+	repeated uint32 FMPCLKCKAMD = 1;
 }

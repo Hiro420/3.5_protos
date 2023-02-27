@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message AGOEHBNOKCH {
-	uint32 MODHMMINNOH; = 6;
-	int32 IJIABMFLJGH; = 8;
-	uint32 CLOKOLNACPN; = 14;
-	bool FDFODFAEACI; = 3;
+	uint32 MODHMMINNOH = 6;
+	int32 IJIABMFLJGH = 8;
+	uint32 CLOKOLNACPN = 14;
+	bool FDFODFAEACI = 3;
 }

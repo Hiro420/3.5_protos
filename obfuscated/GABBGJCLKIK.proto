@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message GABBGJCLKIK {
-	uint32 AHFGCEDNLHM; = 1;
-	uint32 IDILGEHKMON; = 2;
-	uint32 HONDPBACBNK; = 3;
-	uint32 EEAOHDLJHMP; = 4;
+	uint32 AHFGCEDNLHM = 1;
+	uint32 IDILGEHKMON = 2;
+	uint32 HONDPBACBNK = 3;
+	uint32 EEAOHDLJHMP = 4;
 }

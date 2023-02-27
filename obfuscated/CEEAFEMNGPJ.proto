@@ -5,11 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "NICDJJJMPJJ.proto";
 
 message CEEAFEMNGPJ {
-	uint32 AICHGGMIALC; = 11;
-	uint32 DDCNOGGBFAI; = 14;
-	uint32 APPJCEKCOBP; = 13;
-	repeated NICDJJJMPJJ DNKJGPIPJAK; = 15;
-	uint32 GJGAMKPCOBE; = 3;
-	uint32 AGILGBMCAEN; = 4;
-	uint32 NKHLKGPINMK; = 7;
+	uint32 AICHGGMIALC = 11;
+	uint32 DDCNOGGBFAI = 14;
+	uint32 APPJCEKCOBP = 13;
+	repeated NICDJJJMPJJ DNKJGPIPJAK = 15;
+	uint32 GJGAMKPCOBE = 3;
+	uint32 AGILGBMCAEN = 4;
+	uint32 NKHLKGPINMK = 7;
 }

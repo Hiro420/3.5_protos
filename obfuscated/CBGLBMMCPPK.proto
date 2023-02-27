@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CBGLBMMCPPK {
-	string EKLGHKHNKFI; = 1;
-	string FELNMAMJHCP; = 2;
-	string PCBEOLGLHPN; = 3;
+	string EKLGHKHNKFI = 1;
+	string FELNMAMJHCP = 2;
+	string PCBEOLGLHPN = 3;
 }

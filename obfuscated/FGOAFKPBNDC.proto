@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FGOAFKPBNDC {
-	bool MFPGHFOFAFP; = 15;
-	string FLLJCECLOEA; = 3;
-	string GGLLIEIEEOL; = 1;
+	bool MFPGHFOFAFP = 15;
+	string FLLJCECLOEA = 3;
+	string GGLLIEIEEOL = 1;
 }

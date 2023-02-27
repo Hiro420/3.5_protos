@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HAFIBFIFCMD {
-	bool EIEALMKLEIC; = 8;
-	uint32 CKDLHFIADEK; = 11;
-	uint32 MBNDPCHNFLH; = 7;
+	bool EIEALMKLEIC = 8;
+	uint32 CKDLHFIADEK = 11;
+	uint32 MBNDPCHNFLH = 7;
 }

@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PFINALGKHEB {
-	bool ELPEJHDLOBC; = 6;
-	repeated uint32 DAGINEBHJBN; = 14;
+	bool ELPEJHDLOBC = 6;
+	repeated uint32 DAGINEBHJBN = 14;
 }

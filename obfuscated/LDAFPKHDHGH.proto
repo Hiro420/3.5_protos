@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "DKJMPKAMKLA.proto";
 
 message LDAFPKHDHGH {
-	repeated DKJMPKAMKLA NHKJECAMGLA; = 7;
+	repeated DKJMPKAMKLA NHKJECAMGLA = 7;
 }

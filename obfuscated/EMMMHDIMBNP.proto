@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EMMMHDIMBNP {
-	uint32 BEJDBNONODA; = 2;
-	uint32 MEGEPCAJCKE; = 6;
+	uint32 BEJDBNONODA = 2;
+	uint32 MEGEPCAJCKE = 6;
 }

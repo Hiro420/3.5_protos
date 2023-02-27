@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MNNNCKCAGLP {
-	uint32 NMNFNBJMPBJ; = 1;
-	uint32 GJDMBBAMIDJ; = 2;
+	uint32 NMNFNBJMPBJ = 1;
+	uint32 GJDMBBAMIDJ = 2;
 }

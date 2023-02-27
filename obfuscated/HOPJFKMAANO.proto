@@ -3,10 +3,10 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HOPJFKMAANO {
-	uint32 KKMLAEEAHJA; = 3;
-	uint64 NPPJLAMECGH; = 8;
-	int32 LEIJGCHBFIN; = 6;
-	uint32 JDJDOCNKLHI; = 5;
-	uint32 JDJMCIPMCHE; = 13;
-	uint32 LABOMKEGNGN; = 9;
+	uint32 KKMLAEEAHJA = 3;
+	uint64 NPPJLAMECGH = 8;
+	int32 LEIJGCHBFIN = 6;
+	uint32 JDJDOCNKLHI = 5;
+	uint32 JDJMCIPMCHE = 13;
+	uint32 LABOMKEGNGN = 9;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "KBJAJFKCKGI.proto";
 
 message LANGJAKENPJ {
-	repeated uint32 NJJLCDGPKOB; = 9;
-	repeated KBJAJFKCKGI LALLGCCFAFE; = 12;
+	repeated uint32 NJJLCDGPKOB = 9;
+	repeated KBJAJFKCKGI LALLGCCFAFE = 12;
 }

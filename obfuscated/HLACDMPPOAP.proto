@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HLACDMPPOAP {
-	uint32 FINGHKEGKOJ; = 9;
+	uint32 FINGHKEGKOJ = 9;
 }

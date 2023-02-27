@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 
 message PIBJPDAAJLK {
-	uint64 DAKINCEPDIJ; = 7;
-	DALMLFNANKL ONPNDEDLPNB; = 15;
+	uint64 DAKINCEPDIJ = 7;
+	DALMLFNANKL ONPNDEDLPNB = 15;
 }

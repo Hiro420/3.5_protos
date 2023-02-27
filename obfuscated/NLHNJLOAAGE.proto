@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message NLHNJLOAAGE {
-	uint64 GJDMBBAMIDJ; = 1;
+	uint64 GJDMBBAMIDJ = 1;
 }

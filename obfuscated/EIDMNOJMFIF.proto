@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "DOINBFHLBHP.proto";
 
 message EIDMNOJMFIF {
-	map<uint32, uint32> DBPHEDJFFFO; = 10;
-	DOINBFHLBHP FDMDMIABAAH; = 8;
+	map<uint32, uint32> DBPHEDJFFFO = 10;
+	DOINBFHLBHP FDMDMIABAAH = 8;
 }

@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PMNCOOCIDBM {
-	uint32 GJNGOHMNEGD; = 14;
-	uint32 FDFJGMKKEDA; = 2;
+	uint32 GJNGOHMNEGD = 14;
+	uint32 FDFJGMKKEDA = 2;
 }

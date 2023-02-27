@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EANAJADAGJP {
-	uint32 MHCGANALPFE; = 3;
-	bool LJJMALDPOOL; = 9;
-	int32 IJIABMFLJGH; = 14;
-	uint32 DAIBJCNPOJG; = 13;
+	uint32 MHCGANALPFE = 3;
+	bool LJJMALDPOOL = 9;
+	int32 IJIABMFLJGH = 14;
+	uint32 DAIBJCNPOJG = 13;
 }

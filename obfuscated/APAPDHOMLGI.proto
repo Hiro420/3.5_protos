@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message APAPDHOMLGI {
-	uint32 OGECCMIPGDB; = 13;
+	uint32 OGECCMIPGDB = 13;
 }

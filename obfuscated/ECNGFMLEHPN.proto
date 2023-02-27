@@ -3,9 +3,9 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ECNGFMLEHPN {
-	uint32 JEEFNCHAJOJ; = 12;
-	bool CEKEOGIAEBI; = 14;
-	uint32 JIKFEHBKOCO; = 8;
-	uint32 NFOPOKGDODK; = 10;
-	repeated uint32 CEOAHLEFDBB; = 15;
+	uint32 JEEFNCHAJOJ = 12;
+	bool CEKEOGIAEBI = 14;
+	uint32 JIKFEHBKOCO = 8;
+	uint32 NFOPOKGDODK = 10;
+	repeated uint32 CEOAHLEFDBB = 15;
 }

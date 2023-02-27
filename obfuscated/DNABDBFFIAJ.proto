@@ -6,8 +6,8 @@ import "AEJMHCCJBEH.proto";
 import "EOJPOKECCCF.proto";
 
 message DNABDBFFIAJ {
-	repeated EOJPOKECCCF CLBEDFEEJCC; = 3;
-	bool CKMCPIOKFFE; = 5;
-	repeated AEJMHCCJBEH KDDNNKBDJEI; = 2;
-	uint32 OBEEECDCKAK; = 1;
+	repeated EOJPOKECCCF CLBEDFEEJCC = 3;
+	bool CKMCPIOKFFE = 5;
+	repeated AEJMHCCJBEH KDDNNKBDJEI = 2;
+	uint32 OBEEECDCKAK = 1;
 }

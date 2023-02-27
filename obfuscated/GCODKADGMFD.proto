@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message GCODKADGMFD {
-	uint32 KCMEPPIKHLM; = 2;
-	uint32 BNGHDMNKMNB; = 8;
-	uint32 PDFLEGGDOCP; = 10;
+	uint32 KCMEPPIKHLM = 2;
+	uint32 BNGHDMNKMNB = 8;
+	uint32 PDFLEGGDOCP = 10;
 }

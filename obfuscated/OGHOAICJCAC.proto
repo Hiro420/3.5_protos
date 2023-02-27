@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OGHOAICJCAC {
-	uint32 OGODKAKGFIH; = 5;
-	int32 IJIABMFLJGH; = 1;
+	uint32 OGODKAKGFIH = 5;
+	int32 IJIABMFLJGH = 1;
 }

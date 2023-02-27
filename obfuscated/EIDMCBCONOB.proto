@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "CPCLNBAOEMO.proto";
 
 message EIDMCBCONOB {
-	repeated CPCLNBAOEMO MHACHLFONFK; = 8;
+	repeated CPCLNBAOEMO MHACHLFONFK = 8;
 }

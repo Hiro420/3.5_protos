@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "FBKBALODAED.proto";
 
 message GANMGHEFDNP {
-	FBKBALODAED KKPGKEPJEMO; = 2;
+	FBKBALODAED KKPGKEPJEMO = 2;
 }

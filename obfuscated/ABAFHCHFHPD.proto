@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ABAFHCHFHPD {
-	uint32 HBGOKHAELLK; = 11;
+	uint32 HBGOKHAELLK = 11;
 }

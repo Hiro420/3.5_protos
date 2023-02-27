@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "EACNABDMBBF.proto";
 
 message ENHEBOIHJJO {
-	map<uint32, EACNABDMBBF> PCLGCGJBFEK; = 5;
-	uint32 PDFLEGGDOCP; = 15;
+	map<uint32, EACNABDMBBF> PCLGCGJBFEK = 5;
+	uint32 PDFLEGGDOCP = 15;
 }

@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OCLFPKFMGBE {
-	int32 ABPJCCJHPJG; = 6;
-	int32 JFFLKIBBGEG; = 1;
-	uint32 KFEMBAPKMFH; = 3;
+	int32 ABPJCCJHPJG = 6;
+	int32 JFFLKIBBGEG = 1;
+	uint32 KFEMBAPKMFH = 3;
 }

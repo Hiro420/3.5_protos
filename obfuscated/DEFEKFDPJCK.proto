@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DEFEKFDPJCK {
-	uint32 PDFLEGGDOCP; = 14;
-	float LKGEDLLHDBG; = 12;
+	uint32 PDFLEGGDOCP = 14;
+	float LKGEDLLHDBG = 12;
 }

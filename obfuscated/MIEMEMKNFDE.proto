@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MIEMEMKNFDE {
-	uint64 POGHDEAENAD; = 14;
+	uint64 POGHDEAENAD = 14;
 }

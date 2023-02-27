@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OBALIOMGPBI {
-	int32 IJIABMFLJGH; = 9;
-	uint32 KMCCJLOLPAG; = 11;
+	int32 IJIABMFLJGH = 9;
+	uint32 KMCCJLOLPAG = 11;
 }

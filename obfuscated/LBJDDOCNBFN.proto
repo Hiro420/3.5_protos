@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "LDLPOHMEPLJ.proto";
 
 message LBJDDOCNBFN {
-	int32 GJDMBBAMIDJ; = 7;
-	LDLPOHMEPLJ HCMPEPODKPP; = 11;
+	int32 GJDMBBAMIDJ = 7;
+	LDLPOHMEPLJ HCMPEPODKPP = 11;
 }

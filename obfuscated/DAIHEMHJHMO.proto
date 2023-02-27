@@ -8,11 +8,11 @@ import "OMCFMEFELOC.proto";
 import "BLAPHKFLNJB.proto";
 
 message DAIHEMHJHMO {
-	repeated BLAPHKFLNJB BGBEJMLJGOK; = 12;
-	repeated OMCFMEFELOC ADDOPDCOLFI; = 9;
-	repeated NBBNIDCNBNJ OAEEKDIPKGI; = 2;
-	repeated HMEFDAPADKA ODDACLGIAGN; = 14;
-	repeated uint32 ELEMALAOIJH; = 1;
-	repeated uint32 KHKNGHHABLJ; = 5;
-	repeated uint32 JJFCNIJAAEO; = 8;
+	repeated BLAPHKFLNJB BGBEJMLJGOK = 12;
+	repeated OMCFMEFELOC ADDOPDCOLFI = 9;
+	repeated NBBNIDCNBNJ OAEEKDIPKGI = 2;
+	repeated HMEFDAPADKA ODDACLGIAGN = 14;
+	repeated uint32 ELEMALAOIJH = 1;
+	repeated uint32 KHKNGHHABLJ = 5;
+	repeated uint32 JJFCNIJAAEO = 8;
 }

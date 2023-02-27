@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DGGGGCPKFNL {
-	bool CCAJAMACPMB; = 9;
+	bool CCAJAMACPMB = 9;
 }

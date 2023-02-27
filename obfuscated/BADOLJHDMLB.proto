@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "DLIGBJOALKN.proto";
 
 message BADOLJHDMLB {
-	DLIGBJOALKN PDFBBFBADJN; = 5;
-	repeated DLIGBJOALKN JDEIPMBIPNI; = 11;
-	bool PKKAGBDIOOP; = 10;
+	DLIGBJOALKN PDFBBFBADJN = 5;
+	repeated DLIGBJOALKN JDEIPMBIPNI = 11;
+	bool PKKAGBDIOOP = 10;
 }

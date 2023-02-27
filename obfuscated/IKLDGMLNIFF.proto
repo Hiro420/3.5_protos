@@ -3,10 +3,10 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IKLDGMLNIFF {
-	uint32 LDHEAPEDIHK; = 2;
-	uint32 CIHCINNPHLP; = 4;
-	uint32 KLKHMFNOLOB; = 12;
-	repeated uint32 KEOMLGNDONJ; = 7;
-	uint32 KMNFFOMDAIL; = 11;
-	uint32 LHMGLMJHLBP; = 14;
+	uint32 LDHEAPEDIHK = 2;
+	uint32 CIHCINNPHLP = 4;
+	uint32 KLKHMFNOLOB = 12;
+	repeated uint32 KEOMLGNDONJ = 7;
+	uint32 KMNFFOMDAIL = 11;
+	uint32 LHMGLMJHLBP = 14;
 }

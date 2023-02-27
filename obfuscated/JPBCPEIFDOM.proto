@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message JPBCPEIFDOM {
-	uint32 HJCAMPKGCFP; = 4;
+	uint32 HJCAMPKGCFP = 4;
 }

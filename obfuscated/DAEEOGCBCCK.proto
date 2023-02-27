@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "ONKNDCHIGIA.proto";
 
 message DAEEOGCBCCK {
-	repeated ONKNDCHIGIA LIHEPHPKCOI; = 15;
+	repeated ONKNDCHIGIA LIHEPHPKCOI = 15;
 }

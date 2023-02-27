@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "FEPJMFICDGB.proto";
 
 message KAONIMBCNLI {
-	FEPJMFICDGB GIPBJFBBEFI; = 1;
+	FEPJMFICDGB GIPBJFBBEFI = 1;
 }

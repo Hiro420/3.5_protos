@@ -3,12 +3,12 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HAMOAAGMJCK {
-	uint32 DBCEEODIKCO; = 4;
-	bool MFPGHFOFAFP; = 7;
-	uint32 KKMLAEEAHJA; = 3;
-	uint32 AIJOKLEENGC; = 15;
-	uint32 GNGDEGLHIAL; = 14;
-	uint32 NBDHIEAPMOL; = 1;
-	uint32 JICBLPDMAAP; = 8;
-	bool DBIKCJCJHFI; = 12;
+	uint32 DBCEEODIKCO = 4;
+	bool MFPGHFOFAFP = 7;
+	uint32 KKMLAEEAHJA = 3;
+	uint32 AIJOKLEENGC = 15;
+	uint32 GNGDEGLHIAL = 14;
+	uint32 NBDHIEAPMOL = 1;
+	uint32 JICBLPDMAAP = 8;
+	bool DBIKCJCJHFI = 12;
 }

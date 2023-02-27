@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FDCFKALNIED {
-	bool CCAJAMACPMB; = 3;
-	int32 IJIABMFLJGH; = 4;
+	bool CCAJAMACPMB = 3;
+	int32 IJIABMFLJGH = 4;
 }

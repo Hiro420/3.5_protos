@@ -3,10 +3,10 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LAALFPAGOIL {
-	uint32 PNKEAFMICOH; = 13;
-	uint32 LABOMKEGNGN; = 6;
-	uint32 LEIJGCHBFIN; = 1;
-	map<uint32, uint32> LKAKLAMDHFC; = 4;
-	uint32 KKMLAEEAHJA; = 11;
-	bool JGIMIFFNMHO; = 12;
+	uint32 PNKEAFMICOH = 13;
+	uint32 LABOMKEGNGN = 6;
+	uint32 LEIJGCHBFIN = 1;
+	map<uint32, uint32> LKAKLAMDHFC = 4;
+	uint32 KKMLAEEAHJA = 11;
+	bool JGIMIFFNMHO = 12;
 }

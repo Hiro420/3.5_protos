@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PMMDNPCMFAM {
-	int32 IJIABMFLJGH; = 11;
-	uint32 PDFLEGGDOCP; = 7;
+	int32 IJIABMFLJGH = 11;
+	uint32 PDFLEGGDOCP = 7;
 }

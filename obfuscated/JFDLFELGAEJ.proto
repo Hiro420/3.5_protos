@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "MNNNCKCAGLP.proto";
 
 message JFDLFELGAEJ {
-	uint32 GGDMGDJLKCO; = 6;
-	repeated MNNNCKCAGLP DKIDJGGMIFG; = 12;
+	uint32 GGDMGDJLKCO = 6;
+	repeated MNNNCKCAGLP DKIDJGGMIFG = 12;
 }

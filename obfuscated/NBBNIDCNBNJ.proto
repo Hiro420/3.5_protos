@@ -6,11 +6,11 @@ import "BHKGAINOAON.proto";
 import "OLAHPIKKKOM.proto";
 
 message NBBNIDCNBNJ {
-	repeated uint32 JHOBMGBJMFG; = 15;
-	uint32 PDDPIHFNDBO; = 5;
-	uint32 OEGEDJPNJAD; = 11;
-	uint32 GKKCJKPKDHN; = 10;
-	repeated uint32 IANENKKPEDA; = 6;
-	repeated OLAHPIKKKOM BHPHIDFHIHP; = 12;
-	repeated BHKGAINOAON KEFKAAEHGLK; = 14;
+	repeated uint32 JHOBMGBJMFG = 15;
+	uint32 PDDPIHFNDBO = 5;
+	uint32 OEGEDJPNJAD = 11;
+	uint32 GKKCJKPKDHN = 10;
+	repeated uint32 IANENKKPEDA = 6;
+	repeated OLAHPIKKKOM BHPHIDFHIHP = 12;
+	repeated BHKGAINOAON KEFKAAEHGLK = 14;
 }

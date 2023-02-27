@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "ANJOMJAFKNK.proto";
 
 message IDDOKPGDFOP {
-	map<uint64, ANJOMJAFKNK> CAIPAJKGJPM; = 13;
+	map<uint64, ANJOMJAFKNK> CAIPAJKGJPM = 13;
 }

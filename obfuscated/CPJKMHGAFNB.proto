@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CPJKMHGAFNB {
-	repeated uint32 EEHPMLIFDLD; = 11;
-	uint32 PDFLEGGDOCP; = 2;
+	repeated uint32 EEHPMLIFDLD = 11;
+	uint32 PDFLEGGDOCP = 2;
 }

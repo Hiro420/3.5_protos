@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "MNNNCKCAGLP.proto";
 
 message ICEGEEIBAEK {
-	repeated MNNNCKCAGLP PNFOLOOLMMA; = 3;
-	uint32 HBMBODJGAPM; = 11;
-	uint32 KFEMBAPKMFH; = 6;
+	repeated MNNNCKCAGLP PNFOLOOLMMA = 3;
+	uint32 HBMBODJGAPM = 11;
+	uint32 KFEMBAPKMFH = 6;
 }

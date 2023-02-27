@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MLEOKHKOFND {
-	uint32 CJMCIOJABIJ; = 9;
-	uint32 AKNMLKBBDJC; = 12;
-	uint32 EPAGALFDDBF; = 1;
-	bool FNBFLNGOJPA; = 13;
+	uint32 CJMCIOJABIJ = 9;
+	uint32 AKNMLKBBDJC = 12;
+	uint32 EPAGALFDDBF = 1;
+	bool FNBFLNGOJPA = 13;
 }

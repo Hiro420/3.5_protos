@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BKBJJNKOPGB {
-	uint32 PDFLEGGDOCP; = 3;
-	uint32 MAPBJECAOAJ; = 12;
+	uint32 PDFLEGGDOCP = 3;
+	uint32 MAPBJECAOAJ = 12;
 }

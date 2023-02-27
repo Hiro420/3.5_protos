@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "OEDJPHACFPH.proto";
 
 message ADCHONLBKMH {
-	uint32 OFBMGFHIPAD; = 1;
-	OEDJPHACFPH ENBKNHGCHAB; = 2;
+	uint32 OFBMGFHIPAD = 1;
+	OEDJPHACFPH ENBKNHGCHAB = 2;
 }

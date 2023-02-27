@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "FJFMHHFJGNP.proto";
 
 message DIEEDAKFLAJ {
-	bool DBIKCJCJHFI; = 10;
-	FJFMHHFJGNP LNFKELDOBON; = 15;
+	bool DBIKCJCJHFI = 10;
+	FJFMHHFJGNP LNFKELDOBON = 15;
 }

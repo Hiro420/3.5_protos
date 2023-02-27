@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "NBBNIDCNBNJ.proto";
 
 message NMDMEHICCPN {
-	NBBNIDCNBNJ ENHMOINPNLE; = 13;
+	NBBNIDCNBNJ ENHMOINPNLE = 13;
 }

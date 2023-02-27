@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "KOHDDNNKDAG.proto";
 
 message KOAJCOGAHIE {
-	bool JEPNMPDGKFK; = 9;
-	KOHDDNNKDAG FJDIGJKCILO; = 13;
+	bool JEPNMPDGKFK = 9;
+	KOHDDNNKDAG FJDIGJKCILO = 13;
 }

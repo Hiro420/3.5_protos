@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FAONDBOEDMA {
-	uint32 ODKBGHOLKPM; = 12;
-	map<uint32, uint32> DAGHGPHKDGC; = 1;
+	uint32 ODKBGHOLKPM = 12;
+	map<uint32, uint32> DAGHGPHKDGC = 1;
 }

@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "FLHBFICFCCM.proto";
 
 message DBLKKPIOGGG {
-	int32 IJIABMFLJGH; = 9;
-	uint32 AHEFDMPHAAK; = 1;
-	repeated FLHBFICFCCM KBJKNDGIPKM; = 12;
-	uint32 AIJOKLEENGC; = 5;
+	int32 IJIABMFLJGH = 9;
+	uint32 AHEFDMPHAAK = 1;
+	repeated FLHBFICFCCM KBJKNDGIPKM = 12;
+	uint32 AIJOKLEENGC = 5;
 }

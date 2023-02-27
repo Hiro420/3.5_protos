@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message GNNGDDLNMPK {
-	uint32 AIJOKLEENGC; = 8;
-	int32 IJIABMFLJGH; = 4;
+	uint32 AIJOKLEENGC = 8;
+	int32 IJIABMFLJGH = 4;
 }

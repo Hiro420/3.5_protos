@@ -3,9 +3,9 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FCFNMEJMONG {
-	uint32 NAEGOGKCCIB; = 11;
-	bool DBIKCJCJHFI; = 3;
-	int32 IJIABMFLJGH; = 13;
-	uint64 DHJBPPJOKNK; = 5;
-	bool KJBDEIBLACP; = 2;
+	uint32 NAEGOGKCCIB = 11;
+	bool DBIKCJCJHFI = 3;
+	int32 IJIABMFLJGH = 13;
+	uint64 DHJBPPJOKNK = 5;
+	bool KJBDEIBLACP = 2;
 }

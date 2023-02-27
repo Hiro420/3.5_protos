@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OHOPHOBAPIL {
-	repeated int32 GGPCDKCFMOA; = 10;
-	uint32 NMNFNBJMPBJ; = 5;
+	repeated int32 GGPCDKCFMOA = 10;
+	uint32 NMNFNBJMPBJ = 5;
 }

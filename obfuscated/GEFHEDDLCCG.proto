@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message GEFHEDDLCCG {
-	uint32 DNDDJPAFBCE; = 1;
-	uint32 KDJHNHNLNPE; = 10;
-	uint32 LABOMKEGNGN; = 4;
-	uint32 NFOPOKGDODK; = 6;
+	uint32 DNDDJPAFBCE = 1;
+	uint32 KDJHNHNLNPE = 10;
+	uint32 LABOMKEGNGN = 4;
+	uint32 NFOPOKGDODK = 6;
 }

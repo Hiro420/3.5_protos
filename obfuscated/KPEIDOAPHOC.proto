@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KPEIDOAPHOC {
-	uint32 AAEBBDIDMAO; = 14;
-	int32 IJIABMFLJGH; = 11;
-	uint32 ICFIJIEKEEJ; = 2;
+	uint32 AAEBBDIDMAO = 14;
+	int32 IJIABMFLJGH = 11;
+	uint32 ICFIJIEKEEJ = 2;
 }

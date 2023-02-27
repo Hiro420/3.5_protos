@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message AODGPLLILEL {
-	uint32 NOKDGNIHLGF; = 10;
-	uint64 POGHDEAENAD; = 3;
+	uint32 NOKDGNIHLGF = 10;
+	uint64 POGHDEAENAD = 3;
 }

@@ -3,11 +3,11 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ICNAKHAOKCB {
-	bool OAAGEIPBBMA; = 4;
-	uint32 AIJOKLEENGC; = 9;
-	bool GOBOOMKFDNI; = 8;
-	uint32 FJGLNNHJKIB; = 14;
-	uint32 HBMBODJGAPM; = 2;
-	uint32 JAOBPKMBOKD; = 11;
-	uint32 IJPFNLFAPGI; = 12;
+	bool OAAGEIPBBMA = 4;
+	uint32 AIJOKLEENGC = 9;
+	bool GOBOOMKFDNI = 8;
+	uint32 FJGLNNHJKIB = 14;
+	uint32 HBMBODJGAPM = 2;
+	uint32 JAOBPKMBOKD = 11;
+	uint32 IJPFNLFAPGI = 12;
 }

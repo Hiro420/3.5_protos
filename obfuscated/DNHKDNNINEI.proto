@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "LKEBHBGDDFA.proto";
 
 message DNHKDNNINEI {
-	repeated LKEBHBGDDFA ANDENCPPLOA; = 6;
+	repeated LKEBHBGDDFA ANDENCPPLOA = 6;
 }

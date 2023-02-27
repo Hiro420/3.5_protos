@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FCJLAGHOIFC {
-	uint32 PDFLEGGDOCP; = 10;
-	bool AJMAPFMDPGC; = 6;
-	bool MKCONEJHDEP; = 8;
+	uint32 PDFLEGGDOCP = 10;
+	bool AJMAPFMDPGC = 6;
+	bool MKCONEJHDEP = 8;
 }

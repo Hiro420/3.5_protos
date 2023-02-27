@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "NACCPGOMNLE.proto";
 
 message PPOLCIAJKGN {
-	uint32 HFKNDLGIPML; = 15;
-	NACCPGOMNLE IJIMBFFKGGK; = 3;
+	uint32 HFKNDLGIPML = 15;
+	NACCPGOMNLE IJIMBFFKGGK = 3;
 }

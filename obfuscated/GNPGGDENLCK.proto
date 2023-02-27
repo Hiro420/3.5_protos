@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message GNPGGDENLCK {
-	uint32 OFKOOHKDFEC; = 5;
-	uint32 OEGEDJPNJAD; = 12;
+	uint32 OFKOOHKDFEC = 5;
+	uint32 OEGEDJPNJAD = 12;
 }

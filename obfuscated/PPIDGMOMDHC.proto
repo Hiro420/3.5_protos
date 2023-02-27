@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "AKIMCMDLPEK.proto";
 
 message PPIDGMOMDHC {
-	uint32 KKMLAEEAHJA; = 10;
-	AKIMCMDLPEK LNFKELDOBON; = 6;
+	uint32 KKMLAEEAHJA = 10;
+	AKIMCMDLPEK LNFKELDOBON = 6;
 }

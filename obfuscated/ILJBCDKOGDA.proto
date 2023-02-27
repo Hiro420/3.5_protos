@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ILJBCDKOGDA {
-	uint32 ALDAHBKPOJE; = 3;
+	uint32 ALDAHBKPOJE = 3;
 }

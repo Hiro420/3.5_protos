@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "KEJMEHAPBOJ.proto";
 
 message DEBHBDNMDAA {
-	KEJMEHAPBOJ AFKLENIEKMJ; = 3;
+	KEJMEHAPBOJ AFKLENIEKMJ = 3;
 }

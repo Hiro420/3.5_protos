@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "IEMOLLDEMBH.proto";
 
 message HECBIKPCMOF {
-	IEMOLLDEMBH NKHNPCLCADD; = 12;
-	uint32 BMMNFGPOIAM; = 13;
+	IEMOLLDEMBH NKHNPCLCADD = 12;
+	uint32 BMMNFGPOIAM = 13;
 }

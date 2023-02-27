@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IBBHKLAGPHG {
-	uint32 PDFLEGGDOCP; = 7;
+	uint32 PDFLEGGDOCP = 7;
 }

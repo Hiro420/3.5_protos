@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "BKBKNDJIDHM.proto";
 
 message LIDFLIOHLDF {
-	BKBKNDJIDHM MANADEFHNGP; = 11;
-	int32 IJIABMFLJGH; = 9;
+	BKBKNDJIDHM MANADEFHNGP = 11;
+	int32 IJIABMFLJGH = 9;
 }

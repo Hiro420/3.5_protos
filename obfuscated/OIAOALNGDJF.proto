@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 
 message OIAOALNGDJF {
-	uint32 AAHPGNIAFFG; = 5;
-	DALMLFNANKL AKANNIGGDKH; = 3;
-	uint32 PDFLEGGDOCP; = 11;
+	uint32 AAHPGNIAFFG = 5;
+	DALMLFNANKL AKANNIGGDKH = 3;
+	uint32 PDFLEGGDOCP = 11;
 }

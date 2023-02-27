@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PNLPMLCGLPB {
-	repeated uint32 JOFPMKJFGKO; = 1;
-	uint32 OECAPKFMIAP; = 14;
+	repeated uint32 JOFPMKJFGKO = 1;
+	uint32 OECAPKFMIAP = 14;
 }

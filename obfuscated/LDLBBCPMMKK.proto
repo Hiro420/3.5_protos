@@ -6,8 +6,8 @@ import "KJDMCAKDFCO.proto";
 import "CABODJPEHAN.proto";
 
 message LDLBBCPMMKK {
-	repeated CABODJPEHAN BMJMCGFPEGD; = 2;
-	map<uint32, uint32> KACPDBFDHID; = 1;
-	repeated KJDMCAKDFCO LIHEPHPKCOI; = 11;
-	repeated CABODJPEHAN DHAELIIGBJB; = 13;
+	repeated CABODJPEHAN BMJMCGFPEGD = 2;
+	map<uint32, uint32> KACPDBFDHID = 1;
+	repeated KJDMCAKDFCO LIHEPHPKCOI = 11;
+	repeated CABODJPEHAN DHAELIIGBJB = 13;
 }

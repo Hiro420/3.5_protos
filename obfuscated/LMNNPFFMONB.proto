@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "HNAOKKPNHAB.proto";
 
 message LMNNPFFMONB {
-	HNAOKKPNHAB OMDCAKPEKJL; = 12;
+	HNAOKKPNHAB OMDCAKPEKJL = 12;
 }

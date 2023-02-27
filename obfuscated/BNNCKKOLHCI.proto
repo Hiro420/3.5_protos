@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "IPNHFHNBAPH.proto";
 
 message BNNCKKOLHCI {
-	map<uint32, IPNHFHNBAPH> AEODLGINNPO; = 13;
+	map<uint32, IPNHFHNBAPH> AEODLGINNPO = 13;
 }

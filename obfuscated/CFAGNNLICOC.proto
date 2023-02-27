@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "JFGOFCIOKNH.proto";
 
 message CFAGNNLICOC {
-	repeated JFGOFCIOKNH BIGLLALEJED; = 9;
+	repeated JFGOFCIOKNH BIGLLALEJED = 9;
 }

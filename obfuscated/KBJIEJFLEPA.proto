@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KBJIEJFLEPA {
-	uint32 OFBMGFHIPAD; = 5;
-	uint64 JDDEJFKJHJN; = 7;
+	uint32 OFBMGFHIPAD = 5;
+	uint64 JDDEJFKJHJN = 7;
 }

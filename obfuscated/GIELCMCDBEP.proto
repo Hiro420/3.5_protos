@@ -5,16 +5,16 @@ option java_package = "emu.grasscutter.net.proto";
 import "GGJNNEGFMKM.proto";
 
 message GIELCMCDBEP {
-	uint32 BLFCBLBJJGI; = 10;
-	uint32 CNBFAEKIOFL; = 12;
-	uint32 NFOPOKGDODK; = 14;
-	uint32 DMOIFFGBNAG; = 13;
-	uint32 EKNNABHLFOM; = 4;
-	bool IOPCNOMMOMN; = 8;
-	string AFJJCDAMFIK; = 5;
-	bool HOOJLOGIAOD; = 1;
-	bool BPDAEFBDHMN; = 2;
-	uint32 JBPNHOFNGDA; = 6;
-	uint32 FPNIJFBLNNE; = 9;
-	GGJNNEGFMKM CKHBCOILEDN; = 3;
+	uint32 BLFCBLBJJGI = 10;
+	uint32 CNBFAEKIOFL = 12;
+	uint32 NFOPOKGDODK = 14;
+	uint32 DMOIFFGBNAG = 13;
+	uint32 EKNNABHLFOM = 4;
+	bool IOPCNOMMOMN = 8;
+	string AFJJCDAMFIK = 5;
+	bool HOOJLOGIAOD = 1;
+	bool BPDAEFBDHMN = 2;
+	uint32 JBPNHOFNGDA = 6;
+	uint32 FPNIJFBLNNE = 9;
+	GGJNNEGFMKM CKHBCOILEDN = 3;
 }

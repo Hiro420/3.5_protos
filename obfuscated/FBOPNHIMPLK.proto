@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FBOPNHIMPLK {
-	uint32 OPPHFKLOKIA; = 10;
-	uint32 PFKDFHHKBFD; = 14;
-	int32 IJIABMFLJGH; = 2;
+	uint32 OPPHFKLOKIA = 10;
+	uint32 PFKDFHHKBFD = 14;
+	int32 IJIABMFLJGH = 2;
 }

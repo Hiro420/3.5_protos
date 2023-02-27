@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HLFIAFHOBAD {
-	uint32 APPJCEKCOBP; = 2;
+	uint32 APPJCEKCOBP = 2;
 }

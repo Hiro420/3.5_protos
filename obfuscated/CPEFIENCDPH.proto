@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "KHINCMAFNBJ.proto";
 
 message CPEFIENCDPH {
-	KHINCMAFNBJ KDKCJGDCMKK; = 6;
-	int32 IJIABMFLJGH; = 7;
-	uint32 LEGAOGOMKNJ; = 1;
+	KHINCMAFNBJ KDKCJGDCMKK = 6;
+	int32 IJIABMFLJGH = 7;
+	uint32 LEGAOGOMKNJ = 1;
 }

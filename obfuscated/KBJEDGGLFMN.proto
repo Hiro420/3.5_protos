@@ -3,9 +3,9 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KBJEDGGLFMN {
-	uint32 BIGKGBJPIFC; = 2;
-	uint32 DOJDKGGHMFD; = 14;
-	uint32 BHGBCEAONAJ; = 5;
-	uint32 MHHMJBOGBLG; = 10;
-	uint32 DFPANEOLKKG; = 13;
+	uint32 BIGKGBJPIFC = 2;
+	uint32 DOJDKGGHMFD = 14;
+	uint32 BHGBCEAONAJ = 5;
+	uint32 MHHMJBOGBLG = 10;
+	uint32 DFPANEOLKKG = 13;
 }

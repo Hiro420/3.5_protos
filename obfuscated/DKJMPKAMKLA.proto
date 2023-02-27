@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DKJMPKAMKLA {
-	bool DJKOKFDGKIG; = 4;
-	uint32 KCMEPPIKHLM; = 15;
-	uint32 MBNDPCHNFLH; = 9;
-	uint32 GGGEOFAPBGF; = 10;
+	bool DJKOKFDGKIG = 4;
+	uint32 KCMEPPIKHLM = 15;
+	uint32 MBNDPCHNFLH = 9;
+	uint32 GGGEOFAPBGF = 10;
 }

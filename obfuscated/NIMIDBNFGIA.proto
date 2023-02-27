@@ -5,11 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "JOPIJIEODIL.proto";
 
 message NIMIDBNFGIA {
-	uint32 CJMCIOJABIJ; = 2;
-	uint32 PIIFPAOHPMB; = 9;
-	uint32 FPPIPNIMAAE; = 15;
-	uint32 HNCHOKPBIEE; = 6;
-	uint32 IBOCDLJDIPH; = 13;
-	uint32 NMJGCBBMGIF; = 12;
-	repeated JOPIJIEODIL IACJAKMJDNJ; = 7;
+	uint32 CJMCIOJABIJ = 2;
+	uint32 PIIFPAOHPMB = 9;
+	uint32 FPPIPNIMAAE = 15;
+	uint32 HNCHOKPBIEE = 6;
+	uint32 IBOCDLJDIPH = 13;
+	uint32 NMJGCBBMGIF = 12;
+	repeated JOPIJIEODIL IACJAKMJDNJ = 7;
 }

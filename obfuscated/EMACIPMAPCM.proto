@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "ENOCIMKMJJG.proto";
 
 message EMACIPMAPCM {
-	repeated uint64 HMOCBMKPKHM; = 14;
-	uint64 CINOIJEALEF; = 10;
-	repeated ENOCIMKMJJG IBEJBBLKPGB; = 12;
+	repeated uint64 HMOCBMKPKHM = 14;
+	uint64 CINOIJEALEF = 10;
+	repeated ENOCIMKMJJG IBEJBBLKPGB = 12;
 }

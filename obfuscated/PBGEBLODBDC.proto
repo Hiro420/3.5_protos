@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "FOPGOIJCICK.proto";
 
 message PBGEBLODBDC {
-	repeated FOPGOIJCICK CANCLEDDKEP; = 14;
+	repeated FOPGOIJCICK CANCLEDDKEP = 14;
 }

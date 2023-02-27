@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FABFOMGKLEC {
-	uint32 NJFDJPCMBNH; = 2;
-	uint32 FGGCOCMKODE; = 4;
-	uint32 PFKDFHHKBFD; = 6;
+	uint32 NJFDJPCMBNH = 2;
+	uint32 FGGCOCMKODE = 4;
+	uint32 PFKDFHHKBFD = 6;
 }

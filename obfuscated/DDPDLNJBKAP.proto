@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "HGJKEMEBOKC.proto";
 
 message DDPDLNJBKAP {
-	HGJKEMEBOKC NBGGGBMJHHH; = 3;
+	HGJKEMEBOKC NBGGGBMJHHH = 3;
 }

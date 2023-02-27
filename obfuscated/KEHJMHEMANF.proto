@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "KMNAIPMHDEG.proto";
 
 message KEHJMHEMANF {
-	KMNAIPMHDEG HNJMPNDIKNG; = 13;
+	KMNAIPMHDEG HNJMPNDIKNG = 13;
 }

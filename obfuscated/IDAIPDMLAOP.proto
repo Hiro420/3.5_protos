@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "AFGHMMDBPMD.proto";
 
 message IDAIPDMLAOP {
-	AFGHMMDBPMD HCMPEPODKPP; = 12;
+	AFGHMMDBPMD HCMPEPODKPP = 12;
 }

@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message GIAFFPENJNC {
-	uint32 KGHKFNGDPNI; = 6;
-	bool CAPAEOBPPJI; = 2;
+	uint32 KGHKFNGDPNI = 6;
+	bool CAPAEOBPPJI = 2;
 }

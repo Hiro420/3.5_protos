@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 
 message NEOMIACADNF {
-	DALMLFNANKL HICGCLJGNGJ; = 12;
-	uint32 JEEFNCHAJOJ; = 7;
-	uint32 AMJLLOEKGMD; = 14;
-	bool OFINCEDMCFD; = 6;
+	DALMLFNANKL HICGCLJGNGJ = 12;
+	uint32 JEEFNCHAJOJ = 7;
+	uint32 AMJLLOEKGMD = 14;
+	bool OFINCEDMCFD = 6;
 }

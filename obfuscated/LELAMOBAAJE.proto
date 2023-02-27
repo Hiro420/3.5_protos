@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LELAMOBAAJE {
-	uint32 OGECCMIPGDB; = 3;
-	int32 DFOGKEOAIAO; = 6;
-	uint32 PDFLEGGDOCP; = 14;
+	uint32 OGECCMIPGDB = 3;
+	int32 DFOGKEOAIAO = 6;
+	uint32 PDFLEGGDOCP = 14;
 }

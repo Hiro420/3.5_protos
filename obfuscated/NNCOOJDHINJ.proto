@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "KBJIEJFLEPA.proto";
 
 message NNCOOJDHINJ {
-	repeated KBJIEJFLEPA GPPNHDKMIEE; = 12;
+	repeated KBJIEJFLEPA GPPNHDKMIEE = 12;
 }

@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EMIMGLEEBHF {
-	uint32 NFHAOILEMFA; = 10;
+	uint32 NFHAOILEMFA = 10;
 }

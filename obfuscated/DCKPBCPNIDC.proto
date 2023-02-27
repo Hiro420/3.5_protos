@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DCKPBCPNIDC {
-	float PILKIILIPON; = 1;
-	float BNKCHKMAMLH; = 2;
-	float ILAINCDGGGP; = 3;
+	float PILKIILIPON = 1;
+	float BNKCHKMAMLH = 2;
+	float ILAINCDGGGP = 3;
 }

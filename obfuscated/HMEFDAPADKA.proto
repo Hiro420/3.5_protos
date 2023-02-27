@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HMEFDAPADKA {
-	bool DJKOKFDGKIG; = 12;
-	uint32 BEJDBNONODA; = 6;
+	bool DJKOKFDGKIG = 12;
+	uint32 BEJDBNONODA = 6;
 }

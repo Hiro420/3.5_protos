@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HLMLKHKDLAP {
-	uint32 CKGLDLBPMNK; = 9;
-	uint32 PFKDFHHKBFD; = 13;
-	uint32 HLBIFAFBBEC; = 10;
-	uint32 KOODOALNJGM; = 14;
+	uint32 CKGLDLBPMNK = 9;
+	uint32 PFKDFHHKBFD = 13;
+	uint32 HLBIFAFBBEC = 10;
+	uint32 KOODOALNJGM = 14;
 }

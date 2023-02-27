@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ICEDOFNJPDC {
-	repeated uint64 FFJIMJPOFKP; = 10;
+	repeated uint64 FFJIMJPOFKP = 10;
 }

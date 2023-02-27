@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DCOJKOKIFOJ {
-	map<uint32, uint32> MCOACDMJPOK; = 7;
+	map<uint32, uint32> MCOACDMJPOK = 7;
 }

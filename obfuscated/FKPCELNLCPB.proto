@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "BNEGCDIFHLA.proto";
 
 message FKPCELNLCPB {
-	uint32 PDFLEGGDOCP; = 3;
-	uint32 BEKCJPOGBHB; = 6;
-	uint32 AEPAKCBPNEH; = 4;
-	BNEGCDIFHLA EINPEHFFEAI; = 2;
+	uint32 PDFLEGGDOCP = 3;
+	uint32 BEKCJPOGBHB = 6;
+	uint32 AEPAKCBPNEH = 4;
+	BNEGCDIFHLA EINPEHFFEAI = 2;
 }

@@ -6,10 +6,10 @@ import "KPNLDDPKPIK.proto";
 import "ODKNHPHCDCG.proto";
 
 message BIDMFHCLPHG {
-	repeated ODKNHPHCDCG PMFJGKMLMII; = 14;
-	uint32 OBEEECDCKAK; = 4;
-	repeated uint32 JLMEOBPICGI; = 6;
-	repeated uint32 JECEKOPANIN; = 11;
-	repeated KPNLDDPKPIK CLBEDFEEJCC; = 8;
-	bool CKMCPIOKFFE; = 5;
+	repeated ODKNHPHCDCG PMFJGKMLMII = 14;
+	uint32 OBEEECDCKAK = 4;
+	repeated uint32 JLMEOBPICGI = 6;
+	repeated uint32 JECEKOPANIN = 11;
+	repeated KPNLDDPKPIK CLBEDFEEJCC = 8;
+	bool CKMCPIOKFFE = 5;
 }

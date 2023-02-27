@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "EGMHJIHCDBD.proto";
 
 message OFDJBAJGOPC {
-	uint32 PDFLEGGDOCP; = 1;
-	EGMHJIHCDBD MDKCKGAAJLL; = 15;
+	uint32 PDFLEGGDOCP = 1;
+	EGMHJIHCDBD MDKCKGAAJLL = 15;
 }

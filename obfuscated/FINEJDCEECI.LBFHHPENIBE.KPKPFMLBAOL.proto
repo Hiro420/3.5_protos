@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "ENOCIMKMJJG.proto";
 
 message FINEJDCEECI.LBFHHPENIBE.KPKPFMLBAOL {
-	repeated ENOCIMKMJJG GMJBIKPCMGO; = 1;
-	repeated ENOCIMKMJJG JPMCKFNLCAE; = 2;
+	repeated ENOCIMKMJJG GMJBIKPCMGO = 1;
+	repeated ENOCIMKMJJG JPMCKFNLCAE = 2;
 }

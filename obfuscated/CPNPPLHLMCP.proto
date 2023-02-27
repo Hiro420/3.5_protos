@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "LLKMMEJJNNF.proto";
 
 message CPNPPLHLMCP {
-	repeated LLKMMEJJNNF HNAKLOOFNEO; = 15;
+	repeated LLKMMEJJNNF HNAKLOOFNEO = 15;
 }

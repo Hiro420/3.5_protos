@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "KEKIOJDBHEP.proto";
 
 message JJICLCJCGCD {
-	repeated KEKIOJDBHEP MNJANPNMFMH; = 13;
+	repeated KEKIOJDBHEP MNJANPNMFMH = 13;
 }

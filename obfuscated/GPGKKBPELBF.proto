@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "NLIKGMEMIKJ.proto";
 
 message GPGKKBPELBF {
-	repeated NLIKGMEMIKJ CJKPNPDHKOD; = 12;
-	uint32 NFOKBMLBAIA; = 13;
+	repeated NLIKGMEMIKJ CJKPNPDHKOD = 12;
+	uint32 NFOKBMLBAIA = 13;
 }

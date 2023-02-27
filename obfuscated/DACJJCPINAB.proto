@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "FNABEPABCNG.proto";
 
 message DACJJCPINAB {
-	string HAJPGGOKDIK; = 12;
-	FNABEPABCNG DFLIDJEIGPO; = 3;
-	int32 IJIABMFLJGH; = 13;
+	string HAJPGGOKDIK = 12;
+	FNABEPABCNG DFLIDJEIGPO = 3;
+	int32 IJIABMFLJGH = 13;
 }

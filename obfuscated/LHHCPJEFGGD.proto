@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "POEDHGCCCEC.proto";
 
 message LHHCPJEFGGD {
-	repeated POEDHGCCCEC IFNOGNBCCNI; = 3;
+	repeated POEDHGCCCEC IFNOGNBCCNI = 3;
 }

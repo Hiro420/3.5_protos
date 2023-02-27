@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "HILEIPGFAAN.proto";
 
 message KKBGBOJPPEN {
-	HILEIPGFAAN PJDGGMLCAHF; = 6;
+	HILEIPGFAAN PJDGGMLCAHF = 6;
 }

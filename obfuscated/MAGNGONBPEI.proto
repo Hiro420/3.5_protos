@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MAGNGONBPEI {
-	map<uint32, uint32> LOMANMPAMJH; = 11;
+	map<uint32, uint32> LOMANMPAMJH = 11;
 }

@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BCDLHIDENAP {
-	uint32 FMKIPOMPOLG; = 8;
-	uint32 CCAOAAKCHEI; = 9;
+	uint32 FMKIPOMPOLG = 8;
+	uint32 CCAOAAKCHEI = 9;
 }

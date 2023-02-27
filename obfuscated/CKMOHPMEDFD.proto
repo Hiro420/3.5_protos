@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "BLOPFDPFLDE.proto";
 
 message CKMOHPMEDFD {
-	repeated uint32 OEIBFJFFHNB; = 8;
-	uint32 AICHGGMIALC; = 13;
-	uint32 LGGGCABNDFL; = 1;
-	BLOPFDPFLDE FICNBGHCEDF; = 6;
-	uint32 NLHMNDICIKD; = 11;
+	repeated uint32 OEIBFJFFHNB = 8;
+	uint32 AICHGGMIALC = 13;
+	uint32 LGGGCABNDFL = 1;
+	BLOPFDPFLDE FICNBGHCEDF = 6;
+	uint32 NLHMNDICIKD = 11;
 }

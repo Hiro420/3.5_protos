@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IMECNPNGPNG {
-	uint32 JGAHPOJJDHJ; = 11;
-	uint32 AHEFDMPHAAK; = 6;
-	int32 IJIABMFLJGH; = 15;
-	uint32 PFKDFHHKBFD; = 7;
+	uint32 JGAHPOJJDHJ = 11;
+	uint32 AHEFDMPHAAK = 6;
+	int32 IJIABMFLJGH = 15;
+	uint32 PFKDFHHKBFD = 7;
 }

@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LAMLEPAPCOF {
-	uint32 BIDBIMFINKK; = 1;
-	uint32 DONFFKIMLLF; = 2;
-	uint32 HNLIKJDCEEI; = 3;
-	uint32 CLIJOGLBJEM; = 4;
+	uint32 BIDBIMFINKK = 1;
+	uint32 DONFFKIMLLF = 2;
+	uint32 HNLIKJDCEEI = 3;
+	uint32 CLIJOGLBJEM = 4;
 }

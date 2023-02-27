@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "DPBAJDJIMAA.proto";
 
 message HPJENALBJJD {
-	uint32 IAIEOLAOPAB; = 15;
-	DPBAJDJIMAA GOJCFKJDNKC; = 2;
+	uint32 IAIEOLAOPAB = 15;
+	DPBAJDJIMAA GOJCFKJDNKC = 2;
 }

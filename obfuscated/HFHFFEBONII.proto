@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "ALGGELGLCLJ.proto";
 
 message HFHFFEBONII {
-	float DPOPBHCCLME; = 12;
-	ALGGELGLCLJ CPFEFKMJNGE; = 15;
-	ALGGELGLCLJ PLBEMPBCKPH; = 10;
+	float DPOPBHCCLME = 12;
+	ALGGELGLCLJ CPFEFKMJNGE = 15;
+	ALGGELGLCLJ PLBEMPBCKPH = 10;
 }

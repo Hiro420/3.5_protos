@@ -3,9 +3,9 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OMCFMEFELOC {
-	uint32 AHGGLLMBAAG; = 7;
-	uint32 LPPFDGMBIGN; = 2;
-	uint32 DBBPHJCIBMK; = 8;
-	bool KHKNNMMMHEM; = 4;
-	uint32 FEDEOMEFFLO; = 13;
+	uint32 AHGGLLMBAAG = 7;
+	uint32 LPPFDGMBIGN = 2;
+	uint32 DBBPHJCIBMK = 8;
+	bool KHKNNMMMHEM = 4;
+	uint32 FEDEOMEFFLO = 13;
 }

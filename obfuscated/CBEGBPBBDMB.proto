@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "POKOFBAJMFO.proto";
 
 message CBEGBPBBDMB {
-	uint32 GAHCKAPNCKH; = 12;
-	POKOFBAJMFO JKDNHDLNHMJ; = 3;
+	uint32 GAHCKAPNCKH = 12;
+	POKOFBAJMFO JKDNHDLNHMJ = 3;
 }

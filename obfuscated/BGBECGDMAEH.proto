@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BGBECGDMAEH {
-	int32 IJIABMFLJGH; = 8;
-	float BFEMLBMGOFD; = 4;
+	int32 IJIABMFLJGH = 8;
+	float BFEMLBMGOFD = 4;
 }

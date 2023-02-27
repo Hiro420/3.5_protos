@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LIMEMDMOOCJ {
-	uint32 HFKNDLGIPML; = 12;
-	uint32 OKPFLEMFIAL; = 15;
-	int32 IJIABMFLJGH; = 5;
+	uint32 HFKNDLGIPML = 12;
+	uint32 OKPFLEMFIAL = 15;
+	int32 IJIABMFLJGH = 5;
 }

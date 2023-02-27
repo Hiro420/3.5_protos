@@ -6,6 +6,6 @@ import "BOMMBPDKMOH.proto";
 import "BOKOEDGKGCL.proto";
 
 message AKGCFLIJKLA {
-	repeated BOKOEDGKGCL FNJHFGNGAHN; = 12;
-	repeated BOMMBPDKMOH JEECAMIIPDF; = 3;
+	repeated BOKOEDGKGCL FNJHFGNGAHN = 12;
+	repeated BOMMBPDKMOH JEECAMIIPDF = 3;
 }

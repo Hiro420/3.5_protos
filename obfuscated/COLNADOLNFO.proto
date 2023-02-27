@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message COLNADOLNFO {
-	uint32 PPBCGEBJIPP; = 14;
+	uint32 PPBCGEBJIPP = 14;
 }

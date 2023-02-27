@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EFIPINMIDDK {
-	uint32 BOFBIJGMIGM; = 11;
+	uint32 BOFBIJGMIGM = 11;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "JGDIDFMJFNB.proto";
 
 message LMBIEIJIEMO {
-	bool CAIPGENDDLM; = 13;
-	repeated JGDIDFMJFNB GDCOOMLNCCP; = 7;
+	bool CAIPGENDDLM = 13;
+	repeated JGDIDFMJFNB GDCOOMLNCCP = 7;
 }

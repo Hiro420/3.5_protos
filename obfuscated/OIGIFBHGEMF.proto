@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "GMEBFGNEGLA.proto";
 
 message OIGIFBHGEMF {
-	repeated GMEBFGNEGLA JIMPICDBNLP; = 13;
+	repeated GMEBFGNEGLA JIMPICDBNLP = 13;
 }

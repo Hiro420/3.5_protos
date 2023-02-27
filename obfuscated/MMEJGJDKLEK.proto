@@ -6,6 +6,6 @@ import "ICLKJAFLECK.proto";
 import "OLACJIOMDIO.proto";
 
 message MMEJGJDKLEK {
-	repeated OLACJIOMDIO CCFPBHDNKCF; = 8;
-	repeated ICLKJAFLECK GIPCCCCMNEM; = 1;
+	repeated OLACJIOMDIO CCFPBHDNKCF = 8;
+	repeated ICLKJAFLECK GIPCCCCMNEM = 1;
 }

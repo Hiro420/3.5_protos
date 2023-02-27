@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MPOHNPIMAAJ {
-	uint32 ODBFJJAJEKO; = 11;
-	uint32 DCMIHMOJNFD; = 8;
+	uint32 ODBFJJAJEKO = 11;
+	uint32 DCMIHMOJNFD = 8;
 }

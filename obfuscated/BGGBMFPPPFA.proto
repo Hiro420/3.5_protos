@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BGGBMFPPPFA {
-	bool FCFOGPNGNOI; = 13;
-	uint64 BOPOMJIPJMI; = 3;
+	bool FCFOGPNGNOI = 13;
+	uint64 BOPOMJIPJMI = 3;
 }

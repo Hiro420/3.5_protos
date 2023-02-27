@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HBGEEBPFDEL {
-	uint32 CJMCIOJABIJ; = 14;
-	repeated uint32 HJCBBKFOOIG; = 7;
+	uint32 CJMCIOJABIJ = 14;
+	repeated uint32 HJCBBKFOOIG = 7;
 }

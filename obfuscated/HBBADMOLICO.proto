@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "JJOLFAPBPNN.proto";
 
 message HBBADMOLICO {
-	int32 IJIABMFLJGH; = 10;
-	repeated JJOLFAPBPNN FKHCMPFAAHJ; = 15;
+	int32 IJIABMFLJGH = 10;
+	repeated JJOLFAPBPNN FKHCMPFAAHJ = 15;
 }

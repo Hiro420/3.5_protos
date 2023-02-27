@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "ALLMJNDEDOL.proto";
 
 message GGDHLNEKIJB {
-	repeated ALLMJNDEDOL KLJPKMNOLLJ; = 10;
+	repeated ALLMJNDEDOL KLJPKMNOLLJ = 10;
 }

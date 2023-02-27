@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BKLCBPHIKIP {
-	repeated uint32 NBJACOHFHCN; = 5;
+	repeated uint32 NBJACOHFHCN = 5;
 }

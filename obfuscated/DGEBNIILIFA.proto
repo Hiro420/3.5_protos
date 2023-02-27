@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DGEBNIILIFA {
-	uint32 GOIOHBKDPDB; = 1;
-	uint32 PFKDFHHKBFD; = 9;
+	uint32 GOIOHBKDPDB = 1;
+	uint32 PFKDFHHKBFD = 9;
 }

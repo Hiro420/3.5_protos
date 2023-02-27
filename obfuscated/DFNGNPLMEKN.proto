@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "PDPKPDBANCA.proto";
 
 message DFNGNPLMEKN {
-	bool GBNLEOFCKIG; = 3;
-	PDPKPDBANCA DPDNKOIFCPO; = 1;
-	uint32 DPJOJFFAOIB; = 15;
-	uint32 BOFBIJGMIGM; = 7;
+	bool GBNLEOFCKIG = 3;
+	PDPKPDBANCA DPDNKOIFCPO = 1;
+	uint32 DPJOJFFAOIB = 15;
+	uint32 BOFBIJGMIGM = 7;
 }

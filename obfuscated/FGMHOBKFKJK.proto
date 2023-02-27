@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "JEPEAALKCBP.proto";
 
 message FGMHOBKFKJK {
-	JEPEAALKCBP LNFKELDOBON; = 1;
-	bool DBIKCJCJHFI; = 12;
+	JEPEAALKCBP LNFKELDOBON = 1;
+	bool DBIKCJCJHFI = 12;
 }

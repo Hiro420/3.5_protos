@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "NNHECDNAAAO.proto";
 
 message GDAMHLMPFCM {
-	bool DFGNFNKAEMM; = 7;
-	NNHECDNAAAO GJDMBBAMIDJ; = 6;
-	uint32 PDFLEGGDOCP; = 2;
-	int32 FEDEOMEFFLO; = 15;
+	bool DFGNFNKAEMM = 7;
+	NNHECDNAAAO GJDMBBAMIDJ = 6;
+	uint32 PDFLEGGDOCP = 2;
+	int32 FEDEOMEFFLO = 15;
 }

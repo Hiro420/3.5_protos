@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message NIHNNLMOGLP {
-	repeated uint32 MKEMDBIFNBP; = 7;
+	repeated uint32 MKEMDBIFNBP = 7;
 }

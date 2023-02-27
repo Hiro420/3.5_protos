@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PDNKADLJIEC {
-	uint32 DNIBKOCOPBJ; = 12;
-	bool MPLOILHKKMO; = 2;
+	uint32 DNIBKOCOPBJ = 12;
+	bool MPLOILHKKMO = 2;
 }

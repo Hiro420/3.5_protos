@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "CFICKMNDGGL.proto";
 
 message HFIMDLCBBNH {
-	uint32 BEJDBNONODA; = 3;
-	CFICKMNDGGL PECGBJMEEIN; = 7;
-	bool LBEMEDFJLPE; = 13;
+	uint32 BEJDBNONODA = 3;
+	CFICKMNDGGL PECGBJMEEIN = 7;
+	bool LBEMEDFJLPE = 13;
 }

@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ANLOCILIBFO {
-	uint64 LHFBBMDLIHF; = 12;
-	repeated uint64 MOLLMLMMPMC; = 11;
+	uint64 LHFBBMDLIHF = 12;
+	repeated uint64 MOLLMLMMPMC = 11;
 }

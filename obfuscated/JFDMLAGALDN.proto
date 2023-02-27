@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message JFDMLAGALDN {
-	bool AONJNMHMHEB; = 10;
-	repeated uint32 CPOPJCHHIHE; = 3;
-	int32 IJIABMFLJGH; = 12;
+	bool AONJNMHMHEB = 10;
+	repeated uint32 CPOPJCHHIHE = 3;
+	int32 IJIABMFLJGH = 12;
 }

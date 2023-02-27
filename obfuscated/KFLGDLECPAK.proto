@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "NFAGLBHALKL.proto";
 
 message KFLGDLECPAK {
-	repeated NFAGLBHALKL KIDKPLPCPHB; = 6;
+	repeated NFAGLBHALKL KIDKPLPCPHB = 6;
 }

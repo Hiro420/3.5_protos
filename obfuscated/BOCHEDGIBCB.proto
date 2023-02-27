@@ -3,11 +3,11 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BOCHEDGIBCB {
-	uint32 NKMLKHEKLDA; = 14;
-	uint32 CFEICPHGHIG; = 2;
-	uint32 MHCGANALPFE; = 7;
-	uint32 IHHPLMOGIAI; = 3;
-	uint32 HKAEKDLOIGB; = 11;
-	uint32 FCANFCJHMHE; = 13;
-	uint32 HJGBHLNCHHB; = 9;
+	uint32 NKMLKHEKLDA = 14;
+	uint32 CFEICPHGHIG = 2;
+	uint32 MHCGANALPFE = 7;
+	uint32 IHHPLMOGIAI = 3;
+	uint32 HKAEKDLOIGB = 11;
+	uint32 FCANFCJHMHE = 13;
+	uint32 HJGBHLNCHHB = 9;
 }

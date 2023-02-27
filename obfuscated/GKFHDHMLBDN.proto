@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message GKFHDHMLBDN {
-	uint32 IGHODAEJNCH; = 9;
-	bool EIEALMKLEIC; = 11;
+	uint32 IGHODAEJNCH = 9;
+	bool EIEALMKLEIC = 11;
 }

@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "JENKCFOKNFE.proto";
 
 message KDOBINHBPOF {
-	int32 IJIABMFLJGH; = 3;
-	uint32 PFKDFHHKBFD; = 10;
-	JENKCFOKNFE JEFDEAHBBID; = 13;
+	int32 IJIABMFLJGH = 3;
+	uint32 PFKDFHHKBFD = 10;
+	JENKCFOKNFE JEFDEAHBBID = 13;
 }

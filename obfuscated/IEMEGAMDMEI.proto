@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IEMEGAMDMEI {
-	repeated uint32 OLAIACPCIGM; = 1;
-	uint32 JAOBPKMBOKD; = 15;
+	repeated uint32 OLAIACPCIGM = 1;
+	uint32 JAOBPKMBOKD = 15;
 }

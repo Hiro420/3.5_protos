@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EDJOFEDPBEA {
-	uint32 LNICMNGOEOB; = 1;
-	uint32 GFKOPLEKBPF; = 2;
-	map<uint32, uint32> JBDFNGNLJKC; = 3;
+	uint32 LNICMNGOEOB = 1;
+	uint32 GFKOPLEKBPF = 2;
+	map<uint32, uint32> JBDFNGNLJKC = 3;
 }

@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "OJNKFDIOAFA.proto";
 
 message FOLNGHHMFKC {
-	OJNKFDIOAFA OAHEPJKIIHL; = 9;
+	OJNKFDIOAFA OAHEPJKIIHL = 9;
 }

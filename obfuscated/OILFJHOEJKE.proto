@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "PEALFGKFNKK.proto";
 
 message OILFJHOEJKE {
-	uint32 INCIAKIONII; = 15;
-	uint32 PDFLEGGDOCP; = 12;
-	PEALFGKFNKK JLEJCPJIHIM; = 1;
+	uint32 INCIAKIONII = 15;
+	uint32 PDFLEGGDOCP = 12;
+	PEALFGKFNKK JLEJCPJIHIM = 1;
 }

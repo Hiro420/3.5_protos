@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message GDGIELODJIO {
-	bool MFPGHFOFAFP; = 9;
+	bool MFPGHFOFAFP = 9;
 }

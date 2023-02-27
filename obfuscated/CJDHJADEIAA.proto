@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "ACILJIDBAAL.proto";
 
 message CJDHJADEIAA {
-	repeated ACILJIDBAAL PHKNNLKLBBK; = 9;
+	repeated ACILJIDBAAL PHKNNLKLBBK = 9;
 }

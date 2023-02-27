@@ -3,11 +3,11 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LIJKGGFCHOB {
-	string EJNMMOMKGCO; = 1;
-	string DHPNGKFNOCF; = 2;
-	uint32 NJPCBCENJAA; = 3;
-	uint32 AMMHFNJAOJI; = 4;
-	uint32 MBOBAGMAKNE; = 5;
-	uint32 NLABLOKLBML; = 6;
-	bool KNJMLMCBFFP; = 7;
+	string EJNMMOMKGCO = 1;
+	string DHPNGKFNOCF = 2;
+	uint32 NJPCBCENJAA = 3;
+	uint32 AMMHFNJAOJI = 4;
+	uint32 MBOBAGMAKNE = 5;
+	uint32 NLABLOKLBML = 6;
+	bool KNJMLMCBFFP = 7;
 }

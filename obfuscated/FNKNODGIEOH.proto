@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "DPMDACEDALK.proto";
 
 message FNKNODGIEOH {
-	repeated DPMDACEDALK CIGMOGGADMO; = 8;
-	uint32 NHBBMHKOHED; = 5;
+	repeated DPMDACEDALK CIGMOGGADMO = 8;
+	uint32 NHBBMHKOHED = 5;
 }

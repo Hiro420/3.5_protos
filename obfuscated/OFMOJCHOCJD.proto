@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "JHJOFAIGFMI.proto";
 
 message OFMOJCHOCJD {
-	uint32 LFFMPOKNLLJ; = 14;
-	uint32 GKHJKEGICOO; = 5;
-	bytes JPPCBAEMAAA; = 13;
-	JHJOFAIGFMI FIGAIKKANEA; = 11;
+	uint32 LFFMPOKNLLJ = 14;
+	uint32 GKHJKEGICOO = 5;
+	bytes JPPCBAEMAAA = 13;
+	JHJOFAIGFMI FIGAIKKANEA = 11;
 }

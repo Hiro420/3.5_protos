@@ -3,11 +3,11 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OGPNHBOFECH {
-	string HAJPGGOKDIK; = 1;
-	uint32 FEBGPCJDBLI; = 2;
-	uint32 MGGIEMKADBL; = 3;
-	uint32 KFEMBAPKMFH; = 4;
-	uint32 IPEHJELBLLP; = 5;
-	bool HEKOGGBMIIL; = 6;
-	uint32 NNEKBHECDCL; = 7;
+	string HAJPGGOKDIK = 1;
+	uint32 FEBGPCJDBLI = 2;
+	uint32 MGGIEMKADBL = 3;
+	uint32 KFEMBAPKMFH = 4;
+	uint32 IPEHJELBLLP = 5;
+	bool HEKOGGBMIIL = 6;
+	uint32 NNEKBHECDCL = 7;
 }

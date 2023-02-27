@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message NEIOEGLNCBC {
-	uint32 OKPFLEMFIAL; = 6;
+	uint32 OKPFLEMFIAL = 6;
 }

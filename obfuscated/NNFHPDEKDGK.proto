@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "CANJOFHONKD.proto";
 
 message NNFHPDEKDGK {
-	uint32 PEPLGLLHHMI; = 11;
-	repeated CANJOFHONKD KACADLIIPLM; = 9;
-	bool DIDPOIFPCEJ; = 13;
+	uint32 PEPLGLLHHMI = 11;
+	repeated CANJOFHONKD KACADLIIPLM = 9;
+	bool DIDPOIFPCEJ = 13;
 }

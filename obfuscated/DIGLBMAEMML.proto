@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DIGLBMAEMML {
-	repeated uint32 DAGINEBHJBN; = 9;
+	repeated uint32 DAGINEBHJBN = 9;
 }

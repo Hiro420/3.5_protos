@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "MPOHNPIMAAJ.proto";
 
 message GILKJDIJOIG {
-	repeated MPOHNPIMAAJ MFBKHIODEKH; = 11;
-	uint32 CJMCIOJABIJ; = 7;
+	repeated MPOHNPIMAAJ MFBKHIODEKH = 11;
+	uint32 CJMCIOJABIJ = 7;
 }

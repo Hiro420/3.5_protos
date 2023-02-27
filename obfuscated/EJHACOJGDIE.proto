@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "OGPNHBOFECH.proto";
 
 message EJHACOJGDIE {
-	repeated OGPNHBOFECH NGGOMJGCHOD; = 1;
-	repeated string DNAFLMDNDEJ; = 2;
+	repeated OGPNHBOFECH NGGOMJGCHOD = 1;
+	repeated string DNAFLMDNDEJ = 2;
 }

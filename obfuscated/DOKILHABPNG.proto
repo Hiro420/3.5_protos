@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "IKCAPLALLPO.proto";
 
 message DOKILHABPNG {
-	IKCAPLALLPO ABCACACAHNG; = 14;
-	uint32 PDFLEGGDOCP; = 10;
+	IKCAPLALLPO ABCACACAHNG = 14;
+	uint32 PDFLEGGDOCP = 10;
 }

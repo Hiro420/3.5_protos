@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "GLEKJEAFNOD.proto";
 
 message NBGICJDBGIO {
-	repeated GLEKJEAFNOD ALCCNEEPGHC; = 4;
-	uint32 AMJDALOEBEP; = 2;
+	repeated GLEKJEAFNOD ALCCNEEPGHC = 4;
+	uint32 AMJDALOEBEP = 2;
 }

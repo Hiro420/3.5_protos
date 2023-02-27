@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "FDGILKFOPLL.proto";
 
 message NKEJFLLAFDC {
-	int32 IJIABMFLJGH; = 14;
-	repeated FDGILKFOPLL GPAPLKBJACP; = 2;
-	uint32 KFEMBAPKMFH; = 6;
+	int32 IJIABMFLJGH = 14;
+	repeated FDGILKFOPLL GPAPLKBJACP = 2;
+	uint32 KFEMBAPKMFH = 6;
 }

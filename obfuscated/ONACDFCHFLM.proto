@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "GOMJMGELGFB.proto";
 
 message ONACDFCHFLM {
-	GOMJMGELGFB OFDNCFCMENI; = 2;
+	GOMJMGELGFB OFDNCFCMENI = 2;
 }

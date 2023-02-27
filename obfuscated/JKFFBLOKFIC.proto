@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message JKFFBLOKFIC {
-	string LFAFBBEPKII; = 13;
+	string LFAFBBEPKII = 13;
 }

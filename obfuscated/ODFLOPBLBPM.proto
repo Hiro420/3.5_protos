@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "PDPKPDBANCA.proto";
 
 message ODFLOPBLBPM {
-	int32 IJIABMFLJGH; = 10;
-	uint32 PDFLEGGDOCP; = 4;
-	PDPKPDBANCA DPDNKOIFCPO; = 5;
+	int32 IJIABMFLJGH = 10;
+	uint32 PDFLEGGDOCP = 4;
+	PDPKPDBANCA DPDNKOIFCPO = 5;
 }

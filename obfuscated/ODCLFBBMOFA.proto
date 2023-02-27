@@ -3,17 +3,17 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ODCLFBBMOFA {
-	repeated uint32 GNLKHKDDCPI; = 3;
-	repeated uint32 HCKCKDHFGIB; = 13;
-	int32 IJIABMFLJGH; = 2;
-	repeated uint32 NKODIOAOFLG; = 12;
-	repeated uint32 CCBMLCGDBDK; = 7;
-	uint32 JGICJBNGOHP; = 8;
-	repeated uint32 DEJJPGBHKCL; = 11;
-	repeated uint32 NJLGEBJEKLI; = 14;
-	bool NOHKOAEDEAK; = 5;
-	repeated uint32 IIOIIGPPHFL; = 10;
-	repeated uint32 BLAHCNNHPGC; = 15;
-	uint32 KFEMBAPKMFH; = 6;
-	repeated uint32 MJLOBONJGJF; = 4;
+	repeated uint32 GNLKHKDDCPI = 3;
+	repeated uint32 HCKCKDHFGIB = 13;
+	int32 IJIABMFLJGH = 2;
+	repeated uint32 NKODIOAOFLG = 12;
+	repeated uint32 CCBMLCGDBDK = 7;
+	uint32 JGICJBNGOHP = 8;
+	repeated uint32 DEJJPGBHKCL = 11;
+	repeated uint32 NJLGEBJEKLI = 14;
+	bool NOHKOAEDEAK = 5;
+	repeated uint32 IIOIIGPPHFL = 10;
+	repeated uint32 BLAHCNNHPGC = 15;
+	uint32 KFEMBAPKMFH = 6;
+	repeated uint32 MJLOBONJGJF = 4;
 }

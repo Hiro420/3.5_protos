@@ -5,10 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "LFBMJINBKHB.proto";
 
 message MNEHIIEMOEA {
-	uint32 DOGKMJOKNJA; = 12;
-	uint32 DBCEEODIKCO; = 9;
-	repeated LFBMJINBKHB PJLABOFLCAK; = 5;
-	uint32 KCMEPPIKHLM; = 7;
-	uint32 PDFLEGGDOCP; = 1;
-	bool ILOILKOCMBN; = 8;
+	uint32 DOGKMJOKNJA = 12;
+	uint32 DBCEEODIKCO = 9;
+	repeated LFBMJINBKHB PJLABOFLCAK = 5;
+	uint32 KCMEPPIKHLM = 7;
+	uint32 PDFLEGGDOCP = 1;
+	bool ILOILKOCMBN = 8;
 }

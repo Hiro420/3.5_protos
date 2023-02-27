@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "DOINBFHLBHP.proto";
 
 message AOHEFFCPELI {
-	uint32 IAIEOLAOPAB; = 11;
-	uint64 PLMDDEEEAAB; = 5;
-	uint64 NPIKBDHNJLH; = 12;
-	DOINBFHLBHP KMNFFOMDAIL; = 14;
+	uint32 IAIEOLAOPAB = 11;
+	uint64 PLMDDEEEAAB = 5;
+	uint64 NPIKBDHNJLH = 12;
+	DOINBFHLBHP KMNFFOMDAIL = 14;
 }

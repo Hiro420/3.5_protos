@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PFMMOOANGGM {
-	string DODELGJMENP; = 1;
-	int32 JANHAFMHELC; = 4;
+	string DODELGJMENP = 1;
+	int32 JANHAFMHELC = 4;
 }

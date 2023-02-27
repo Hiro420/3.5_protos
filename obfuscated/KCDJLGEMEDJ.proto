@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KCDJLGEMEDJ {
-	uint32 NHBBMHKOHED; = 1;
-	uint32 POFCIAMEKHD; = 8;
+	uint32 NHBBMHKOHED = 1;
+	uint32 POFCIAMEKHD = 8;
 }

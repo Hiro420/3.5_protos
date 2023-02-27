@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "AOOFANGHMOJ.proto";
 
 message OCFDPCBKDAK {
-	int32 IJIABMFLJGH; = 8;
-	AOOFANGHMOJ JOPFMDLPLMK; = 15;
+	int32 IJIABMFLJGH = 8;
+	AOOFANGHMOJ JOPFMDLPLMK = 15;
 }

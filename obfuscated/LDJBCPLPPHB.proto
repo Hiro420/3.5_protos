@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "IHINMBHNLHL.proto";
 
 message LDJBCPLPPHB {
-	repeated IHINMBHNLHL KIADDEMKLEN; = 1;
-	string NFGBBEGMFNN; = 2;
+	repeated IHINMBHNLHL KIADDEMKLEN = 1;
+	string NFGBBEGMFNN = 2;
 }

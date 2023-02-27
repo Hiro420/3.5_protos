@@ -3,9 +3,9 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DPHPACJKHPJ {
-	uint32 GKHJKEGICOO; = 7;
-	uint32 BCBLLBADMPK; = 5;
-	map<uint32, int32> HOLJALJNKID; = 14;
-	map<uint32, int32> NLAKCMGJDJC; = 10;
-	uint32 CJLDIOPAPBL; = 4;
+	uint32 GKHJKEGICOO = 7;
+	uint32 BCBLLBADMPK = 5;
+	map<uint32, int32> HOLJALJNKID = 14;
+	map<uint32, int32> NLAKCMGJDJC = 10;
+	uint32 CJLDIOPAPBL = 4;
 }

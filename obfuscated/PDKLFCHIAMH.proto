@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PDKLFCHIAMH {
-	uint32 IADKNDOMAEP; = 8;
-	uint32 FCKJNLLABOB; = 7;
+	uint32 IADKNDOMAEP = 8;
+	uint32 FCKJNLLABOB = 7;
 }

@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "LANGJAKENPJ.proto";
 
 message CNCEIOHAKKI {
-	bool DJKOKFDGKIG; = 12;
-	uint32 BEJDBNONODA; = 2;
-	repeated LANGJAKENPJ CMPPJDHENIF; = 11;
-	uint32 HDHFDDKANOF; = 13;
-	uint32 MPGJJEALABF; = 7;
+	bool DJKOKFDGKIG = 12;
+	uint32 BEJDBNONODA = 2;
+	repeated LANGJAKENPJ CMPPJDHENIF = 11;
+	uint32 HDHFDDKANOF = 13;
+	uint32 MPGJJEALABF = 7;
 }

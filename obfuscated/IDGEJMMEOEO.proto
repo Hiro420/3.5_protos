@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "BIMILKAGLEC.proto";
 
 message IDGEJMMEOEO {
-	BIMILKAGLEC JOKIEHDIDGG; = 13;
+	BIMILKAGLEC JOKIEHDIDGG = 13;
 }

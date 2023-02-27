@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message NHLGGGCDMNL {
-	uint32 PDFLEGGDOCP; = 2;
-	uint32 IJAIPFELIFA; = 8;
+	uint32 PDFLEGGDOCP = 2;
+	uint32 IJAIPFELIFA = 8;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "FEPJMFICDGB.proto";
 
 message IEILBIFCLAL {
-	int32 IJIABMFLJGH; = 14;
-	FEPJMFICDGB GIPBJFBBEFI; = 11;
+	int32 IJIABMFLJGH = 14;
+	FEPJMFICDGB GIPBJFBBEFI = 11;
 }

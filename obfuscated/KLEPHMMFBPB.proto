@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KLEPHMMFBPB {
-	string BFKLMEGLGGC; = 15;
-	uint32 LLOBHFKCOJA; = 6;
+	string BFKLMEGLGGC = 15;
+	uint32 LLOBHFKCOJA = 6;
 }

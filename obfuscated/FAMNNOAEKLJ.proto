@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FAMNNOAEKLJ {
-	bool LKCDENCIMLM; = 11;
+	bool LKCDENCIMLM = 11;
 }

@@ -6,6 +6,6 @@ import "PICNEBDLCOA.proto";
 import "BKMJFIBPBOL.proto";
 
 message FLHBFICFCCM {
-	repeated BKMJFIBPBOL JANDPKLHFGG; = 6;
-	repeated PICNEBDLCOA LALLGCCFAFE; = 10;
+	repeated BKMJFIBPBOL JANDPKLHFGG = 6;
+	repeated PICNEBDLCOA LALLGCCFAFE = 10;
 }

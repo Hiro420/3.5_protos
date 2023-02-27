@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "ECDLKNIAMAF.proto";
 
 message LPJBABKFPFO {
-	uint32 KFEMBAPKMFH; = 4;
-	int32 ABPJCCJHPJG; = 8;
-	ECDLKNIAMAF OKKEIICFHDG; = 14;
-	bool INHMGOPHGKM; = 15;
+	uint32 KFEMBAPKMFH = 4;
+	int32 ABPJCCJHPJG = 8;
+	ECDLKNIAMAF OKKEIICFHDG = 14;
+	bool INHMGOPHGKM = 15;
 }

@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "DDHNLFHLODP.proto";
 
 message MDLLNBKPGMK {
-	repeated DDHNLFHLODP DHOMGJNKDFI; = 15;
+	repeated DDHNLFHLODP DHOMGJNKDFI = 15;
 }

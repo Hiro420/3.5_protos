@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "HKALLDBLCCJ.proto";
 
 message IDHHJMJOKKD {
-	repeated uint32 EMLLJDBFIFK; = 5;
-	repeated HKALLDBLCCJ MJIMOJLHICP; = 3;
+	repeated uint32 EMLLJDBFIFK = 5;
+	repeated HKALLDBLCCJ MJIMOJLHICP = 3;
 }

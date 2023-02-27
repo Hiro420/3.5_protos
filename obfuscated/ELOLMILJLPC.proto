@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "BAKOBLPLIGJ.proto";
 
 message ELOLMILJLPC {
-	repeated BAKOBLPLIGJ JADCGFNLFIM; = 12;
+	repeated BAKOBLPLIGJ JADCGFNLFIM = 12;
 }

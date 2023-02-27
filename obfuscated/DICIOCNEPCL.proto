@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DICIOCNEPCL {
-	uint64 DAKINCEPDIJ; = 5;
-	uint32 PDFLEGGDOCP; = 4;
-	int32 CJOABPDNHGA; = 7;
-	int32 HFPBJEDDAFP; = 1;
+	uint64 DAKINCEPDIJ = 5;
+	uint32 PDFLEGGDOCP = 4;
+	int32 CJOABPDNHGA = 7;
+	int32 HFPBJEDDAFP = 1;
 }

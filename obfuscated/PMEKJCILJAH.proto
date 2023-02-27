@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PMEKJCILJAH {
-	bool LLPPDFMENJP; = 4;
+	bool LLPPDFMENJP = 4;
 }

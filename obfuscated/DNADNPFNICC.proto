@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "KDDEEFOPBJB.proto";
 
 message DNADNPFNICC {
-	repeated KDDEEFOPBJB IEPCNOEABPI; = 4;
+	repeated KDDEEFOPBJB IEPCNOEABPI = 4;
 }

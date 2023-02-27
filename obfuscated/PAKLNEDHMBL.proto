@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 
 message PAKLNEDHMBL {
-	DALMLFNANKL ONPNDEDLPNB; = 14;
-	repeated uint32 NMCIEBDAMNE; = 5;
+	DALMLFNANKL ONPNDEDLPNB = 14;
+	repeated uint32 NMCIEBDAMNE = 5;
 }

@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OHCIIIAJMBL {
-	uint32 HKMIFGFCAML; = 14;
-	map<uint32, uint32> JGHCGMDCFKC; = 11;
-	uint32 GCEPCFBEGPH; = 7;
+	uint32 HKMIFGFCAML = 14;
+	map<uint32, uint32> JGHCGMDCFKC = 11;
+	uint32 GCEPCFBEGPH = 7;
 }

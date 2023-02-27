@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OPFDLIKEJCA {
-	repeated uint32 GALNIILLPHH; = 15;
+	repeated uint32 GALNIILLPHH = 15;
 }

@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MDIPGMFKKDN {
-	uint32 HFNNHMLEIAD; = 10;
-	uint32 GFEMPJEGBOM; = 5;
+	uint32 HFNNHMLEIAD = 10;
+	uint32 GFEMPJEGBOM = 5;
 }

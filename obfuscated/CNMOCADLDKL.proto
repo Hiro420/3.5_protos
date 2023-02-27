@@ -3,9 +3,9 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CNMOCADLDKL {
-	uint32 JJAHHAENOFG; = 5;
-	uint32 JLEPFDHMLEG; = 11;
-	uint32 GHOLIHDBKBA; = 10;
-	repeated uint32 LPFLELAJCKO; = 12;
-	repeated uint32 NOJPHGJEDCK; = 4;
+	uint32 JJAHHAENOFG = 5;
+	uint32 JLEPFDHMLEG = 11;
+	uint32 GHOLIHDBKBA = 10;
+	repeated uint32 LPFLELAJCKO = 12;
+	repeated uint32 NOJPHGJEDCK = 4;
 }

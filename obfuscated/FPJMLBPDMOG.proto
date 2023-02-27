@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FPJMLBPDMOG {
-	uint64 CINOIJEALEF; = 6;
+	uint64 CINOIJEALEF = 6;
 }

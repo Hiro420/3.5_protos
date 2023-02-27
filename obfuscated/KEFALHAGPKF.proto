@@ -5,10 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "KMKEAAHAMKC.proto";
 
 message KEFALHAGPKF {
-	repeated KMKEAAHAMKC LKELIJOEJPB; = 3;
-	uint32 CDEFMKKKEJA; = 8;
-	map<uint32, uint32> BLKPDNJLOGM; = 15;
-	KMKEAAHAMKC OCOGBDIHGLF; = 5;
-	map<uint32, uint32> IPJALFBIEDA; = 12;
-	uint32 FMKIPOMPOLG; = 14;
+	repeated KMKEAAHAMKC LKELIJOEJPB = 3;
+	uint32 CDEFMKKKEJA = 8;
+	map<uint32, uint32> BLKPDNJLOGM = 15;
+	KMKEAAHAMKC OCOGBDIHGLF = 5;
+	map<uint32, uint32> IPJALFBIEDA = 12;
+	uint32 FMKIPOMPOLG = 14;
 }

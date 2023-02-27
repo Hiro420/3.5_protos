@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "ENANJKOACDB.proto";
 
 message CDPOOGDCAEF {
-	repeated ENANJKOACDB JNIINEJADNK; = 1;
-	uint32 FEBGPCJDBLI; = 2;
-	float LKGEDLLHDBG; = 3;
+	repeated ENANJKOACDB JNIINEJADNK = 1;
+	uint32 FEBGPCJDBLI = 2;
+	float LKGEDLLHDBG = 3;
 }

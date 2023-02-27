@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "BJHINJBCGKK.proto";
 
 message LAHNBCKAGEN {
-	repeated BJHINJBCGKK LOEDDAIKOKI; = 10;
+	repeated BJHINJBCGKK LOEDDAIKOKI = 10;
 }

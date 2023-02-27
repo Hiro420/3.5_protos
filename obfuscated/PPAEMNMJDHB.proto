@@ -5,14 +5,14 @@ option java_package = "emu.grasscutter.net.proto";
 import "LLJAMLLPIIF.proto";
 
 message PPAEMNMJDHB {
-	uint32 AIJOKLEENGC; = 7;
-	bool MFPGHFOFAFP; = 3;
-	uint32 NBDHIEAPMOL; = 10;
-	uint32 DBCEEODIKCO; = 2;
-	uint32 GNGDEGLHIAL; = 5;
-	uint32 MIIPICKEIOM; = 1;
-	bool DBIKCJCJHFI; = 12;
-	uint32 JICBLPDMAAP; = 4;
-	LLJAMLLPIIF GNLDDLIKJDN; = 6;
-	uint32 KKMLAEEAHJA; = 9;
+	uint32 AIJOKLEENGC = 7;
+	bool MFPGHFOFAFP = 3;
+	uint32 NBDHIEAPMOL = 10;
+	uint32 DBCEEODIKCO = 2;
+	uint32 GNGDEGLHIAL = 5;
+	uint32 MIIPICKEIOM = 1;
+	bool DBIKCJCJHFI = 12;
+	uint32 JICBLPDMAAP = 4;
+	LLJAMLLPIIF GNLDDLIKJDN = 6;
+	uint32 KKMLAEEAHJA = 9;
 }

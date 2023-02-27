@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "CCIIHPEKIPM.proto";
 
 message OPKIHIDNCBK {
-	bool CKMCPIOKFFE; = 12;
-	repeated CCIIHPEKIPM JIHCEPJABKN; = 6;
-	uint32 HAPMGJNNFEL; = 1;
+	bool CKMCPIOKFFE = 12;
+	repeated CCIIHPEKIPM JIHCEPJABKN = 6;
+	uint32 HAPMGJNNFEL = 1;
 }

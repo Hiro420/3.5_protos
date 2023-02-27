@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "EFLDHGLFIDD.proto";
 
 message ENKEADDAPDB {
-	uint32 FLGDHAHGOGD; = 11;
-	uint32 ODJPCGIMADI; = 9;
-	repeated EFLDHGLFIDD MKHDNPHAJDN; = 5;
-	int32 IJIABMFLJGH; = 3;
-	EFLDHGLFIDD PLCGHLEONOA; = 2;
+	uint32 FLGDHAHGOGD = 11;
+	uint32 ODJPCGIMADI = 9;
+	repeated EFLDHGLFIDD MKHDNPHAJDN = 5;
+	int32 IJIABMFLJGH = 3;
+	EFLDHGLFIDD PLCGHLEONOA = 2;
 }

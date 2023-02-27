@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LEEEJNOCINN {
-	bool CANKFDJAHAN; = 7;
-	repeated uint32 BEPMFNNDBNM; = 11;
+	bool CANKFDJAHAN = 7;
+	repeated uint32 BEPMFNNDBNM = 11;
 }

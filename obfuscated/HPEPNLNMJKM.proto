@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "ENOCIMKMJJG.proto";
 
 message HPEPNLNMJKM {
-	ENOCIMKMJJG PDGPDAIEEII; = 8;
-	bool ENCLMKJDHHK; = 6;
+	ENOCIMKMJJG PDGPDAIEEII = 8;
+	bool ENCLMKJDHHK = 6;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "BEINIMOEPND.proto";
 
 message GKHCBIDCMHJ {
-	int32 IJIABMFLJGH; = 2;
-	repeated BEINIMOEPND IHNFLMLDAHC; = 7;
+	int32 IJIABMFLJGH = 2;
+	repeated BEINIMOEPND IHNFLMLDAHC = 7;
 }

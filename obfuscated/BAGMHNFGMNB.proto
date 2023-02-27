@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "ABEAGCMPNGD.proto";
 
 message BAGMHNFGMNB {
-	repeated ABEAGCMPNGD HNAKLOOFNEO; = 5;
+	repeated ABEAGCMPNGD HNAKLOOFNEO = 5;
 }

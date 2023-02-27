@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message AICKCEEEKKO {
-	string AMDFPICMLCC; = 13;
-	int32 IJIABMFLJGH; = 9;
+	string AMDFPICMLCC = 13;
+	int32 IJIABMFLJGH = 9;
 }

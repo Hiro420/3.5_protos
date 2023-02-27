@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EKGBIBIKFPI {
-	string BKNHMPPKNLH; = 1;
-	int32 IJIABMFLJGH; = 8;
-	uint32 ICFIJIEKEEJ; = 3;
+	string BKNHMPPKNLH = 1;
+	int32 IJIABMFLJGH = 8;
+	uint32 ICFIJIEKEEJ = 3;
 }

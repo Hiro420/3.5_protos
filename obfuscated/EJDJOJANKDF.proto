@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "PDOEIHIJNGB.proto";
 
 message EJDJOJANKDF {
-	PDOEIHIJNGB PPCCFBFNMLF; = 15;
+	PDOEIHIJNGB PPCCFBFNMLF = 15;
 }

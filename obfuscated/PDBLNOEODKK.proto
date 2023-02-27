@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "CAHLCAONMAP.proto";
 
 message PDBLNOEODKK {
-	CAHLCAONMAP KJFJLANLGKE; = 9;
+	CAHLCAONMAP KJFJLANLGKE = 9;
 }

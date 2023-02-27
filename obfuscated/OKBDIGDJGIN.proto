@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "JNKPHHGMPDL.proto";
 
 message OKBDIGDJGIN {
-	repeated JNKPHHGMPDL NGGOMJGCHOD; = 1;
+	repeated JNKPHHGMPDL NGGOMJGCHOD = 1;
 }

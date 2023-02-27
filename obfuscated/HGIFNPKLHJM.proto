@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HGIFNPKLHJM {
-	uint32 IJPFNLFAPGI; = 1;
-	uint32 AIJOKLEENGC; = 11;
+	uint32 IJPFNLFAPGI = 1;
+	uint32 AIJOKLEENGC = 11;
 }

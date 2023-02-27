@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HGPFLODNOJD {
-	repeated string DILIOGLFFDI; = 11;
-	repeated uint32 BPLLBOMKPHN; = 5;
+	repeated string DILIOGLFFDI = 11;
+	repeated uint32 BPLLBOMKPHN = 5;
 }

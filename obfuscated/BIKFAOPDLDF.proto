@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BIKFAOPDLDF {
-	bool DJKOKFDGKIG; = 4;
-	map<uint32, uint32> KMNMABNEHGM; = 10;
-	uint32 BEJDBNONODA; = 1;
+	bool DJKOKFDGKIG = 4;
+	map<uint32, uint32> KMNMABNEHGM = 10;
+	uint32 BEJDBNONODA = 1;
 }

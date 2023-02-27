@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message OCHFJBOGAOP {
-	bool JOLLHKKICLI; = 13;
-	uint32 AIJOKLEENGC; = 7;
-	uint32 NJAEFGBAJLN; = 14;
+	bool JOLLHKKICLI = 13;
+	uint32 AIJOKLEENGC = 7;
+	uint32 NJAEFGBAJLN = 14;
 }

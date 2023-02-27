@@ -5,11 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "GFOMJJIEKBM.proto";
 
 message FGFBJGKCLOG {
-	uint32 FGGCOCMKODE; = 6;
-	uint32 OBEEECDCKAK; = 15;
-	bool CKMCPIOKFFE; = 7;
-	uint32 JCKMAKMFBJO; = 13;
-	repeated GFOMJJIEKBM PNJCKHNCHDH; = 2;
-	uint32 BOHCDNAKJGO; = 3;
-	bool MDNECNFFBMO; = 8;
+	uint32 FGGCOCMKODE = 6;
+	uint32 OBEEECDCKAK = 15;
+	bool CKMCPIOKFFE = 7;
+	uint32 JCKMAKMFBJO = 13;
+	repeated GFOMJJIEKBM PNJCKHNCHDH = 2;
+	uint32 BOHCDNAKJGO = 3;
+	bool MDNECNFFBMO = 8;
 }

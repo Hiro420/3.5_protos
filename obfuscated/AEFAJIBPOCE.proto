@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "MFMLDFBDCLA.proto";
 
 message AEFAJIBPOCE {
-	MFMLDFBDCLA LBHIINLKALB; = 4;
-	uint32 NCCDAMEHAMM; = 13;
-	uint32 JGAHPOJJDHJ; = 6;
-	uint32 NGCLEIEIBBL; = 1;
+	MFMLDFBDCLA LBHIINLKALB = 4;
+	uint32 NCCDAMEHAMM = 13;
+	uint32 JGAHPOJJDHJ = 6;
+	uint32 NGCLEIEIBBL = 1;
 }

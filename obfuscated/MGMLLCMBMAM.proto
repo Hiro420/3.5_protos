@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "KNIKNHIMAFF.proto";
 
 message MGMLLCMBMAM {
-	repeated KNIKNHIMAFF NAINFAHOBLH; = 13;
+	repeated KNIKNHIMAFF NAINFAHOBLH = 13;
 }

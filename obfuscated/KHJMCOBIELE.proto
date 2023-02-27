@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KHJMCOBIELE {
-	uint32 IHMAEEJLCCC; = 12;
-	uint32 NAIPFFHNDOH; = 1;
+	uint32 IHMAEEJLCCC = 12;
+	uint32 NAIPFFHNDOH = 1;
 }

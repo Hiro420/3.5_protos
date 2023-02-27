@@ -3,9 +3,9 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message KFMKKDJPHOA {
-	bool GAOFAOEEKMD; = 3;
-	uint32 KGDBJNFLBKB; = 10;
-	repeated uint32 LMFKCIAPCNO; = 11;
-	bool FDOPDBIJLBK; = 8;
-	repeated int32 JMJFJOBDLNG; = 7;
+	bool GAOFAOEEKMD = 3;
+	uint32 KGDBJNFLBKB = 10;
+	repeated uint32 LMFKCIAPCNO = 11;
+	bool FDOPDBIJLBK = 8;
+	repeated int32 JMJFJOBDLNG = 7;
 }

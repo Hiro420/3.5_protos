@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IENBCEAAOKF {
-	uint32 FAICIMDLBMF; = 7;
-	bool BPBDFIOMMBI; = 11;
-	uint32 HHEPIOBIFPG; = 10;
+	uint32 FAICIMDLBMF = 7;
+	bool BPBDFIOMMBI = 11;
+	uint32 HHEPIOBIFPG = 10;
 }

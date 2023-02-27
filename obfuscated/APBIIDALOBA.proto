@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message APBIIDALOBA {
-	int32 IJIABMFLJGH; = 15;
-	string BHKGFPONKMP; = 14;
+	int32 IJIABMFLJGH = 15;
+	string BHKGFPONKMP = 14;
 }

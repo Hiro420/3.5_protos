@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message FMGIFDALPPD {
-	uint32 CCIHCOKEEPB; = 7;
-	int32 IJIABMFLJGH; = 1;
-	uint32 NHBBMHKOHED; = 12;
-	uint32 ANBEIAHBHOK; = 10;
+	uint32 CCIHCOKEEPB = 7;
+	int32 IJIABMFLJGH = 1;
+	uint32 NHBBMHKOHED = 12;
+	uint32 ANBEIAHBHOK = 10;
 }

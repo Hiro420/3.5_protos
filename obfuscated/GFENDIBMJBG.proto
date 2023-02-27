@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "FHHNDAIOPNP.proto";
 
 message GFENDIBMJBG {
-	repeated FHHNDAIOPNP GAEGLJFICFM; = 12;
-	uint32 KFEMBAPKMFH; = 14;
+	repeated FHHNDAIOPNP GAEGLJFICFM = 12;
+	uint32 KFEMBAPKMFH = 14;
 }

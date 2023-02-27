@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CCOGDLMGCID {
-	int32 IJIABMFLJGH; = 14;
+	int32 IJIABMFLJGH = 14;
 }

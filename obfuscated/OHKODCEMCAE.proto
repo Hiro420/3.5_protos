@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "ELEEFNHCAOL.proto";
 
 message OHKODCEMCAE {
-	repeated ELEEFNHCAOL LIHEPHPKCOI; = 15;
+	repeated ELEEFNHCAOL LIHEPHPKCOI = 15;
 }

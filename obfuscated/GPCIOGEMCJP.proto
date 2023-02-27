@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message GPCIOGEMCJP {
-	int32 IJIABMFLJGH; = 9;
-	uint32 BGBHFPOKAND; = 10;
+	int32 IJIABMFLJGH = 9;
+	uint32 BGBHFPOKAND = 10;
 }

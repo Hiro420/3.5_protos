@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "IKCAPLALLPO.proto";
 
 message LKDBDNPOIJN {
-	uint32 PDFLEGGDOCP; = 4;
-	uint32 PFKDFHHKBFD; = 6;
-	IKCAPLALLPO IPMAGMOILFJ; = 12;
+	uint32 PDFLEGGDOCP = 4;
+	uint32 PFKDFHHKBFD = 6;
+	IKCAPLALLPO IPMAGMOILFJ = 12;
 }

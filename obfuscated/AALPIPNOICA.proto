@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message AALPIPNOICA {
-	uint32 BOFBIJGMIGM; = 11;
-	uint64 MPCNAGMMHGF; = 9;
-	int32 IJIABMFLJGH; = 1;
+	uint32 BOFBIJGMIGM = 11;
+	uint64 MPCNAGMMHGF = 9;
+	int32 IJIABMFLJGH = 1;
 }

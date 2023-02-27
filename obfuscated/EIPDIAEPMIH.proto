@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EIPDIAEPMIH {
-	uint32 EPMNMGEBPLA; = 15;
-	uint32 LHCPGMIIDLO; = 14;
+	uint32 EPMNMGEBPLA = 15;
+	uint32 LHCPGMIIDLO = 14;
 }

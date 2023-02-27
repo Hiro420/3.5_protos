@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message HNAOKKPNHAB {
-	uint32 OFBMGFHIPAD; = 5;
-	uint32 MPIGJEHHNGG; = 2;
+	uint32 OFBMGFHIPAD = 5;
+	uint32 MPIGJEHHNGG = 2;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "MFONNPHDELM.proto";
 
 message JGPECFNNFJP {
-	MFONNPHDELM JANCKEGCJLN; = 8;
-	int32 IJIABMFLJGH; = 10;
+	MFONNPHDELM JANCKEGCJLN = 8;
+	int32 IJIABMFLJGH = 10;
 }

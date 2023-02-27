@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 
 message OPLEOHDCKPP {
-	float BHEKIBBLMLB; = 2;
-	float NOCCECFFIFI; = 3;
-	uint32 PDFLEGGDOCP; = 14;
-	DALMLFNANKL DJPBOLNGGKC; = 1;
-	float ECLOHCNFOLI; = 4;
+	float BHEKIBBLMLB = 2;
+	float NOCCECFFIFI = 3;
+	uint32 PDFLEGGDOCP = 14;
+	DALMLFNANKL DJPBOLNGGKC = 1;
+	float ECLOHCNFOLI = 4;
 }

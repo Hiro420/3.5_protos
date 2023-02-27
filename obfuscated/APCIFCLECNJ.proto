@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message APCIFCLECNJ {
-	uint32 KEPPPGHKCFL; = 1;
-	int32 IJIABMFLJGH; = 2;
-	uint32 PAKGCBBEOBJ; = 7;
+	uint32 KEPPPGHKCFL = 1;
+	int32 IJIABMFLJGH = 2;
+	uint32 PAKGCBBEOBJ = 7;
 }

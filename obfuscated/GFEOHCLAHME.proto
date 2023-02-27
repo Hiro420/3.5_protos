@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "CNKNLMCLGEE.proto";
 
 message GFEOHCLAHME {
-	uint32 OPBEDPAPGBC; = 11;
-	uint32 FEOMIOKBKJA; = 6;
-	CNKNLMCLGEE GNLDDLIKJDN; = 2;
-	uint32 HJHJNBFEAOB; = 7;
+	uint32 OPBEDPAPGBC = 11;
+	uint32 FEOMIOKBKJA = 6;
+	CNKNLMCLGEE GNLDDLIKJDN = 2;
+	uint32 HJHJNBFEAOB = 7;
 }

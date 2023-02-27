@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "DPLMHBBLJDM.proto";
 
 message JKEIELLELDE {
-	int32 IJIABMFLJGH; = 2;
-	DPLMHBBLJDM NJGCGJODACF; = 14;
+	int32 IJIABMFLJGH = 2;
+	DPLMHBBLJDM NJGCGJODACF = 14;
 }

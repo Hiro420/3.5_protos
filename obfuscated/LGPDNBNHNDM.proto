@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message LGPDNBNHNDM {
-	uint32 PFKDFHHKBFD; = 7;
-	map<uint32, uint32> MFFNLPDGBCM; = 6;
+	uint32 PFKDFHHKBFD = 7;
+	map<uint32, uint32> MFFNLPDGBCM = 6;
 }

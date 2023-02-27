@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "KHINCMAFNBJ.proto";
 
 message DICPIHNDLGM {
-	KHINCMAFNBJ KDKCJGDCMKK; = 11;
-	bool BBJPNLGPCCO; = 9;
+	KHINCMAFNBJ KDKCJGDCMKK = 11;
+	bool BBJPNLGPCCO = 9;
 }

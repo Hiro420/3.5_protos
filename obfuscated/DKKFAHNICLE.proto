@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DKKFAHNICLE {
-	uint32 HBMBODJGAPM; = 14;
-	uint32 KFEMBAPKMFH; = 4;
+	uint32 HBMBODJGAPM = 14;
+	uint32 KFEMBAPKMFH = 4;
 }

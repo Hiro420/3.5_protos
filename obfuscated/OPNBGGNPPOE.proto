@@ -6,6 +6,6 @@ import "PDKLFCHIAMH.proto";
 import "GMIFBLJMMNA.proto";
 
 message OPNBGGNPPOE {
-	repeated GMIFBLJMMNA LJNHAMJAPAI; = 5;
-	map<uint32, PDKLFCHIAMH> DNJEKLCADIM; = 6;
+	repeated GMIFBLJMMNA LJNHAMJAPAI = 5;
+	map<uint32, PDKLFCHIAMH> DNJEKLCADIM = 6;
 }

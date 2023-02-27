@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "ILEIPGLHFAP.proto";
 
 message PMAGBEFIIEL {
-	int32 IJIABMFLJGH; = 6;
-	ILEIPGLHFAP IPADFLCOAFN; = 10;
+	int32 IJIABMFLJGH = 6;
+	ILEIPGLHFAP IPADFLCOAFN = 10;
 }

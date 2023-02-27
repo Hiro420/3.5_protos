@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "KMPDADDDNCP.proto";
 
 message MCBOPCGNLCL {
-	uint32 MMMCCBJBEBP; = 9;
-	repeated KMPDADDDNCP CGILBCHLLPO; = 8;
-	uint32 NLJFOOHENPC; = 13;
+	uint32 MMMCCBJBEBP = 9;
+	repeated KMPDADDDNCP CGILBCHLLPO = 8;
+	uint32 NLJFOOHENPC = 13;
 }

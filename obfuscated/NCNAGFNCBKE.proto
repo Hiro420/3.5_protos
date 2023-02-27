@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message NCNAGFNCBKE {
-	repeated uint32 HIABDLBOLAD; = 12;
+	repeated uint32 HIABDLBOLAD = 12;
 }

@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "HDDLIDNBMJM.proto";
 
 message IMNBOHOJFBO {
-	repeated HDDLIDNBMJM LNAHJBNMOEE; = 15;
+	repeated HDDLIDNBMJM LNAHJBNMOEE = 15;
 }

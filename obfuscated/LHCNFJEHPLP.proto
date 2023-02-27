@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "JPINHMNKDDF.proto";
 
 message LHCNFJEHPLP {
-	JPINHMNKDDF NKHNPCLCADD; = 12;
-	uint32 AAHPGNIAFFG; = 8;
-	bool DFIDCNLEBKF; = 9;
-	uint32 DGLBMCGBMHA; = 4;
+	JPINHMNKDDF NKHNPCLCADD = 12;
+	uint32 AAHPGNIAFFG = 8;
+	bool DFIDCNLEBKF = 9;
+	uint32 DGLBMCGBMHA = 4;
 }

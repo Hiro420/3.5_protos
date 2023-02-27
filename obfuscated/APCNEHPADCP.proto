@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message APCNEHPADCP {
-	uint32 KKMLAEEAHJA; = 9;
+	uint32 KKMLAEEAHJA = 9;
 }

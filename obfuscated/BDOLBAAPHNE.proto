@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "IBJFMGLGGIA.proto";
 
 message BDOLBAAPHNE {
-	repeated IBJFMGLGGIA DJNALBEDFKB; = 7;
+	repeated IBJFMGLGGIA DJNALBEDFKB = 7;
 }

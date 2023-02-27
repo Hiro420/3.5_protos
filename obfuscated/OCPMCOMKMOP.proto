@@ -5,10 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "KKCFBPFKGKM.proto";
 
 message OCPMCOMKMOP {
-	uint32 BEJDBNONODA; = 8;
-	repeated KKCFBPFKGKM EFFIMFEFJDH; = 13;
-	uint32 HFKNDLGIPML; = 1;
-	uint32 BMFIIEMIBIO; = 6;
-	uint32 MANJPJHHGHO; = 7;
-	uint32 OMEDKLAJEJI; = 14;
+	uint32 BEJDBNONODA = 8;
+	repeated KKCFBPFKGKM EFFIMFEFJDH = 13;
+	uint32 HFKNDLGIPML = 1;
+	uint32 BMFIIEMIBIO = 6;
+	uint32 MANJPJHHGHO = 7;
+	uint32 OMEDKLAJEJI = 14;
 }

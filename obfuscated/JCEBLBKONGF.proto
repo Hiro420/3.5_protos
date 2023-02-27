@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "DBGHDOAFABF.proto";
 
 message JCEBLBKONGF {
-	repeated DBGHDOAFABF IFNANBNFDAI; = 11;
-	int32 IJIABMFLJGH; = 14;
-	uint32 PFKDFHHKBFD; = 9;
+	repeated DBGHDOAFABF IFNANBNFDAI = 11;
+	int32 IJIABMFLJGH = 14;
+	uint32 PFKDFHHKBFD = 9;
 }

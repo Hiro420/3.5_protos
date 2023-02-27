@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message MOOPCKFOLNC {
-	uint32 FALKHJGHBOD; = 11;
-	uint32 DEPLICDLIHN; = 1;
+	uint32 FALKHJGHBOD = 11;
+	uint32 DEPLICDLIHN = 1;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 
 message GBALDJBOBPH {
-	DALMLFNANKL AKANNIGGDKH; = 11;
-	DALMLFNANKL LABCKOJLEFP; = 6;
+	DALMLFNANKL AKANNIGGDKH = 11;
+	DALMLFNANKL LABCKOJLEFP = 6;
 }

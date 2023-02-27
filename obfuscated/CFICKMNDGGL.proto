@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CFICKMNDGGL {
-	uint32 ABFNLGANBHG; = 6;
-	uint32 MEGEPCAJCKE; = 13;
-	uint32 FPNIJFBLNNE; = 7;
-	bool LPGAJJALBDN; = 2;
+	uint32 ABFNLGANBHG = 6;
+	uint32 MEGEPCAJCKE = 13;
+	uint32 FPNIJFBLNNE = 7;
+	bool LPGAJJALBDN = 2;
 }

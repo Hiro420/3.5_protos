@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "ONHDINIKADE.proto";
 
 message PHAIBCJLFDG {
-	ONHDINIKADE GCLFCOJPHIJ; = 13;
-	uint32 PDFLEGGDOCP; = 2;
-	uint32 INCIAKIONII; = 3;
+	ONHDINIKADE GCLFCOJPHIJ = 13;
+	uint32 PDFLEGGDOCP = 2;
+	uint32 INCIAKIONII = 3;
 }

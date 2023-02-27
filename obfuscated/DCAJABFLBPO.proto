@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "MOCGOKGHGNG.proto";
 
 message DCAJABFLBPO {
-	MOCGOKGHGNG MHFBFPNJJDL; = 15;
-	uint64 DHJBPPJOKNK; = 7;
+	MOCGOKGHGNG MHFBFPNJJDL = 15;
+	uint64 DHJBPPJOKNK = 7;
 }

@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message GIPPJNDOOEM {
-	uint32 ILABNEHBELM; = 4;
-	uint32 BKMJMPMFFNN; = 9;
-	int32 IJIABMFLJGH; = 5;
+	uint32 ILABNEHBELM = 4;
+	uint32 BKMJMPMFFNN = 9;
+	int32 IJIABMFLJGH = 5;
 }

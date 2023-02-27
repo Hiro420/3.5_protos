@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "LPOPNCBABHN.proto";
 
 message LPCBJDFPFII {
-	int32 JLMLALKOMFN; = 15;
-	repeated LPOPNCBABHN AHFBFNGNGHA; = 10;
+	int32 JLMLALKOMFN = 15;
+	repeated LPOPNCBABHN AHFBFNGNGHA = 10;
 }

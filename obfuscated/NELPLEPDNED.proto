@@ -6,11 +6,11 @@ import "HAKHNIFICLC.proto";
 import "DALMLFNANKL.proto";
 
 message NELPLEPDNED {
-	bool BEGFFBPHCIG; = 1;
-	DALMLFNANKL OFPNGCGDNME; = 2;
-	map<uint32, uint32> KCAMCHFHNJD; = 3;
-	HAKHNIFICLC BCLLMBIHOAE; = 4;
-	map<uint32, uint32> FPIEKMLGNLI; = 5;
-	map<uint32, uint32> OLJEAFNIHHM; = 6;
-	uint32 MAPBJECAOAJ; = 7;
+	bool BEGFFBPHCIG = 1;
+	DALMLFNANKL OFPNGCGDNME = 2;
+	map<uint32, uint32> KCAMCHFHNJD = 3;
+	HAKHNIFICLC BCLLMBIHOAE = 4;
+	map<uint32, uint32> FPIEKMLGNLI = 5;
+	map<uint32, uint32> OLJEAFNIHHM = 6;
+	uint32 MAPBJECAOAJ = 7;
 }

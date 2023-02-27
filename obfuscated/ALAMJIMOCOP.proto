@@ -3,10 +3,10 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ALAMJIMOCOP {
-	uint32 MPGJJEALABF; = 6;
-	bool DJKOKFDGKIG; = 2;
-	uint32 FBMBCLAJAOL; = 13;
-	bool IAJEKOIOEAF; = 8;
-	uint32 OJGLCKOAMNI; = 3;
-	uint32 AIJOKLEENGC; = 11;
+	uint32 MPGJJEALABF = 6;
+	bool DJKOKFDGKIG = 2;
+	uint32 FBMBCLAJAOL = 13;
+	bool IAJEKOIOEAF = 8;
+	uint32 OJGLCKOAMNI = 3;
+	uint32 AIJOKLEENGC = 11;
 }

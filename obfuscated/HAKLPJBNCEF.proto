@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "EHKHLMKNGHN.proto";
 
 message HAKLPJBNCEF {
-	EHKHLMKNGHN GGCHKFBOAOM; = 15;
+	EHKHLMKNGHN GGCHKFBOAOM = 15;
 }

@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "MAAKJIPELDB.proto";
 
 message DIEHNGECGMB {
-	MAAKJIPELDB CPOONOJDMIJ; = 1;
+	MAAKJIPELDB CPOONOJDMIJ = 1;
 }

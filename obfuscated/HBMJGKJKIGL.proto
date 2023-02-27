@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "ALGGELGLCLJ.proto";
 
 message HBMJGKJKIGL {
-	float GJDMBBAMIDJ; = 9;
-	ALGGELGLCLJ NMNFNBJMPBJ; = 8;
+	float GJDMBBAMIDJ = 9;
+	ALGGELGLCLJ NMNFNBJMPBJ = 8;
 }

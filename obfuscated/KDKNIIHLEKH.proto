@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "KBLDACDEINJ.proto";
 
 message KDKNIIHLEKH {
-	uint32 PDFLEGGDOCP; = 8;
-	repeated KBLDACDEINJ KENBKHFDPOO; = 3;
+	uint32 PDFLEGGDOCP = 8;
+	repeated KBLDACDEINJ KENBKHFDPOO = 3;
 }

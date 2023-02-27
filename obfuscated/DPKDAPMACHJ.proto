@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "OCCPCJJPICK.proto";
 
 message DPKDAPMACHJ {
-	repeated OCCPCJJPICK LEDDDHBFGEM; = 4;
-	uint32 JODNCINCMIF; = 2;
+	repeated OCCPCJJPICK LEDDDHBFGEM = 4;
+	uint32 JODNCINCMIF = 2;
 }

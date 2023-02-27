@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "LLOKNKLJFHI.proto";
 
 message GGBMIADMOHH {
-	repeated LLOKNKLJFHI JIMPICDBNLP; = 12;
-	uint32 GOIOHBKDPDB; = 15;
+	repeated LLOKNKLJFHI JIMPICDBNLP = 12;
+	uint32 GOIOHBKDPDB = 15;
 }

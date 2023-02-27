@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message NKMADPICAMJ {
-	uint32 FCHGPOADCNL; = 3;
-	uint32 AMJLLOEKGMD; = 14;
+	uint32 FCHGPOADCNL = 3;
+	uint32 AMJLLOEKGMD = 14;
 }

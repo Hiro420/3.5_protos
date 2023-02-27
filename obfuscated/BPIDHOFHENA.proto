@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BPIDHOFHENA {
-	uint32 BBBBHFMINGB; = 10;
-	repeated uint64 NKBDOKHHKEB; = 12;
-	uint32 AMJLLOEKGMD; = 14;
+	uint32 BBBBHFMINGB = 10;
+	repeated uint64 NKBDOKHHKEB = 12;
+	uint32 AMJLLOEKGMD = 14;
 }

@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "DFNGPIGNBJJ.proto";
 
 message PKHNOEDAGBD {
-	DFNGPIGNBJJ KDGDLKGKCDI; = 5;
-	uint32 IGKMPEPBPGE; = 7;
-	uint32 AHOJAOIHIEB; = 8;
+	DFNGPIGNBJJ KDGDLKGKCDI = 5;
+	uint32 IGKMPEPBPGE = 7;
+	uint32 AHOJAOIHIEB = 8;
 }

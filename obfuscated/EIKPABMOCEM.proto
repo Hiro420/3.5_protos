@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EIKPABMOCEM {
-	bool AJOGLPANDNC; = 10;
+	bool AJOGLPANDNC = 10;
 }

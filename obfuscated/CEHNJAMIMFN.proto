@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CEHNJAMIMFN {
-	bool DJKOKFDGKIG; = 10;
-	uint32 PLMDDEEEAAB; = 2;
+	bool DJKOKFDGKIG = 10;
+	uint32 PLMDDEEEAAB = 2;
 }

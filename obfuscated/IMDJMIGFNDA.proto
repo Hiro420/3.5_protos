@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IMDJMIGFNDA {
-	map<uint32, uint32> ABPEPDKENFK; = 13;
-	uint32 NJAEFGBAJLN; = 7;
-	bool IEECBOOJINH; = 4;
-	bool IAJGNBKDFHB; = 10;
+	map<uint32, uint32> ABPEPDKENFK = 13;
+	uint32 NJAEFGBAJLN = 7;
+	bool IEECBOOJINH = 4;
+	bool IAJGNBKDFHB = 10;
 }

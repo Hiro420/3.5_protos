@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CCBHLLOBEGO {
-	bool NBEOJGHKOGP; = 11;
-	int32 IJIABMFLJGH; = 2;
-	bool FFDKELEGNPH; = 12;
+	bool NBEOJGHKOGP = 11;
+	int32 IJIABMFLJGH = 2;
+	bool FFDKELEGNPH = 12;
 }

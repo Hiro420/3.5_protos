@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "IKCAPLALLPO.proto";
 
 message HBDOMIEAIIL {
-	IKCAPLALLPO ABCACACAHNG; = 7;
-	uint32 PDFLEGGDOCP; = 2;
+	IKCAPLALLPO ABCACACAHNG = 7;
+	uint32 PDFLEGGDOCP = 2;
 }

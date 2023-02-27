@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 import "IGKIPAJDMNO.proto";
 
 message NGHEBOHGDBC {
-	uint32 NPFDOLMAHIG; = 5;
-	uint32 AFJJCDAMFIK; = 10;
-	repeated IGKIPAJDMNO KHKIIAGAMNF; = 8;
-	uint32 MGGIEMKADBL; = 2;
-	uint32 KFEMBAPKMFH; = 7;
+	uint32 NPFDOLMAHIG = 5;
+	uint32 AFJJCDAMFIK = 10;
+	repeated IGKIPAJDMNO KHKIIAGAMNF = 8;
+	uint32 MGGIEMKADBL = 2;
+	uint32 KFEMBAPKMFH = 7;
 }

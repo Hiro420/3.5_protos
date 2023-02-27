@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BPKGHIEIGHK {
-	uint32 HDHFDDKANOF; = 1;
-	uint32 IMDEMLEDGOE; = 9;
+	uint32 HDHFDDKANOF = 1;
+	uint32 IMDEMLEDGOE = 9;
 }

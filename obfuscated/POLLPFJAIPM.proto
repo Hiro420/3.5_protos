@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "MNFJFJANFEH.proto";
 
 message POLLPFJAIPM {
-	bool DJKOKFDGKIG; = 7;
-	uint32 BEJDBNONODA; = 10;
-	repeated MNFJFJANFEH KACADLIIPLM; = 9;
+	bool DJKOKFDGKIG = 7;
+	uint32 BEJDBNONODA = 10;
+	repeated MNFJFJANFEH KACADLIIPLM = 9;
 }

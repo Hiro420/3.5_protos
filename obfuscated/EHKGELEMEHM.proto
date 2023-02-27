@@ -3,11 +3,11 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EHKGELEMEHM {
-	uint32 BBEJEEENLPN; = 6;
-	uint32 FJECIJJKPGN; = 3;
-	repeated uint32 HCHJLBKGOHD; = 7;
-	int32 IJIABMFLJGH; = 11;
-	uint64 PEDAJBJPCML; = 15;
-	repeated uint32 DDPFNJLFNMF; = 1;
-	uint32 LMCGDABJPKB; = 5;
+	uint32 BBEJEEENLPN = 6;
+	uint32 FJECIJJKPGN = 3;
+	repeated uint32 HCHJLBKGOHD = 7;
+	int32 IJIABMFLJGH = 11;
+	uint64 PEDAJBJPCML = 15;
+	repeated uint32 DDPFNJLFNMF = 1;
+	uint32 LMCGDABJPKB = 5;
 }

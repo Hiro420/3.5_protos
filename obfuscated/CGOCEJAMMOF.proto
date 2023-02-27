@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message CGOCEJAMMOF {
-	repeated uint32 LPOFEOHHFOA; = 15;
+	repeated uint32 LPOFEOHHFOA = 15;
 }

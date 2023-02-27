@@ -5,10 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "HGOBDHKMDHO.proto";
 
 message ILFMLLOCKFB {
-	int32 IJIABMFLJGH; = 6;
-	uint32 ABJBOBMHCII; = 1;
-	repeated HGOBDHKMDHO CMFPMDOFCFE; = 10;
-	string OAGJAHBDCCO; = 5;
-	bool JILHCAEFGBJ; = 8;
-	uint32 MJGAALDCFFK; = 13;
+	int32 IJIABMFLJGH = 6;
+	uint32 ABJBOBMHCII = 1;
+	repeated HGOBDHKMDHO CMFPMDOFCFE = 10;
+	string OAGJAHBDCCO = 5;
+	bool JILHCAEFGBJ = 8;
+	uint32 MJGAALDCFFK = 13;
 }

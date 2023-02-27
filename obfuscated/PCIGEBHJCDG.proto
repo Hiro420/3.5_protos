@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message PCIGEBHJCDG {
-	uint32 ODJPCGIMADI; = 8;
+	uint32 ODJPCGIMADI = 8;
 }

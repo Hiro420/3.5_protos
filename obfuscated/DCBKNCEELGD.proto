@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "KFALPHIPJOK.proto";
 
 message DCBKNCEELGD {
-	uint32 ELNNIELNMBO; = 10;
-	KFALPHIPJOK KAOBAJAEIPN; = 8;
-	int32 IJIABMFLJGH; = 9;
+	uint32 ELNNIELNMBO = 10;
+	KFALPHIPJOK KAOBAJAEIPN = 8;
+	int32 IJIABMFLJGH = 9;
 }

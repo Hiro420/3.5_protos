@@ -6,6 +6,6 @@ import "EJKIKKJCFKL.proto";
 import "NFAGLBHALKL.proto";
 
 message HCPEEIEKMCL {
-	repeated NFAGLBHALKL KIDKPLPCPHB; = 10;
-	repeated EJKIKKJCFKL NPMFEENKMLF; = 12;
+	repeated NFAGLBHALKL KIDKPLPCPHB = 10;
+	repeated EJKIKKJCFKL NPMFEENKMLF = 12;
 }

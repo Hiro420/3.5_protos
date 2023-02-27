@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "JPOMNGOBDIO.proto";
 
 message GDBEDIEBFFL {
-	uint64 POGHDEAENAD; = 5;
-	JPOMNGOBDIO BLPOACLEELO; = 10;
+	uint64 POGHDEAENAD = 5;
+	JPOMNGOBDIO BLPOACLEELO = 10;
 }

@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "DPIKGFELMFD.proto";
 
 message BLOPFDPFLDE {
-	repeated uint32 PHBGPHDFCII; = 14;
-	DPIKGFELMFD KGGPGOOJKEF; = 7;
-	repeated uint32 DOFLHKBGEMN; = 11;
+	repeated uint32 PHBGPHDFCII = 14;
+	DPIKGFELMFD KGGPGOOJKEF = 7;
+	repeated uint32 DOFLHKBGEMN = 11;
 }

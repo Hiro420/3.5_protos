@@ -3,5 +3,5 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message DNBCFAELCOC {
-	repeated uint32 CLGIPBKIKPN; = 13;
+	repeated uint32 CLGIPBKIKPN = 13;
 }

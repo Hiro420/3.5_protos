@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "JENKCFOKNFE.proto";
 
 message NBBDONJDCNE {
-	repeated JENKCFOKNFE LFOMPKBDKKD; = 6;
-	int32 IJIABMFLJGH; = 1;
-	uint32 PFKDFHHKBFD; = 14;
+	repeated JENKCFOKNFE LFOMPKBDKKD = 6;
+	int32 IJIABMFLJGH = 1;
+	uint32 PFKDFHHKBFD = 14;
 }

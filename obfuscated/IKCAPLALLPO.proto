@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "NLBMAKMGHOE.proto";
 
 message IKCAPLALLPO {
-	repeated NLBMAKMGHOE GNDDNIKDPPI; = 1;
+	repeated NLBMAKMGHOE GNDDNIKDPPI = 1;
 }

@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "ACOGHICAGEN.proto";
 
 message CHGPAKDGCEC {
-	repeated ACOGHICAGEN CFFCGEDHEBG; = 12;
-	int32 IJIABMFLJGH; = 9;
+	repeated ACOGHICAGEN CFFCGEDHEBG = 12;
+	int32 IJIABMFLJGH = 9;
 }

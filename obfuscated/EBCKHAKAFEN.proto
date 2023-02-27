@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message EBCKHAKAFEN {
-	uint32 APPJCEKCOBP; = 11;
-	uint32 HMIBCDEMMCC; = 2;
-	repeated uint32 PALEOCGFEDI; = 15;
+	uint32 APPJCEKCOBP = 11;
+	uint32 HMIBCDEMMCC = 2;
+	repeated uint32 PALEOCGFEDI = 15;
 }

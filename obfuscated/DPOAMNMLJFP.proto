@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "CGOOHEEBLLK.proto";
 
 message DPOAMNMLJFP {
-	uint32 PDFLEGGDOCP; = 8;
-	CGOOHEEBLLK HDHCBKKBOIN; = 9;
-	uint32 AKANNIGGDKH; = 6;
+	uint32 PDFLEGGDOCP = 8;
+	CGOOHEEBLLK HDHCBKKBOIN = 9;
+	uint32 AKANNIGGDKH = 6;
 }

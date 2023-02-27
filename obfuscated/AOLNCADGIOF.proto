@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message AOLNCADGIOF {
-	uint32 PABHIALDFHM; = 6;
-	int32 IJIABMFLJGH; = 1;
+	uint32 PABHIALDFHM = 6;
+	int32 IJIABMFLJGH = 1;
 }

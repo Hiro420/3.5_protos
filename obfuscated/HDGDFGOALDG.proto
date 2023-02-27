@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "HECBIKPCMOF.proto";
 
 message HDGDFGOALDG {
-	repeated HECBIKPCMOF IOLPDPGNDOD; = 11;
+	repeated HECBIKPCMOF IOLPDPGNDOD = 11;
 }

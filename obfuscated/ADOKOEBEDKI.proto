@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 import "PJOPDHANLEM.proto";
 
 message ADOKOEBEDKI {
-	PJOPDHANLEM NFFPHIIAKJB; = 3;
-	int32 IJIABMFLJGH; = 10;
+	PJOPDHANLEM NFFPHIIAKJB = 3;
+	int32 IJIABMFLJGH = 10;
 }

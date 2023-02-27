@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message ABEAGCMPNGD {
-	uint32 AFLIHFKEDCI; = 13;
-	uint32 FBMFDNNFFIB; = 8;
-	uint32 BBCPENFCHEF; = 1;
+	uint32 AFLIHFKEDCI = 13;
+	uint32 FBMFDNNFFIB = 8;
+	uint32 BBCPENFCHEF = 1;
 }

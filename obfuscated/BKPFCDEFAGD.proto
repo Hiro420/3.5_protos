@@ -3,6 +3,6 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message BKPFCDEFAGD {
-	int32 IJIABMFLJGH; = 5;
-	uint32 OHPEFFGHJJJ; = 3;
+	int32 IJIABMFLJGH = 5;
+	uint32 OHPEFFGHJJJ = 3;
 }

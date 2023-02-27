@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 message IGEHENOCHCG {
-	string CEFOGPEEPAM; = 12;
-	string LKFPHPKNPMC; = 13;
-	uint32 POBJGKEJPNJ; = 14;
-	int32 IJIABMFLJGH; = 4;
+	string CEFOGPEEPAM = 12;
+	string LKFPHPKNPMC = 13;
+	uint32 POBJGKEJPNJ = 14;
+	int32 IJIABMFLJGH = 4;
 }

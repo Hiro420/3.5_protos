@@ -5,5 +5,5 @@ option java_package = "emu.grasscutter.net.proto";
 import "KMBIKGFKGNP.proto";
 
 message NBFKMACNOGL {
-	repeated KMBIKGFKGNP BLHKPALNNNE; = 1;
+	repeated KMBIKGFKGNP BLHKPALNNNE = 1;
 }
