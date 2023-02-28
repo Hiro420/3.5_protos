@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "IHFHAKKFMHG.proto";
 import "IHBAACKKKEC.proto";
+import "IHFHAKKFMHG.proto";
 
+// Name: OGDEAJNCGKB
+// CmdId: 367
 message OGDEAJNCGKB {
-	IHBAACKKKEC GKPODOLJDPC = 11;
-	IHFHAKKFMHG CBOLHDNGDGC = 4;
+    IHBAACKKKEC HBGNINHGNLJ = 11;
+    IHFHAKKFMHG KDJAKKPIMGJ = 4;
 }
+

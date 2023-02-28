@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: DPEAAFLAMIN
 message DPEAAFLAMIN {
-	DALMLFNANKL MEPKAGJBDAB = 11;
-	uint32 MPGJJEALABF = 1;
-	uint32 JJALFIOBOEB = 2;
-	bool DJKOKFDGKIG = 12;
-	bool KJOMKLMODIC = 14;
+    DALMLFNANKL GKJOKIEMKMN = 11;
+    uint32 GPKPCCJAFAH = 1;
+    uint32 MFEILFMANEL = 2;
+    bool HKDOCGOMBKP = 12;
+    bool NPJLNBLHLOJ = 14;
 }
+

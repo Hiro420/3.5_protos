@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AFHDAIJGIMB.proto";
 
+// Name: OJDDIODLICI
+// CmdId: 8874
 message OJDDIODLICI {
-	uint32 OEGEDJPNJAD = 12;
-	AFHDAIJGIMB MEGEPCAJCKE = 14;
-	uint32 OFKOOHKDFEC = 15;
+    uint32 CEHNBFEIODF = 12;
+    AFHDAIJGIMB ONOCGGDGHIP = 14;
+    uint32 DIJCEFIKGAK = 15;
 }
+

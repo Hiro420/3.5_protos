@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MIMCCIBHBKO
+// CmdId: 124
 message MIMCCIBHBKO {
-	int32 IJIABMFLJGH = 11;
-	repeated uint32 BAFGMAMMCHM = 5;
+    int32 KFCODGHIJEH = 11;
+    repeated uint32 GDOOJGHKLFG = 5;
 }
+

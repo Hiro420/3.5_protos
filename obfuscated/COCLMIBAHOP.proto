@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: COCLMIBAHOP
 message COCLMIBAHOP {
-	uint32 PJLNNBEACFJ = 4;
-	uint32 LOBFAJFDLFN = 3;
+    uint32 DPOIGCCGCPL = 4;
+    uint32 INOBCIDHCDP = 3;
 }
+

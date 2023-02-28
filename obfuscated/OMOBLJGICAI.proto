@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OMOBLJGICAI
 message OMOBLJGICAI {
-	uint32 EJEDJKAOPAI = 15;
-	uint32 KCNBGFDHAKP = 9;
-	uint32 BJFOENOCBOB = 14;
-	uint32 DBCEEODIKCO = 5;
+    uint32 FHICAKKCBPF = 15;
+    uint32 MEJPBKFHFNH = 9;
+    uint32 MKAMDEJJPAO = 14;
+    uint32 IBHFHNMMJKH = 5;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KABHDLGHLMD
+// CmdId: 2632
 message KABHDLGHLMD {
-	int32 IJIABMFLJGH = 1;
-	repeated uint32 JMGLHDKMECP = 3;
+    int32 KFCODGHIJEH = 1;
+    repeated uint32 MFKDKIOLADG = 3;
 }
+

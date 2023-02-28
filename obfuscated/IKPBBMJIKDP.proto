@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ONHDINIKADE.proto";
 
+// Name: IKPBBMJIKDP
 message IKPBBMJIKDP {
-	uint32 MPNPEGNOKJJ = 9;
-	uint32 INCIAKIONII = 14;
-	ONHDINIKADE LGOJIMINMJD = 6;
+    uint32 PLAPAJJDEOF = 9;
+    uint32 NHPLPJKKNBP = 14;
+    ONHDINIKADE KDCODEABPNI = 6;
 }
+

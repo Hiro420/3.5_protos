@@ -2,11 +2,19 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "NFAGLBHALKL.PDLEBFGKPLM.DMECJPCEPNH.proto";
-
+// Name: NFAGLBHALKL
 message NFAGLBHALKL {
-	uint32 GKHJKEGICOO = 2;
-	NFAGLBHALKL.PDLEBFGKPLM.DMECJPCEPNH JKDNHDLNHMJ = 4;
-	uint32 EMAKJPHNHDI = 5;
-	uint32 BNGHDMNKMNB = 11;
+    // Name: DMECJPCEPNH
+    enum DMECJPCEPNH {
+        DMECJPCEPNH_MLBFMJIBJEP = 0;
+        DMECJPCEPNH_CCEMKCFPLJG = 1;
+        DMECJPCEPNH_CCHBDMBIEBA = 2;
+        DMECJPCEPNH_IBOGIDLGNJI = 3;
+    }
+
+    uint32 FBJHOFHKIIG = 2;
+    DMECJPCEPNH LHFGALANHMN = 4;
+    uint32 BONGOFDPLFE = 5;
+    uint32 IFKHJLODEIF = 11;
 }
+

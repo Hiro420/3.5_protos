@@ -1,0 +1,79 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ADNOFILOCDI.proto";
+import "AMBIPIGPNEP.proto";
+import "AMJPLDCHBLD.proto";
+import "AOHEFFCPELI.proto";
+import "BFAPCMPPLFE.proto";
+import "CNLBLDKJOHE.proto";
+import "DBNHODFFHMG.proto";
+import "DIGAEAGCDDK.proto";
+import "EDDAKPCGDNO.proto";
+import "EJDJOJANKDF.proto";
+import "EMAGMDBBEJB.proto";
+import "ENHIHJAEFOP.proto";
+import "FCMCKBMKEJG.proto";
+import "GIHCLFFDKLE.proto";
+import "HAOLLNONCFH.proto";
+import "HCDEKEGHIMI.proto";
+import "HJKCEEADCBK.proto";
+import "HLNPOIKFBAJ.proto";
+import "HPJENALBJJD.proto";
+import "IAHCNIOCJCH.proto";
+import "IJJHCPIEIGK.proto";
+import "IOCBDHELKAJ.proto";
+import "JABIEHMAPOO.proto";
+import "JEOMIHJHJFD.proto";
+import "JJPBDGJNPOL.proto";
+import "KCOGKGBHJKE.proto";
+import "KDIFONPIAEI.proto";
+import "LAGIGNHGMNG.proto";
+import "LNDLOPKJALI.proto";
+import "LPPEJPJNOEE.proto";
+import "MLMNLCCHDMD.proto";
+import "MOKCALFKBNA.proto";
+import "NIMIDBNFGIA.proto";
+import "PGCOGOHENKC.proto";
+
+// Name: NDDAOOGOECF
+message NDDAOOGOECF {
+    oneof JKEPGHNMPGJ {
+        AMJPLDCHBLD DMPGMMIHCJO = 6;
+        LNDLOPKJALI FLLFDDBOGJE = 2;
+        HCDEKEGHIMI DEFPHPOIHJJ = 14;
+        JEOMIHJHJFD FNEOHLCNAFN = 10;
+        MOKCALFKBNA APMOBDOHBCJ = 8;
+        HAOLLNONCFH DPBGPIGNPKD = 13;
+        EMAGMDBBEJB CLGHMONPMMC = 15;
+        LAGIGNHGMNG IALJABMMJNA = 11;
+        JABIEHMAPOO DOLBLLHDIPC = 3;
+        KCOGKGBHJKE AFJDKGCGEFB = 5;
+        IOCBDHELKAJ HACIBJHAAAK = 4;
+        JJPBDGJNPOL NGGKOFFKAEP = 1;
+        AMBIPIGPNEP BEKFCIKMPEJ = 12;
+        MLMNLCCHDMD DKBDFJFFAHG = 7;
+        ENHIHJAEFOP EMFDNIBEHLP = 1698;
+        GIHCLFFDKLE GODFOKHGFAA = 2016;
+        HJKCEEADCBK LDHMHNCIPIC = 555;
+        ADNOFILOCDI KLFGDEFGALD = 1901;
+        HLNPOIKFBAJ CACPOCJODGH = 1067;
+        KDIFONPIAEI HPLJIPINLOO = 686;
+        DIGAEAGCDDK FEKOPCMNJEN = 1743;
+        IAHCNIOCJCH NDGJPKGHCEA = 1766;
+        AOHEFFCPELI DODMPDKIIFC = 167;
+        BFAPCMPPLFE PBFNOPKHLNI = 891;
+        EJDJOJANKDF KFGLKLAFJNO = 1549;
+        CNLBLDKJOHE BPEMJKDGOHC = 1093;
+        HPJENALBJJD GEBLNGPMHFN = 1422;
+        LPPEJPJNOEE KMMHMFLFKAA = 624;
+        DBNHODFFHMG ACMFLLAMOHH = 65;
+        FCMCKBMKEJG EFEKFBHBPOC = 1571;
+        PGCOGOHENKC MKGKCHKKJFH = 1013;
+        NIMIDBNFGIA PLGIMDADMAN = 1753;
+        IJJHCPIEIGK NLNFKPIBLFM = 1386;
+        EDDAKPCGDNO CNPEPMBPLEB = 1304;
+    }
+}
+

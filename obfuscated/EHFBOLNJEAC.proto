@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EHFBOLNJEAC
 message EHFBOLNJEAC {
-	uint32 KFEMBAPKMFH = 10;
-	uint32 NNEKBHECDCL = 13;
-	uint32 DAIBJCNPOJG = 12;
-	uint32 MGGIEMKADBL = 4;
-	uint32 IPEHJELBLLP = 11;
-	bool HEKOGGBMIIL = 5;
-	string HAJPGGOKDIK = 7;
+    uint32 NDGLECFHBCJ = 10;
+    uint32 JLNHBNGNEML = 13;
+    uint32 FGCOFILIGGJ = 12;
+    uint32 HCCNGFOJDMH = 4;
+    uint32 KDLNFLJAKJM = 11;
+    bool ACOFLPFLFMA = 5;
+    string IIPDEOODDGO = 7;
 }
+

@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DKPDHJGFLKM.proto";
+import "GOICFLKADLN.proto";
+import "INJEGNBKGCB.proto";
+import "KCLGMMEOPAE.proto";
+import "NNBDKJNOIKH.proto";
+
+// Name: EICNPCGJHJB
+message EICNPCGJHJB {
+    // Name: JHPLCCAFDPP
+    enum JHPLCCAFDPP {
+        JHPLCCAFDPP_JJIMJJIIEPP = 0;
+        JHPLCCAFDPP_OAPHFCFMJKM = 1;
+        JHPLCCAFDPP_HPAGCHNIBIM = 2;
+        JHPLCCAFDPP_EOFABHCOLLF = 3;
+        JHPLCCAFDPP_IMPDMPCILHP = 4;
+        JHPLCCAFDPP_ENNAPNPNDNB = 5;
+        JHPLCCAFDPP_NOAJNAPDEMN = 6;
+    }
+
+    JHPLCCAFDPP GLHOLPNDBJF = 3;
+    int32 KFCODGHIJEH = 13;
+    oneof LFHHLADAFEC {
+        GOICFLKADLN CMMEAMGGOPP = 11;
+        KCLGMMEOPAE KGAEMMNPBEL = 10;
+        NNBDKJNOIKH DOGAAHENJAJ = 6;
+        DKPDHJGFLKM KEMMJIOGGLK = 14;
+        INJEGNBKGCB OOLDEKCAHBL = 4;
+    }
+}
+

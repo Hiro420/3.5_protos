@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BKLCBPHIKIP
+// CmdId: 8849
 message BKLCBPHIKIP {
-	repeated uint32 NBJACOHFHCN = 5;
+    repeated uint32 KOMHLIDCJHO = 5;
 }
+

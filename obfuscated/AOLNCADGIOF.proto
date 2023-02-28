@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AOLNCADGIOF
+// CmdId: 283
 message AOLNCADGIOF {
-	uint32 PABHIALDFHM = 6;
-	int32 IJIABMFLJGH = 1;
+    uint32 MAAPCFDAJGE = 6;
+    int32 KFCODGHIJEH = 1;
 }
+

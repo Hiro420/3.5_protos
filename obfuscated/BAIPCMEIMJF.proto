@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JJOLFAPBPNN.proto";
 
+// Name: BAIPCMEIMJF
+// CmdId: 5004
 message BAIPCMEIMJF {
-	JJOLFAPBPNN FKHCMPFAAHJ = 4;
+    JJOLFAPBPNN BBMMPANMJOI = 4;
 }
+

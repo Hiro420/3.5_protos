@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HCOOANKLKCD
 message HCOOANKLKCD {
-	uint32 APPJCEKCOBP = 1;
-	repeated uint32 NJJLCDGPKOB = 2;
-	repeated uint32 ODAALBOFOOK = 3;
+    uint32 IPLGACBJJGH = 1;
+    repeated uint32 MEJCALJPMNA = 2;
+    repeated uint32 FIJBFLBFPIH = 3;
 }
+

@@ -5,14 +5,16 @@ option java_package = "emu.grasscutter.net.proto";
 import "GILKJDIJOIG.proto";
 import "PALOPENLFFM.proto";
 
+// Name: PDOEIHIJNGB
 message PDOEIHIJNGB {
-	uint32 JDDEJFKJHJN = 15;
-	uint32 GKHJKEGICOO = 13;
-	bool IOMMINHCHMA = 14;
-	repeated PALOPENLFFM JFKOJGLILEN = 9;
-	repeated uint32 LPOIBGEEFPH = 8;
-	repeated uint32 NJJLCDGPKOB = 7;
-	repeated GILKJDIJOIG NEFILPAGDBF = 2;
-	uint32 DLIMLCPOHMD = 11;
-	uint32 IAIEOLAOPAB = 10;
+    uint32 LECPGEIPAFI = 15;
+    uint32 FBJHOFHKIIG = 13;
+    bool IJBOEBKGGLM = 14;
+    repeated PALOPENLFFM OOBKPOINHFK = 9;
+    repeated uint32 HHPMILMICBI = 8;
+    repeated uint32 MEJCALJPMNA = 7;
+    repeated GILKJDIJOIG AAOCEJCBOBD = 2;
+    uint32 GJCGHIFNMNG = 11;
+    uint32 ODPJBCIMOMA = 10;
 }
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JEDIONJMILH
+// CmdId: 2264
 message JEDIONJMILH {
-	uint32 AJOLPNIBINE = 8;
-	repeated uint32 JMJFJOBDLNG = 1;
-	uint32 OOGLJJNLEGM = 5;
+    uint32 OIIKALEMFLB = 8;
+    repeated uint32 NLNPKIPAKNE = 1;
+    uint32 HBHEEENAIMM = 5;
 }
+

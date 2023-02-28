@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LHCNFJEHPLP.proto";
 
+// Name: PEBGLHDFPHB
 message PEBGLHDFPHB {
-	uint32 APPJCEKCOBP = 4;
-	repeated LHCNFJEHPLP KAEAIOPBBAF = 9;
+    uint32 IPLGACBJJGH = 4;
+    repeated LHCNFJEHPLP EMMJGNMAEIF = 9;
 }
+

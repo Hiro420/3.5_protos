@@ -3,12 +3,20 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "IGFMCNMHFFH.proto";
-import "AIBNLOKONFF.ADBBLFGKGGL.MMHNGODLMFF.proto";
 
+// Name: AIBNLOKONFF
+// CmdId: 353
 message AIBNLOKONFF {
-	AIBNLOKONFF.ADBBLFGKGGL.MMHNGODLMFF JLEBNFKGGMC = 8;
-	repeated uint64 CLJCCHPHHLO = 5;
-	repeated IGFMCNMHFFH BIEBLKAHOOP = 9;
-	repeated uint32 NBNALIEKKPA = 15;
-	bool JFFBBDANMDD = 7;
+    // Name: MMHNGODLMFF
+    enum MMHNGODLMFF {
+        MMHNGODLMFF_BDGNKPEGLJB = 0;
+        MMHNGODLMFF_OAPDJHEHKKH = 1;
+    }
+
+    MMHNGODLMFF JJNHJCAELJH = 8;
+    repeated uint64 ICDJJLDJFGN = 5;
+    repeated IGFMCNMHFFH NHIJKOEOAFH = 9;
+    repeated uint32 FBBAIPNKDHF = 15;
+    bool AFDCBOAAPIE = 7;
 }
+

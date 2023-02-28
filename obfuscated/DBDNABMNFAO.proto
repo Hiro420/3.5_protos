@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DBDNABMNFAO
 message DBDNABMNFAO {
-	uint32 GKPCJJFJNIH = 11;
-	uint32 JAOBPKMBOKD = 13;
-	uint32 DNIBKOCOPBJ = 3;
-	uint32 PDKMOHMDNNB = 6;
-	uint32 LDFIEMPJHEE = 5;
-	uint32 FJPMPBJOMDN = 2;
-	uint32 LJKPLFPLIOG = 10;
+    uint32 NEGHCLJNONO = 11;
+    uint32 AHMMKMKHHFP = 13;
+    uint32 EIBODINCJMC = 3;
+    uint32 IJIGJHCPBIO = 6;
+    uint32 DPLHKMGEIKA = 5;
+    uint32 GFMEEGMBJKI = 2;
+    uint32 KOLFAOPJMFA = 10;
 }
+

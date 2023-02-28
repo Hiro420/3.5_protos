@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FEPJMFICDGB.proto";
 
+// Name: IEILBIFCLAL
+// CmdId: 4186
 message IEILBIFCLAL {
-	int32 IJIABMFLJGH = 14;
-	FEPJMFICDGB GIPBJFBBEFI = 11;
+    int32 KFCODGHIJEH = 14;
+    FEPJMFICDGB CLMHDABEAMH = 11;
 }
+

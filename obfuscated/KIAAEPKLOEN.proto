@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KIAAEPKLOEN
+// CmdId: 2464
 message KIAAEPKLOEN {
-	uint32 BDJPFEBKAIE = 1;
-	uint32 MMMFLBCKNKE = 5;
+    uint32 CKCFIIGKHMJ = 1;
+    uint32 AKANNMFELNA = 5;
 }
+

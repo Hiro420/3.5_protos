@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IKGLOHMLBPA
 message IKGLOHMLBPA {
-	uint32 IPGMEGNGDOH = 15;
-	uint32 AMJLLOEKGMD = 9;
-	bool CKHJLNJNNPJ = 3;
+    uint32 DAHKBLDENCM = 15;
+    uint32 CEGEDDOGGAD = 9;
+    bool NEMFPJGKFHA = 3;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DBJGJNGNNEK
+// CmdId: 5491
 message DBJGJNGNNEK {
-	bool GPPCFJBGIKD = 11;
-	uint32 IGHODAEJNCH = 8;
+    bool OOKCDDOJMBI = 11;
+    uint32 CMIFHNOBAIC = 8;
 }
+

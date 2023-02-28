@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EAMMPIMBPKH.proto";
 
+// Name: BKJMIFECGOF
+// CmdId: 8040
 message BKJMIFECGOF {
-	uint32 PFKDFHHKBFD = 11;
-	int32 IJIABMFLJGH = 5;
-	repeated EAMMPIMBPKH MJKDPACHDGH = 4;
+    uint32 NLBJCAHEJOC = 11;
+    int32 KFCODGHIJEH = 5;
+    repeated EAMMPIMBPKH GOOBCPKMAEO = 4;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LEEEJNOCINN
+// CmdId: 286
 message LEEEJNOCINN {
-	bool CANKFDJAHAN = 7;
-	repeated uint32 BEPMFNNDBNM = 11;
+    bool FJHOJJNNMLL = 7;
+    repeated uint32 NCOEKBJFPEL = 11;
 }
+

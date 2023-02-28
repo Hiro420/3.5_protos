@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "LLJAMLLPIIF.proto";
 import "DPKDAPMACHJ.proto";
+import "LLJAMLLPIIF.proto";
 
+// Name: LKJKGHMMBAI
+// CmdId: 4795
 message LKJKGHMMBAI {
-	DPKDAPMACHJ HIKDHNPCMFD = 9;
-	LLJAMLLPIIF GNLDDLIKJDN = 10;
-	uint32 KKMLAEEAHJA = 4;
+    DPKDAPMACHJ IHABHLCLEMK = 9;
+    LLJAMLLPIIF BHDBMLOIDGK = 10;
+    uint32 IIBPCMOEENO = 4;
 }
+

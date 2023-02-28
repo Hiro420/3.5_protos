@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OHIGEMKPMPC
+// CmdId: 8272
 message OHIGEMKPMPC {
-	int32 IJIABMFLJGH = 15;
-	map<uint32, uint32> ECIEMAGADKD = 12;
+    int32 KFCODGHIJEH = 15;
+    map<uint32, uint32> GHMEOBNCFFI = 12;
 }
+

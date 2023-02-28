@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PFINALGKHEB
+// CmdId: 8494
 message PFINALGKHEB {
-	bool ELPEJHDLOBC = 6;
-	repeated uint32 DAGINEBHJBN = 14;
+    bool JEGDCJDLLDA = 6;
+    repeated uint32 LGEAAOBNMGG = 14;
 }
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: LGICOHGEPKJ
+enum LGICOHGEPKJ {
+    LGICOHGEPKJ_JJIMJJIIEPP = 0;
+    LGICOHGEPKJ_DOCHHMIPJDI = 1;
+    LGICOHGEPKJ_KBIHPGGDGKA = 2;
+    LGICOHGEPKJ_ADJHJFJHKNG = 3;
+    LGICOHGEPKJ_DAMLGHBDLDO = 4;
+    LGICOHGEPKJ_PMNOLJEGLIP = 5;
+}
+

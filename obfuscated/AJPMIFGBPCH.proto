@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "COJKOLLOBJB.proto";
+import "DCKPBCPNIDC.proto";
+import "LHFDFKFLLDA.proto";
+import "NCCBAHIEMNM.proto";
+import "PBOJPLIHGGO.proto";
+
+// Name: AJPMIFGBPCH
+message AJPMIFGBPCH {
+    uint32 JHKGKEPFCKL = 1;
+    uint32 MPLJBMEAIBB = 2;
+    uint32 CEGEDDOGGAD = 3;
+    repeated NCCBAHIEMNM KMENHHFBCLO = 4;
+    uint32 NHPLPJKKNBP = 5;
+    repeated uint32 GAMMAJKGLII = 6;
+    bool IEJJIPPNCDO = 7;
+    uint32 BAEJFEDNCCG = 8;
+    uint32 NCAEHHFIPMF = 9;
+    map<uint32, uint32> INOEKOKJFAA = 10;
+    uint32 GMNFKBDJDLH = 11;
+    COJKOLLOBJB BFMFOIHJCMP = 12;
+    uint32 KDLNFLJAKJM = 13;
+    uint32 FAHAFKHFABC = 14;
+    uint32 DOMBDNBINGP = 15;
+    uint32 ABJMPJNAMMI = 16;
+    uint32 PKLHEIGLEHK = 17;
+    LHFDFKFLLDA GNIGJPIPAGP = 18;
+    uint32 KLCOPBGBONF = 19;
+    uint32 MJMGKEIBGDH = 20;
+    uint32 JECLHILDGPE = 21;
+    bool CAKHPKKJIAN = 22;
+    uint32 ILCLIEJGMAO = 23;
+    oneof FELNMAMJHCP {
+        PBOJPLIHGGO APMCIFEFHEM = 50;
+        DCKPBCPNIDC ICLIOFCEFCD = 51;
+    }
+}
+

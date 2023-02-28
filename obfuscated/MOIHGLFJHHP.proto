@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LIEADIEKNIB.proto";
 
+// Name: MOIHGLFJHHP
+// CmdId: 8434
 message MOIHGLFJHHP {
-	uint32 LLOBHFKCOJA = 2;
-	bool DBIKCJCJHFI = 3;
-	map<uint32, LIEADIEKNIB> BNEDMJBNGDD = 6;
-	uint32 CMGBPGBEMBH = 9;
+    uint32 PDDEJIGJICI = 2;
+    bool AAMENNENDKM = 3;
+    map<uint32, LIEADIEKNIB> LHBEOANNKFK = 6;
+    uint32 KJPILOLPIAD = 9;
 }
+

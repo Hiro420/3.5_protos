@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KKFKFOCNEDE
+// CmdId: 2070
 message KKFKFOCNEDE {
-	uint32 PFKDFHHKBFD = 15;
-	uint32 CEKDLLLCMKI = 2;
-	uint32 ONPNDEDLPNB = 11;
-	int32 IJIABMFLJGH = 1;
+    uint32 NLBJCAHEJOC = 15;
+    uint32 LKBMPEACAEJ = 2;
+    uint32 HBMLNLCODNM = 11;
+    int32 KFCODGHIJEH = 1;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KHPANMIGJGL.proto";
 
+// Name: MBEPHADCLEE
+// CmdId: 2643
 message MBEPHADCLEE {
-	repeated KHPANMIGJGL KIPCCLMMFAF = 13;
+    repeated KHPANMIGJGL PDJEPBPHGPN = 13;
 }
+

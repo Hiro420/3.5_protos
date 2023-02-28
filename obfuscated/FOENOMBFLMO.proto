@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BLBKDPNKGGG.proto";
+
+// Name: FOENOMBFLMO
+message FOENOMBFLMO {
+    uint32 ENHLDJCHHNF = 1;
+    uint32 IEBIABJPGEF = 2;
+    repeated uint32 BMFAGHFGACH = 3;
+    uint32 KKLGNAPGHHO = 4;
+    uint32 PFLGEMLFBLL = 5;
+    uint32 IFKHJLODEIF = 6;
+    oneof IEBIOJBPGAJ {
+        BLBKDPNKGGG FHOOBIJJCDK = 21;
+    }
+}
+

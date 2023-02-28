@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FKDDKBKAMBO
+// CmdId: 1790
 message FKDDKBKAMBO {
-	uint32 PAKGCBBEOBJ = 4;
-	uint32 KFEMBAPKMFH = 2;
+    uint32 GIKJPLBMPNH = 4;
+    uint32 NDGLECFHBCJ = 2;
 }
+

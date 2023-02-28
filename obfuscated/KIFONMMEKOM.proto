@@ -5,9 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "BOKOEDGKGCL.proto";
 import "OJDHIEBPOKL.proto";
 
+// Name: KIFONMMEKOM
+// CmdId: 8873
 message KIFONMMEKOM {
-	uint32 PAKGCBBEOBJ = 15;
-	OJDHIEBPOKL LPAJNGLNIDL = 7;
-	int32 IJIABMFLJGH = 5;
-	repeated BOKOEDGKGCL FNJHFGNGAHN = 14;
+    uint32 GIKJPLBMPNH = 15;
+    OJDHIEBPOKL PNIONBNAIPL = 7;
+    int32 KFCODGHIJEH = 5;
+    repeated BOKOEDGKGCL ACJJADGKELI = 14;
 }
+

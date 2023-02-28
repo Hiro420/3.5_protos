@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NLBGODAGDJI
+// CmdId: 8376
 message NLBGODAGDJI {
-	float LMOGLGIGFBD = 11;
+    float MGKLIPFIAJJ = 11;
 }
+

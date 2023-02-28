@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KBDFNIEAMPO
+// CmdId: 823
 message KBDFNIEAMPO {
-	map<uint32, uint32> GHBCFBCOHGA = 1;
+    map<uint32, uint32> OOAINFEMJCN = 1;
 }
+

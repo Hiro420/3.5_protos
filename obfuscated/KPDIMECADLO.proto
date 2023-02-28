@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "COFIOGPCLNN.proto";
 
+// Name: KPDIMECADLO
+// CmdId: 2434
 message KPDIMECADLO {
-	uint32 NLJFOOHENPC = 2;
-	repeated COFIOGPCLNN ODOKHAPOONL = 8;
+    uint32 JNMMLJHLIEE = 2;
+    repeated COFIOGPCLNN JGBGMFEEPNH = 8;
 }
+

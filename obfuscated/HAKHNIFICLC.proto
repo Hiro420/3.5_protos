@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HAKHNIFICLC
 message HAKHNIFICLC {
-	uint32 FFMHIGADDOE = 1;
-	uint32 FEEEKPFFNEJ = 2;
+    uint32 OMKCCHIEGNC = 1;
+    uint32 FDAJIMCCPBJ = 2;
 }
+

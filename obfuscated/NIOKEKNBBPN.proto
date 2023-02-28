@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NIOKEKNBBPN
+// CmdId: 46
 message NIOKEKNBBPN {
-	uint32 PDFLEGGDOCP = 15;
+    uint32 GPBLLPDCIFK = 15;
 }
+

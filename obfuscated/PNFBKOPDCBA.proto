@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PNFBKOPDCBA
+// CmdId: 8836
 message PNFBKOPDCBA {
-	uint32 CPMCEJHPHGL = 3;
+    uint32 BLEEPCJBACG = 3;
 }
+

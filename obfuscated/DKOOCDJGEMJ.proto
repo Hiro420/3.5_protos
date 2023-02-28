@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DIIKFAIPKGG.proto";
 
+// Name: DKOOCDJGEMJ
+// CmdId: 4825
 message DKOOCDJGEMJ {
-	DIIKFAIPKGG PKNGPHJNNJH = 11;
-	int32 IJIABMFLJGH = 13;
-	uint32 FAICIMDLBMF = 1;
+    DIIKFAIPKGG LFKMDOMNNIO = 11;
+    int32 KFCODGHIJEH = 13;
+    uint32 KFKLCBBKMNC = 1;
 }
+

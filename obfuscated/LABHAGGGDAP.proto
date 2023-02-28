@@ -5,9 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 import "OIHMHBIFJEC.proto";
 
+// Name: LABHAGGGDAP
 message LABHAGGGDAP {
-	uint32 KJLDMLDDEBL = 14;
-	repeated OIHMHBIFJEC PJLABOFLCAK = 10;
-	uint32 DOGKMJOKNJA = 6;
-	DALMLFNANKL AKANNIGGDKH = 13;
+    uint32 IFGLGMOLAGA = 14;
+    repeated OIHMHBIFJEC ILFEHEIPKEA = 10;
+    uint32 GECOOGMJNAO = 6;
+    DALMLFNANKL GHGPLCNLCDF = 13;
 }
+

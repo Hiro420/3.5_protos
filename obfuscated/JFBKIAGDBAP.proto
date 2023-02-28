@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JFBKIAGDBAP
+// CmdId: 3950
 message JFBKIAGDBAP {
-	uint32 IHMAEEJLCCC = 2;
-	uint32 MNFNDPONFAI = 10;
-	uint32 EABOGBAHJKA = 11;
-	int32 IJIABMFLJGH = 4;
+    uint32 FMMBJJLEBAF = 2;
+    uint32 HGAGDJNPGNK = 10;
+    uint32 AENOPOAGBJK = 11;
+    int32 KFCODGHIJEH = 4;
 }
+

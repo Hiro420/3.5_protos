@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CKMLMNALECC
+// CmdId: 1786
 message CKMLMNALECC {
-	map<uint64, uint32> CDBMPOAOLAN = 8;
-	int32 IJIABMFLJGH = 12;
+    map<uint64, uint32> JKCPFKEIDNE = 8;
+    int32 KFCODGHIJEH = 12;
 }
+

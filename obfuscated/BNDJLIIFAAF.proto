@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BNDJLIIFAAF
+// CmdId: 644
 message BNDJLIIFAAF {
-	uint32 IDEEKAMBCDB = 5;
-	int32 IJIABMFLJGH = 14;
-	uint32 KDEMCNMEFNJ = 2;
-	uint64 CINOIJEALEF = 10;
+    uint32 PJGFEEMIPBL = 5;
+    int32 KFCODGHIJEH = 14;
+    uint32 ONKINPFPNPJ = 2;
+    uint64 CPPBHGBJFEH = 10;
 }
+

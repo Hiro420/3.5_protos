@@ -2,20 +2,22 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "JICOLCNEHCM.proto";
 import "CJMLJLBPIHE.proto";
 import "JDJAHIBMPAI.proto";
+import "JICOLCNEHCM.proto";
 import "JIFDENLBIOG.proto";
 
+// Name: MKIIGHBHFEH
 message MKIIGHBHFEH {
-	uint64 BOPOMJIPJMI = 7;
-	uint32 EDNDCIABNNB = 11;
-	JIFDENLBIOG JKDNHDLNHMJ = 1;
-	uint32 JAMEJIDMJOJ = 14;
-	JDJAHIBMPAI AOIHBDGJNBH = 13;
-	uint32 OEGEDJPNJAD = 15;
-	CJMLJLBPIHE OIEFJMBEGHH = 6;
-	bool MKJLJEOJBAA = 8;
-	JICOLCNEHCM NGBKNBEJJBN = 10;
-	repeated uint32 LPOIBGEEFPH = 9;
+    uint64 HKLHMEABKCO = 7;
+    uint32 NGPJNIOLLJB = 11;
+    JIFDENLBIOG LHFGALANHMN = 1;
+    uint32 BNIPEELIEMB = 14;
+    JDJAHIBMPAI FMFDIKMKMMJ = 13;
+    uint32 CEHNBFEIODF = 15;
+    CJMLJLBPIHE MNAGPCLFJBC = 6;
+    bool FJIDEIONKNJ = 8;
+    JICOLCNEHCM POCHIFADJCG = 10;
+    repeated uint32 HHPMILMICBI = 9;
 }
+

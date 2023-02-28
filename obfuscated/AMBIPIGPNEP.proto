@@ -2,14 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MGPEPCFDPGE.proto";
 import "IAIKHNIKNHG.proto";
+import "MGPEPCFDPGE.proto";
 
+// Name: AMBIPIGPNEP
 message AMBIPIGPNEP {
-	repeated uint32 BAEBBOJAOMJ = 10;
-	repeated uint32 LHILNNNBEME = 3;
-	uint32 IAIEOLAOPAB = 12;
-	IAIKHNIKNHG GNLDDLIKJDN = 2;
-	MGPEPCFDPGE ACOMHHNFEHB = 9;
-	MGPEPCFDPGE NMCAODALMIA = 5;
+    repeated uint32 LIABDCMFBLF = 10;
+    repeated uint32 HFKLNAKAJIK = 3;
+    uint32 ODPJBCIMOMA = 12;
+    IAIKHNIKNHG BHDBMLOIDGK = 2;
+    MGPEPCFDPGE CIHEMAPDDMP = 9;
+    MGPEPCFDPGE NMHCIDAPDPJ = 5;
 }
+

@@ -2,11 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CABODJPEHAN
 message CABODJPEHAN {
-	uint32 HDHFDDKANOF = 14;
-	bool BDMJLGMIHIF = 1;
-	uint32 AIJOKLEENGC = 11;
-	repeated uint32 LFBDEKAGAPO = 9;
-	repeated uint32 GNLLECKDGAA = 15;
-	bool LPGAJJALBDN = 6;
+    uint32 EHPPNPOKAGI = 14;
+    bool AFFBBBPHIHH = 1;
+    uint32 OBBPIGOHAJL = 11;
+    repeated uint32 KEHACGOKBJA = 9;
+    repeated uint32 JBGDHJHOGMA = 15;
+    bool PIHHIOENHPL = 6;
 }
+

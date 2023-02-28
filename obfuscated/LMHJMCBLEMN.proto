@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: LMHJMCBLEMN
+enum LMHJMCBLEMN {
+    LMHJMCBLEMN_ELGFMBPABNP = 0;
+    LMHJMCBLEMN_MOBHKALPIDE = 1;
+    LMHJMCBLEMN_NOEIONFFDHB = 2;
+    LMHJMCBLEMN_JJGEBGLGBCB = 3;
+}
+

@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CNCEIOHAKKI.proto";
 
+// Name: HNKDKKMFJHO
 message HNKDKKMFJHO {
-	uint32 PINCMCILICB = 15;
-	map<uint32, CNCEIOHAKKI> HBOKOPNMMLI = 6;
-	uint32 AHEFDMPHAAK = 11;
+    uint32 DNGFFGDEGIG = 15;
+    map<uint32, CNCEIOHAKKI> LECMBMIHMEM = 6;
+    uint32 NOGMACBJJCL = 11;
 }
+

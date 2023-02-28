@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GKKDFKJAIAN.proto";
 
+// Name: CIJBALBBDIH
+// CmdId: 4076
 message CIJBALBBDIH {
-	GKKDFKJAIAN OMDCAKPEKJL = 14;
+    GKKDFKJAIAN LEMKAPOPFEJ = 14;
 }
+

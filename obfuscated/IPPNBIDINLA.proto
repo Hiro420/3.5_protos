@@ -3,20 +3,22 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "ALGGELGLCLJ.proto";
-import "NFFIAAOHAAO.proto";
-import "JFHLNEBEOAA.proto";
 import "HBMJGKJKIGL.proto";
+import "JFHLNEBEOAA.proto";
+import "NFFIAAOHAAO.proto";
 
+// Name: IPPNBIDINLA
 message IPPNBIDINLA {
-	bool MJNGOMFDBMD = 8;
-	int32 NLPOIMACPIF = 11;
-	repeated HBMJGKJKIGL CENCKBJEIOF = 4;
-	uint32 PPBCGEBJIPP = 3;
-	JFHLNEBEOAA AJBNCECJLLE = 1;
-	NFFIAAOHAAO FKAFEDCEKBL = 9;
-	bool MLHNIAFGDBD = 15;
-	ALGGELGLCLJ FNMENKKPGPG = 6;
-	bool BBGBNFAKMLH = 2;
-	ALGGELGLCLJ FIDMNFPOKLJ = 12;
-	uint32 FCCPHGKKHAA = 13;
+    bool EHNDJAIGJGL = 8;
+    int32 OGOFGOLGDOK = 11;
+    repeated HBMJGKJKIGL JONDGNPJAFA = 4;
+    uint32 MPEHHAOGALI = 3;
+    JFHLNEBEOAA PPDIKKDLECC = 1;
+    NFFIAAOHAAO NOAJNAPDEMN = 9;
+    bool IHEOALDGCIH = 15;
+    ALGGELGLCLJ NDPKDMEDNMC = 6;
+    bool AODBABIFPHH = 2;
+    ALGGELGLCLJ EDPLMCMLNKD = 12;
+    uint32 JEMPFJHEHCO = 13;
 }
+

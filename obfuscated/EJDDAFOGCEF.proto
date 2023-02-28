@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JJOOJEHEFDC.proto";
 
+// Name: EJDDAFOGCEF
 message EJDDAFOGCEF {
-	repeated JJOOJEHEFDC HBMOMAEDJDL = 8;
+    repeated JJOOJEHEFDC JHIALJBIOFG = 8;
 }
+

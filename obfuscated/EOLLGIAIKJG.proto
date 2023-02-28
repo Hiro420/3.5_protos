@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: EOLLGIAIKJG
 message EOLLGIAIKJG {
-	uint32 CEKDLLLCMKI = 1;
-	repeated ENOCIMKMJJG CANCLEDDKEP = 2;
+    uint32 LKBMPEACAEJ = 1;
+    repeated ENOCIMKMJJG DIGBDDBNBHP = 2;
 }
+

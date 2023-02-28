@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GFEOHCLAHME.proto";
 
+// Name: AKIMCMDLPEK
 message AKIMCMDLPEK {
-	GFEOHCLAHME LNFKELDOBON = 12;
-	bool DBIKCJCJHFI = 2;
+    GFEOHCLAHME OMHIFLNBFCC = 12;
+    bool AAMENNENDKM = 2;
 }
+

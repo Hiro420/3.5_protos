@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NMPDEBMEIDN
+// CmdId: 5843
 message NMPDEBMEIDN {
-	uint32 LJBHDAGFLJN = 9;
-	int32 IJIABMFLJGH = 10;
+    uint32 AGEPOKMCJOJ = 9;
+    int32 KFCODGHIJEH = 10;
 }
+

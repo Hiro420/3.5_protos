@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HNIEJMPFIBA
+// CmdId: 3120
 message HNIEJMPFIBA {
-	uint32 EJMDOMFJPPF = 6;
+    uint32 DPLKIICJPLB = 6;
 }
+

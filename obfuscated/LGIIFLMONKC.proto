@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: LGIIFLMONKC
+// CmdId: 2175
 message LGIIFLMONKC {
-	DALMLFNANKL AKANNIGGDKH = 8;
-	int32 ICFIJIEKEEJ = 13;
-	uint32 AHFGCEDNLHM = 11;
-	uint32 IDILGEHKMON = 14;
+    DALMLFNANKL GHGPLCNLCDF = 8;
+    int32 PIOGLHEHAAD = 13;
+    uint32 LAMMGIKJMDL = 11;
+    uint32 MMJJICJEAJL = 14;
 }
+

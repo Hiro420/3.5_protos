@@ -4,13 +4,16 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LLJAMLLPIIF.proto";
 
+// Name: FDKDFBOIEBK
+// CmdId: 22564
 message FDKDFBOIEBK {
-	uint32 GKKCJKPKDHN = 15;
-	uint32 JKIODGLMOLG = 1;
-	uint32 GOLGIEAMGJL = 5;
-	uint32 FEOMIOKBKJA = 14;
-	LLJAMLLPIIF GNLDDLIKJDN = 9;
-	bool HPIODBBMDHM = 3;
-	bool DBIKCJCJHFI = 8;
-	uint32 NFGBLOPEEIJ = 4;
+    uint32 KIEGLDMDFCJ = 15;
+    uint32 KHGENKJOKMG = 1;
+    uint32 MMNHJBBFBGJ = 5;
+    uint32 GIKJGOPJELA = 14;
+    LLJAMLLPIIF BHDBMLOIDGK = 9;
+    bool GFKGAEHPBNK = 3;
+    bool AAMENNENDKM = 8;
+    uint32 APJLBAHCICA = 4;
 }
+

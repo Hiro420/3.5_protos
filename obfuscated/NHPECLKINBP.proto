@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NHPECLKINBP
+// CmdId: 449
 message NHPECLKINBP {
-	repeated uint32 POENGJOJFLH = 10;
+    repeated uint32 EFCGAHFAPIP = 10;
 }
+

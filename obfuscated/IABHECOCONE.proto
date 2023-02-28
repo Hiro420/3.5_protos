@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CGJEFNPEPCF.proto";
 
+// Name: IABHECOCONE
 message IABHECOCONE {
-	CGJEFNPEPCF GNLDDLIKJDN = 2;
-	uint32 APPJCEKCOBP = 4;
+    CGJEFNPEPCF BHDBMLOIDGK = 2;
+    uint32 IPLGACBJJGH = 4;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LHFDFKFLLDA.proto";
 
+// Name: OIABFKOCGOI
+// CmdId: 3498
 message OIABFKOCGOI {
-	LHFDFKFLLDA EKCEOKPLHOL = 7;
-	uint32 PDFLEGGDOCP = 5;
+    LHFDFKFLLDA GNIGJPIPAGP = 7;
+    uint32 GPBLLPDCIFK = 5;
 }
+

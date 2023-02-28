@@ -5,9 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "EIKBIGMCLHB.proto";
 import "NDDAOOGOECF.proto";
 
+// Name: NIHOOOAICMD
 message NIHOOOAICMD {
-	uint32 CJEEBAMDOID = 10;
-	repeated NDDAOOGOECF FIIPKAEOAPD = 14;
-	uint32 IAIEOLAOPAB = 6;
-	EIKBIGMCLHB PCIFJDIAMLI = 3;
+    uint32 AHOLGMMNMIB = 10;
+    repeated NDDAOOGOECF DLFDCJHKLCC = 14;
+    uint32 ODPJBCIMOMA = 6;
+    EIKBIGMCLHB LIMKAIHCNJG = 3;
 }
+

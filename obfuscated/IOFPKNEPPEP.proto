@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IOFPKNEPPEP
+// CmdId: 2199
 message IOFPKNEPPEP {
-	uint32 AHEFDMPHAAK = 4;
-	uint32 LAMKPGOOMKN = 14;
-	repeated uint32 BIGKKHKAGNF = 1;
+    uint32 NOGMACBJJCL = 4;
+    uint32 OBPDPLFCLGI = 14;
+    repeated uint32 KELHCDAGMEP = 1;
 }
+

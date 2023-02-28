@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LKOBNFEHAFB
+// CmdId: 179
 message LKOBNFEHAFB {
-	uint32 CJBIDKNIKIO = 12;
-	int32 IJIABMFLJGH = 6;
-	uint32 FNPODILONDD = 7;
+    uint32 OBCICEHJHBF = 12;
+    int32 KFCODGHIJEH = 6;
+    uint32 KPKPJNJIGIN = 7;
 }
+

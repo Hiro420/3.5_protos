@@ -5,10 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "BEAHFDOKHFA.proto";
 import "DALMLFNANKL.proto";
 
+// Name: LKEBHBGDDFA
 message LKEBHBGDDFA {
-	DALMLFNANKL IKNLAGBKPJG = 14;
-	uint32 MGGIEMKADBL = 8;
-	repeated BEAHFDOKHFA LLNFFANMKLH = 15;
-	uint32 KFEMBAPKMFH = 7;
-	DALMLFNANKL OONLOGMNJOC = 6;
+    DALMLFNANKL CBEFGODKPHB = 14;
+    uint32 HCCNGFOJDMH = 8;
+    repeated BEAHFDOKHFA FJNNLKEJCLI = 15;
+    uint32 NDGLECFHBCJ = 7;
+    DALMLFNANKL CNBJHDLMPCK = 6;
 }
+

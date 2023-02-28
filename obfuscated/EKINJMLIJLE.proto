@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EKINJMLIJLE
+// CmdId: 1826
 message EKINJMLIJLE {
-	uint32 MPOIBMDNGGL = 6;
-	int32 IJIABMFLJGH = 1;
-	bool DGCKNCPKJKA = 7;
-	uint32 LGLGGMGCBHM = 5;
+    uint32 NIMGECOFOGC = 6;
+    int32 KFCODGHIJEH = 1;
+    bool CKLFKGGFLON = 7;
+    uint32 HOIPIEEKMPN = 5;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OCAFBJKINKE
+// CmdId: 8171
 message OCAFBJKINKE {
-	uint32 HFKNDLGIPML = 12;
+    uint32 EILEKGBEBLI = 12;
 }
+

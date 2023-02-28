@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KMBIKGFKGNP.proto";
 
+// Name: NBFKMACNOGL
+// CmdId: 4276
 message NBFKMACNOGL {
-	repeated KMBIKGFKGNP BLHKPALNNNE = 1;
+    repeated KMBIKGFKGNP JIPGCODGKLL = 1;
 }
+

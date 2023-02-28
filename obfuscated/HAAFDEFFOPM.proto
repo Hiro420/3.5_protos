@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HAAFDEFFOPM
+// CmdId: 2114
 message HAAFDEFFOPM {
-	uint32 PFKDFHHKBFD = 9;
-	uint32 HFKNDLGIPML = 6;
+    uint32 NLBJCAHEJOC = 9;
+    uint32 EILEKGBEBLI = 6;
 }
+

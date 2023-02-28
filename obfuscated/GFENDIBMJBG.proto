@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FHHNDAIOPNP.proto";
 
+// Name: GFENDIBMJBG
+// CmdId: 3362
 message GFENDIBMJBG {
-	repeated FHHNDAIOPNP GAEGLJFICFM = 12;
-	uint32 KFEMBAPKMFH = 14;
+    repeated FHHNDAIOPNP OHMKABCJPFO = 12;
+    uint32 NDGLECFHBCJ = 14;
 }
+

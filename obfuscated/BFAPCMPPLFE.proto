@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BFAPCMPPLFE
 message BFAPCMPPLFE {
-	uint32 MINLOEGIABL = 4;
-	uint32 IAIEOLAOPAB = 7;
+    uint32 LPMDIDGDNMA = 4;
+    uint32 ODPJBCIMOMA = 7;
 }
+

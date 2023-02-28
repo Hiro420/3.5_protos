@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CINLNHEDKHD
+// CmdId: 8249
 message CINLNHEDKHD {
-	uint32 OEGEDJPNJAD = 14;
-	int32 IJIABMFLJGH = 4;
-	uint32 HBMBODJGAPM = 9;
+    uint32 CEHNBFEIODF = 14;
+    int32 KFCODGHIJEH = 4;
+    uint32 HNIOMMFIPJP = 9;
 }
+

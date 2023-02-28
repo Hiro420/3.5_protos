@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MFPONPBCFND
+// CmdId: 1978
 message MFPONPBCFND {
-	uint32 LLOBHFKCOJA = 14;
+    uint32 PDDEJIGJICI = 14;
 }
+

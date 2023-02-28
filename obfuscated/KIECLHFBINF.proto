@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KIECLHFBINF
+// CmdId: 8103
 message KIECLHFBINF {
-	uint64 DHJBPPJOKNK = 13;
-	bool AMPGLKBGHIN = 7;
-	uint32 NAEGOGKCCIB = 4;
+    uint64 GDABHBPIGIP = 13;
+    bool LEOGICLCOKE = 7;
+    uint32 AAHAACKGAGG = 4;
 }
+

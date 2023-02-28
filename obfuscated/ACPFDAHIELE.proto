@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ACPFDAHIELE
+// CmdId: 2275
 message ACPFDAHIELE {
-	repeated uint32 KEFEGNGMMAH = 8;
-	repeated uint32 OOOLFLPBCMA = 6;
+    repeated uint32 EOHKBELNKDA = 8;
+    repeated uint32 NCNHKHALDOI = 6;
 }
+

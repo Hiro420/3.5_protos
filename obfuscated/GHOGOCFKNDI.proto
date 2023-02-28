@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AMAEJCFDLLP.proto";
+import "MOCGOKGHGNG.proto";
+import "NFCMDLFAPCF.proto";
+import "NILPIHBMNHG.proto";
+
+// Name: GHOGOCFKNDI
+// CmdId: 6343
+message GHOGOCFKNDI {
+    NILPIHBMNHG GKCBNHLBPOK = 11;
+    MOCGOKGHGNG FLBOLNLJOPM = 2;
+    uint64 GDABHBPIGIP = 9;
+    int32 KFCODGHIJEH = 4;
+    oneof HIKDHNPCMFD {
+        AMAEJCFDLLP GFOKMFMEKPI = 15;
+    }
+    oneof GPHEKOFFLKO {
+        NFCMDLFAPCF KEOPHDCIMPI = 1970;
+    }
+}
+

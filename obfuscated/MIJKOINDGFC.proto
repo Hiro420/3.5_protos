@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MIJKOINDGFC
+// CmdId: 1700
 message MIJKOINDGFC {
-	uint64 POGHDEAENAD = 2;
-	uint32 HKDFCCMIEPL = 1;
+    uint64 PKJEEFBMBNM = 2;
+    uint32 FGADOPAJFBH = 1;
 }
+

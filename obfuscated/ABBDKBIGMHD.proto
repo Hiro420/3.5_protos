@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ABBDKBIGMHD
+// CmdId: 914
 message ABBDKBIGMHD {
-	uint32 HBMBODJGAPM = 12;
-	bool BBJPNLGPCCO = 4;
+    uint32 HNIOMMFIPJP = 12;
+    bool IIDLGIGGACM = 4;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IEMEGAMDMEI.proto";
 
+// Name: OCAGIPAPHMI
+// CmdId: 4517
 message OCAGIPAPHMI {
-	repeated IEMEGAMDMEI DAACAKDMHEB = 9;
+    repeated IEMEGAMDMEI ENJNBDPEFOP = 9;
 }
+

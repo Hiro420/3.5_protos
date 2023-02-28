@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LDHOOCGFIIP
 message LDHOOCGFIIP {
-	uint32 MPGJJEALABF = 13;
-	uint32 PECGBJMEEIN = 15;
+    uint32 GPKPCCJAFAH = 13;
+    uint32 KNELKEIDPDD = 15;
 }
+

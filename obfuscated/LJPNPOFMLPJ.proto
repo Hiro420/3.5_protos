@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PHLPMOGFMDN.proto";
 
+// Name: LJPNPOFMLPJ
 message LJPNPOFMLPJ {
-	uint32 AICHGGMIALC = 7;
-	uint32 APPJCEKCOBP = 3;
-	repeated PHLPMOGFMDN DKGOGJAAOBA = 6;
-	bool EIADEGIALJA = 12;
-	uint32 INNEHNCJFPP = 9;
+    uint32 GKBILFJMMAO = 7;
+    uint32 IPLGACBJJGH = 3;
+    repeated PHLPMOGFMDN PDENGOKEBBG = 6;
+    bool BNHJNOMKFDJ = 12;
+    uint32 GOPICJPNFKM = 9;
 }
+

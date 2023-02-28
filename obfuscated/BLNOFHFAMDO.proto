@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NOFNBENGFPJ.proto";
 
+// Name: BLNOFHFAMDO
+// CmdId: 7347
 message BLNOFHFAMDO {
-	int32 IJIABMFLJGH = 9;
-	repeated NOFNBENGFPJ PEKMFCKCPLD = 13;
+    int32 KFCODGHIJEH = 9;
+    repeated NOFNBENGFPJ OADJMAAKKAK = 13;
 }
+

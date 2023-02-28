@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: LMPDFNFNKKI
+enum LMPDFNFNKKI {
+    LMPDFNFNKKI_EHKBOOEMKCH = 0;
+    LMPDFNFNKKI_JEPFPMEOJIH = 1;
+    LMPDFNFNKKI_MGBAOEPLNDA = 2;
+}
+

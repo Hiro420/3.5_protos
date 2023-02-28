@@ -4,16 +4,18 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JOPIJIEODIL.proto";
 
+// Name: KCOGKGBHJKE
 message KCOGKGBHJKE {
-	uint32 PIIFPAOHPMB = 3;
-	uint32 HFOBIMIPNGJ = 2;
-	uint32 NDANLEEMPGG = 8;
-	uint32 GDPPFECIEPA = 10;
-	repeated JOPIJIEODIL IACJAKMJDNJ = 15;
-	uint32 IBOCDLJDIPH = 14;
-	uint32 CJMCIOJABIJ = 7;
-	uint32 JOHANICAODO = 6;
-	uint32 HNCHOKPBIEE = 12;
-	uint32 FPPIPNIMAAE = 4;
-	uint32 NMJGCBBMGIF = 11;
+    uint32 DCEIDIOOFAG = 3;
+    uint32 GKLDDNNENDO = 2;
+    uint32 OOMEGPIIIMH = 8;
+    uint32 KJPKKKLAMKK = 10;
+    repeated JOPIJIEODIL NBJGEGPKAIO = 15;
+    uint32 FMAFLBOMAFK = 14;
+    uint32 DMOGBMIPNFM = 7;
+    uint32 MNOMJNEOJHD = 6;
+    uint32 IHNDAGJJMJK = 12;
+    uint32 PPADCGGEDOO = 4;
+    uint32 JNDNDBNFEHG = 11;
 }
+

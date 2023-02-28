@@ -5,9 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 import "IHFHAKKFMHG.proto";
 
+// Name: HPEAGHLDDNK
+// CmdId: 364
 message HPEAGHLDDNK {
-	IHFHAKKFMHG CBOLHDNGDGC = 8;
-	DALMLFNANKL OLGIGNLBELM = 3;
-	uint32 CJMCIOJABIJ = 1;
-	uint32 KNICMDELLKP = 10;
+    IHFHAKKFMHG KDJAKKPIMGJ = 8;
+    DALMLFNANKL JKHCJMDAJAJ = 3;
+    uint32 DMOGBMIPNFM = 1;
+    uint32 HCFFIKPFNJD = 10;
 }
+

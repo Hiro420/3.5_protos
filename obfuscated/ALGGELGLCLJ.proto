@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: ALGGELGLCLJ
+message ALGGELGLCLJ {
+    oneof HCMPEPODKPP {
+        string OBADLFOHKBK = 1;
+        uint32 ECNIGJEJPLL = 2;
+    }
+}
+

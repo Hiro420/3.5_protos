@@ -5,10 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "IAIKHNIKNHG.proto";
 import "PENJFODAGGI.proto";
 
+// Name: JJPBDGJNPOL
 message JJPBDGJNPOL {
-	map<uint32, PENJFODAGGI> GEACMIDGNEC = 11;
-	uint32 IAIEOLAOPAB = 5;
-	IAIKHNIKNHG GNLDDLIKJDN = 1;
-	int32 BIENOIAKNNI = 14;
-	map<uint32, PENJFODAGGI> CNAMPFHDJHK = 8;
+    map<uint32, PENJFODAGGI> FHJPIJFMAPL = 11;
+    uint32 ODPJBCIMOMA = 5;
+    IAIKHNIKNHG BHDBMLOIDGK = 1;
+    int32 OKHLFDEHMOG = 14;
+    map<uint32, PENJFODAGGI> PNELDJLCNOP = 8;
 }
+

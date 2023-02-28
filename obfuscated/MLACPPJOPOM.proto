@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MHJENPDPMMP.proto";
 
+// Name: MLACPPJOPOM
+// CmdId: 4659
 message MLACPPJOPOM {
-	int32 IJIABMFLJGH = 8;
-	MHJENPDPMMP ENGJLPGGCKJ = 13;
+    int32 KFCODGHIJEH = 8;
+    MHJENPDPMMP PBEDIKHDIDB = 13;
 }
+

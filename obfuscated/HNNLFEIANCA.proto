@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HNNLFEIANCA
+// CmdId: 4425
 message HNNLFEIANCA {
-	bool DGCKNCPKJKA = 7;
-	uint32 MBNDPCHNFLH = 10;
+    bool CKLFKGGFLON = 7;
+    uint32 ABMLKJAEEAK = 10;
 }
+

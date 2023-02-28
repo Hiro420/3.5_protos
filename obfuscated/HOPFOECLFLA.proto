@@ -4,11 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AOMIIMMNEGI.proto";
 
+// Name: HOPFOECLFLA
 message HOPFOECLFLA {
-	uint32 MPGJJEALABF = 12;
-	bool DJKOKFDGKIG = 5;
-	bool LPGAJJALBDN = 1;
-	map<uint32, AOMIIMMNEGI> BNCJBJFMBKC = 7;
-	uint32 LOHDPHFKIFH = 10;
-	uint32 BEJDBNONODA = 11;
+    uint32 GPKPCCJAFAH = 12;
+    bool HKDOCGOMBKP = 5;
+    bool PIHHIOENHPL = 1;
+    map<uint32, AOMIIMMNEGI> DPHMHBLJDNG = 7;
+    uint32 BCKONCKLJAD = 10;
+    uint32 NJIHDDKBBLA = 11;
 }
+

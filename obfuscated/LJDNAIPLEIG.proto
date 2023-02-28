@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LJDNAIPLEIG
+// CmdId: 4876
 message LJDNAIPLEIG {
-	uint32 FEJIOFHLBEJ = 8;
-	int32 IJIABMFLJGH = 9;
+    uint32 JFOGJMHDFFH = 8;
+    int32 KFCODGHIJEH = 9;
 }
+

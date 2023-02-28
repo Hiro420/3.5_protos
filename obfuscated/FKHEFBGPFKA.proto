@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FKHEFBGPFKA
+// CmdId: 2767
 message FKHEFBGPFKA {
-	repeated uint32 LIPJDBCMCEP = 14;
+    repeated uint32 GGLNDBMFCOA = 14;
 }
+

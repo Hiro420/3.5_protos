@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PBJCNECPFLE.proto";
 
+// Name: CAMFJNGDAOP
+// CmdId: 160
 message CAMFJNGDAOP {
-	PBJCNECPFLE OMDCAKPEKJL = 15;
+    PBJCNECPFLE LEMKAPOPFEJ = 15;
 }
+

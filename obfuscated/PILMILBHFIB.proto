@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PILMILBHFIB
 message PILMILBHFIB {
-	uint32 MEGEPCAJCKE = 1;
-	repeated uint32 FADPNNCLMPK = 9;
-	uint32 BEJDBNONODA = 4;
-	bool DBIKCJCJHFI = 11;
+    uint32 ONOCGGDGHIP = 1;
+    repeated uint32 KOJALAALAKA = 9;
+    uint32 NJIHDDKBBLA = 4;
+    bool AAMENNENDKM = 11;
 }
+

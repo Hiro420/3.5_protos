@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DDHNLFHLODP
 message DDHNLFHLODP {
-	uint32 NFGJAOBLJIO = 1;
-	int64 PEAOGJKKOCN = 2;
-	uint32 KJEJHMBBLFF = 3;
+    uint32 MOCKBHIDNDO = 1;
+    int64 FLECGDCDGKJ = 2;
+    uint32 PPJPKDCFKEI = 3;
 }
+

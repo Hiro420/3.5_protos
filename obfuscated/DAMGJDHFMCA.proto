@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DAMGJDHFMCA
+// CmdId: 1916
 message DAMGJDHFMCA {
-	uint32 KFEMBAPKMFH = 7;
-	uint32 ECEMGJIAFKE = 5;
-	uint32 GAAPHCHDPFO = 9;
-	uint32 JEEFNCHAJOJ = 3;
+    uint32 NDGLECFHBCJ = 7;
+    uint32 JHKGKEPFCKL = 5;
+    uint32 DADJJLOPEAP = 9;
+    uint32 MPLJBMEAIBB = 3;
 }
+

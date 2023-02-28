@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GIELCMCDBEP.proto";
 
+// Name: BLJGDDIJIHG
+// CmdId: 5088
 message BLJGDDIJIHG {
-	bool CNGIKGKODHP = 7;
-	GIELCMCDBEP OAIHEGADPEO = 15;
+    bool OHBNEMKGAAC = 7;
+    GIELCMCDBEP JBIAALODFPE = 15;
 }
+

@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HDLOGEKNLLN
 message HDLOGEKNLLN {
-	uint32 OEGEDJPNJAD = 12;
-	uint32 EHNNNFAKNED = 4;
+    uint32 CEHNBFEIODF = 12;
+    uint32 BFIENEBCHEC = 4;
 }
+

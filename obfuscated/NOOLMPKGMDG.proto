@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NOOLMPKGMDG
+// CmdId: 565
 message NOOLMPKGMDG {
-	repeated uint32 JAIPDBOEALC = 5;
+    repeated uint32 GABLKNFNKOC = 5;
 }
+

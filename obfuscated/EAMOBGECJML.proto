@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GIELCMCDBEP.proto";
 
+// Name: EAMOBGECJML
+// CmdId: 5093
 message EAMOBGECJML {
-	bool CNGIKGKODHP = 9;
-	int32 IJIABMFLJGH = 5;
-	GIELCMCDBEP OAIHEGADPEO = 2;
+    bool OHBNEMKGAAC = 9;
+    int32 KFCODGHIJEH = 5;
+    GIELCMCDBEP JBIAALODFPE = 2;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HIGDNBBNAMP
+// CmdId: 5000
 message HIGDNBBNAMP {
-	uint32 AAEBBDIDMAO = 3;
+    uint32 AKDECIELPLN = 3;
 }
+

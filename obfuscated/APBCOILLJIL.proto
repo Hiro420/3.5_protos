@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: APBCOILLJIL
+// CmdId: 8834
 message APBCOILLJIL {
-	int32 IJIABMFLJGH = 8;
-	uint32 OEGEDJPNJAD = 4;
-	uint32 OFKOOHKDFEC = 7;
+    int32 KFCODGHIJEH = 8;
+    uint32 CEHNBFEIODF = 4;
+    uint32 DIJCEFIKGAK = 7;
 }
+

@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LANGJAKENPJ.proto";
 
+// Name: CNCEIOHAKKI
 message CNCEIOHAKKI {
-	bool DJKOKFDGKIG = 12;
-	uint32 BEJDBNONODA = 2;
-	repeated LANGJAKENPJ CMPPJDHENIF = 11;
-	uint32 HDHFDDKANOF = 13;
-	uint32 MPGJJEALABF = 7;
+    bool HKDOCGOMBKP = 12;
+    uint32 NJIHDDKBBLA = 2;
+    repeated LANGJAKENPJ EPBPKJAPAGK = 11;
+    uint32 EHPPNPOKAGI = 13;
+    uint32 GPKPCCJAFAH = 7;
 }
+

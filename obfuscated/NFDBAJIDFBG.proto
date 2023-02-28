@@ -3,25 +3,28 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "CAHLCAONMAP.proto";
-import "OBGBKIOLBJH.proto";
 import "DKDAOPDHNED.proto";
+import "OBGBKIOLBJH.proto";
 
+// Name: NFDBAJIDFBG
+// CmdId: 2465
 message NFDBAJIDFBG {
-	map<uint32, uint32> AGFHGGPEMBA = 6;
-	DKDAOPDHNED PPNFNIDIKKH = 2;
-	uint32 JBAMLMIOLJE = 11;
-	uint32 FOBOPHJADNC = 3;
-	int32 IJIABMFLJGH = 9;
-	uint32 BDJPFEBKAIE = 15;
-	bool AGLCKFFDFFI = 14;
-	uint32 LNCENIMNMDL = 12;
-	uint32 DDLACNABNPO = 13;
-	map<uint32, uint32> CPBMDIMBANN = 10;
-	repeated OBGBKIOLBJH KHKFLJIIIJP = 1;
-	bool CEMONICLBEK = 4;
-	uint32 OEMELLCEGBJ = 7;
-	uint32 KBGPNFBPENC = 1758;
-	DKDAOPDHNED CAGIDOEJFOL = 622;
-	uint32 MMMFLBCKNKE = 8;
-	CAHLCAONMAP KJFJLANLGKE = 5;
+    map<uint32, uint32> BPOEDICFILA = 6;
+    DKDAOPDHNED GPCJOCOKPCL = 2;
+    uint32 BAJALPKLOHN = 11;
+    uint32 OGLKMJOBNAK = 3;
+    int32 KFCODGHIJEH = 9;
+    uint32 CKCFIIGKHMJ = 15;
+    bool GOFANBEKMOL = 14;
+    uint32 EJMAMALGICG = 12;
+    uint32 IOOHBFIGKHH = 13;
+    map<uint32, uint32> AHFICLOPFLC = 10;
+    repeated OBGBKIOLBJH HANEOPBMPCO = 1;
+    bool DFANHACNCPG = 4;
+    uint32 CFEHKIFIKFB = 7;
+    uint32 AMFOBDDCIHK = 1758;
+    DKDAOPDHNED HCLHNDJDAPC = 622;
+    uint32 AKANNMFELNA = 8;
+    CAHLCAONMAP JBHKALAAHPG = 5;
 }
+

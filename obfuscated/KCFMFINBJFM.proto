@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KCFMFINBJFM
 message KCFMFINBJFM {
-	uint32 DOKELIFOJAB = 13;
+    uint32 GOEBNBGAKLB = 13;
 }
+

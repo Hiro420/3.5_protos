@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PEGEDNLMKEB
+// CmdId: 8809
 message PEGEDNLMKEB {
-	uint32 OFKOOHKDFEC = 1;
-	uint32 OEGEDJPNJAD = 14;
+    uint32 DIJCEFIKGAK = 1;
+    uint32 CEHNBFEIODF = 14;
 }
+

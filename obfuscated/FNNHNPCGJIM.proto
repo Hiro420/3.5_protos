@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GILKJDIJOIG.proto";
 
+// Name: FNNHNPCGJIM
 message FNNHNPCGJIM {
-	repeated GILKJDIJOIG NEFILPAGDBF = 3;
+    repeated GILKJDIJOIG AAOCEJCBOBD = 3;
 }
+

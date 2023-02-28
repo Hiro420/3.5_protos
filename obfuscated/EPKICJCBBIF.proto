@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EGBBHBLNEAC.proto";
+import "FGMDHBOGAHG.proto";
+
+// Name: EPKICJCBBIF
+// CmdId: 959
+message EPKICJCBBIF {
+    uint32 DCJPLHLIKCB = 1;
+    uint32 CEHNBFEIODF = 2;
+    uint32 HKEKFLDONNL = 11;
+    map<uint32, FGMDHBOGAHG> JLEHDFLIKGD = 15;
+    uint32 NFEHDLKDHAF = 5;
+    EGBBHBLNEAC CKEMLMEDHJK = 6;
+    oneof DPDNKOIFCPO {
+        uint32 JHKGKEPFCKL = 4;
+        uint32 AECPDOLHDKN = 7;
+    }
+}
+

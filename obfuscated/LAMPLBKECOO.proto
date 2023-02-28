@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: LAMPLBKECOO
+enum LAMPLBKECOO {
+    LAMPLBKECOO_DADLCLKDHBJ = 0;
+    LAMPLBKECOO_KKLCGALEMIF = 1;
+    LAMPLBKECOO_IEEACOKPJIN = 2;
+    LAMPLBKECOO_DHLCDMGMEPH = 3;
+}
+

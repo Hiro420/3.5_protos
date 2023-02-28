@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PHMMOBKJDAC
+// CmdId: 2149
 message PHMMOBKJDAC {
-	uint32 AMJLLOEKGMD = 14;
-	uint32 HFKNDLGIPML = 7;
+    uint32 CEGEDDOGGAD = 14;
+    uint32 EILEKGBEBLI = 7;
 }
+

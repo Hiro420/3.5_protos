@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ODKNHPHCDCG
 message ODKNHPHCDCG {
-	uint32 JLMLALKOMFN = 4;
-	uint32 GKHJKEGICOO = 13;
+    uint32 OCFEJAGKHBJ = 4;
+    uint32 FBJHOFHKIIG = 13;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MLFEHCBHEJF
+// CmdId: 474
 message MLFEHCBHEJF {
-	uint32 ALDAHBKPOJE = 12;
-	uint32 PMJHKMNEMBA = 15;
+    uint32 KJKIMAINLKM = 12;
+    uint32 HABDHDJCENM = 15;
 }
+

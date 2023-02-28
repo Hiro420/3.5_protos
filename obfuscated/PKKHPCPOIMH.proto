@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BCMHCFICCDD.proto";
 
+// Name: PKKHPCPOIMH
+// CmdId: 7247
 message PKKHPCPOIMH {
-	bool AAANCEBLEGC = 10;
-	BCMHCFICCDD JMKPOPCJKCE = 11;
+    bool OGJINPOEFOH = 10;
+    BCMHCFICCDD FOANFANMCHL = 11;
 }
+

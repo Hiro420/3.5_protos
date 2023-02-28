@@ -4,10 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BNEGCDIFHLA.proto";
 
+// Name: FLMGGILOCAJ
+// CmdId: 265
 message FLMGGILOCAJ {
-	uint32 AEPAKCBPNEH = 8;
-	uint32 PDFLEGGDOCP = 4;
-	uint32 BEKCJPOGBHB = 3;
-	BNEGCDIFHLA EIDIBCFGOKN = 13;
-	int32 IJIABMFLJGH = 12;
+    uint32 HPONOGFDPBP = 8;
+    uint32 GPBLLPDCIFK = 4;
+    uint32 ALHOCCJPIFL = 3;
+    BNEGCDIFHLA NJPNEHDOIJB = 13;
+    int32 KFCODGHIJEH = 12;
 }
+

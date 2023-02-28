@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PCHDKENMKEJ
 message PCHDKENMKEJ {
-	uint32 ECHCDODIGAN = 2;
-	uint32 BHAIDBNPGGC = 7;
-	uint32 CBDPAMHOBEB = 3;
-	uint32 LAMKPGOOMKN = 9;
+    uint32 GLOLPGMFPBB = 2;
+    uint32 LLGLNCOOMPM = 7;
+    uint32 IEIOKIIGBIA = 3;
+    uint32 OBPDPLFCLGI = 9;
 }
+

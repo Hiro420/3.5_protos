@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PAHAALHGGIK
+// CmdId: 5507
 message PAHAALHGGIK {
-	uint32 KKMLAEEAHJA = 12;
-	uint32 HANCAJHLFKP = 11;
+    uint32 IIBPCMOEENO = 12;
+    uint32 CCHIAGLCMCJ = 11;
 }
+

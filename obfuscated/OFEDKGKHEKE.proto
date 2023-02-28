@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OFEDKGKHEKE
+// CmdId: 8211
 message OFEDKGKHEKE {
-	int32 IJIABMFLJGH = 13;
-	bool JOLLHKKICLI = 9;
-	uint32 AIJOKLEENGC = 14;
+    int32 KFCODGHIJEH = 13;
+    bool EGLDEEIABJL = 9;
+    uint32 OBBPIGOHAJL = 14;
 }
+

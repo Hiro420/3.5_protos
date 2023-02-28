@@ -4,14 +4,17 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "COCLMIBAHOP.proto";
 
+// Name: HLLJICIJOEG
+// CmdId: 8564
 message HLLJICIJOEG {
-	int32 IJIABMFLJGH = 15;
-	repeated COCLMIBAHOP EHFIMIPFDMC = 13;
-	uint32 ONEBMNIHENB = 1;
-	bool BPBNEEBEJAH = 4;
-	uint32 ACCLOFGMBGM = 8;
-	uint32 BEJDBNONODA = 11;
-	uint32 LAMKPGOOMKN = 2;
-	uint32 AJBGOLNNAAD = 6;
-	uint32 PIHGKGFGEBA = 14;
+    int32 KFCODGHIJEH = 15;
+    repeated COCLMIBAHOP JCFLOELIFGE = 13;
+    uint32 FBHAEFIAIHM = 1;
+    bool OKMIMABOJFI = 4;
+    uint32 FOPCMLBHHHF = 8;
+    uint32 NJIHDDKBBLA = 11;
+    uint32 OBPDPLFCLGI = 2;
+    uint32 EOFAHKCJBKK = 6;
+    uint32 JPDEEDPFBMB = 14;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IGAJFOIJIMP
+// CmdId: 4538
 message IGAJFOIJIMP {
-	repeated uint32 MBILHLOJIOL = 3;
+    repeated uint32 ECGBDLCABOJ = 3;
 }
+

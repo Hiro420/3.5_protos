@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IPCIFFJCJLL
 message IPCIFFJCJLL {
-	uint32 DBCEEODIKCO = 8;
-	uint32 APPJCEKCOBP = 9;
-	bool JGIMIFFNMHO = 15;
+    uint32 IBHFHNMMJKH = 8;
+    uint32 IPLGACBJJGH = 9;
+    bool ADLELKNDELG = 15;
 }
+

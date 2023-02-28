@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PKHKLDLFMBJ.proto";
 
+// Name: IHBAACKKKEC
 message IHBAACKKKEC {
-	uint32 ONBPDABCMCI = 1;
-	PKHKLDLFMBJ PAMFCAHGDBK = 8;
-	uint32 IKNCEKPKPOL = 3;
+    uint32 FMPPEIMDIAI = 1;
+    PKHKLDLFMBJ LOOHNEPAPHO = 8;
+    uint32 DJHBGNNLBLA = 3;
 }
+

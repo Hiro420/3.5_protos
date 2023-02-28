@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DBDNABMNFAO.proto";
 
+// Name: OLCBCCEKNOA
+// CmdId: 603
 message OLCBCCEKNOA {
-	map<uint32, DBDNABMNFAO> GAGONOJAEJH = 1;
-	repeated uint32 JHAIPBNMPEF = 7;
-	uint32 JIAHNLMJAPK = 4;
+    map<uint32, DBDNABMNFAO> BAMCMBEEFBO = 1;
+    repeated uint32 KDNEIHNBEDJ = 7;
+    uint32 KJALACCCBIJ = 4;
 }
+

@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: JIPJFBLAPNL
+// CmdId: 601
 message JIPJFBLAPNL {
-	repeated uint64 HMOCBMKPKHM = 13;
-	uint64 CINOIJEALEF = 8;
-	repeated ENOCIMKMJJG IBEJBBLKPGB = 11;
+    repeated uint64 LFAFCDIGHEO = 13;
+    uint64 CPPBHGBJFEH = 8;
+    repeated ENOCIMKMJJG OKJIFAICMAO = 11;
 }
+

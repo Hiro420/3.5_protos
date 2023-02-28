@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PBJCNECPFLE
 message PBJCNECPFLE {
-	uint32 ENCFAMGGBEE = 2;
-	bool IAJEKOIOEAF = 15;
-	uint32 CEKDLLLCMKI = 12;
-	uint32 BNGHDMNKMNB = 3;
-	uint32 LJCKMKPDNMO = 4;
+    uint32 KAOHBOPKBNK = 2;
+    bool MDLKFBKMGEA = 15;
+    uint32 LKBMPEACAEJ = 12;
+    uint32 IFKHJLODEIF = 3;
+    uint32 PEBMJKKFPAE = 4;
 }
+

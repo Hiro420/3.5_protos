@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NACCPGOMNLE.proto";
 
+// Name: PPOLCIAJKGN
+// CmdId: 2183
 message PPOLCIAJKGN {
-	uint32 HFKNDLGIPML = 15;
-	NACCPGOMNLE IJIMBFFKGGK = 3;
+    uint32 EILEKGBEBLI = 15;
+    NACCPGOMNLE LHEHIAIFOJB = 3;
 }
+

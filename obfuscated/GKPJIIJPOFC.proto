@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: GKPJIIJPOFC
+enum GKPJIIJPOFC {
+    GKPJIIJPOFC_LJEDIHDFIBC = 0;
+    GKPJIIJPOFC_IFMDMBOBGGL = 1;
+    GKPJIIJPOFC_CJPBGJNABNG = 2;
+    GKPJIIJPOFC_MMEKFAJHPCN = 3;
+    GKPJIIJPOFC_BHPOENCCIDJ = 4;
+}
+

@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DILMJFDGLNH.proto";
 
+// Name: ACOGHICAGEN
 message ACOGHICAGEN {
-	DILMJFDGLNH HOMEEBJPBCL = 1;
-	repeated uint32 CNJKFOCKGAA = 2;
+    DILMJFDGLNH OFIAOHGPCFE = 1;
+    repeated uint32 PMEMCDPLCHJ = 2;
 }
+

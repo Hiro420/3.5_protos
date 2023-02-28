@@ -2,5 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LDOGPMKMIGL
+// CmdId: 5167
 message LDOGPMKMIGL {
 }
+

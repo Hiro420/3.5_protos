@@ -2,9 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "DKPPBLIHEPO.JEEFBJJIAFM.GNEGOFIJCFA.proto";
-
+// Name: DKPPBLIHEPO
+// CmdId: 5643
 message DKPPBLIHEPO {
-	uint32 JBIFNFKOOIH = 7;
-	DKPPBLIHEPO.JEEFBJJIAFM.GNEGOFIJCFA OAAIEBMKHFN = 6;
+    // Name: GNEGOFIJCFA
+    enum GNEGOFIJCFA {
+        GNEGOFIJCFA_JJIMJJIIEPP = 0;
+        GNEGOFIJCFA_BBGMIMFFDBM = 1;
+        GNEGOFIJCFA_BDNKCNAEIDE = 2;
+    }
+
+    uint32 NMNPKPCBHJM = 7;
+    GNEGOFIJCFA LEMHLPPPONK = 6;
 }
+

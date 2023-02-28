@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IKCAPLALLPO.proto";
 
+// Name: HDLODDFAAEF
+// CmdId: 833
 message HDLODDFAAEF {
-	IKCAPLALLPO AMPFFALMNCB = 4;
-	uint32 JGAHPOJJDHJ = 8;
+    IKCAPLALLPO FMPGJJPKKDD = 4;
+    uint32 LGAHNCLEDCF = 8;
 }
+

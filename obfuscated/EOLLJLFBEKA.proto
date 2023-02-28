@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MCJFKEKAFGO.proto";
 
+// Name: EOLLJLFBEKA
 message EOLLJLFBEKA {
-	uint32 DNDDJPAFBCE = 8;
-	bool DBIKCJCJHFI = 13;
-	uint32 FEOMIOKBKJA = 1;
-	uint32 KDJHNHNLNPE = 6;
-	MCJFKEKAFGO GNLDDLIKJDN = 11;
+    uint32 NACBICBMNFJ = 8;
+    bool AAMENNENDKM = 13;
+    uint32 GIKJGOPJELA = 1;
+    uint32 LFGKBLLGBBO = 6;
+    MCJFKEKAFGO BHDBMLOIDGK = 11;
 }
+

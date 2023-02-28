@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JFKAHOGJIMO
+// CmdId: 20893
 message JFKAHOGJIMO {
-	uint32 IBPOIBAKFAC = 5;
-	bool MFPGHFOFAFP = 4;
-	uint32 FEOMIOKBKJA = 14;
-	uint32 AIJOKLEENGC = 15;
-	bool DBIKCJCJHFI = 11;
+    uint32 ODBDHNAFCFJ = 5;
+    bool KANHMLPBBHL = 4;
+    uint32 GIKJGOPJELA = 14;
+    uint32 OBBPIGOHAJL = 15;
+    bool AAMENNENDKM = 11;
 }
+

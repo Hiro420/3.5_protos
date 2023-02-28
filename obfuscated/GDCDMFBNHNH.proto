@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GDCDMFBNHNH
+// CmdId: 7325
 message GDCDMFBNHNH {
-	uint32 APPJCEKCOBP = 3;
-	uint32 GFEMPJEGBOM = 7;
-	uint32 HFNNHMLEIAD = 10;
-	int32 IJIABMFLJGH = 4;
-	uint32 DANCOEBBIHI = 2;
+    uint32 IPLGACBJJGH = 3;
+    uint32 EGKHACMKHMD = 7;
+    uint32 AHEBGIEJCPC = 10;
+    int32 KFCODGHIJEH = 4;
+    uint32 EBNEBMPLPOA = 2;
 }
+

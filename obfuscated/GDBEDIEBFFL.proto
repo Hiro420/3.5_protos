@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JPOMNGOBDIO.proto";
 
+// Name: GDBEDIEBFFL
+// CmdId: 1666
 message GDBEDIEBFFL {
-	uint64 POGHDEAENAD = 5;
-	JPOMNGOBDIO BLPOACLEELO = 10;
+    uint64 PKJEEFBMBNM = 5;
+    JPOMNGOBDIO MNCFJIHNMMD = 10;
 }
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: COEAABHEACL
+enum COEAABHEACL {
+    COEAABHEACL_DKDLEPFGAHK = 0;
+    COEAABHEACL_LHFNOAPBNHB = 1;
+}
+

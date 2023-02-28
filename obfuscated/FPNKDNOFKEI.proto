@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LFKBPFHPKCN.proto";
 
+// Name: FPNKDNOFKEI
+// CmdId: 4093
 message FPNKDNOFKEI {
-	repeated LFKBPFHPKCN MKABPFEOGCI = 1;
-	uint32 APPJCEKCOBP = 12;
-	int32 IJIABMFLJGH = 9;
+    repeated LFKBPFHPKCN LPIGNCPLJDI = 1;
+    uint32 IPLGACBJJGH = 12;
+    int32 KFCODGHIJEH = 9;
 }
+

@@ -2,14 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NDDGEOMCBEE
 message NDDGEOMCBEE {
-	bool ODECLGIIMHN = 8;
-	uint32 EHODKCIJFGJ = 12;
-	uint32 NDEGDDBLMKD = 15;
-	uint32 AMJLLOEKGMD = 11;
-	string HHFPNOFPGJK = 3;
-	string KODFDMEENFF = 5;
-	string HBGBMFADIKC = 6;
-	uint32 DKNBFLDKNBN = 7;
-	uint32 PLMDDEEEAAB = 13;
+    bool EACAFCBLGAJ = 8;
+    uint32 HJNFJIEBMEL = 12;
+    uint32 CDEJEDMAFIH = 15;
+    uint32 CEGEDDOGGAD = 11;
+    string LJCFLKABNFM = 3;
+    string POMBEEAPGDL = 5;
+    string MBGAKKMFHFF = 6;
+    uint32 BLHPFGPJAFE = 7;
+    uint32 JPIGCJLKDGO = 13;
 }
+

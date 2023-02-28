@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: NNHECDNAAAO
+message NNHECDNAAAO {
+    uint32 BNCPPEELHEG = 1;
+    oneof AFHCIJDDPPL {
+        int32 ECIJDMEAHHD = 2;
+        float GHLEPJFFKAD = 3;
+        bool LIFCIEMACCB = 4;
+    }
+}
+

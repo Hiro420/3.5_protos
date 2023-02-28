@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OCIIEKFBAEC.proto";
 
+// Name: DLKKODBHNOD
 message DLKKODBHNOD {
-	uint32 OPBEDPAPGBC = 7;
-	OCIIEKFBAEC GNLDDLIKJDN = 15;
+    uint32 NOFNEMFHAAF = 7;
+    OCIIEKFBAEC BHDBMLOIDGK = 15;
 }
+

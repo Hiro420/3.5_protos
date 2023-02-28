@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DDIDJFEFCAG
+// CmdId: 333
 message DDIDJFEFCAG {
-	uint32 PDFLEGGDOCP = 8;
-	uint32 HIGAIJIHCOC = 9;
-	string ECGOEPKELID = 3;
-	uint32 JGAHPOJJDHJ = 1;
+    uint32 GPBLLPDCIFK = 8;
+    uint32 AECPDOLHDKN = 9;
+    string PHADICDNGOB = 3;
+    uint32 LGAHNCLEDCF = 1;
 }
+

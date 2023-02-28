@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BCBNIENIILM.proto";
+import "HCMFKEGJIBE.proto";
+import "IFGNOHNIIAC.proto";
+
+// Name: OPIKDPBOILF
+// CmdId: 135
+message OPIKDPBOILF {
+    int32 KFCODGHIJEH = 8;
+    uint32 AHMMKMKHHFP = 1;
+    oneof NGKAEIMKBBL {
+        HCMFKEGJIBE KDKPANHHPIJ = 824;
+        IFGNOHNIIAC BHJOOEAGDPA = 1103;
+        BCBNIENIILM ADMOGAFMJHI = 1186;
+    }
+}
+

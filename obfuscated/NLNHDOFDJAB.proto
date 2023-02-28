@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NLNHDOFDJAB
+// CmdId: 2159
 message NLNHDOFDJAB {
-	int32 IJIABMFLJGH = 12;
-	map<uint32, uint32> OCNJJJGHAFD = 6;
-	repeated uint32 NAAIDKLJDBH = 7;
+    int32 KFCODGHIJEH = 12;
+    map<uint32, uint32> NPCPEKOPNOC = 6;
+    repeated uint32 MIPBOOIJFEK = 7;
 }
+

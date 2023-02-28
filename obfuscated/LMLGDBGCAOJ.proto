@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HEFKJGDGCOD.proto";
 
+// Name: LMLGDBGCAOJ
+// CmdId: 8556
 message LMLGDBGCAOJ {
-	repeated HEFKJGDGCOD DAGINEBHJBN = 8;
-	repeated HEFKJGDGCOD KOCJFPECCKP = 5;
+    repeated HEFKJGDGCOD LGEAAOBNMGG = 8;
+    repeated HEFKJGDGCOD IEEBILPABKC = 5;
 }
+

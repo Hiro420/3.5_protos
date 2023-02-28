@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KFALPHIPJOK.proto";
 
+// Name: BAHOPKINBPC
+// CmdId: 4336
 message BAHOPKINBPC {
-	KFALPHIPJOK KAOBAJAEIPN = 1;
-	uint32 ELNNIELNMBO = 8;
+    KFALPHIPJOK IMDPDHPGDLC = 1;
+    uint32 KFGGNNFODBD = 8;
 }
+

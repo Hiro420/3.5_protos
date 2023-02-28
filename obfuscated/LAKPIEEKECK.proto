@@ -5,8 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "KFALPHIPJOK.proto";
 import "KJLDJOOIKOB.proto";
 
+// Name: LAKPIEEKECK
 message LAKPIEEKECK {
-	KJLDJOOIKOB JKDNHDLNHMJ = 4;
-	KFALPHIPJOK KAOBAJAEIPN = 12;
-	uint32 ELNNIELNMBO = 13;
+    KJLDJOOIKOB LHFGALANHMN = 4;
+    KFALPHIPJOK IMDPDHPGDLC = 12;
+    uint32 KFGGNNFODBD = 13;
 }
+

@@ -4,14 +4,17 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FEPJMFICDGB.proto";
 
+// Name: HLBCEGALDLM
+// CmdId: 4159
 message HLBCEGALDLM {
-	uint32 OEGEDJPNJAD = 5;
-	uint32 FDFJGMKKEDA = 9;
-	repeated uint32 LHBNEOFLHDP = 11;
-	uint32 FIHDGJJMHGM = 14;
-	FEPJMFICDGB GIPBJFBBEFI = 3;
-	uint32 LGLGGMGCBHM = 10;
-	uint32 HIBOBLMJJIA = 7;
-	uint32 PDMIGCCPIGM = 13;
-	uint32 OLEILKNHPLG = 15;
+    uint32 CEHNBFEIODF = 5;
+    uint32 KLFMPGFLNBE = 9;
+    repeated uint32 HMEDLNLOEKN = 11;
+    uint32 BBPAKLDFKOH = 14;
+    FEPJMFICDGB CLMHDABEAMH = 3;
+    uint32 HOIPIEEKMPN = 10;
+    uint32 LOAIMILPOJG = 7;
+    uint32 LLBEFAFNBON = 13;
+    uint32 JDJCJAEIJFD = 15;
 }
+

@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NIMPOFILFMP.proto";
 
+// Name: JKOBCBECAAM
+// CmdId: 4522
 message JKOBCBECAAM {
-	uint32 BNKMOEDCMOF = 7;
-	int32 IJIABMFLJGH = 9;
-	NIMPOFILFMP GKGHGJKIKIG = 12;
+    uint32 KMCNBENMHCM = 7;
+    int32 KFCODGHIJEH = 9;
+    NIMPOFILFMP CNELLAEHJIF = 12;
 }
+

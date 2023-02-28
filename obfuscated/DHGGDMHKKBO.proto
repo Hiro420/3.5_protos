@@ -4,6 +4,16 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EACNABDMBBF.proto";
 
+// Name: DHGGDMHKKBO
+// CmdId: 3357
 message DHGGDMHKKBO {
-	map<uint32, EACNABDMBBF> IMCMLMOFALL = 1;
+    // Name: EHJNPOBJKHF
+    enum EHJNPOBJKHF {
+        EHJNPOBJKHF_HOKCOAJJKKL = 0;
+        EHJNPOBJKHF_OAKLEOLDOPG = 1;
+        EHJNPOBJKHF_DEHLKIAJEMF = 2;
+    }
+
+    map<uint32, EACNABDMBBF> BDFPDOCAAMF = 1;
 }
+

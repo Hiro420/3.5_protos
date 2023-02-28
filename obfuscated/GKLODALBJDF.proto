@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GKLODALBJDF
 message GKLODALBJDF {
-	bool LPGAJJALBDN = 12;
-	uint32 BEJDBNONODA = 1;
-	bool DJKOKFDGKIG = 7;
-	uint32 MPGJJEALABF = 8;
-	uint32 GFPHMJCIHEN = 10;
+    bool PIHHIOENHPL = 12;
+    uint32 NJIHDDKBBLA = 1;
+    bool HKDOCGOMBKP = 7;
+    uint32 GPKPCCJAFAH = 8;
+    uint32 FOPOGKDPFDB = 10;
 }
+

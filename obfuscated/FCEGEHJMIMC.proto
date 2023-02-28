@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: FCEGEHJMIMC
 message FCEGEHJMIMC {
-	uint32 BNCBCBPCKLB = 12;
-	DALMLFNANKL GONEENHLCNH = 7;
-	DALMLFNANKL IBJAJJOOACP = 1;
+    uint32 DOIFHNNEPEC = 12;
+    DALMLFNANKL MGHIMMEFBDI = 7;
+    DALMLFNANKL JOAFFOCECOM = 1;
 }
+

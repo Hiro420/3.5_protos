@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ENANJKOACDB
 message ENANJKOACDB {
-	uint32 APPJCEKCOBP = 1;
-	uint64 POGHDEAENAD = 2;
-	uint32 AKANNIGGDKH = 3;
+    uint32 IPLGACBJJGH = 1;
+    uint64 PKJEEFBMBNM = 2;
+    uint32 GHGPLCNLCDF = 3;
 }
+

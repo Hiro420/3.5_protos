@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CBCLNFEFLAH
+// CmdId: 5381
 message CBCLNFEFLAH {
-	repeated uint32 JAOBPKMBOKD = 15;
+    repeated uint32 AHMMKMKHHFP = 15;
 }
+

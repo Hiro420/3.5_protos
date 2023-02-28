@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BEICDJDPJML
+// CmdId: 7382
 message BEICDJDPJML {
-	uint32 NNEKBHECDCL = 14;
-	int32 IJIABMFLJGH = 6;
-	uint32 KGHKFNGDPNI = 15;
-	bool CAPAEOBPPJI = 4;
+    uint32 JLNHBNGNEML = 14;
+    int32 KFCODGHIJEH = 6;
+    uint32 AHAIAIPGFDN = 15;
+    bool BBNOFLCPEBA = 4;
 }
+

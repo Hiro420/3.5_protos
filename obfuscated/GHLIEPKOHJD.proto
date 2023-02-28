@@ -4,11 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NIELIIFHJCO.proto";
 
+// Name: GHLIEPKOHJD
+// CmdId: 7942
 message GHLIEPKOHJD {
-	repeated uint32 CLNJMCLMNEF = 11;
-	uint32 AIJOKLEENGC = 1;
-	int32 IJIABMFLJGH = 8;
-	uint32 AMJLLOEKGMD = 4;
-	NIELIIFHJCO DCDGHOOMIMO = 3;
-	repeated uint32 HABOKNANIHB = 12;
+    repeated uint32 DNJDACFOEJA = 11;
+    uint32 OBBPIGOHAJL = 1;
+    int32 KFCODGHIJEH = 8;
+    uint32 CEGEDDOGGAD = 4;
+    NIELIIFHJCO PPHCMNDNEBE = 3;
+    repeated uint32 NPLFIOFPAKH = 12;
 }
+

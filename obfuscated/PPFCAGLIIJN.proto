@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CCNCLHGNBFP.proto";
 
+// Name: PPFCAGLIIJN
+// CmdId: 4020
 message PPFCAGLIIJN {
-	uint32 AAEBBDIDMAO = 2;
-	int32 IJIABMFLJGH = 12;
-	CCNCLHGNBFP NFPLGOIMHEN = 13;
+    uint32 AKDECIELPLN = 2;
+    int32 KFCODGHIJEH = 12;
+    CCNCLHGNBFP DCIGCGHDAHN = 13;
 }
+

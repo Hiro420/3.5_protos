@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HKINCILJKMB
+// CmdId: 1745
 message HKINCILJKMB {
-	uint64 POGHDEAENAD = 11;
-	uint32 HKDFCCMIEPL = 9;
-	int32 IJIABMFLJGH = 13;
+    uint64 PKJEEFBMBNM = 11;
+    uint32 FGADOPAJFBH = 9;
+    int32 KFCODGHIJEH = 13;
 }
+

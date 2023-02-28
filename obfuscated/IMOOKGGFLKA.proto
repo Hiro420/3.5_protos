@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: IMOOKGGFLKA
 message IMOOKGGFLKA {
-	DALMLFNANKL LMFLHBCNFBI = 4;
-	uint32 JBIFNFKOOIH = 13;
-	bool JGFBKLJKNCG = 1;
-	uint32 JEGNLCGMNKD = 8;
-	repeated DALMLFNANKL AKEBAALBPMK = 7;
+    DALMLFNANKL LIHEAJAGIJP = 4;
+    uint32 NMNPKPCBHJM = 13;
+    bool EMHPCGONALJ = 1;
+    uint32 AHKOPCIOGKF = 8;
+    repeated DALMLFNANKL PANOGGIMCOP = 7;
 }
+

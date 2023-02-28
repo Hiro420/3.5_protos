@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ENOCIMKMJJG.proto";
+
+// Name: FINEJDCEECI
+message FINEJDCEECI {
+    // Name: KPKPFMLBAOL
+    message KPKPFMLBAOL {
+        repeated ENOCIMKMJJG GFLEMFDCFIM = 1;
+        repeated ENOCIMKMJJG HBANPLNDOJA = 2;
+    }
+
+    string APHGPJLNCDD = 1;
+    string FNIODJLHDLL = 2;
+    uint32 JOIANPCEKPB = 3;
+    uint32 EFIMMGMDACC = 4;
+    uint32 MGICPJOFJOA = 5;
+    uint32 FAHMOAMOKKF = 6;
+    uint32 DPKGFEIHEED = 7;
+    oneof APLLPBMLFFB {
+        KPKPFMLBAOL LLILNAHICDC = 101;
+    }
+}
+

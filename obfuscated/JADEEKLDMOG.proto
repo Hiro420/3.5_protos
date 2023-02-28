@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JADEEKLDMOG
 message JADEEKLDMOG {
-	uint32 CPIPIKPBIII = 1;
-	uint32 FJADIEHKLLG = 2;
-	uint32 LIBAPJHPAEK = 3;
-	uint32 LFECIIFEPOE = 4;
+    uint32 MDGAAIMGPPI = 1;
+    uint32 JJLMMJCDBFB = 2;
+    uint32 HIOOAKABKJG = 3;
+    uint32 FMNDOGGHILM = 4;
 }
+

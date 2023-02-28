@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BAMMPAGNAFG
+// CmdId: 274
 message BAMMPAGNAFG {
-	repeated uint32 IJHPEPJCGNO = 8;
-	uint32 KFEMBAPKMFH = 1;
+    repeated uint32 DJNAKKEIPNJ = 8;
+    uint32 NDGLECFHBCJ = 1;
 }
+

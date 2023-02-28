@@ -2,5 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GCEBOCHMFOD
+// CmdId: 5311
 message GCEBOCHMFOD {
 }
+

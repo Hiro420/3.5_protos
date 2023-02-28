@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KFALPHIPJOK.proto";
 
+// Name: LLCNMBFHCNP
+// CmdId: 4348
 message LLCNMBFHCNP {
-	uint32 ELNNIELNMBO = 7;
-	KFALPHIPJOK KAOBAJAEIPN = 4;
+    uint32 KFGGNNFODBD = 7;
+    KFALPHIPJOK IMDPDHPGDLC = 4;
 }
+

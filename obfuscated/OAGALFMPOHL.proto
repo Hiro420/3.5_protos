@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OAEDPFAIDHB.proto";
 
+// Name: OAGALFMPOHL
+// CmdId: 8740
 message OAGALFMPOHL {
-	OAEDPFAIDHB JBKCKILACEA = 9;
+    OAEDPFAIDHB FJMBLMLKNEG = 9;
 }
+

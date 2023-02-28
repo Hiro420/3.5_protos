@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KCKKEDMBCFL
+// CmdId: 233
 message KCKKEDMBCFL {
-	uint32 KEPPPGHKCFL = 9;
-	uint32 PAKGCBBEOBJ = 15;
+    uint32 BAIFDDFGGEL = 9;
+    uint32 GIKJPLBMPNH = 15;
 }
+

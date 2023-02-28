@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: IKPIMJPJJNH
+enum IKPIMJPJJNH {
+    IKPIMJPJJNH_NFIKHDOGPAF = 0;
+    IKPIMJPJJNH_EBHMCEKOKLK = 1;
+    IKPIMJPJJNH_PJLAKDKAPMN = 2;
+    IKPIMJPJJNH_FDBALPBIKPA = 3;
+}
+

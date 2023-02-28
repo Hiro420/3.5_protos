@@ -2,11 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: POCBKNHAFON
 message POCBKNHAFON {
-	uint32 KJBEOAEPLGD = 14;
-	uint32 FEOMIOKBKJA = 12;
-	uint32 BEJDBNONODA = 11;
-	uint32 FIHDKPEIDMH = 7;
-	uint32 JMECAMPDNEE = 6;
-	uint32 AIJOKLEENGC = 13;
+    uint32 FADHHIJAJLC = 14;
+    uint32 GIKJGOPJELA = 12;
+    uint32 NJIHDDKBBLA = 11;
+    uint32 PHAJIOEJGIE = 7;
+    uint32 IKLDEPKLIMD = 6;
+    uint32 OBBPIGOHAJL = 13;
 }
+

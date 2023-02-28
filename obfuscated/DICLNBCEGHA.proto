@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DICLNBCEGHA
+// CmdId: 5559
 message DICLNBCEGHA {
-	uint32 KKMLAEEAHJA = 15;
-	uint32 CGBDEINMJBN = 8;
+    uint32 IIBPCMOEENO = 15;
+    uint32 KLIJLAAJCIE = 8;
 }
+

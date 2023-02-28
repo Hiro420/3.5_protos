@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PDEEJHCBEHP
+// CmdId: 8518
 message PDEEJHCBEHP {
-	bool DBIKCJCJHFI = 1;
-	uint32 AIJOKLEENGC = 2;
-	bool LPGAJJALBDN = 4;
-	uint32 DBCEEODIKCO = 11;
+    bool AAMENNENDKM = 1;
+    uint32 OBBPIGOHAJL = 2;
+    bool PIHHIOENHPL = 4;
+    uint32 IBHFHNMMJKH = 11;
 }
+

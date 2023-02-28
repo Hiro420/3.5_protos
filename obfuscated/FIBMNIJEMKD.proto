@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FIBMNIJEMKD
+// CmdId: 1664
 message FIBMNIJEMKD {
-	string DODELGJMENP = 2;
-	int32 JANHAFMHELC = 9;
-	int32 IJIABMFLJGH = 10;
+    string AIBFNPPGHPA = 2;
+    int32 BOCEFEMIGJK = 9;
+    int32 KFCODGHIJEH = 10;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JGDIDFMJFNB.proto";
 
+// Name: LMBIEIJIEMO
+// CmdId: 1762
 message LMBIEIJIEMO {
-	bool CAIPGENDDLM = 13;
-	repeated JGDIDFMJFNB GDCOOMLNCCP = 7;
+    bool PGENLEHHMOA = 13;
+    repeated JGDIDFMJFNB PDHBHKEBMGE = 7;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IJOMIPEHIMO
+// CmdId: 2061
 message IJOMIPEHIMO {
-	uint32 PFKDFHHKBFD = 15;
+    uint32 NLBJCAHEJOC = 15;
 }
+

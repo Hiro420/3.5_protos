@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PEPDKKBCLIL
+// CmdId: 22612
 message PEPDKKBCLIL {
-	uint32 EFNCFEMKBJL = 1;
-	uint32 AIJOKLEENGC = 6;
-	uint32 JAOAOHCDFOK = 3;
+    uint32 PMCDFCJPIML = 1;
+    uint32 OBBPIGOHAJL = 6;
+    uint32 ABDDKOLIMIG = 3;
 }
+

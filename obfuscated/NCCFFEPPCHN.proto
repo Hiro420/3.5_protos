@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: NCCFFEPPCHN
+enum NCCFFEPPCHN {
+    NCCFFEPPCHN_JJIMJJIIEPP = 0;
+    NCCFFEPPCHN_HBBBLJDDJIL = 1;
+    NCCFFEPPCHN_LEAMDEHBMDD = 2;
+    NCCFFEPPCHN_MPNGPJLAKEP = 3;
+}
+

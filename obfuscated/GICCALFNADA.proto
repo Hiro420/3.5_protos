@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GICCALFNADA
 message GICCALFNADA {
-	float EFIFKMIBLPI = 5;
-	float IOFIHDGGJNH = 10;
-	uint32 HCMPEPODKPP = 11;
-	float GJDMBBAMIDJ = 4;
+    float AAEIFDGIILN = 5;
+    float FKNGODBDLME = 10;
+    uint32 IOGCBDAJIJK = 11;
+    float IHLLNJNJBGO = 4;
 }
+

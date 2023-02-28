@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CPGCKPFMILP
+// CmdId: 217
 message CPGCKPFMILP {
-	int32 BKDHBEFPKIC = 14;
-	int32 HDMPNOKOFAD = 5;
-	int32 KHIGOACLIOB = 4;
-	uint32 GKPECAOMNJN = 9;
+    int32 PFJOPBPLOHD = 14;
+    int32 CKHPLMAGECJ = 5;
+    int32 CFJFAOMLMKF = 4;
+    uint32 OICHLICGHOM = 9;
 }
+

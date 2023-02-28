@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OCLABAOCCHG
+// CmdId: 23079
 message OCLABAOCCHG {
-	uint32 ILKJCBNLDLL = 7;
-	uint32 ICFIJIEKEEJ = 15;
+    uint32 HKAKPBCDMJB = 7;
+    uint32 PIOGLHEHAAD = 15;
 }
+

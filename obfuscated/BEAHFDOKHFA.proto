@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AJBIHJGCCPM.proto";
+import "DALMLFNANKL.proto";
+import "DGCNBEDMHFC.proto";
+
+// Name: BEAHFDOKHFA
+message BEAHFDOKHFA {
+    uint32 LECPGEIPAFI = 1;
+    uint32 DOIFHNNEPEC = 2;
+    uint32 ONHBEIHMJEB = 3;
+    DALMLFNANKL GHGPLCNLCDF = 4;
+    oneof LPHLOHIHNPJ {
+        DGCNBEDMHFC OJJBMAHFIHD = 6;
+        AJBIHJGCCPM CKGLCNGJFFA = 7;
+    }
+}
+

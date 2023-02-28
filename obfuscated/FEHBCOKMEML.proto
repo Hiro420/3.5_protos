@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FEHBCOKMEML
+// CmdId: 8118
 message FEHBCOKMEML {
-	int32 IJIABMFLJGH = 5;
-	uint32 KKMLAEEAHJA = 14;
+    int32 KFCODGHIJEH = 5;
+    uint32 IIBPCMOEENO = 14;
 }
+

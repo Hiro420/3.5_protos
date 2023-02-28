@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DGEBNIILIFA
+// CmdId: 21567
 message DGEBNIILIFA {
-	uint32 GOIOHBKDPDB = 1;
-	uint32 PFKDFHHKBFD = 9;
+    uint32 IHCMMNBKCFH = 1;
+    uint32 NLBJCAHEJOC = 9;
 }
+

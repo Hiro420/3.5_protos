@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: OEDJPHACFPH
+message OEDJPHACFPH {
+    // Name: NLLLEFHCFNB
+    message NLLLEFHCFNB {
+        map<uint32, uint32> GBPENAIGGMK = 1;
+        uint32 PDDIAPPBNIA = 2;
+    }
+
+    // Name: PBANAIDKAMN
+    message PBANAIDKAMN {
+        uint32 JICEOOIMEDN = 1;
+    }
+
+    // Name: FFCMPAFJMDA
+    message FFCMPAFJMDA {
+        map<uint32, uint32> GBPENAIGGMK = 1;
+        uint32 EIJJCEMGDJC = 2;
+        uint32 PDDIAPPBNIA = 3;
+    }
+
+    bool BOCLGDDLNEE = 1;
+    oneof ENBKNHGCHAB {
+        NLLLEFHCFNB BGDDMDHNJHG = 2;
+        PBANAIDKAMN CLFEFGNIPFB = 3;
+        FFCMPAFJMDA IBOIPPANOJK = 4;
+    }
+}
+

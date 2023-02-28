@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BACOMAIDHGA
+// CmdId: 5382
 message BACOMAIDHGA {
-	uint32 MODGFBJMMHC = 4;
-	uint32 JEEFNCHAJOJ = 11;
-	uint32 NJAEFGBAJLN = 2;
+    uint32 JJJDABMAPJG = 4;
+    uint32 MPLJBMEAIBB = 11;
+    uint32 GKJEDGIJGKL = 2;
 }
+

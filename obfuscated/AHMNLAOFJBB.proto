@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GFALMACJGIH.proto";
+import "HJLECMBBPOF.proto";
+import "MAABOGBOJFC.proto";
+
+// Name: AHMNLAOFJBB
+message AHMNLAOFJBB {
+    int32 KFCODGHIJEH = 1;
+    string DKMFFBNJCNA = 2;
+    GFALMACJGIH LAHFNFKNHBG = 3;
+    bytes ODHGCKGDENJ = 11;
+    bytes OEJHLDFBBKA = 12;
+    bytes NHNKFFPCOJI = 13;
+    string HHDIBBJDLAN = 14;
+    oneof NGKAEIMKBBL {
+        MAABOGBOJFC HGGELKAAJBI = 4;
+        HJLECMBBPOF FPKACBEKJHO = 5;
+    }
+}
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DFPGBOBGOKE
+// CmdId: 1810
 message DFPGBOBGOKE {
-	uint32 APPJCEKCOBP = 2;
-	uint32 LGLGGMGCBHM = 14;
-	bool EIEALMKLEIC = 10;
+    uint32 IPLGACBJJGH = 2;
+    uint32 HOIPIEEKMPN = 14;
+    bool BDLBHOCMALO = 10;
 }
+

@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FEGCMMBGONJ.proto";
 
+// Name: PPPFLECLGOC
 message PPPFLECLGOC {
-	FEGCMMBGONJ GJDMBBAMIDJ = 15;
+    FEGCMMBGONJ IHLLNJNJBGO = 15;
 }
+

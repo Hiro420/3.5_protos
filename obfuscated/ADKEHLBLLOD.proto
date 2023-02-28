@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CCNCLHGNBFP.proto";
 
+// Name: ADKEHLBLLOD
+// CmdId: 4070
 message ADKEHLBLLOD {
-	int32 IJIABMFLJGH = 6;
-	CCNCLHGNBFP NFPLGOIMHEN = 1;
+    int32 KFCODGHIJEH = 6;
+    CCNCLHGNBFP DCIGCGHDAHN = 1;
 }
+

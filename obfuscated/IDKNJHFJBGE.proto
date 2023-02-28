@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IDKNJHFJBGE
+// CmdId: 4144
 message IDKNJHFJBGE {
-	string EAJHIIIAAPJ = 3;
-	string OMACEOLGKMG = 10;
-	string MKNABENMJKL = 9;
-	string PBKHCBEGELF = 5;
-	string FNJJHPLIMJA = 2;
+    string MEGCNKBIJDE = 3;
+    string BHHPIADAKIM = 10;
+    string FMNKFIHICLO = 9;
+    string JHHDFCFBEAG = 5;
+    string ELHMDDNHHCG = 2;
 }
+

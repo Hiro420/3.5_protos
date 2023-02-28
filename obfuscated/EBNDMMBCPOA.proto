@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IFDALNKLGJA.proto";
 
+// Name: EBNDMMBCPOA
 message EBNDMMBCPOA {
-	repeated IFDALNKLGJA LIBFEEFPFLG = 2;
-	uint32 GFHIMCLONCN = 11;
-	uint32 GIICLPKACBB = 6;
-	uint32 DOGKMJOKNJA = 4;
-	bool MFPGHFOFAFP = 13;
+    repeated IFDALNKLGJA DOCKJAONGOH = 2;
+    uint32 ADDPNJJNODF = 11;
+    uint32 HCECBCGOLGH = 6;
+    uint32 GECOOGMJNAO = 4;
+    bool KANHMLPBBHL = 13;
 }
+

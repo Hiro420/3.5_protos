@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "IHFHAKKFMHG.proto";
 import "HLAGMEPBLFH.proto";
+import "IHFHAKKFMHG.proto";
 
+// Name: DBADNLBCPIE
+// CmdId: 350
 message DBADNLBCPIE {
-	HLAGMEPBLFH JLKDLNCIOKH = 5;
-	IHFHAKKFMHG CBOLHDNGDGC = 1;
+    HLAGMEPBLFH HPECKOEGHHG = 5;
+    IHFHAKKFMHG KDJAKKPIMGJ = 1;
 }
+

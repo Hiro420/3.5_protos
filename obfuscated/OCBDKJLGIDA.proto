@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OCBDKJLGIDA
+// CmdId: 5076
 message OCBDKJLGIDA {
-	uint32 EKNNABHLFOM = 1;
+    uint32 CLIADOFAENC = 1;
 }
+

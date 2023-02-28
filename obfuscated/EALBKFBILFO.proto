@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EALBKFBILFO
 message EALBKFBILFO {
-	uint32 AIJOKLEENGC = 3;
-	bool DJKOKFDGKIG = 15;
-	uint32 HDHFDDKANOF = 8;
+    uint32 OBBPIGOHAJL = 3;
+    bool HKDOCGOMBKP = 15;
+    uint32 EHPPNPOKAGI = 8;
 }
+

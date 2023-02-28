@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PLAPOIKJPOD
+// CmdId: 246
 message PLAPOIKJPOD {
-	uint32 PDFLEGGDOCP = 12;
+    uint32 GPBLLPDCIFK = 12;
 }
+

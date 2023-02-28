@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: JBEDKPCOIHC
 message JBEDKPCOIHC {
-	DALMLFNANKL PGMDPODKGHK = 15;
-	DALMLFNANKL DJPBOLNGGKC = 8;
-	uint32 PDFLEGGDOCP = 14;
+    DALMLFNANKL BJIGNLICEPA = 15;
+    DALMLFNANKL HOHCJADGKFD = 8;
+    uint32 GPBLLPDCIFK = 14;
 }
+

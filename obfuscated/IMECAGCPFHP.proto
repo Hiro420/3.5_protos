@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IMECAGCPFHP
+// CmdId: 699
 message IMECAGCPFHP {
-	int32 IJIABMFLJGH = 7;
-	repeated uint64 NKBDOKHHKEB = 9;
+    int32 KFCODGHIJEH = 7;
+    repeated uint64 JLHDCBNMAON = 9;
 }
+

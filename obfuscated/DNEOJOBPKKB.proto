@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DNEOJOBPKKB
+// CmdId: 4475
 message DNEOJOBPKKB {
-	uint32 KFEMBAPKMFH = 3;
+    uint32 NDGLECFHBCJ = 3;
 }
+

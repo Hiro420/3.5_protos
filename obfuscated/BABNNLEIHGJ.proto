@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BABNNLEIHGJ
+// CmdId: 2028
 message BABNNLEIHGJ {
-	uint32 HFLJPDBCKKP = 3;
-	uint32 KIBAJLBGNCK = 8;
-	bool MFPGHFOFAFP = 1;
-	uint32 LAMKPGOOMKN = 15;
+    uint32 NACAPDCMILB = 3;
+    uint32 INMABIOHDCE = 8;
+    bool KANHMLPBBHL = 1;
+    uint32 OBPDPLFCLGI = 15;
 }
+

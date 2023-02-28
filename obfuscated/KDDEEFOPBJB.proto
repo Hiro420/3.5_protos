@@ -5,9 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "ANIHIBEGDJC.proto";
 import "IPJNBCPPEAC.proto";
 
+// Name: KDDEEFOPBJB
 message KDDEEFOPBJB {
-	uint32 JLMLALKOMFN = 13;
-	IPJNBCPPEAC BMLIBIHBACF = 4;
-	repeated ANIHIBEGDJC MLHEDBOCADP = 14;
-	uint32 FOKCGCJOMBP = 3;
+    uint32 OCFEJAGKHBJ = 13;
+    IPJNBCPPEAC BKEAKBDBPCJ = 4;
+    repeated ANIHIBEGDJC PGIFCEDONAA = 14;
+    uint32 OADNCKNMNIO = 3;
 }
+

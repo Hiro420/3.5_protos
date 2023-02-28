@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GAFLEDAHGAG
+// CmdId: 2139
 message GAFLEDAHGAG {
-	uint32 PFKDFHHKBFD = 2;
+    uint32 NLBJCAHEJOC = 2;
 }
+

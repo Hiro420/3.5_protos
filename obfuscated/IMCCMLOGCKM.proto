@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IMCCMLOGCKM
+// CmdId: 2491
 message IMCCMLOGCKM {
-	uint32 DLHIIMCIPGD = 4;
+    uint32 MNOPHFEBCAO = 4;
 }
+

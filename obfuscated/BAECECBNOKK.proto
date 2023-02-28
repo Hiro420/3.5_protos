@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: BAECECBNOKK
 message BAECECBNOKK {
-	DALMLFNANKL MEPKAGJBDAB = 1;
-	float JEGNLCGMNKD = 2;
+    DALMLFNANKL GKJOKIEMKMN = 1;
+    float AHKOPCIOGKF = 2;
 }
+

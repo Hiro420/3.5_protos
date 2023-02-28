@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EOLLGIAIKJG.proto";
 
+// Name: GIHGMKPCMNI
+// CmdId: 613
 message GIHGMKPCMNI {
-	EOLLGIAIKJG JKCLNNGIEOC = 8;
+    EOLLGIAIKJG NIJGHEKFJOI = 8;
 }
+

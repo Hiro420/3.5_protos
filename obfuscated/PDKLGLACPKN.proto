@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PDKLGLACPKN
+// CmdId: 4736
 message PDKLGLACPKN {
-	int32 IJIABMFLJGH = 6;
-	uint32 MGGIEMKADBL = 5;
+    int32 KFCODGHIJEH = 6;
+    uint32 HCCNGFOJDMH = 5;
 }
+

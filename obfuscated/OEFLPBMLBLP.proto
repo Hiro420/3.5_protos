@@ -2,12 +2,20 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "OEFLPBMLBLP.HPHDPDPABHF.APMBCGPCHGK.proto";
 import "ENOCIMKMJJG.proto";
 
+// Name: OEFLPBMLBLP
+// CmdId: 108
 message OEFLPBMLBLP {
-	map<uint64, uint32> AODPHOODBPA = 10;
-	repeated ENOCIMKMJJG IBEJBBLKPGB = 15;
-	OEFLPBMLBLP.HPHDPDPABHF.APMBCGPCHGK EHPMNKAJHPP = 1;
-	uint32 FNPODILONDD = 2;
+    // Name: APMBCGPCHGK
+    enum APMBCGPCHGK {
+        APMBCGPCHGK_ELOIPPHFLML = 0;
+        APMBCGPCHGK_LDHOPBBKNJE = 1;
+    }
+
+    map<uint64, uint32> FFFCCEIPLAL = 10;
+    repeated ENOCIMKMJJG OKJIFAICMAO = 15;
+    APMBCGPCHGK BMCBMBDDCLF = 1;
+    uint32 KPKPJNJIGIN = 2;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JCECBJCIMGA
+// CmdId: 4059
 message JCECBJCIMGA {
-	uint32 AAEBBDIDMAO = 2;
+    uint32 AKDECIELPLN = 2;
 }
+

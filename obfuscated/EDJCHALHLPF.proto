@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EDJCHALHLPF
+// CmdId: 1788
 message EDJCHALHLPF {
-	uint64 JDDEJFKJHJN = 6;
+    uint64 LECPGEIPAFI = 6;
 }
+

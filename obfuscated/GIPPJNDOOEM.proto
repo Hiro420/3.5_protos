@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GIPPJNDOOEM
+// CmdId: 34
 message GIPPJNDOOEM {
-	uint32 ILABNEHBELM = 4;
-	uint32 BKMJMPMFFNN = 9;
-	int32 IJIABMFLJGH = 5;
+    uint32 JJNPNLADHDA = 4;
+    uint32 GBEKPIGKIIN = 9;
+    int32 KFCODGHIJEH = 5;
 }
+

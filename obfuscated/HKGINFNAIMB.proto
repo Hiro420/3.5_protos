@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HKGINFNAIMB
+// CmdId: 961
 message HKGINFNAIMB {
-	uint32 LAMKPGOOMKN = 8;
-	uint32 CGHFNEFHFGF = 10;
-	repeated uint32 FMPCLKCKAMD = 13;
-	uint32 JEEFNCHAJOJ = 7;
-	repeated uint32 JMJFJOBDLNG = 12;
-	uint32 ECHCDODIGAN = 4;
+    uint32 OBPDPLFCLGI = 8;
+    uint32 HBAAGMFLKFL = 10;
+    repeated uint32 OJIHOCHJDEK = 13;
+    uint32 MPLJBMEAIBB = 7;
+    repeated uint32 NLNPKIPAKNE = 12;
+    uint32 GLOLPGMFPBB = 4;
 }
+

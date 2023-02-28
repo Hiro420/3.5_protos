@@ -2,19 +2,21 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EEPLFBFNDIE
 message EEPLFBFNDIE {
-	string KECOEILHMHM = 1;
-	string KDDKEMOPMDM = 2;
-	uint32 DOCEOJFDBEB = 3;
-	string OBCIAHKEIDP = 4;
-	string EEOLPJFEKEE = 5;
-	string EJNMMOMKGCO = 6;
-	string EBJNKJCIPHA = 7;
-	string OGHLOFHEDNO = 8;
-	string EHPLEIONKAF = 9;
-	string DKLIGABDEDP = 10;
-	string NONALOJNIEH = 11;
-	string BLNABOOJEEC = 12;
-	string OBAOMIMMDDH = 13;
-	string JIDLEICJIGJ = 14;
+    string LEKMNPDEDGH = 1;
+    string PEEPLIAKJNL = 2;
+    uint32 JACDOGHEFOI = 3;
+    string CHPDLCDEEBO = 4;
+    string FDDNIAJPEJI = 5;
+    string APHGPJLNCDD = 6;
+    string LKKGIIANNGL = 7;
+    string OOIOMFDNKGF = 8;
+    string BFLNFEHHENN = 9;
+    string HKKIPCNNKKJ = 10;
+    string PMGJEMPIPIF = 11;
+    string KCPDKLENJKN = 12;
+    string ALHMNHKFNIJ = 13;
+    string HDKHDOLLMAM = 14;
 }
+

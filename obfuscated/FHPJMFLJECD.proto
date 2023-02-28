@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MCOPOAMEGCP.proto";
 
+// Name: FHPJMFLJECD
 message FHPJMFLJECD {
-	MCOPOAMEGCP HEJGHPDNEDN = 15;
-	uint32 MPGJJEALABF = 6;
-	MCOPOAMEGCP LKJHNCGKBDK = 14;
-	uint32 AIJOKLEENGC = 2;
+    MCOPOAMEGCP PMIDHJGPANG = 15;
+    uint32 GPKPCCJAFAH = 6;
+    MCOPOAMEGCP PLIOEJLDHLF = 14;
+    uint32 OBBPIGOHAJL = 2;
 }
+

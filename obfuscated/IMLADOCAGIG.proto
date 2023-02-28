@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KFALPHIPJOK.proto";
 
+// Name: IMLADOCAGIG
+// CmdId: 4315
 message IMLADOCAGIG {
-	uint32 ELNNIELNMBO = 4;
-	int32 IJIABMFLJGH = 3;
-	KFALPHIPJOK KAOBAJAEIPN = 1;
+    uint32 KFGGNNFODBD = 4;
+    int32 KFCODGHIJEH = 3;
+    KFALPHIPJOK IMDPDHPGDLC = 1;
 }
+

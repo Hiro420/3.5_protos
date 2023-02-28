@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: CGOOHEEBLLK
+enum CGOOHEEBLLK {
+    CGOOHEEBLLK_EEJKIHGAHBJ = 0;
+    CGOOHEEBLLK_GPAFPFMFMPF = 1;
+    CGOOHEEBLLK_EIBOBJJDDNE = 2;
+}
+

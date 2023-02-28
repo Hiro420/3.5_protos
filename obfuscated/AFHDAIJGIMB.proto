@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: AFHDAIJGIMB
+enum AFHDAIJGIMB {
+    AFHDAIJGIMB_APJHBBBBIJN = 0;
+    AFHDAIJGIMB_KEKMODIIDGM = 1;
+}
+

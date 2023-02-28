@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NPMBLHJCHHD.proto";
 
+// Name: FNGDAFLJIIM
+// CmdId: 1981
 message FNGDAFLJIIM {
-	repeated NPMBLHJCHHD NOJFEGBCLML = 2;
+    repeated NPMBLHJCHHD GGGBCONAEHD = 2;
 }
+

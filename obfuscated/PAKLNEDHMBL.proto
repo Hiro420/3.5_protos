@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: PAKLNEDHMBL
+// CmdId: 633
 message PAKLNEDHMBL {
-	DALMLFNANKL ONPNDEDLPNB = 14;
-	repeated uint32 NMCIEBDAMNE = 5;
+    DALMLFNANKL HBMLNLCODNM = 14;
+    repeated uint32 BIABOFKAJMI = 5;
 }
+

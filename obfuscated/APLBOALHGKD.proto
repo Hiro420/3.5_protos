@@ -1,0 +1,76 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AINGLIBEGNA.proto";
+import "ANHIPICCPMI.proto";
+import "AOPHOBIKEHK.proto";
+import "BDEFJFGKKBF.proto";
+import "BHEIJJMBINN.proto";
+import "BHLCFGOBHBJ.proto";
+import "CDPOOGDCAEF.proto";
+import "CFMDIIMKKFP.proto";
+import "COPHAEDKHOK.proto";
+import "CPPKIIBAODF.proto";
+import "EAFPFNAHIOC.proto";
+import "EGLAMGPGDJE.proto";
+import "EGMHJIHCDBD.proto";
+import "FCKEMAGNIFF.proto";
+import "FOENOMBFLMO.proto";
+import "FOPGOIJCICK.proto";
+import "HLJEHBEBFMD.proto";
+import "IKCAPLALLPO.proto";
+import "KECNEMONJDE.proto";
+import "KMDKMJLGNHL.proto";
+import "NCIMBEDOIIL.proto";
+import "NFAAELHDHLM.proto";
+import "OIFFHAFGIBA.proto";
+import "OKMBKEFJCCF.proto";
+import "PDONEGKNDKM.proto";
+
+// Name: APLBOALHGKD
+message APLBOALHGKD {
+    uint32 AECPDOLHDKN = 1;
+    uint32 MPLJBMEAIBB = 2;
+    uint32 CEGEDDOGGAD = 3;
+    uint32 BAEJFEDNCCG = 4;
+    BHLCFGOBHBJ BFMFOIHJCMP = 5;
+    uint32 BGDABKPFIBI = 6;
+    uint32 EIHJCEDOKKE = 7;
+    bool BJNIIJCPEIB = 8;
+    uint32 NHPLPJKKNBP = 9;
+    bool GCOOFHMMCKI = 10;
+    uint32 IJJBMNMNKKB = 11;
+    uint32 FAHAFKHFABC = 21;
+    uint32 LMDHNJFCOOI = 22;
+    COPHAEDKHOK CCDDJJMBGHG = 23;
+    repeated uint32 JEEGPLFHCJE = 24;
+    uint32 CMIFHNOBAIC = 25;
+    uint32 HIOJEFHGLJI = 26;
+    FOENOMBFLMO BKAHJCGGHLI = 100;
+    oneof FELNMAMJHCP {
+        FOPGOIJCICK OANKGLMMICO = 12;
+        AOPHOBIKEHK CKBPEOOJEOE = 13;
+        OKMBKEFJCCF NLFCJBLNGMP = 14;
+        ANHIPICCPMI OBFFAMNKKOF = 15;
+        CPPKIIBAODF PINHEEKFPGK = 17;
+        PDONEGKNDKM IGCEKKDACEP = 18;
+        KECNEMONJDE CNOLDPIHGNF = 19;
+        CFMDIIMKKFP CAMJOOCGHHL = 20;
+        EAFPFNAHIOC HLNNHOLACNO = 41;
+        NFAAELHDHLM LBHNHHEIFHB = 42;
+        EGMHJIHCDBD BNIMMCKGGBJ = 43;
+        FCKEMAGNIFF KOMPGMMAJGJ = 44;
+        BHEIJJMBINN CAKHBEDPNDI = 45;
+        CDPOOGDCAEF AEEAJIJIJIF = 46;
+        EGLAMGPGDJE FBAFAIBHOHN = 47;
+        HLJEHBEBFMD FINOOEONIOD = 48;
+        KMDKMJLGNHL CALENIBEEGJ = 59;
+        IKCAPLALLPO FMPGJJPKKDD = 60;
+        BDEFJFGKKBF MDINHCMNCNB = 61;
+        NCIMBEDOIIL ENIKHHOBMBE = 62;
+        OIFFHAFGIBA CAKMPDBDGLE = 63;
+        AINGLIBEGNA MKCNDMFNANA = 64;
+    }
+}
+

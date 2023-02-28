@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CALFPKMOOLN
+// CmdId: 24740
 message CALFPKMOOLN {
-	int32 IJIABMFLJGH = 15;
+    int32 KFCODGHIJEH = 15;
 }
+

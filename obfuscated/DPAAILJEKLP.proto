@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DPAAILJEKLP
+// CmdId: 854
 message DPAAILJEKLP {
-	uint32 KOGHALJPDBC = 15;
-	bool IBBJEILJCHO = 6;
-	uint32 JGAHPOJJDHJ = 8;
+    uint32 BGDABKPFIBI = 15;
+    bool GCOOFHMMCKI = 6;
+    uint32 LGAHNCLEDCF = 8;
 }
+

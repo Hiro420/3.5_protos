@@ -5,8 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 import "IHFHAKKFMHG.proto";
 
+// Name: AKGNMEEIFMH
+// CmdId: 342
 message AKGNMEEIFMH {
-	IHFHAKKFMHG CBOLHDNGDGC = 1;
-	DALMLFNANKL GAMJIMIJAIM = 15;
-	uint32 PDFLEGGDOCP = 13;
+    IHFHAKKFMHG KDJAKKPIMGJ = 1;
+    DALMLFNANKL CGKGAGDFOBF = 15;
+    uint32 GPBLLPDCIFK = 13;
 }
+

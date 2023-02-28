@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LPLPFPBLPIJ
+// CmdId: 901
 message LPLPFPBLPIJ {
-	uint32 OEGEDJPNJAD = 15;
-	uint32 OGMINHKFHDG = 3;
-	uint32 ILNDFKMEECF = 7;
+    uint32 CEHNBFEIODF = 15;
+    uint32 OONLIAFCPDN = 3;
+    uint32 AMIKKOIOAPN = 7;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IEMEGAMDMEI.proto";
 
+// Name: FPEABAMFGIM
+// CmdId: 4484
 message FPEABAMFGIM {
-	int32 IJIABMFLJGH = 9;
-	IEMEGAMDMEI APNABBDHMNA = 8;
+    int32 KFCODGHIJEH = 9;
+    IEMEGAMDMEI OCAJLCPDFPJ = 8;
 }
+

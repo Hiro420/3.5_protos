@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EANAJADAGJP
+// CmdId: 8875
 message EANAJADAGJP {
-	uint32 MHCGANALPFE = 3;
-	bool LJJMALDPOOL = 9;
-	int32 IJIABMFLJGH = 14;
-	uint32 DAIBJCNPOJG = 13;
+    uint32 EIODGFHKMFP = 3;
+    bool DFOEIIPGGOO = 9;
+    int32 KFCODGHIJEH = 14;
+    uint32 FGCOFILIGGJ = 13;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FONADLHMICH
+// CmdId: 2246
 message FONADLHMICH {
-	repeated uint32 PMKMANAEMFL = 11;
+    repeated uint32 JPJGGCFEODA = 11;
 }
+

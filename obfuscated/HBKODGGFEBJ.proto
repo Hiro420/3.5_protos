@@ -4,10 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MABMAHNONLB.proto";
 
+// Name: HBKODGGFEBJ
+// CmdId: 4002
 message HBKODGGFEBJ {
-	uint32 CNEMAOLLHCI = 7;
-	MABMAHNONLB GNLDDLIKJDN = 10;
-	string FELNMAMJHCP = 4;
-	string HMMHBPHOCGI = 15;
-	uint32 AAEBBDIDMAO = 9;
+    uint32 IAFOEDEIHGL = 7;
+    MABMAHNONLB BHDBMLOIDGK = 10;
+    string JNJBGLLLHFJ = 4;
+    string NFKNMPFIDKF = 15;
+    uint32 AKDECIELPLN = 9;
 }
+

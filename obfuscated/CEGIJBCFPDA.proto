@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CEGIJBCFPDA
+// CmdId: 5450
 message CEGIJBCFPDA {
-	uint32 IGHODAEJNCH = 14;
-	uint32 AJNIHGLMFCP = 3;
+    uint32 CMIFHNOBAIC = 14;
+    uint32 JPMCPIKEEGJ = 3;
 }
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ENFCAMIABPH
+// CmdId: 621
 message ENFCAMIABPH {
-	bool MPLOILHKKMO = 5;
-	int32 IJIABMFLJGH = 9;
-	uint64 CODICMCGMPM = 10;
+    bool ELPEIGPPDPO = 5;
+    int32 KFCODGHIJEH = 9;
+    uint64 GHOADCGDKCI = 10;
 }
+

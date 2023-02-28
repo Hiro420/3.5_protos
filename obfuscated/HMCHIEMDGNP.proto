@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: HMCHIEMDGNP
+enum HMCHIEMDGNP {
+    HMCHIEMDGNP_LIMCIIIHPDP = 0;
+    HMCHIEMDGNP_ECAHAEHFGAF = 1;
+    HMCHIEMDGNP_LKFODBLKJLI = 2;
+}
+

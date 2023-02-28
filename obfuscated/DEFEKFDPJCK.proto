@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DEFEKFDPJCK
+// CmdId: 826
 message DEFEKFDPJCK {
-	uint32 PDFLEGGDOCP = 14;
-	float LKGEDLLHDBG = 12;
+    uint32 GPBLLPDCIFK = 14;
+    float BPDMEJIMAGD = 12;
 }
+

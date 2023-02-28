@@ -2,8 +2,18 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "POKDLKEBOPO.BJPDFJJGHDP.OCLNGLCLKII.proto";
+import "EILHMHEJAPN.proto";
 
+// Name: POKDLKEBOPO
+// CmdId: 903
 message POKDLKEBOPO {
-	repeated POKDLKEBOPO.BJPDFJJGHDP.OCLNGLCLKII AFOCBHDLHMN = 12;
+    // Name: OCLNGLCLKII
+    message OCLNGLCLKII {
+        repeated EILHMHEJAPN DBEIFGBJDFM = 6;
+        repeated uint32 IACIJHFBDEB = 4;
+        string PGGENEOECHL = 3;
+    }
+
+    repeated OCLNGLCLKII HHPMHDLMBIK = 12;
 }
+

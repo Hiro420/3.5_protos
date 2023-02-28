@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OBOFAJMJMGL
+// CmdId: 126
 message OBOFAJMJMGL {
-	uint32 GCBFDDKPKNI = 3;
+    uint32 LLEEHHGFIHE = 3;
 }
+

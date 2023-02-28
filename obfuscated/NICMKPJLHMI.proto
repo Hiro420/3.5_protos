@@ -4,11 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: NICMKPJLHMI
 message NICMKPJLHMI {
-	uint32 AFJJCDAMFIK = 1;
-	int32 ONOHFBKKFHB = 4;
-	DALMLFNANKL GONEENHLCNH = 6;
-	uint32 BNCBCBPCKLB = 7;
-	uint32 JDDEJFKJHJN = 8;
-	DALMLFNANKL IBJAJJOOACP = 13;
+    uint32 EAKDPMJABDI = 1;
+    int32 LHFNIEEFJOP = 4;
+    DALMLFNANKL MGHIMMEFBDI = 6;
+    uint32 DOIFHNNEPEC = 7;
+    uint32 LECPGEIPAFI = 8;
+    DALMLFNANKL JOAFFOCECOM = 13;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OFDKCMBFMBP
+// CmdId: 4619
 message OFDKCMBFMBP {
-	uint32 HHEPIOBIFPG = 11;
-	uint32 FAICIMDLBMF = 8;
+    uint32 ADEFNBHFFOK = 11;
+    uint32 KFKLCBBKMNC = 8;
 }
+

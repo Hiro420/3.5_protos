@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BPKGHIEIGHK.proto";
+import "CLCLGFMLOOG.proto";
+
+// Name: IJNIEHMAAMD
+message IJNIEHMAAMD {
+    bool IIMJGNBGIEM = 12;
+    uint32 JMKBIFEONHD = 10;
+    oneof GOGAJCDFIJG {
+        CLCLGFMLOOG JHAGNHEINPL = 15;
+        BPKGHIEIGHK GDKKAGJGCEC = 5;
+        uint32 POIGIIFOHKH = 1;
+    }
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: NDOJCJJNIKB
+message NDOJCJJNIKB {
+    oneof ICFIJIEKEEJ {
+        uint32 IHDMOKLAOBC = 3;
+        float JBOKLJBCILN = 5;
+        string CHMCKECMFHP = 8;
+    }
+}
+

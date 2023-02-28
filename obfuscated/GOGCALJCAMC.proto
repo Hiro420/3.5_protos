@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: GOGCALJCAMC
+enum GOGCALJCAMC {
+    GOGCALJCAMC_PJBFEFHBAAD = 0;
+    GOGCALJCAMC_LJBOPAFHEIA = 1;
+    GOGCALJCAMC_EMFCAAMENEN = 2;
+}
+

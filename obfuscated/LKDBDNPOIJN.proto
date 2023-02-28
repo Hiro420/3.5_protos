@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IKCAPLALLPO.proto";
 
+// Name: LKDBDNPOIJN
+// CmdId: 8301
 message LKDBDNPOIJN {
-	uint32 PDFLEGGDOCP = 4;
-	uint32 PFKDFHHKBFD = 6;
-	IKCAPLALLPO IPMAGMOILFJ = 12;
+    uint32 GPBLLPDCIFK = 4;
+    uint32 NLBJCAHEJOC = 6;
+    IKCAPLALLPO IJIIDMILKKD = 12;
 }
+

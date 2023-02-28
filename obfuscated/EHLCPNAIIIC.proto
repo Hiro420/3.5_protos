@@ -2,14 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EHLCPNAIIIC
 message EHLCPNAIIIC {
-	string NPOMIENCDCK = 1;
-	uint32 AONBBEACMKB = 2;
-	uint32 LNFADAIGNJE = 3;
-	string ILFDFOGFCCK = 4;
-	string CLIOIMCOJLL = 5;
-	string PDBADJPECOE = 6;
-	uint32 EDGBNAOKDLO = 7;
-	uint32 HMLMEEOMHJI = 8;
-	string OEJFJOLPIDI = 9;
+    string GLAHKBEAIGO = 1;
+    uint32 BOPPPPOPBBA = 2;
+    uint32 EOFABHCOLLF = 3;
+    string JFILFAOBJHF = 4;
+    string GNPHHKHGLCI = 5;
+    string BGGGBEPDDHG = 6;
+    uint32 MNEOFKJIAHN = 7;
+    uint32 IODHADMLEPF = 8;
+    string NOLFILPOAGF = 9;
 }
+

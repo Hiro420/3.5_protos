@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: FCFKAAGEDPK
+message FCFKAAGEDPK {
+    // Name: HIKGMNEMNOH
+    enum HIKGMNEMNOH {
+        HIKGMNEMNOH_OCFEJAGKHBJ = 0;
+        HIKGMNEMNOH_ELOIPPHFLML = 1;
+    }
+
+    HIKGMNEMNOH COPMFPJEKPG = 1;
+    uint32 AGIJDEIALFJ = 12;
+    oneof ICFIJIEKEEJ {
+        uint32 PDDEJIGJICI = 14;
+        uint32 OCFEJAGKHBJ = 2;
+    }
+}
+

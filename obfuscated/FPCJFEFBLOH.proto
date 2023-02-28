@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FPCJFEFBLOH
+// CmdId: 4251
 message FPCJFEFBLOH {
-	bool IFMEDMEAOIB = 12;
-	uint32 AAHPGNIAFFG = 8;
-	bool CBBDBMHDEML = 14;
-	uint32 HFHAEHHHKCH = 4;
-	bool GMBIDGBGEJI = 5;
+    bool OFONAJDKBBL = 12;
+    uint32 NGOELONIDLG = 8;
+    bool JMDHGCHDAGG = 14;
+    uint32 FOHDEPHNGHG = 4;
+    bool NEKKCPDCEFD = 5;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DAIJHGFFMFL.proto";
 
+// Name: PPEKJLIOOCJ
+// CmdId: 5798
 message PPEKJLIOOCJ {
-	repeated DAIJHGFFMFL NFNFAMDJBII = 14;
+    repeated DAIJHGFFMFL NFDKKBELPFI = 14;
 }
+

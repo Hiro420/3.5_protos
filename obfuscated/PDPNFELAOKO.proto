@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PDPNFELAOKO
+// CmdId: 8128
 message PDPNFELAOKO {
-	int32 IJIABMFLJGH = 11;
+    int32 KFCODGHIJEH = 11;
 }
+

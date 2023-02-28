@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FJPAJCOJACO
+// CmdId: 2077
 message FJPAJCOJACO {
-	bool LODAFKBHMKL = 10;
-	uint32 GKHJKEGICOO = 8;
+    bool CJODBLAAKPF = 10;
+    uint32 FBJHOFHKIIG = 8;
 }
+

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MAAHGJJPDKG.proto";
+import "POKKBBGEIOB.proto";
+
+// Name: ECBPKIEBPLJ
+// CmdId: 4299
+message ECBPKIEBPLJ {
+    uint32 NGOELONIDLG = 9;
+    oneof FEEBAHEICDA {
+        MAAHGJJPDKG CJEBOCLDHHC = 1340;
+        POKKBBGEIOB DAFNHLPKJAJ = 1743;
+    }
+}
+

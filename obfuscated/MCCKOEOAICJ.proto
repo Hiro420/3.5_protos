@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EGBBHBLNEAC.proto";
+
+// Name: MCCKOEOAICJ
+// CmdId: 277
+message MCCKOEOAICJ {
+    EGBBHBLNEAC CKEMLMEDHJK = 4;
+    uint32 DCJPLHLIKCB = 14;
+    oneof DPDNKOIFCPO {
+        uint32 JHKGKEPFCKL = 15;
+        uint32 AECPDOLHDKN = 3;
+    }
+}
+

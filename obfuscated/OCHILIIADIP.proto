@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OCHILIIADIP
+// CmdId: 8400
 message OCHILIIADIP {
-	int32 IJIABMFLJGH = 3;
-	uint32 BEJDBNONODA = 8;
+    int32 KFCODGHIJEH = 3;
+    uint32 NJIHDDKBBLA = 8;
 }
+

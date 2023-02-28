@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FBLJNNEKAKB.proto";
 
+// Name: ICPGKGIADBI
 message ICPGKGIADBI {
-	repeated FBLJNNEKAKB KLJPKMNOLLJ = 10;
+    repeated FBLJNNEKAKB MJMOMNIDILO = 10;
 }
+

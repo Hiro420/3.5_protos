@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JENKCFOKNFE.proto";
 
+// Name: KDOBINHBPOF
+// CmdId: 8915
 message KDOBINHBPOF {
-	int32 IJIABMFLJGH = 3;
-	uint32 PFKDFHHKBFD = 10;
-	JENKCFOKNFE JEFDEAHBBID = 13;
+    int32 KFCODGHIJEH = 3;
+    uint32 NLBJCAHEJOC = 10;
+    JENKCFOKNFE KEIGCPGGIND = 13;
 }
+

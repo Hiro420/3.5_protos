@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GNMIBJGAHKL.proto";
 
+// Name: LIGEEIJEIOB
 message LIGEEIJEIOB {
-	uint32 GKHJKEGICOO = 1;
-	uint32 MOGIBFKPINJ = 2;
-	repeated GNMIBJGAHKL ONNKDGMEAOA = 3;
+    uint32 FBJHOFHKIIG = 1;
+    uint32 JCHIILHALPP = 2;
+    repeated GNMIBJGAHKL LGJMOFEKFFP = 3;
 }
+

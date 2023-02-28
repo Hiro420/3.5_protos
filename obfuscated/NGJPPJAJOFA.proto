@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FNKNODGIEOH.proto";
 
+// Name: NGJPPJAJOFA
+// CmdId: 430
 message NGJPPJAJOFA {
-	repeated FNKNODGIEOH BCEKIIHENHJ = 12;
-	uint32 BOFBIJGMIGM = 9;
+    repeated FNKNODGIEOH IMBPAOJLFFN = 12;
+    uint32 CJMAPJPILIC = 9;
 }
+

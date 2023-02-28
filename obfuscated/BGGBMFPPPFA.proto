@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BGGBMFPPPFA
+// CmdId: 6219
 message BGGBMFPPPFA {
-	bool FCFOGPNGNOI = 13;
-	uint64 BOPOMJIPJMI = 3;
+    bool EOKCABAIOKL = 13;
+    uint64 HKLHMEABKCO = 3;
 }
+

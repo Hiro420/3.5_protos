@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GHAPMIGCIAM
+// CmdId: 1254
 message GHAPMIGCIAM {
-	map<uint32, float> MIBGCBHMOLP = 3;
-	uint32 PDFLEGGDOCP = 7;
+    map<uint32, float> OAJNBHKCNND = 3;
+    uint32 GPBLLPDCIFK = 7;
 }
+

@@ -4,13 +4,15 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FGJCCIGNBNB.proto";
 
+// Name: MADAEKGENID
 message MADAEKGENID {
-	uint32 IEPBBDPBKGO = 11;
-	bool MFPGHFOFAFP = 10;
-	uint32 KKMCLPJOOIN = 13;
-	uint32 MODGFBJMMHC = 7;
-	repeated FGJCCIGNBNB MKEMDBIFNBP = 15;
-	uint64 ONEKBACCDAO = 8;
-	uint32 LNBDAJMKABL = 1;
-	uint32 JEEFNCHAJOJ = 6;
+    uint32 NANDJMJIBHP = 11;
+    bool KANHMLPBBHL = 10;
+    uint32 NGOHOCDCPGA = 13;
+    uint32 JJJDABMAPJG = 7;
+    repeated FGJCCIGNBNB EPNJIAGPPBE = 15;
+    uint64 NGNCNCLNLOF = 8;
+    uint32 KFJHHKKCHDF = 1;
+    uint32 MPLJBMEAIBB = 6;
 }
+

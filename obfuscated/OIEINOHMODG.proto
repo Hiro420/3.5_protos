@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OKIMCDFNBMP.proto";
 
+// Name: OIEINOHMODG
 message OIEINOHMODG {
-	uint32 MNPBMFLDGFK = 10;
-	repeated OKIMCDFNBMP FIJFNNFDJAJ = 14;
-	uint32 MHBBOHGLIEC = 3;
+    uint32 OFGCHEAEEAG = 10;
+    repeated OKIMCDFNBMP CPFDDABOCAO = 14;
+    uint32 OCLAPMEFLPK = 3;
 }
+

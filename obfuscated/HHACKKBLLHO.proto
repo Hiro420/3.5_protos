@@ -2,36 +2,38 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+import "AHGODAFKPIM.proto";
 import "DPBAJDJIMAA.proto";
+import "EIDMNOJMFIF.proto";
 import "FMOEOCJBOPN.proto";
 import "GPCKNDGKBBD.proto";
-import "NIHOOOAICMD.proto";
-import "AHGODAFKPIM.proto";
-import "PDOEIHIJNGB.proto";
-import "MNNNHOOHGHF.proto";
-import "EIDMNOJMFIF.proto";
-import "INNMBACLEMO.proto";
 import "HHKFLCHIBJJ.proto";
+import "INNMBACLEMO.proto";
+import "MNNNHOOHGHF.proto";
+import "NIHOOOAICMD.proto";
+import "PDOEIHIJNGB.proto";
 
+// Name: HHACKKBLLHO
 message HHACKKBLLHO {
-	uint32 CEEEAPAKABF = 15;
-	repeated HHKFLCHIBJJ KJEPPKJMEOM = 8;
-	uint32 DBPFNJIMHGH = 6;
-	repeated INNMBACLEMO CCINCJFNKIG = 1778;
-	EIDMNOJMFIF KMNFFOMDAIL = 11;
-	repeated MNNNHOOHGHF EKLAFMIFAOB = 1;
-	repeated PDOEIHIJNGB OLJOCLFDAIJ = 301;
-	repeated AHGODAFKPIM HADEOBCEINJ = 9;
-	uint32 LECJKFOICMH = 4;
-	repeated NIHOOOAICMD DFHFBOFIGCK = 924;
-	repeated PDOEIHIJNGB DAGINEBHJBN = 2;
-	repeated uint32 KIOODOPEPAK = 5;
-	repeated GPCKNDGKBBD EAMLOHAPKDO = 345;
-	FMOEOCJBOPN IHDFFJMPCHJ = 14;
-	uint32 LPEIFIJANMA = 13;
-	DPBAJDJIMAA GOJCFKJDNKC = 7;
-	repeated uint32 GFKMCMGBENO = 217;
-	uint32 IAIEOLAOPAB = 10;
-	uint32 OPLEJJBAPMI = 12;
-	uint32 EDLAJOOJJPB = 3;
+    uint32 HCKIILHKKBE = 15;
+    repeated HHKFLCHIBJJ FLECBBNJDOB = 8;
+    uint32 DELFEGPPGMK = 6;
+    repeated INNMBACLEMO MBCDFDKJFIG = 1778;
+    EIDMNOJMFIF JFFMMIKBICI = 11;
+    repeated MNNNHOOHGHF CBNFENJBKKE = 1;
+    repeated PDOEIHIJNGB AAOFBGCFKGN = 301;
+    repeated AHGODAFKPIM CALNDHLNLLD = 9;
+    uint32 OAEDGPFFFIB = 4;
+    repeated NIHOOOAICMD KBPJNIFEAHN = 924;
+    repeated PDOEIHIJNGB LGEAAOBNMGG = 2;
+    repeated uint32 ECNNODOGJIA = 5;
+    repeated GPCKNDGKBBD FJFPKAGBFPE = 345;
+    FMOEOCJBOPN AECBJKLBGFK = 14;
+    uint32 LGCAPIJMFHK = 13;
+    DPBAJDJIMAA GEBLNGPMHFN = 7;
+    repeated uint32 HLJEJHHAICH = 217;
+    uint32 ODPJBCIMOMA = 10;
+    uint32 AGDIFNGNFOK = 12;
+    uint32 AMLPEHKILKH = 3;
 }
+

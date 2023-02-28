@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CDDKKKCFJAI.proto";
 
+// Name: BMCJDFCFMBO
+// CmdId: 2354
 message BMCJDFCFMBO {
-	repeated CDDKKKCFJAI LJGBHAHFKPE = 5;
-	uint32 KFEMBAPKMFH = 8;
-	repeated int32 KAJMIGJEADL = 2;
+    repeated CDDKKKCFJAI NHAFGIDNOBL = 5;
+    uint32 NDGLECFHBCJ = 8;
+    repeated int32 GDPFOOJALOC = 2;
 }
+

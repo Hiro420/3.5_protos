@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HDLOGEKNLLN.proto";
 
+// Name: NKNDOLGOENF
 message NKNDOLGOENF {
-	bool IIADLECJGMC = 9;
-	uint32 FDGLBFEDIIP = 4;
-	bool BFPIKLNBDMF = 15;
-	repeated HDLOGEKNLLN FGFJBLEAHEE = 10;
+    bool EBONPFLOCKN = 9;
+    uint32 LCOPGLBIBHA = 4;
+    bool FCJFEAAJDHC = 15;
+    repeated HDLOGEKNLLN GFAJACHKJAI = 10;
 }
+

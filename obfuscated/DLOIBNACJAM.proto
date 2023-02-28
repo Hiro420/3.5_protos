@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CKNMIHFPLAI.proto";
 
+// Name: DLOIBNACJAM
+// CmdId: 3156
 message DLOIBNACJAM {
-	repeated CKNMIHFPLAI GGOLMMCCPGD = 14;
+    repeated CKNMIHFPLAI JBIIMOMDFHH = 14;
 }
+

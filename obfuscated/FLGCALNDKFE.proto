@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HKALLDBLCCJ.proto";
 
+// Name: FLGCALNDKFE
+// CmdId: 116
 message FLGCALNDKFE {
-	HKALLDBLCCJ EELADJEJIKO = 4;
-	int32 IJIABMFLJGH = 1;
+    HKALLDBLCCJ HCFOOOKKFKJ = 4;
+    int32 KFCODGHIJEH = 1;
 }
+

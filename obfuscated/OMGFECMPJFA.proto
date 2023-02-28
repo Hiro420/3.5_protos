@@ -2,11 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OMGFECMPJFA
 message OMGFECMPJFA {
-	uint32 EGABCOAEGAN = 11;
-	repeated uint32 DDOOLFHFFOI = 3;
-	uint32 BKHAKAPFIBD = 2;
-	repeated uint32 PALEOCGFEDI = 9;
-	repeated uint32 PCJAJPHAIKJ = 7;
-	bool HCNFDKEILDD = 5;
+    uint32 MFIAJEFMBCI = 11;
+    repeated uint32 GHNFNOGNKJN = 3;
+    uint32 PMHMONJGIKH = 2;
+    repeated uint32 GEOOLNJEGKD = 9;
+    repeated uint32 NHFIIJNMKGB = 7;
+    bool JGBBIPCIMHN = 5;
 }
+

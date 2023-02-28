@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CGCOGKBDBKA.proto";
 
+// Name: NLKBKCONOPK
+// CmdId: 461
 message NLKBKCONOPK {
-	uint32 DPJOJFFAOIB = 10;
-	uint32 ADGLGMPEFLK = 11;
-	repeated CGCOGKBDBKA BCFPFIOLDJG = 7;
-	uint32 BOFBIJGMIGM = 1;
+    uint32 EGFOFPMNMJB = 10;
+    uint32 MNLJFDPCBOM = 11;
+    repeated CGCOGKBDBKA NMHMACFDBMA = 7;
+    uint32 CJMAPJPILIC = 1;
 }
+

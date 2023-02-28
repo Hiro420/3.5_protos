@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OPFCDCANIBF
+// CmdId: 144
 message OPFCDCANIBF {
-	uint32 GJDMBBAMIDJ = 14;
-	uint32 NMNFNBJMPBJ = 6;
+    uint32 IHLLNJNJBGO = 14;
+    uint32 PEGAHPGAMFL = 6;
 }
+

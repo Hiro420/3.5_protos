@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NGHMEIDKIMD
+// CmdId: 4614
 message NGHMEIDKIMD {
-	uint32 HHEPIOBIFPG = 3;
-	uint32 HLHGOGKGBDF = 10;
+    uint32 ADEFNBHFFOK = 3;
+    uint32 BFDAKOBOBDN = 10;
 }
+

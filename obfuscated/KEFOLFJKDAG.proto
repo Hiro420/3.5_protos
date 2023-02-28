@@ -5,7 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "DIIKFAIPKGG.proto";
 import "FHKCBLNAOEA.proto";
 
+// Name: KEFOLFJKDAG
+// CmdId: 4694
 message KEFOLFJKDAG {
-	FHKCBLNAOEA KEAAKGHEDGJ = 5;
-	DIIKFAIPKGG PKNGPHJNNJH = 11;
+    FHKCBLNAOEA FPANFOCOPLC = 5;
+    DIIKFAIPKGG LFKMDOMNNIO = 11;
 }
+

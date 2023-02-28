@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PDHKNEPDCNE
+// CmdId: 8850
 message PDHKNEPDCNE {
-	int32 IJIABMFLJGH = 1;
-	uint32 DPJOJFFAOIB = 9;
+    int32 KFCODGHIJEH = 1;
+    uint32 EGFOFPMNMJB = 9;
 }
+

@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LBNJNEAOGAO
+// CmdId: 2021
 message LBNJNEAOGAO {
-	uint32 LAMKPGOOMKN = 3;
-	repeated uint32 BIGKKHKAGNF = 11;
-	int32 IJIABMFLJGH = 5;
-	uint32 HBMBODJGAPM = 13;
-	uint32 AHEFDMPHAAK = 4;
+    uint32 OBPDPLFCLGI = 3;
+    repeated uint32 KELHCDAGMEP = 11;
+    int32 KFCODGHIJEH = 5;
+    uint32 HNIOMMFIPJP = 13;
+    uint32 NOGMACBJJCL = 4;
 }
+

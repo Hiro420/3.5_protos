@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IPILOPKOFDJ.proto";
+import "OMOBLJGICAI.proto";
+import "PLHEFJJMNBM.proto";
+
+// Name: HDOLPADGHOC
+message HDOLPADGHOC {
+    uint32 NJIHDDKBBLA = 7;
+    oneof OMDCAKPEKJL {
+        OMOBLJGICAI AKOMOFJKHAJ = 6;
+        PLHEFJJMNBM AEGOCHMPMJC = 3;
+        IPILOPKOFDJ FLGJGPGCPJK = 4;
+    }
+}
+

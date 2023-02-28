@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PGINCJNIBPI
+// CmdId: 8059
 message PGINCJNIBPI {
-	uint32 KCFIOJGPHLN = 9;
+    uint32 HMHAENNPFAB = 9;
 }
+

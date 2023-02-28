@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CMILIIPNCIE.proto";
 
+// Name: HALOLKMILLH
 message HALOLKMILLH {
-	repeated CMILIIPNCIE KLBEBAGGOJG = 5;
-	uint32 MPGJJEALABF = 14;
-	repeated uint32 KKHKNEKNICG = 2;
-	uint32 BLONBMELGFJ = 8;
-	bool DJKOKFDGKIG = 10;
+    repeated CMILIIPNCIE HKPHDELIAPJ = 5;
+    uint32 GPKPCCJAFAH = 14;
+    repeated uint32 IOFGICMPJAA = 2;
+    uint32 ELDCIJBLBEA = 8;
+    bool HKDOCGOMBKP = 10;
 }
+

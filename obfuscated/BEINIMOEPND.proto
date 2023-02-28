@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "PAIAJAJDMPF.proto";
 import "DALMLFNANKL.proto";
+import "PAIAJAJDMPF.proto";
 
+// Name: BEINIMOEPND
 message BEINIMOEPND {
-	repeated DALMLFNANKL DMNMINNEBHB = 7;
-	repeated PAIAJAJDMPF ICAMDNJEECG = 15;
+    repeated DALMLFNANKL NMOMPJJBDNO = 7;
+    repeated PAIAJAJDMPF EMGNMAFIBPO = 15;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BAJOKHOELIA
+// CmdId: 1817
 message BAJOKHOELIA {
-	bool DGCKNCPKJKA = 14;
-	uint32 LGLGGMGCBHM = 15;
+    bool CKLFKGGFLON = 14;
+    uint32 HOIPIEEKMPN = 15;
 }
+

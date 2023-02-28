@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: GNKPDDCJANA
+// CmdId: 698
 message GNKPDDCJANA {
-	uint64 CINOIJEALEF = 10;
-	repeated ENOCIMKMJJG IBEJBBLKPGB = 11;
-	int32 IJIABMFLJGH = 14;
+    uint64 CPPBHGBJFEH = 10;
+    repeated ENOCIMKMJJG OKJIFAICMAO = 11;
+    int32 KFCODGHIJEH = 14;
 }
+

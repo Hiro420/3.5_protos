@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FAIADEDABKC
+// CmdId: 4582
 message FAIADEDABKC {
-	uint32 OAMFFDFOLFH = 11;
-	int32 IJIABMFLJGH = 15;
-	uint32 NGFGJDLPGAN = 12;
-	uint32 JBCNFLIPANC = 8;
+    uint32 NPKBHINLBCB = 11;
+    int32 KFCODGHIJEH = 15;
+    uint32 MOLJKENNPCP = 12;
+    uint32 HFHHPNMIHPA = 8;
 }
+

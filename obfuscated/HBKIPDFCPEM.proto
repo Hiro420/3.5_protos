@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CCNCLHGNBFP.proto";
 
+// Name: HBKIPDFCPEM
+// CmdId: 4036
 message HBKIPDFCPEM {
-	repeated CCNCLHGNBFP KMPHOILDIIK = 12;
+    repeated CCNCLHGNBFP PACBPMFGEKL = 12;
 }
+

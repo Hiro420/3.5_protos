@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FGMDHBOGAHG.proto";
+import "HFHCNBEGKGP.proto";
+import "KFPODEKAIIB.proto";
+import "NCCFFEPPCHN.proto";
+import "PNOJAMMOOGN.proto";
+import "POCBKNHAFON.proto";
+
+// Name: CHPLAGEPIEC
+// CmdId: 956
+message CHPLAGEPIEC {
+    uint32 GIDCANHMHNG = 1;
+    uint32 GLOLPGMFPBB = 11;
+    NCCFFEPPCHN EJPDFKKGEMK = 10;
+    uint32 LLGLNCOOMPM = 15;
+    bool KANHMLPBBHL = 4;
+    map<uint32, FGMDHBOGAHG> JLEHDFLIKGD = 6;
+    uint32 LLPJGIPPIDD = 3;
+    bool AAMENNENDKM = 2;
+    oneof NGKAEIMKBBL {
+        PNOJAMMOOGN IOMDEBAEJAP = 160;
+        HFHCNBEGKGP CPGNPOCAFEK = 278;
+        POCBKNHAFON AEKCJBGCIJF = 1681;
+        KFPODEKAIIB DAKMKINBEJD = 212;
+    }
+}
+

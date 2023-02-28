@@ -2,25 +2,27 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "GHMIOBEFBDI.proto";
 import "AAMJIFFJBPA.proto";
+import "GHMIOBEFBDI.proto";
 import "OKLJEIJNFBC.proto";
 
+// Name: GNMIBJGAHKL
 message GNMIBJGAHKL {
-	uint32 GKHJKEGICOO = 1;
-	uint32 HHEPIOBIFPG = 2;
-	bool DFIDCNLEBKF = 3;
-	OKLJEIJNFBC AKANNIGGDKH = 4;
-	OKLJEIJNFBC KGNHFDKKILF = 5;
-	int32 NOCCECFFIFI = 6;
-	uint32 JFGJGEMACNB = 7;
-	uint32 JKDNHDLNHMJ = 8;
-	uint32 FJGLNNHJKIB = 9;
-	uint32 HPLKENJDMLB = 10;
-	repeated AAMJIFFJBPA KFMOGPFCJAL = 11;
-	int32 AOCEEMJMJAJ = 12;
-	repeated GHMIOBEFBDI HNAKLOOFNEO = 13;
-	uint32 GDCBIGCJCPM = 14;
-	uint32 LHLOCJNNDIM = 15;
-	int32 BBCPENFCHEF = 16;
+    uint32 FBJHOFHKIIG = 1;
+    uint32 ADEFNBHFFOK = 2;
+    bool MAMDLBAAHMI = 3;
+    OKLJEIJNFBC GHGPLCNLCDF = 4;
+    OKLJEIJNFBC CEAEHPBLGCO = 5;
+    int32 BBEBFCMEOPN = 6;
+    uint32 DBGINFIENLF = 7;
+    uint32 LHFGALANHMN = 8;
+    uint32 GNNMLIMOPNJ = 9;
+    uint32 MDOOEEHBMOH = 10;
+    repeated AAMJIFFJBPA JFOPFEDJDDG = 11;
+    int32 AHNDEPJMMNP = 12;
+    repeated GHMIOBEFBDI BCEFPODENMM = 13;
+    uint32 NOBNLPKMBAL = 14;
+    uint32 LDLOPJIJIGP = 15;
+    int32 CLCDBEAJHLO = 16;
 }
+

@@ -2,17 +2,20 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "GNNLENFEFKP.proto";
-import "FMOEOCJBOPN.proto";
 import "ENOCIMKMJJG.proto";
+import "FMOEOCJBOPN.proto";
+import "GNNLENFEFKP.proto";
 
+// Name: JNPBOGLAGMK
+// CmdId: 7370
 message JNPBOGLAGMK {
-	uint32 DBPFNJIMHGH = 2;
-	repeated uint32 AAANFMDKBDB = 11;
-	uint32 LKDEOHLNFGP = 10;
-	repeated uint32 GFKMCMGBENO = 8;
-	bool ILOILKOCMBN = 12;
-	repeated ENOCIMKMJJG DNMBLBBPNIO = 4;
-	FMOEOCJBOPN IHDFFJMPCHJ = 15;
-	GNNLENFEFKP GNLDDLIKJDN = 7;
+    uint32 DELFEGPPGMK = 2;
+    repeated uint32 EJMHNAHNPOB = 11;
+    uint32 BMKMBNKHAHP = 10;
+    repeated uint32 HLJEJHHAICH = 8;
+    bool LALFLFJKMOE = 12;
+    repeated ENOCIMKMJJG OAKEGMOIDOG = 4;
+    FMOEOCJBOPN AECBJKLBGFK = 15;
+    GNNLENFEFKP BHDBMLOIDGK = 7;
 }
+

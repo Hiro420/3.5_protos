@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BBILHMJOINA
+// CmdId: 24743
 message BBILHMJOINA {
-	uint32 DOGKMJOKNJA = 7;
-	bool DBIKCJCJHFI = 4;
-	bool MGBJPMJONBP = 9;
+    uint32 GECOOGMJNAO = 7;
+    bool AAMENNENDKM = 4;
+    bool LPIJDHBEDND = 9;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OGHOAICJCAC
+// CmdId: 2274
 message OGHOAICJCAC {
-	uint32 OGODKAKGFIH = 5;
-	int32 IJIABMFLJGH = 1;
+    uint32 HEAHKHNAHBL = 5;
+    int32 KFCODGHIJEH = 1;
 }
+

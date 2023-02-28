@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GIIEHGKMAEO
+// CmdId: 8526
 message GIIEHGKMAEO {
-	repeated uint32 JLMEOBPICGI = 14;
+    repeated uint32 OPJHBPJBNGH = 14;
 }
+

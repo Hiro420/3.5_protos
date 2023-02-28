@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DPMDACEDALK
 message DPMDACEDALK {
-	bool IKHKHKOBMDL = 3;
-	bool FILPAFEBHID = 15;
-	uint32 LEGJMJJFHGJ = 8;
-	uint32 POFCIAMEKHD = 10;
-	bool IPAFJEPNNEP = 9;
+    bool DFAGDIBEHOG = 3;
+    bool FNDNLMLPFAJ = 15;
+    uint32 AAEPCOOPIED = 8;
+    uint32 NBNOOLDLBFH = 10;
+    bool GEHOIBMCJED = 9;
 }
+

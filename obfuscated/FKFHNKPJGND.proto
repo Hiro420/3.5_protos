@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ILGNCKHBGFO.proto";
 
+// Name: FKFHNKPJGND
+// CmdId: 4061
 message FKFHNKPJGND {
-	ILGNCKHBGFO GBGBILFNEFB = 10;
-	int32 IJIABMFLJGH = 15;
-	uint32 JAOBPKMBOKD = 2;
+    ILGNCKHBGFO MOIFBEBLNIF = 10;
+    int32 KFCODGHIJEH = 15;
+    uint32 AHMMKMKHHFP = 2;
 }
+

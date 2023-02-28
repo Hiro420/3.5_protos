@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JKFFBLOKFIC
+// CmdId: 6207
 message JKFFBLOKFIC {
-	string LFAFBBEPKII = 13;
+    string IMFFPEBNNHO = 13;
 }
+

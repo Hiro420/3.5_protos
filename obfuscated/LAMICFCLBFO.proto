@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LAMICFCLBFO
+// CmdId: 5848
 message LAMICFCLBFO {
-	uint32 LJBHDAGFLJN = 1;
+    uint32 AGEPOKMCJOJ = 1;
 }
+

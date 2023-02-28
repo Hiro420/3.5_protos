@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: COFIOGPCLNN
 message COFIOGPCLNN {
-	uint32 JDJBNILOBKA = 10;
-	repeated uint64 CLJCCHPHHLO = 14;
+    uint32 APALAJACEKP = 10;
+    repeated uint64 ICDJJLDJFGN = 14;
 }
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: MIJHDKPDCPP
+enum MIJHDKPDCPP {
+    MIJHDKPDCPP_IABCNHJJOFE = 0;
+    MIJHDKPDCPP_PNJLAMBADBA = 1;
+    MIJHDKPDCPP_DOIAKADCDKA = 2;
+}
+

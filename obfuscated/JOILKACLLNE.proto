@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JOILKACLLNE
+// CmdId: 904
 message JOILKACLLNE {
-	uint32 HBMBODJGAPM = 6;
-	uint32 EGABCOAEGAN = 13;
-	uint32 PCNJPJFLFHC = 15;
-	uint32 OEGEDJPNJAD = 8;
+    uint32 HNIOMMFIPJP = 6;
+    uint32 MFIAJEFMBCI = 13;
+    uint32 DJNCIDFAPML = 15;
+    uint32 CEHNBFEIODF = 8;
 }
+

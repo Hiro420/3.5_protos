@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BOAMAOEMPEN
+// CmdId: 1065
 message BOAMAOEMPEN {
-	uint64 POGHDEAENAD = 11;
-	uint32 GDHOJLEMNDP = 1;
-	uint32 DJGFPDOGEBI = 9;
+    uint64 PKJEEFBMBNM = 11;
+    uint32 PAEABCFPPBN = 1;
+    uint32 PKLELKAJBEN = 9;
 }
+

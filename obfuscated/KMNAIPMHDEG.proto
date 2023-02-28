@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EMOKHPEDGKH.proto";
 
+// Name: KMNAIPMHDEG
 message KMNAIPMHDEG {
-	repeated EMOKHPEDGKH POBMCJKHBDD = 3;
-	uint32 PEPLGLLHHMI = 2;
-	uint32 BBANLEGJMPB = 1;
+    repeated EMOKHPEDGKH CEHHEGONCAJ = 3;
+    uint32 IBHCLHKHGMG = 2;
+    uint32 EGJKAHIILPA = 1;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "INDNLCFGCHO.proto";
 
+// Name: ILBPCLIIJOB
+// CmdId: 311
 message ILBPCLIIJOB {
-	repeated INDNLCFGCHO DGKKKAPNEJB = 13;
+    repeated INDNLCFGCHO KNLIOGKJDDB = 13;
 }
+

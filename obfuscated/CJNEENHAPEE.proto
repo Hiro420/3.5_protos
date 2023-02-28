@@ -5,8 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "MPJJDJEINNM.proto";
 import "NFCMDLFAPCF.proto";
 
+// Name: CJNEENHAPEE
 message CJNEENHAPEE {
-	repeated NFCMDLFAPCF FHDMGOBEOFE = 9;
-	repeated NFCMDLFAPCF GCHDEHIOICK = 1;
-	map<uint32, MPJJDJEINNM> CKAGIIBGCAG = 13;
+    repeated NFCMDLFAPCF OMGGIPLOILH = 9;
+    repeated NFCMDLFAPCF JJMBELIDNLN = 1;
+    map<uint32, MPJJDJEINNM> LEJEMMNHKNO = 13;
 }
+

@@ -2,27 +2,30 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "IHFHAKKFMHG.proto";
 import "DALMLFNANKL.proto";
+import "IHFHAKKFMHG.proto";
 
+// Name: FEDLMKKOMIL
+// CmdId: 314
 message FEDLMKKOMIL {
-	bool EJBDLKBEACA = 7;
-	bool EEGEDKIJKPD = 14;
-	uint64 JDDEJFKJHJN = 15;
-	DALMLFNANKL CDGNEDBBEKF = 5;
-	IHFHAKKFMHG CBOLHDNGDGC = 3;
-	uint32 MCPMDEAPNAD = 1;
-	uint32 PDFLEGGDOCP = 6;
-	uint32 MGEHOFAPCDA = 9;
-	uint32 OJGJNNDIDGJ = 10;
-	bool HJLMMJNGKME = 1128;
-	uint32 NFOKBMLBAIA = 11;
-	uint32 CELMHNAODJL = 8;
-	uint32 AMJLLOEKGMD = 2;
-	uint32 MAMIDLFCJJB = 4;
-	repeated uint32 NGKHFFOACGJ = 582;
-	repeated uint32 EGFGKHNBCAB = 1945;
-	uint32 KKPDIBFCOCK = 12;
-	bool CNMOMLHFJCI = 1628;
-	DALMLFNANKL FGAHODBAFIM = 13;
+    bool FGMFGIKBNPJ = 7;
+    bool ILAPAEOJDPE = 14;
+    uint64 LECPGEIPAFI = 15;
+    DALMLFNANKL FFLCDJCOGIM = 5;
+    IHFHAKKFMHG KDJAKKPIMGJ = 3;
+    uint32 DDGOMGMCACF = 1;
+    uint32 GPBLLPDCIFK = 6;
+    uint32 JKHNMNELMJL = 9;
+    uint32 BAEJFEDNCCG = 10;
+    bool KEDBNJGFGOI = 1128;
+    uint32 ECBHFJPGFNI = 11;
+    uint32 PPEPDDPKKMF = 8;
+    uint32 CEGEDDOGGAD = 2;
+    uint32 LMDHNJFCOOI = 4;
+    repeated uint32 FPINEKOINKE = 582;
+    repeated uint32 HONIJGMKIKC = 1945;
+    uint32 IAEHHDCFDEE = 12;
+    bool KEJKHMDLKLO = 1628;
+    DALMLFNANKL GPKIAACNNCF = 13;
 }
+

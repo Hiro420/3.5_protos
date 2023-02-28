@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EBMAAACFMMF
+// CmdId: 8140
 message EBMAAACFMMF {
-	uint32 PDFLEGGDOCP = 9;
+    uint32 GPBLLPDCIFK = 9;
 }
+

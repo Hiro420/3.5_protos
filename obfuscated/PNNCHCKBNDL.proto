@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KELICPOLEGO.proto";
 
+// Name: PNNCHCKBNDL
 message PNNCHCKBNDL {
-	repeated KELICPOLEGO CCLPFENFAEK = 2;
+    repeated KELICPOLEGO BJNICICLDAG = 2;
 }
+

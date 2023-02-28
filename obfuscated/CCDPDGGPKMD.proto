@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CCDPDGGPKMD
+// CmdId: 4090
 message CCDPDGGPKMD {
-	repeated string FFMJEFNBECD = 10;
-	int32 IJIABMFLJGH = 13;
+    repeated string MEOOMDJIPLJ = 10;
+    int32 KFCODGHIJEH = 13;
 }
+

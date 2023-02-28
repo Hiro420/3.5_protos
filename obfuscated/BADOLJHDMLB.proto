@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DLIGBJOALKN.proto";
 
+// Name: BADOLJHDMLB
+// CmdId: 4682
 message BADOLJHDMLB {
-	DLIGBJOALKN PDFBBFBADJN = 5;
-	repeated DLIGBJOALKN JDEIPMBIPNI = 11;
-	bool PKKAGBDIOOP = 10;
+    DLIGBJOALKN BJNGIKEIDDH = 5;
+    repeated DLIGBJOALKN GLKMELEOCHP = 11;
+    bool FJGIPCGHGDH = 10;
 }
+

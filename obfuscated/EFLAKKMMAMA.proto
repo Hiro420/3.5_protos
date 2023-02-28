@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "ENOCIMKMJJG.proto";
 import "DPLMHBBLJDM.proto";
+import "ENOCIMKMJJG.proto";
 
+// Name: EFLAKKMMAMA
+// CmdId: 2924
 message EFLAKKMMAMA {
-	DPLMHBBLJDM NJGCGJODACF = 1;
-	int32 IJIABMFLJGH = 5;
-	repeated ENOCIMKMJJG CANCLEDDKEP = 14;
+    DPLMHBBLJDM KDNECONHLLL = 1;
+    int32 KFCODGHIJEH = 5;
+    repeated ENOCIMKMJJG DIGBDDBNBHP = 14;
 }
+

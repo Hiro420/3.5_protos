@@ -4,15 +4,17 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GKPJIIJPOFC.proto";
 
+// Name: BOLIIDNPFLP
 message BOLIIDNPFLP {
-	uint32 IOCIIPHINBI = 10;
-	uint32 LAMKPGOOMKN = 1;
-	uint32 JDGJLMADJJF = 15;
-	GKPJIIJPOFC JKDNHDLNHMJ = 3;
-	uint32 BBHDKACFHCM = 14;
-	uint32 NFOPOKGDODK = 2;
-	uint32 MODHMMINNOH = 13;
-	uint32 GMBDFABAHII = 4;
-	float HFCJJELMLAG = 7;
-	repeated uint32 PALEOCGFEDI = 11;
+    uint32 LOHMHPCOLBG = 10;
+    uint32 OBPDPLFCLGI = 1;
+    uint32 LDEBEBPADLF = 15;
+    GKPJIIJPOFC LHFGALANHMN = 3;
+    uint32 OOKCMLMGMJB = 14;
+    uint32 PFLGEMLFBLL = 2;
+    uint32 GKCCDHDBKAG = 13;
+    uint32 CBDEDACLCPN = 4;
+    float PKMFCLMMKNN = 7;
+    repeated uint32 GEOOLNJEGKD = 11;
 }
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: EPMAOCDCBAG
+enum EPMAOCDCBAG {
+    EPMAOCDCBAG_EIJMOKMOFNK = 0;
+    EPMAOCDCBAG_CHHHNDDBENE = 1;
+    EPMAOCDCBAG_CFCDIFJJOAM = 2;
+    EPMAOCDCBAG_AIIOPOEEFPL = 3;
+}
+

@@ -5,18 +5,20 @@ option java_package = "emu.grasscutter.net.proto";
 import "EILHMHEJAPN.proto";
 import "PLMIFPHMBFM.proto";
 
+// Name: BPIKBPEDAPF
 message BPIKBPEDAPF {
-	repeated uint32 KIOODOPEPAK = 1;
-	uint32 PJCEOGOEJBK = 2;
-	uint32 DACFFPBEPMH = 3;
-	map<uint32, uint32> JDEEEKDGPHK = 4;
-	repeated PLMIFPHMBFM CCINCJFNKIG = 5;
-	uint32 DBCEEODIKCO = 6;
-	bool PHNHMBCMFMB = 7;
-	uint32 DAEOCPAGEBO = 8;
-	bool IBAOKBIMCJE = 9;
-	repeated uint32 GFKMCMGBENO = 10;
-	uint32 JLMLALKOMFN = 11;
-	uint32 PFENIDHAKLG = 12;
-	EILHMHEJAPN IIBLLJGKGJI = 13;
+    repeated uint32 ECNNODOGJIA = 1;
+    uint32 LKFDEJMGHMP = 2;
+    uint32 MBNLNOFPLLA = 3;
+    map<uint32, uint32> DKJCBIKONDH = 4;
+    repeated PLMIFPHMBFM MBCDFDKJFIG = 5;
+    uint32 IBHFHNMMJKH = 6;
+    bool PPNPGNMNHNM = 7;
+    uint32 AAFJDAEBLFP = 8;
+    bool ECEAPIAFLLC = 9;
+    repeated uint32 HLJEJHHAICH = 10;
+    uint32 OCFEJAGKHBJ = 11;
+    uint32 KNJBMGLHOOM = 12;
+    EILHMHEJAPN FDHDJHJOIIG = 13;
 }
+

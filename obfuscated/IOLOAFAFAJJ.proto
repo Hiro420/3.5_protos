@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IOLOAFAFAJJ
+// CmdId: 3079
 message IOLOAFAFAJJ {
-	uint32 PNMJLILOBIL = 15;
-	repeated uint32 BPLLBOMKPHN = 9;
+    uint32 BLAKMJNEEJD = 15;
+    repeated uint32 JBAFDILOKFL = 9;
 }
+

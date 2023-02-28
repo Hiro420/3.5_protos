@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GHBBGOLDLCL.proto";
 
+// Name: LKFJGOICFNO
+// CmdId: 782
 message LKFJGOICFNO {
-	repeated GHBBGOLDLCL HCPOCOAPGBE = 13;
-	uint32 ODJPCGIMADI = 8;
-	int32 IJIABMFLJGH = 10;
+    repeated GHBBGOLDLCL MEFEBNLNICC = 13;
+    uint32 DCBMADGBDEL = 8;
+    int32 KFCODGHIJEH = 10;
 }
+

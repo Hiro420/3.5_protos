@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ALLMJNDEDOL.proto";
 
+// Name: GGDHLNEKIJB
 message GGDHLNEKIJB {
-	repeated ALLMJNDEDOL KLJPKMNOLLJ = 10;
+    repeated ALLMJNDEDOL MJMOMNIDILO = 10;
 }
+

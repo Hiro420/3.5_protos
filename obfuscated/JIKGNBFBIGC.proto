@@ -2,32 +2,34 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "NEFCHPHBGAP.proto";
 import "ENGCDOBPPFC.proto";
 import "IGFMCNMHFFH.proto";
 import "MAIEBCGCJMB.proto";
 import "NCCBAHIEMNM.proto";
+import "NEFCHPHBGAP.proto";
 
+// Name: JIKGNBFBIGC
 message JIKGNBFBIGC {
-	uint32 APPJCEKCOBP = 1;
-	uint32 JAOBPKMBOKD = 2;
-	uint64 JDDEJFKJHJN = 3;
-	uint32 IKNCEKPKPOL = 4;
-	repeated uint32 MPOJOBDHCBH = 5;
-	uint32 DOKELIFOJAB = 6;
-	repeated uint32 OEHOLAFEDBD = 7;
-	NCCBAHIEMNM JJOPANIGDFH = 8;
-	repeated MAIEBCGCJMB PMCLBKPMIPF = 9;
-	uint32 EHBNKGEJCDL = 11;
-	repeated uint32 CDOBNLGFLAA = 12;
-	map<uint32, uint32> MIHGMNKKEGM = 13;
-	map<uint32, uint32> KCPMHALGDKP = 14;
-	repeated IGFMCNMHFFH BIEBLKAHOOP = 15;
-	repeated uint32 MCLFOKCPPNK = 16;
-	uint32 ODLKLNEHBCE = 17;
-	uint32 BPLAPCEKDFD = 18;
-	uint32 LMFGKMPGIPD = 19;
-	ENGCDOBPPFC CGGGPMJAHBJ = 20;
-	NEFCHPHBGAP DHPGKDIGGOL = 21;
-	uint32 KFMCIFELJEF = 22;
+    uint32 IPLGACBJJGH = 1;
+    uint32 AHMMKMKHHFP = 2;
+    uint64 LECPGEIPAFI = 3;
+    uint32 DJHBGNNLBLA = 4;
+    repeated uint32 GKIMHJBGGLA = 5;
+    uint32 GOEBNBGAKLB = 6;
+    repeated uint32 EPDBEJEFCGO = 7;
+    NCCBAHIEMNM OOOOCOPKFNC = 8;
+    repeated MAIEBCGCJMB HNELMODCNOA = 9;
+    uint32 GHNJABDOGOK = 11;
+    repeated uint32 MLJLLFNKIJP = 12;
+    map<uint32, uint32> IBBBBDFLEOD = 13;
+    map<uint32, uint32> AHLLFKMILOG = 14;
+    repeated IGFMCNMHFFH NHIJKOEOAFH = 15;
+    repeated uint32 LFLADDNCKNA = 16;
+    uint32 KAKLNBMFCPN = 17;
+    uint32 GPJJNFAJNHD = 18;
+    uint32 BFELILCAPAD = 19;
+    ENGCDOBPPFC DMHFLDLOIMA = 20;
+    NEFCHPHBGAP HPNADFKGEKC = 21;
+    uint32 MGGFLCGOMLL = 22;
 }
+

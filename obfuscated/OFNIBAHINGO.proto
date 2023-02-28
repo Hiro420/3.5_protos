@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OPEFMKHJAIN.proto";
 
+// Name: OFNIBAHINGO
+// CmdId: 4746
 message OFNIBAHINGO {
-	OPEFMKHJAIN KOKJBDAINMN = 1;
+    OPEFMKHJAIN KEFBJELGKCM = 1;
 }
+

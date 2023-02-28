@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NDDGEOMCBEE.proto";
 
+// Name: CPNKOEAMHKE
+// CmdId: 2073
 message CPNKOEAMHKE {
-	repeated NDDGEOMCBEE BNBOHHEJICK = 9;
+    repeated NDDGEOMCBEE MKCMHBDFAMN = 9;
 }
+

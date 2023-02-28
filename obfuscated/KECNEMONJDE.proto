@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KECNEMONJDE
 message KECNEMONJDE {
-	repeated uint32 CADKEFLFAJG = 1;
+    repeated uint32 BDNDNJBBFPN = 1;
 }
+

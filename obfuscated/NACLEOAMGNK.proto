@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NACLEOAMGNK
+// CmdId: 20213
 message NACLEOAMGNK {
-	int32 IJIABMFLJGH = 4;
+    int32 KFCODGHIJEH = 4;
 }
+

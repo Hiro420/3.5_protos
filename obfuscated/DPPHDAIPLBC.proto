@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DPPHDAIPLBC
+// CmdId: 127
 message DPPHDAIPLBC {
-	string BHKGFPONKMP = 1;
-	uint32 JAOBPKMBOKD = 8;
+    string ACNJPBEDKDP = 1;
+    uint32 AHMMKMKHHFP = 8;
 }
+

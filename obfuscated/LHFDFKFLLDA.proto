@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BFLAAJGIKBG.proto";
 
+// Name: LHFDFKFLLDA
 message LHFDFKFLLDA {
-	repeated BFLAAJGIKBG MAFOCPBCCHM = 1;
-	uint32 KABIJIEBDFM = 2;
-	uint32 NBJGFNOIDPB = 3;
-	float CBHMJNFGDLK = 4;
+    repeated BFLAAJGIKBG CHBDFDLIMOF = 1;
+    uint32 LGMEAJOIGKB = 2;
+    uint32 OLKBJPMCELG = 3;
+    float HINDCLHOENG = 4;
 }
+

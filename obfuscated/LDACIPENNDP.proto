@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LDACIPENNDP
+// CmdId: 5351
 message LDACIPENNDP {
-	bool KEMCGEKPJFE = 6;
+    bool IOOOPBMDPNK = 6;
 }
+

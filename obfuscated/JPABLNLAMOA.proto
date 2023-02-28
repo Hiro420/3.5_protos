@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EPHDHFNBIHF.proto";
 
+// Name: JPABLNLAMOA
+// CmdId: 2219
 message JPABLNLAMOA {
-	repeated EPHDHFNBIHF PBGLCPHAFPB = 4;
+    repeated EPHDHFNBIHF GEKHBIAILGL = 4;
 }
+

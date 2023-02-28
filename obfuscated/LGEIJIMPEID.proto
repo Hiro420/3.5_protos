@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LGEIJIMPEID
+// CmdId: 23331
 message LGEIJIMPEID {
-	uint32 HNEBIIBIMEF = 13;
-	uint32 OJFBJDNMMHD = 14;
-	int32 IJIABMFLJGH = 4;
-	uint32 ILDBMBAPJKN = 6;
+    uint32 EKMPDNHDLEG = 13;
+    uint32 NNMLBBIDIEN = 14;
+    int32 KFCODGHIJEH = 4;
+    uint32 AHPFPDKBBCA = 6;
 }
+

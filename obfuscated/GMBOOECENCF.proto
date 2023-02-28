@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OBGBKIOLBJH.proto";
 
+// Name: GMBOOECENCF
+// CmdId: 2475
 message GMBOOECENCF {
-	bool CEMONICLBEK = 7;
-	repeated OBGBKIOLBJH KHKFLJIIIJP = 6;
+    bool DFANHACNCPG = 7;
+    repeated OBGBKIOLBJH HANEOPBMPCO = 6;
 }
+

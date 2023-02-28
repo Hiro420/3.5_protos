@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BNOIABMAJCB.proto";
 
+// Name: LOFIPDAGNJA
+// CmdId: 4050
 message LOFIPDAGNJA {
-	BNOIABMAJCB IFBOLDLIDAO = 11;
-	int32 IJIABMFLJGH = 1;
+    BNOIABMAJCB FAGAPEDBNHP = 11;
+    int32 KFCODGHIJEH = 1;
 }
+

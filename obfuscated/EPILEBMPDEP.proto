@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EPILEBMPDEP
+// CmdId: 192
 message EPILEBMPDEP {
-	bytes DJHFJPJNBFL = 2;
-	uint32 GKHJKEGICOO = 5;
+    bytes OMHCOMIJKMM = 2;
+    uint32 FBJHOFHKIIG = 5;
 }
+

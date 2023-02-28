@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AAPBIOOIMNP.proto";
 
+// Name: CFBPIEFPBHE
+// CmdId: 6165
 message CFBPIEFPBHE {
-	AAPBIOOIMNP JFDDEKJKEML = 8;
-	int32 IJIABMFLJGH = 15;
-	int32 ABPJCCJHPJG = 10;
+    AAPBIOOIMNP JNNGPOHBKBC = 8;
+    int32 KFCODGHIJEH = 15;
+    int32 IGKHHPEADAN = 10;
 }
+

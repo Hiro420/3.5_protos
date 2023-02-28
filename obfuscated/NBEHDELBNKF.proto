@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NBEHDELBNKF
+// CmdId: 5527
 message NBEHDELBNKF {
-	bool AFKMECEPBGH = 15;
-	uint32 LEIJGCHBFIN = 13;
-	uint32 KKMLAEEAHJA = 5;
+    bool PCLIJHLLLEO = 15;
+    uint32 LJHLKMPCBGF = 13;
+    uint32 IIBPCMOEENO = 5;
 }
+

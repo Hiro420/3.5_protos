@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GBLLGEFNPCP.proto";
+import "JFMBHEPEIKA.proto";
+import "KMBIKGFKGNP.proto";
+
+// Name: NBBMMCLDPLL
+// CmdId: 4285
+message NBBMMCLDPLL {
+    int32 KFCODGHIJEH = 1;
+    uint32 NGOELONIDLG = 11;
+    oneof ICFIJIEKEEJ {
+        KMBIKGFKGNP NLIKGBGAFPG = 5;
+        GBLLGEFNPCP IPPCJGENLGG = 12;
+        JFMBHEPEIKA MDHBLLDFKHJ = 24453;
+    }
+}
+

@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "PEBGLHDFPHB.proto";
 import "DFNGPIGNBJJ.proto";
+import "PEBGLHDFPHB.proto";
 
+// Name: IIPBPCIBJNJ
+// CmdId: 3247
 message IIPBPCIBJNJ {
-	repeated DFNGPIGNBJJ GJLNDPMMIPG = 6;
-	repeated PEBGLHDFPHB BJHJBCAMFHJ = 15;
-	repeated uint32 FNNPDGINPGK = 3;
+    repeated DFNGPIGNBJJ MLKOODGPINM = 6;
+    repeated PEBGLHDFPHB JDFJNNGODOL = 15;
+    repeated uint32 JGNKLEHCMID = 3;
 }
+

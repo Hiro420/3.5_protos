@@ -5,9 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "OHCIIIAJMBL.proto";
 import "POEDHGCCCEC.proto";
 
+// Name: AIGHOMHDNIL
 message AIGHOMHDNIL {
-	repeated POEDHGCCCEC IFNOGNBCCNI = 13;
-	repeated uint32 EOMIMDEGFNA = 3;
-	OHCIIIAJMBL EIKJNLGPKOJ = 14;
-	OHCIIIAJMBL GLCMLOMAEKN = 2;
+    repeated POEDHGCCCEC CPFBELINKKA = 13;
+    repeated uint32 EIMOLIDCDGN = 3;
+    OHCIIIAJMBL BCKIOAIABPE = 14;
+    OHCIIIAJMBL MNGBLEJJNIB = 2;
 }
+

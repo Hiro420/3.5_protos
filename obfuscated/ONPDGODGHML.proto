@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ONPDGODGHML
+// CmdId: 7364
 message ONPDGODGHML {
-	uint32 CEEEAPAKABF = 7;
+    uint32 HCKIILHKKBE = 7;
 }
+

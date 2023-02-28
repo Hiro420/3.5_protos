@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MIGCAFCNLJD
 message MIGCAFCNLJD {
-	uint32 BEJDBNONODA = 1;
-	bool DJKOKFDGKIG = 6;
-	bool IAJEKOIOEAF = 4;
+    uint32 NJIHDDKBBLA = 1;
+    bool HKDOCGOMBKP = 6;
+    bool MDLKFBKMGEA = 4;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IGKGJNCLPBA.proto";
 
+// Name: NGONDNAKJGE
+// CmdId: 4848
 message NGONDNAKJGE {
-	repeated IGKGJNCLPBA HADEOBCEINJ = 11;
-	int32 IJIABMFLJGH = 5;
+    repeated IGKGJNCLPBA CALNDHLNLLD = 11;
+    int32 KFCODGHIJEH = 5;
 }
+

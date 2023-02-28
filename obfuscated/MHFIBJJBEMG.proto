@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MHFIBJJBEMG
+// CmdId: 204
 message MHFIBJJBEMG {
-	int32 HDMPNOKOFAD = 2;
-	string MEBCBCMFEPA = 4;
-	int32 KHIGOACLIOB = 9;
-	uint32 KKPDIBFCOCK = 7;
-	int32 BKDHBEFPKIC = 3;
-	uint32 GKPECAOMNJN = 14;
+    int32 CKHPLMAGECJ = 2;
+    string JKKFLFKCDCC = 4;
+    int32 CFJFAOMLMKF = 9;
+    uint32 IAEHHDCFDEE = 7;
+    int32 PFJOPBPLOHD = 3;
+    uint32 OICHLICGHOM = 14;
 }
+

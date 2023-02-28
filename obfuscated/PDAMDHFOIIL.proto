@@ -5,9 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 import "GGCMGFLFFPB.proto";
 
+// Name: PDAMDHFOIIL
+// CmdId: 650
 message PDAMDHFOIIL {
-	uint32 OFBMGFHIPAD = 5;
-	uint64 JDDEJFKJHJN = 1;
-	GGCMGFLFFPB OGLAJOOKPKD = 4;
-	DALMLFNANKL AKANNIGGDKH = 12;
+    uint32 FFDILGMGOJL = 5;
+    uint64 LECPGEIPAFI = 1;
+    GGCMGFLFFPB DHMHAEJALOG = 4;
+    DALMLFNANKL GHGPLCNLCDF = 12;
 }
+

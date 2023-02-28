@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IFJPGGKMMNA
 message IFJPGGKMMNA {
-	uint32 EDAHGJJHDNL = 3;
-	uint32 IBBGGDNDKOD = 6;
-	float ECDFPCBADHB = 8;
+    uint32 NHINGEDOELM = 3;
+    uint32 FPHBLPNDGEK = 6;
+    float FEHAJMPNDAB = 8;
 }
+

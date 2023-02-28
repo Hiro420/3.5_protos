@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: CPBMIAMDLPE
+enum CPBMIAMDLPE {
+    CPBMIAMDLPE_LFCBMJINCBF = 0;
+    CPBMIAMDLPE_GMAKOJPAOJC = 1;
+}
+

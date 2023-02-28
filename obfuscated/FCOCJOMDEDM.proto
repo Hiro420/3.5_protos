@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FCOCJOMDEDM
+// CmdId: 3070
 message FCOCJOMDEDM {
-	int32 IJIABMFLJGH = 1;
-	uint32 AJPLNHFMLEK = 10;
+    int32 KFCODGHIJEH = 1;
+    uint32 LFKOJFLMPFB = 10;
 }
+

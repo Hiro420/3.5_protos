@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KACCHOBDCLB.proto";
 
+// Name: KGAMPMDIHMH
+// CmdId: 4883
 message KGAMPMDIHMH {
-	repeated KACCHOBDCLB MKHDNPHAJDN = 3;
-	int32 IJIABMFLJGH = 5;
-	uint32 FLGDHAHGOGD = 13;
-	KACCHOBDCLB PLCGHLEONOA = 7;
+    repeated KACCHOBDCLB IBOINAIOJIM = 3;
+    int32 KFCODGHIJEH = 5;
+    uint32 FBCMJLAKGHF = 13;
+    KACCHOBDCLB JOCOFDOGDPG = 7;
 }
+

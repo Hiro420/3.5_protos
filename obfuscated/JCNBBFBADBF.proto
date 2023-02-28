@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JCNBBFBADBF
 message JCNBBFBADBF {
-	uint32 CNHCBFLHDDD = 12;
-	uint32 JNMAMPMCHMP = 14;
-	map<uint32, uint32> IIKAFFOOCIF = 8;
+    uint32 NJENGLLHPJD = 12;
+    uint32 AGHLEPMGGPH = 14;
+    map<uint32, uint32> AKBJKCADMLO = 8;
 }
+

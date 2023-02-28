@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HEJFJALGCON.proto";
 
+// Name: OCCPCJJPICK
 message OCCPCJJPICK {
-	HEJFJALGCON AFKLENIEKMJ = 14;
-	uint32 DBCEEODIKCO = 13;
+    HEJFJALGCON CCDLABDHHEH = 14;
+    uint32 IBHFHNMMJKH = 13;
 }
+

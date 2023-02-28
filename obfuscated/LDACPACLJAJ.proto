@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ODHFJKNEAJB.proto";
 
+// Name: LDACPACLJAJ
+// CmdId: 6371
 message LDACPACLJAJ {
-	repeated ODHFJKNEAJB OJBECGDMPMI = 2;
+    repeated ODHFJKNEAJB AGDHHFEOMML = 2;
 }
+

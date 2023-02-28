@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DGGGGCPKFNL
+// CmdId: 4665
 message DGGGGCPKFNL {
-	bool CCAJAMACPMB = 9;
+    bool IMLDOLJGBDK = 9;
 }
+

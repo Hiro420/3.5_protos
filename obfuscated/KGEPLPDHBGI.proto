@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PONFDKGBPMB.proto";
 
+// Name: KGEPLPDHBGI
+// CmdId: 1758
 message KGEPLPDHBGI {
-	repeated PONFDKGBPMB CNADFMPIGBI = 12;
+    repeated PONFDKGBPMB KMBOPEOKAPD = 12;
 }
+

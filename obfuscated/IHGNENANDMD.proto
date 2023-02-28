@@ -2,14 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "ILGNCKHBGFO.proto";
 import "ABMCDDFMBOC.proto";
+import "ILGNCKHBGFO.proto";
 
+// Name: IHGNENANDMD
 message IHGNENANDMD {
-	string MCBJBNBKLOC = 12;
-	repeated ABMCDDFMBOC DAGINEBHJBN = 11;
-	uint32 CBCHDEFKFIJ = 1;
-	ILGNCKHBGFO GBGBILFNEFB = 13;
-	string NGFEJANHDBM = 14;
-	uint32 APPJCEKCOBP = 4;
+    string CJCJMEFFNIG = 12;
+    repeated ABMCDDFMBOC LGEAAOBNMGG = 11;
+    uint32 MIBMAGFKCCI = 1;
+    ILGNCKHBGFO MOIFBEBLNIF = 13;
+    string HJKPKILCLFM = 14;
+    uint32 IPLGACBJJGH = 4;
 }
+

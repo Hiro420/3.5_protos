@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HHNOKNHCINE.proto";
 
+// Name: BOIBNONOGBF
 message BOIBNONOGBF {
-	repeated HHNOKNHCINE LALLGCCFAFE = 8;
+    repeated HHNOKNHCINE MDDKIHLKOOM = 8;
 }
+

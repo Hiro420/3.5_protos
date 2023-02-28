@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LKEBHBGDDFA.proto";
 
+// Name: DNHKDNNINEI
+// CmdId: 4697
 message DNHKDNNINEI {
-	repeated LKEBHBGDDFA ANDENCPPLOA = 6;
+    repeated LKEBHBGDDFA EPPBELHGMIJ = 6;
 }
+

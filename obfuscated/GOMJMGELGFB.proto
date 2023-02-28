@@ -2,10 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "GOMJMGELGFB.IGFLOFNLDPN.IKEEBKGJGJL.proto";
-
+// Name: GOMJMGELGFB
 message GOMJMGELGFB {
-	GOMJMGELGFB.IGFLOFNLDPN.IKEEBKGJGJL JKDNHDLNHMJ = 13;
-	uint32 GKHJKEGICOO = 12;
-	uint32 BCBLLBADMPK = 11;
+    // Name: IKEEBKGJGJL
+    enum IKEEBKGJGJL {
+        IKEEBKGJGJL_LHCKBCHENKE = 0;
+        IKEEBKGJGJL_PLLNLNMCMBO = 1;
+        IKEEBKGJGJL_KBDDBCLCIGF = 2;
+    }
+
+    IKEEBKGJGJL LHFGALANHMN = 13;
+    uint32 FBJHOFHKIIG = 12;
+    uint32 LBNMLEDFLGF = 11;
 }
+

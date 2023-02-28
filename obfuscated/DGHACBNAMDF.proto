@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DGHACBNAMDF
+// CmdId: 1986
 message DGHACBNAMDF {
-	uint32 GKHJKEGICOO = 2;
-	uint32 PALIPEOIHGP = 15;
+    uint32 FBJHOFHKIIG = 2;
+    uint32 DPKOEHBLCMO = 15;
 }
+

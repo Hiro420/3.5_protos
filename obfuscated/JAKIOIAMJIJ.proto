@@ -4,11 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LIBILADMDKG.proto";
 
+// Name: JAKIOIAMJIJ
+// CmdId: 1575
 message JAKIOIAMJIJ {
-	repeated LIBILADMDKG LCLMPAJFCJG = 6;
-	int32 IJIABMFLJGH = 13;
-	bool OCLOLLJBLFD = 11;
-	bool PEKANJKGOHK = 1;
-	uint32 EKAIAFPFJOB = 14;
-	uint32 KHGFNNEIHJH = 8;
+    repeated LIBILADMDKG KNPIGMKEJNF = 6;
+    int32 KFCODGHIJEH = 13;
+    bool HNAFDALMKFN = 11;
+    bool HCCENOGKOOG = 1;
+    uint32 PKCLGOCJPLN = 14;
+    uint32 OPHLINLNOEA = 8;
 }
+

@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LKLACPPMNLD.proto";
 
+// Name: JBAOPFJOFMB
 message JBAOPFJOFMB {
-	repeated LKLACPPMNLD HNAKLOOFNEO = 5;
+    repeated LKLACPPMNLD BCEFPODENMM = 5;
 }
+

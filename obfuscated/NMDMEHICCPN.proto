@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NBBNIDCNBNJ.proto";
 
+// Name: NMDMEHICCPN
+// CmdId: 23794
 message NMDMEHICCPN {
-	NBBNIDCNBNJ ENHMOINPNLE = 13;
+    NBBNIDCNBNJ IJJLKIPIBHF = 13;
 }
+

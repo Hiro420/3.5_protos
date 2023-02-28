@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HKNICPJLBBF.proto";
 
+// Name: MDFCDBBABMB
+// CmdId: 4072
 message MDFCDBBABMB {
-	uint32 AAEBBDIDMAO = 13;
-	HKNICPJLBBF FPKNBNEFGCL = 1;
+    uint32 AKDECIELPLN = 13;
+    HKNICPJLBBF CFFNKFKPBCI = 1;
 }
+

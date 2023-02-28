@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PFMMOOANGGM
+// CmdId: 1692
 message PFMMOOANGGM {
-	string DODELGJMENP = 1;
-	int32 JANHAFMHELC = 4;
+    string AIBFNPPGHPA = 1;
+    int32 BOCEFEMIGJK = 4;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IGLFMBGPMPN
+// CmdId: 5363
 message IGLFMBGPMPN {
-	bool KEMCGEKPJFE = 15;
-	uint32 APPJCEKCOBP = 14;
+    bool IOOOPBMDPNK = 15;
+    uint32 IPLGACBJJGH = 14;
 }
+

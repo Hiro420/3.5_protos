@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MAAKJIPELDB.proto";
 
+// Name: DIEHNGECGMB
+// CmdId: 2714
 message DIEHNGECGMB {
-	MAAKJIPELDB CPOONOJDMIJ = 1;
+    MAAKJIPELDB EABPHNDPGEM = 1;
 }
+

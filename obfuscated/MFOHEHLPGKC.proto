@@ -4,10 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GICCALFNADA.proto";
 
+// Name: MFOHEHLPGKC
+// CmdId: 6298
 message MFOHEHLPGKC {
-	bool DENPKFGDFDC = 3;
-	uint32 KCMEPPIKHLM = 6;
-	repeated GICCALFNADA OKPLMEMNJKB = 5;
-	string EMLKNGMCDAC = 4;
-	bool IDGGJPDFLIJ = 14;
+    bool FHMJMHKFMMB = 3;
+    uint32 ENHLDJCHHNF = 6;
+    repeated GICCALFNADA CJBNHFDPFGE = 5;
+    string KPNHMOEMMGL = 4;
+    bool BEGFKIHIKEI = 14;
 }
+

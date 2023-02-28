@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NMHFKMALINE
+// CmdId: 199
 message NMHFKMALINE {
-	uint32 ELNNIELNMBO = 7;
+    uint32 KFGGNNFODBD = 7;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KPGMHKGMOMP
+// CmdId: 6221
 message KPGMHKGMOMP {
-	uint32 NFOKBMLBAIA = 2;
+    uint32 ECBHFJPGFNI = 2;
 }
+

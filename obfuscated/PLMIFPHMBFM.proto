@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PLMIFPHMBFM
 message PLMIFPHMBFM {
-	uint32 LAMKPGOOMKN = 1;
-	uint32 FNAIOBDOOLI = 2;
-	repeated uint32 JMJFJOBDLNG = 3;
-	uint32 BNGHDMNKMNB = 4;
+    uint32 OBPDPLFCLGI = 1;
+    uint32 JMKBIFEONHD = 2;
+    repeated uint32 NLNPKIPAKNE = 3;
+    uint32 IFKHJLODEIF = 4;
 }
+

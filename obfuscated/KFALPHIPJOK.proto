@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KFALPHIPJOK
 message KFALPHIPJOK {
-	uint32 PICADOOPHPG = 14;
-	uint32 DIGHGFNNKGA = 7;
+    uint32 IJKMKIHABJN = 14;
+    uint32 DIBMGMPIPAH = 7;
 }
+

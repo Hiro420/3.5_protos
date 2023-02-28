@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PLDBEIPDMFA.proto";
 
+// Name: MLIOFGMAFPP
 message MLIOFGMAFPP {
-	repeated PLDBEIPDMFA IJMPFFALIPL = 5;
+    repeated PLDBEIPDMFA OMMAPCGMBNL = 5;
 }
+

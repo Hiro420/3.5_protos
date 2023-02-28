@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JBAOPFJOFMB.proto";
 
+// Name: PODDCPLMFHG
 message PODDCPLMFHG {
-	map<uint32, uint32> HKMBGBDMAED = 4;
-	map<uint32, JBAOPFJOFMB> KFNIGALKGFM = 7;
-	repeated uint32 DOFLHKBGEMN = 8;
+    map<uint32, uint32> EKBGGHEFPGA = 4;
+    map<uint32, JBAOPFJOFMB> FFGBHHPEGMF = 7;
+    repeated uint32 OCAGDBAPDIA = 8;
 }
+

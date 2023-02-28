@@ -2,8 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OCLFPKFMGBE
+// CmdId: 6182
 message OCLFPKFMGBE {
-	int32 ABPJCCJHPJG = 6;
-	int32 JFFLKIBBGEG = 1;
-	uint32 KFEMBAPKMFH = 3;
+    // Name: CFNHLMAPIOJ
+    enum CFNHLMAPIOJ {
+        CFNHLMAPIOJ_IIGFIDPJPDF = 0;
+        CFNHLMAPIOJ_HNBGNEFHJOA = 1;
+    }
+
+    int32 IGKHHPEADAN = 6;
+    int32 PLCHHPBNDIH = 1;
+    uint32 NDGLECFHBCJ = 3;
 }
+

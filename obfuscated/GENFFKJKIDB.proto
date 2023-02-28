@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GENFFKJKIDB
+// CmdId: 4014
 message GENFFKJKIDB {
-	uint32 AAEBBDIDMAO = 12;
+    uint32 AKDECIELPLN = 12;
 }
+

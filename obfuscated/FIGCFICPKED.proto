@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PMKCNFHPECF.proto";
 
+// Name: FIGCFICPKED
+// CmdId: 913
 message FIGCFICPKED {
-	uint32 EGABCOAEGAN = 15;
-	PMKCNFHPECF GNLDDLIKJDN = 3;
+    uint32 MFIAJEFMBCI = 15;
+    PMKCNFHPECF BHDBMLOIDGK = 3;
 }
+

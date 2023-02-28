@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BIMILKAGLEC.proto";
 
+// Name: IDGEJMMEOEO
+// CmdId: 1920
 message IDGEJMMEOEO {
-	BIMILKAGLEC JOKIEHDIDGG = 13;
+    BIMILKAGLEC GKMHCEMONHB = 13;
 }
+

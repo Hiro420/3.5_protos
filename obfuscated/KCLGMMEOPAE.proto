@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KCLGMMEOPAE
 message KCLGMMEOPAE {
-	uint64 PKGHEPCGEOP = 8;
-	uint64 NIFKCHOBLAJ = 9;
+    uint64 AADJPJAEKKD = 8;
+    uint64 BNEFCDJGIBE = 9;
 }
+

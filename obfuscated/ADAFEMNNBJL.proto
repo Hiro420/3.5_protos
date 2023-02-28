@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ADAFEMNNBJL
+// CmdId: 1608
 message ADAFEMNNBJL {
-	uint32 ABLIEGNIAGL = 9;
+    uint32 HCIBKNOMGEG = 9;
 }
+

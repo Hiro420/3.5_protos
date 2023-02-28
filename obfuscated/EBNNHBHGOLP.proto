@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EBNNHBHGOLP
+// CmdId: 1988
 message EBNNHBHGOLP {
-	int32 IJIABMFLJGH = 10;
-	uint32 EDDAOBIMJJB = 2;
+    int32 KFCODGHIJEH = 10;
+    uint32 MMCKIDOJIFE = 2;
 }
+

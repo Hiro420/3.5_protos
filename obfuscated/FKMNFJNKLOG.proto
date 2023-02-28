@@ -2,12 +2,21 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "FKMNFJNKLOG.HFALHFOMALN.OJMJFOELEOF.proto";
 import "DALMLFNANKL.proto";
 
+// Name: FKMNFJNKLOG
+// CmdId: 2375
 message FKMNFJNKLOG {
-	repeated DALMLFNANKL NDHHLICDKKI = 2;
-	FKMNFJNKLOG.HFALHFOMALN.OJMJFOELEOF IBEOKOHGCOE = 12;
-	int32 ABPJCCJHPJG = 7;
-	int32 IJIABMFLJGH = 5;
+    // Name: OJMJFOELEOF
+    enum OJMJFOELEOF {
+        OJMJFOELEOF_OENDBFENCDF = 0;
+        OJMJFOELEOF_JOPJLKCFOAI = 1;
+        OJMJFOELEOF_OOMGGNEKCFL = 2;
+    }
+
+    repeated DALMLFNANKL ABKHLFMENON = 2;
+    OJMJFOELEOF JMMGJJKHEBO = 12;
+    int32 IGKHHPEADAN = 7;
+    int32 KFCODGHIJEH = 5;
 }
+

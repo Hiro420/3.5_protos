@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DJDIOACDGEA
+// CmdId: 3927
 message DJDIOACDGEA {
-	uint32 AABLOHALBGG = 15;
-	uint32 OEGEDJPNJAD = 5;
-	int32 IJIABMFLJGH = 6;
+    uint32 GOGGEGHMKKM = 15;
+    uint32 CEHNBFEIODF = 5;
+    int32 KFCODGHIJEH = 6;
 }
+

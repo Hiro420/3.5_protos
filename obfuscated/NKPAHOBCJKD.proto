@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KHJDJONHPEI.proto";
 
+// Name: NKPAHOBCJKD
+// CmdId: 4501
 message NKPAHOBCJKD {
-	KHJDJONHPEI PINANLMEMBA = 15;
+    KHJDJONHPEI OJECKIHMPPF = 15;
 }
+

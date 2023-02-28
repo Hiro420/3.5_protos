@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MIKGIPNDOHP
+// CmdId: 627
 message MIKGIPNDOHP {
-	uint64 POGHDEAENAD = 1;
-	uint32 KNEGMCGKFAL = 6;
+    uint64 PKJEEFBMBNM = 1;
+    uint32 PLDBHAGEBDM = 6;
 }
+

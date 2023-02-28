@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CLABNPLNACA
+// CmdId: 8729
 message CLABNPLNACA {
-	uint32 PFKDFHHKBFD = 2;
+    uint32 NLBJCAHEJOC = 2;
 }
+

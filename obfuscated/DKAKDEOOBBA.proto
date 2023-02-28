@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DKAKDEOOBBA
+// CmdId: 4507
 message DKAKDEOOBBA {
-	int32 IJIABMFLJGH = 11;
-	repeated uint32 PPPHIIGJKEM = 1;
+    int32 KFCODGHIJEH = 11;
+    repeated uint32 DAOJKENBHIH = 1;
 }
+

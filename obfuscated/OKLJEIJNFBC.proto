@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OKLJEIJNFBC
 message OKLJEIJNFBC {
-	int32 CEBNMGEFKJL = 1;
-	int32 FEHDKBAABKF = 2;
+    int32 AFDFPJJDOHH = 1;
+    int32 JGHOLPKKJJA = 2;
 }
+

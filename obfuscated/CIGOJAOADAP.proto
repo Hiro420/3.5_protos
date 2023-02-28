@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CIGOJAOADAP
+// CmdId: 5239
 message CIGOJAOADAP {
-	uint32 PDFLEGGDOCP = 7;
+    uint32 GPBLLPDCIFK = 7;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: OCFIEICFEEP
+// CmdId: 8500
 message OCFIEICFEEP {
-	repeated ENOCIMKMJJG CANCLEDDKEP = 12;
-	uint32 DPJOJFFAOIB = 9;
+    repeated ENOCIMKMJJG DIGBDDBNBHP = 12;
+    uint32 EGFOFPMNMJB = 9;
 }
+

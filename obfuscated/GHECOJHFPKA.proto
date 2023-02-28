@@ -4,13 +4,15 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: GHECOJHFPKA
 message GHECOJHFPKA {
-	repeated uint32 FMPCLKCKAMD = 8;
-	uint32 PDFLEGGDOCP = 2;
-	uint32 HIGAIJIHCOC = 11;
-	float HMFDPJLBIIH = 12;
-	float KJLEIIEFCPJ = 10;
-	DALMLFNANKL LABCKOJLEFP = 13;
-	DALMLFNANKL AKANNIGGDKH = 9;
-	uint32 FEBGPCJDBLI = 7;
+    repeated uint32 OJIHOCHJDEK = 8;
+    uint32 GPBLLPDCIFK = 2;
+    uint32 AECPDOLHDKN = 11;
+    float ICHELNHEJEK = 12;
+    float KCHLIBBDFCG = 10;
+    DALMLFNANKL AJAMEIHEMEA = 13;
+    DALMLFNANKL GHGPLCNLCDF = 9;
+    uint32 IAFBFELIHBK = 7;
 }
+

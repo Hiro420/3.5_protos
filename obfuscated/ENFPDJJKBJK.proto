@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OPNBGGNPPOE.proto";
 
+// Name: ENFPDJJKBJK
+// CmdId: 8594
 message ENFPDJJKBJK {
-	OPNBGGNPPOE LNFKELDOBON = 5;
-	uint32 AIJOKLEENGC = 14;
-	uint32 KKMLAEEAHJA = 12;
+    OPNBGGNPPOE OMHIFLNBFCC = 5;
+    uint32 OBBPIGOHAJL = 14;
+    uint32 IIBPCMOEENO = 12;
 }
+

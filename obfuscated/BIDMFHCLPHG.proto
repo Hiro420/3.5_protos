@@ -5,11 +5,13 @@ option java_package = "emu.grasscutter.net.proto";
 import "KPNLDDPKPIK.proto";
 import "ODKNHPHCDCG.proto";
 
+// Name: BIDMFHCLPHG
 message BIDMFHCLPHG {
-	repeated ODKNHPHCDCG PMFJGKMLMII = 14;
-	uint32 OBEEECDCKAK = 4;
-	repeated uint32 JLMEOBPICGI = 6;
-	repeated uint32 JECEKOPANIN = 11;
-	repeated KPNLDDPKPIK CLBEDFEEJCC = 8;
-	bool CKMCPIOKFFE = 5;
+    repeated ODKNHPHCDCG IIJEPNHDPLM = 14;
+    uint32 BHGJFKLJMOC = 4;
+    repeated uint32 OPJHBPJBNGH = 6;
+    repeated uint32 IKEFEJEEPMK = 11;
+    repeated KPNLDDPKPIK DMCBFGHOKFJ = 8;
+    bool NKMBACDACBI = 5;
 }
+

@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CFLEMDDKEJD.proto";
+import "GGDHLNEKIJB.proto";
+import "ICPGKGIADBI.proto";
+import "KNLFEMENDPG.proto";
+
+// Name: NIMPOFILFMP
+message NIMPOFILFMP {
+    uint32 MPLJBMEAIBB = 4;
+    oneof NGKAEIMKBBL {
+        ICPGKGIADBI DKGHIGHBNNB = 559;
+        KNLFEMENDPG ADGJOJBCMLH = 1437;
+        GGDHLNEKIJB EGJLFNGIFAH = 1356;
+        CFLEMDDKEJD MMFHCBABEKH = 1603;
+    }
+}
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AIIPGDHMKLE
+// CmdId: 21498
 message AIIPGDHMKLE {
-	uint32 EFNCFEMKBJL = 3;
-	uint32 AIJOKLEENGC = 10;
-	uint32 BFEBANOFBEH = 11;
+    uint32 PMCDFCJPIML = 3;
+    uint32 OBBPIGOHAJL = 10;
+    uint32 MHOGJAFEKAO = 11;
 }
+

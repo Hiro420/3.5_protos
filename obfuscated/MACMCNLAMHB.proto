@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MOOPCKFOLNC.proto";
 
+// Name: MACMCNLAMHB
 message MACMCNLAMHB {
-	bool NGBIOJHDFNG = 9;
-	repeated MOOPCKFOLNC PDFHOAILMJO = 15;
-	uint32 MKPAIADLFCJ = 2;
-	map<uint32, uint32> IEMLNFLLGNP = 6;
+    bool HGHFLHCNKAA = 9;
+    repeated MOOPCKFOLNC KAOKIDNOGCB = 15;
+    uint32 OAKLEOLDOPG = 2;
+    map<uint32, uint32> DPNEFGJPKON = 6;
 }
+

@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "IHFHAKKFMHG.proto";
 import "GNIJOHNCLNM.proto";
+import "IHFHAKKFMHG.proto";
 
+// Name: LPPPDGBBOOI
+// CmdId: 382
 message LPPPDGBBOOI {
-	GNIJOHNCLNM MLKKFBHMKEC = 12;
-	IHFHAKKFMHG CBOLHDNGDGC = 7;
+    GNIJOHNCLNM KDGDMAKGDEE = 12;
+    IHFHAKKFMHG KDJAKKPIMGJ = 7;
 }
+

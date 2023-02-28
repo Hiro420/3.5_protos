@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CIDANFONHIN
+// CmdId: 1818
 message CIDANFONHIN {
-	uint32 LGLGGMGCBHM = 11;
+    uint32 HOIPIEEKMPN = 11;
 }
+

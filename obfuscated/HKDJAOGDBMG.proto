@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HKDJAOGDBMG
+// CmdId: 21284
 message HKDJAOGDBMG {
-	uint32 AKLLLMCIPAF = 3;
-	int32 IJIABMFLJGH = 2;
-	repeated uint32 NOJPHGJEDCK = 6;
+    uint32 MNKOOFLNFBJ = 3;
+    int32 KFCODGHIJEH = 2;
+    repeated uint32 FDDLLMEHBHN = 6;
 }
+

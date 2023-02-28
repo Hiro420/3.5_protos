@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: GLAEHMMKJNF
 message GLAEHMMKJNF {
-	uint32 GDEEMDHMEPK = 3;
-	uint32 BBAPAANNOLJ = 10;
-	int32 IJMNNHDLCDD = 13;
-	DALMLFNANKL EHJLNGJDNNB = 6;
-	uint32 PDFLEGGDOCP = 11;
+    uint32 IKJNDCCAACL = 3;
+    uint32 GKMEGBPFMHA = 10;
+    int32 DDCGFPPKFHP = 13;
+    DALMLFNANKL MDJENINHJJG = 6;
+    uint32 GPBLLPDCIFK = 11;
 }
+

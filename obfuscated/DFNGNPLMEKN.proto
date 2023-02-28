@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PDPKPDBANCA.proto";
 
+// Name: DFNGNPLMEKN
+// CmdId: 450
 message DFNGNPLMEKN {
-	bool GBNLEOFCKIG = 3;
-	PDPKPDBANCA DPDNKOIFCPO = 1;
-	uint32 DPJOJFFAOIB = 15;
-	uint32 BOFBIJGMIGM = 7;
+    bool CEICMGJHLCO = 3;
+    PDPKPDBANCA GDHAFBJCLAD = 1;
+    uint32 EGFOFPMNMJB = 15;
+    uint32 CJMAPJPILIC = 7;
 }
+

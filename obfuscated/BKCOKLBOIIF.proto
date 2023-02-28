@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EIPLHBCKIIO.proto";
 
+// Name: BKCOKLBOIIF
+// CmdId: 2134
 message BKCOKLBOIIF {
-	EIPLHBCKIIO IDECOBGKNGL = 9;
+    EIPLHBCKIIO KGBBIMBOILA = 9;
 }
+

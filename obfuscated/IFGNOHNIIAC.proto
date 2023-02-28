@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FJDFAKJALPE.proto";
 
+// Name: IFGNOHNIIAC
 message IFGNOHNIIAC {
-	uint32 GODBPLIMLMK = 4;
-	repeated FJDFAKJALPE CLACIHMGMAB = 12;
+    uint32 PAGODFBHLOL = 4;
+    repeated FJDFAKJALPE AJPOFAKEMMN = 12;
 }
+

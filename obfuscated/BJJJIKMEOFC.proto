@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BJJJIKMEOFC
 message BJJJIKMEOFC {
-	uint64 POGHDEAENAD = 13;
-	bool NHDPHIMDACF = 2;
+    uint64 PKJEEFBMBNM = 13;
+    bool OABFKGLGLHI = 2;
 }
+

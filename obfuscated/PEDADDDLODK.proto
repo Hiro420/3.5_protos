@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PEDADDDLODK
 message PEDADDDLODK {
-	bool DJKOKFDGKIG = 2;
-	uint32 AIJOKLEENGC = 6;
-	uint32 BAADPLMJBCI = 1;
+    bool HKDOCGOMBKP = 2;
+    uint32 OBBPIGOHAJL = 6;
+    uint32 PPIGNLFBPDG = 1;
 }
+

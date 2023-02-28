@@ -2,12 +2,21 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "FABJDIPEMDE.EHAEEIFELIH.ONKIMGOMOEL.proto";
-
+// Name: FABJDIPEMDE
+// CmdId: 685
 message FABJDIPEMDE {
-	uint32 GNLDDLIKJDN = 6;
-	repeated uint32 HABOKNANIHB = 2;
-	FABJDIPEMDE.EHAEEIFELIH.ONKIMGOMOEL PKFIPBDFDFH = 10;
-	bool GPAHFKHCHDA = 15;
-	repeated uint32 CLNJMCLMNEF = 1;
+    // Name: ONKIMGOMOEL
+    enum ONKIMGOMOEL {
+        ONKIMGOMOEL_BCFDJCKHNGM = 0;
+        ONKIMGOMOEL_GIJMEPLEANJ = 1;
+        ONKIMGOMOEL_PONBDKAFKIN = 2;
+        ONKIMGOMOEL_HPBJOIJCOEO = 3;
+    }
+
+    uint32 BHDBMLOIDGK = 6;
+    repeated uint32 NPLFIOFPAKH = 2;
+    ONKIMGOMOEL EEAGIAJEPOB = 10;
+    bool KABFNJGFKLL = 15;
+    repeated uint32 DNJDACFOEJA = 1;
 }
+

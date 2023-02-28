@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GGDCLBEFCNO.proto";
 
+// Name: MKKAIJMECOL
+// CmdId: 236
 message MKKAIJMECOL {
-	GGDCLBEFCNO AIEGFGEIDIN = 1;
-	uint32 KFEMBAPKMFH = 6;
-	uint32 PAKGCBBEOBJ = 11;
-	int32 IJIABMFLJGH = 13;
+    GGDCLBEFCNO EEOHPDOHFHN = 1;
+    uint32 NDGLECFHBCJ = 6;
+    uint32 GIKJPLBMPNH = 11;
+    int32 KFCODGHIJEH = 13;
 }
+

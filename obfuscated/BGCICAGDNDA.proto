@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BGCICAGDNDA
+// CmdId: 24017
 message BGCICAGDNDA {
-	uint32 DBNLJBCCLOC = 6;
+    uint32 KCKDFMAPOMA = 6;
 }
+

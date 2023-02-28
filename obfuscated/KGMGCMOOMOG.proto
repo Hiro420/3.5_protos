@@ -2,12 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "EBLPNABPEMI.proto";
 import "DALMLFNANKL.proto";
+import "EBLPNABPEMI.proto";
 
+// Name: KGMGCMOOMOG
+// CmdId: 5832
 message KGMGCMOOMOG {
-	DALMLFNANKL AKANNIGGDKH = 2;
-	uint32 APPJCEKCOBP = 11;
-	repeated uint32 OBHMJHCAHBI = 7;
-	EBLPNABPEMI GNLDDLIKJDN = 12;
+    DALMLFNANKL GHGPLCNLCDF = 2;
+    uint32 IPLGACBJJGH = 11;
+    repeated uint32 IHPGDHMONME = 7;
+    EBLPNABPEMI BHDBMLOIDGK = 12;
 }
+

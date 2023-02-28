@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BNEGCDIFHLA.proto";
 
+// Name: ACILJIDBAAL
 message ACILJIDBAAL {
-	uint32 BEKCJPOGBHB = 7;
-	uint32 AEPAKCBPNEH = 5;
-	uint32 PDFLEGGDOCP = 1;
-	int32 IJIABMFLJGH = 15;
-	BNEGCDIFHLA EIDIBCFGOKN = 14;
+    uint32 ALHOCCJPIFL = 7;
+    uint32 HPONOGFDPBP = 5;
+    uint32 GPBLLPDCIFK = 1;
+    int32 KFCODGHIJEH = 15;
+    BNEGCDIFHLA NJPNEHDOIJB = 14;
 }
+

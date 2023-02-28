@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: LPOPNCBABHN
 message LPOPNCBABHN {
-	int64 HHEPIOBIFPG = 15;
-	int32 KFDKAFPONOB = 7;
-	DALMLFNANKL HIBHBCBGJDI = 8;
+    int64 ADEFNBHFFOK = 15;
+    int32 ONNJNGDDNKM = 7;
+    DALMLFNANKL KELMOJECIOC = 8;
 }
+

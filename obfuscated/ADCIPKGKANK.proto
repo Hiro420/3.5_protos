@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ADCIPKGKANK
+// CmdId: 2138
 message ADCIPKGKANK {
-	uint32 JJDDBCNKKFK = 7;
-	uint32 FKOCDAHNIOI = 6;
-	uint32 OOGLJJNLEGM = 2;
-	int32 IJIABMFLJGH = 8;
+    uint32 HNGMFPDIFCG = 7;
+    uint32 NAOHGOGJGGM = 6;
+    uint32 HBHEEENAIMM = 2;
+    int32 KFCODGHIJEH = 8;
 }
+

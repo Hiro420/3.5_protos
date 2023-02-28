@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "OLACJIOMDIO.proto";
 import "GHECOJHFPKA.proto";
+import "OLACJIOMDIO.proto";
 
+// Name: EGCBDDHMNGD
+// CmdId: 291
 message EGCBDDHMNGD {
-	repeated GHECOJHFPKA CJGKKNPKDDK = 7;
-	repeated OLACJIOMDIO CCFPBHDNKCF = 15;
-	uint32 KFEMBAPKMFH = 12;
+    repeated GHECOJHFPKA AFFNFKIGOLE = 7;
+    repeated OLACJIOMDIO NLJBEJMILKP = 15;
+    uint32 NDGLECFHBCJ = 12;
 }
+

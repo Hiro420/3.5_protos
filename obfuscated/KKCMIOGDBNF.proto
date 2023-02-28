@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KKCMIOGDBNF
+// CmdId: 255
 message KKCMIOGDBNF {
-	uint32 ECEMGJIAFKE = 3;
+    uint32 JHKGKEPFCKL = 3;
 }
+

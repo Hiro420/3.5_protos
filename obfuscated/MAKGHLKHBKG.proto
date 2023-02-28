@@ -2,13 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "JHPFIBBFMME.proto";
 import "ENOCIMKMJJG.proto";
+import "JHPFIBBFMME.proto";
 
+// Name: MAKGHLKHBKG
+// CmdId: 5244
 message MAKGHLKHBKG {
-	repeated ENOCIMKMJJG IBEJBBLKPGB = 8;
-	repeated uint64 HMOCBMKPKHM = 14;
-	uint32 JGAHPOJJDHJ = 3;
-	uint32 HIGAIJIHCOC = 7;
-	JHPFIBBFMME LBHIINLKALB = 2;
+    repeated ENOCIMKMJJG OKJIFAICMAO = 8;
+    repeated uint64 LFAFCDIGHEO = 14;
+    uint32 LGAHNCLEDCF = 3;
+    uint32 AECPDOLHDKN = 7;
+    JHPFIBBFMME DCJGKIIHHPA = 2;
 }
+

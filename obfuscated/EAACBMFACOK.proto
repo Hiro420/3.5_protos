@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EAACBMFACOK
+// CmdId: 1660
 message EAACBMFACOK {
-	uint64 LHFBBMDLIHF = 8;
-	repeated uint64 CLJCCHPHHLO = 9;
+    uint64 MFJLBDJGMKC = 8;
+    repeated uint64 ICDJJLDJFGN = 9;
 }
+

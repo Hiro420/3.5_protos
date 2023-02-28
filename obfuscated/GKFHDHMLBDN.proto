@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GKFHDHMLBDN
+// CmdId: 5459
 message GKFHDHMLBDN {
-	uint32 IGHODAEJNCH = 9;
-	bool EIEALMKLEIC = 11;
+    uint32 CMIFHNOBAIC = 9;
+    bool BDLBHOCMALO = 11;
 }
+

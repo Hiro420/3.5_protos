@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DIIKFAIPKGG.proto";
 
+// Name: LKGNOGMFCAJ
+// CmdId: 4487
 message LKGNOGMFCAJ {
-	DIIKFAIPKGG PKNGPHJNNJH = 13;
-	int32 IJIABMFLJGH = 6;
+    DIIKFAIPKGG LFKMDOMNNIO = 13;
+    int32 KFCODGHIJEH = 6;
 }
+

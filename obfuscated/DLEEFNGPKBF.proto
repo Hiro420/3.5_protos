@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DLEEFNGPKBF
+// CmdId: 4066
 message DLEEFNGPKBF {
-	uint32 JAOBPKMBOKD = 1;
+    uint32 AHMMKMKHHFP = 1;
 }
+

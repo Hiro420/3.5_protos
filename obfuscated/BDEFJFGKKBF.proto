@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BDEFJFGKKBF
 message BDEFJFGKKBF {
-	uint32 HDLHDIOKEOF = 1;
-	uint32 ABCMAJECJMG = 2;
-	uint32 MECEFJDEGCJ = 3;
-	uint32 OFKOOHKDFEC = 4;
+    uint32 FGCBPCIOCGK = 1;
+    uint32 BIDLFDFCLBI = 2;
+    uint32 HAENLGLMDLP = 3;
+    uint32 DIJCEFIKGAK = 4;
 }
+

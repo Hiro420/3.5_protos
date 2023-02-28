@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PCIGDBDDFKD
+// CmdId: 7509
 message PCIGDBDDFKD {
-	uint32 NJAEFGBAJLN = 13;
-	uint32 KCFIOJGPHLN = 11;
+    uint32 GKJEDGIJGKL = 13;
+    uint32 HMHAENNPFAB = 11;
 }
+

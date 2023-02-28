@@ -2,16 +2,19 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "KDDEEFOPBJB.proto";
 import "DNANMGCEKBC.proto";
+import "KDDEEFOPBJB.proto";
 
+// Name: PEFDGELCIDM
+// CmdId: 8835
 message PEFDGELCIDM {
-	repeated DNANMGCEKBC FIKKALCMGHC = 13;
-	repeated uint32 JOKKKDGBAIF = 6;
-	repeated KDDEEFOPBJB KNJNMKNDDOJ = 8;
-	repeated uint32 EHBAPHMFNGB = 2;
-	repeated KDDEEFOPBJB NDLJLHCJFLK = 11;
-	repeated uint32 BKHCCJKIJPG = 1;
-	uint32 BEJDBNONODA = 5;
-	repeated KDDEEFOPBJB MHACHLFONFK = 14;
+    repeated DNANMGCEKBC EGIIFHCJAAB = 13;
+    repeated uint32 BKOEFHECBCE = 6;
+    repeated KDDEEFOPBJB JCOEAAAKHFC = 8;
+    repeated uint32 AJNGBIGIFIN = 2;
+    repeated KDDEEFOPBJB OOPDNCPEOJJ = 11;
+    repeated uint32 DOJHKEAOINE = 1;
+    uint32 NJIHDDKBBLA = 5;
+    repeated KDDEEFOPBJB FAHEOKCHCOB = 14;
 }
+

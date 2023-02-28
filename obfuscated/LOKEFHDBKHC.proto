@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "POGIPAEBEHM.proto";
 
+// Name: LOKEFHDBKHC
+// CmdId: 5154
 message LOKEFHDBKHC {
-	repeated POGIPAEBEHM KDHMIOJHOOG = 8;
+    repeated POGIPAEBEHM OKKHFJJBAMD = 8;
 }
+

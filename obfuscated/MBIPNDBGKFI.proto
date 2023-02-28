@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MBIPNDBGKFI
 message MBIPNDBGKFI {
-	uint32 ELNNIELNMBO = 9;
-	uint32 JLMLALKOMFN = 11;
+    uint32 KFGGNNFODBD = 9;
+    uint32 OCFEJAGKHBJ = 11;
 }
+

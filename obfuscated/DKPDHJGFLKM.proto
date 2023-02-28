@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HNPNHGMKOGO.proto";
 
+// Name: DKPDHJGFLKM
 message DKPDHJGFLKM {
-	HNPNHGMKOGO IPIIPDOAIFC = 4;
+    HNPNHGMKOGO ENNAPNPNDNB = 4;
 }
+

@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: POIKFFBLPIJ
 message POIKFFBLPIJ {
-	uint32 LLOBHFKCOJA = 3;
-	uint32 MPGJJEALABF = 15;
+    uint32 PDDEJIGJICI = 3;
+    uint32 GPKPCCJAFAH = 15;
 }
+

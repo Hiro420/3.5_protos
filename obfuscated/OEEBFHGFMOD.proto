@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GGFJJJMBFNM.proto";
 
+// Name: OEEBFHGFMOD
+// CmdId: 1993
 message OEEBFHGFMOD {
-	repeated GGFJJJMBFNM IBJKPINGLEK = 6;
+    repeated GGFJJJMBFNM DPINAOJPNEE = 6;
 }
+

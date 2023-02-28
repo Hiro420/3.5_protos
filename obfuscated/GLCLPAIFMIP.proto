@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GLCLPAIFMIP
+// CmdId: 8944
 message GLCLPAIFMIP {
-	uint32 CKENLBDFJEI = 4;
+    uint32 AJNDPCEAIBO = 4;
 }
+

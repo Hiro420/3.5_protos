@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LBCFEPONBPJ
+// CmdId: 7005
 message LBCFEPONBPJ {
-	uint32 PGEOOGFMOGG = 11;
-	uint32 JLMLALKOMFN = 7;
-	repeated uint32 BDJJCKHEGNO = 9;
+    uint32 EBOOCJPFBNK = 11;
+    uint32 OCFEJAGKHBJ = 7;
+    repeated uint32 IAADAMKHBIL = 9;
 }
+

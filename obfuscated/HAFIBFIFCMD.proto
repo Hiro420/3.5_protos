@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HAFIBFIFCMD
+// CmdId: 4415
 message HAFIBFIFCMD {
-	bool EIEALMKLEIC = 8;
-	uint32 CKDLHFIADEK = 11;
-	uint32 MBNDPCHNFLH = 7;
+    bool BDLBHOCMALO = 8;
+    uint32 BBPBNJOCBOJ = 11;
+    uint32 ABMLKJAEEAK = 7;
 }
+

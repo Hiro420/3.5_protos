@@ -4,14 +4,17 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: BKPBJLHMEIG
+// CmdId: 637
 message BKPBJLHMEIG {
-	repeated ENOCIMKMJJG DOMPNDEAAEI = 9;
-	repeated ENOCIMKMJJG LCCOAPNKLHK = 13;
-	uint64 POGHDEAENAD = 10;
-	repeated ENOCIMKMJJG MEMFOJAFBME = 6;
-	repeated ENOCIMKMJJG NBGLGDLAGBB = 14;
-	repeated ENOCIMKMJJG PNHBAHOHAKJ = 5;
-	uint32 AFGCHCLCHLK = 1;
-	int32 IJIABMFLJGH = 7;
-	uint32 OKDKDJGOBOA = 2;
+    repeated ENOCIMKMJJG NOBMIMNDGLA = 9;
+    repeated ENOCIMKMJJG AKCCLGFBJMD = 13;
+    uint64 PKJEEFBMBNM = 10;
+    repeated ENOCIMKMJJG LOCKHJBEGDL = 6;
+    repeated ENOCIMKMJJG INKENHANDMB = 14;
+    repeated ENOCIMKMJJG PMAFAIANIOA = 5;
+    uint32 OFGHIEBNGNF = 1;
+    int32 KFCODGHIJEH = 7;
+    uint32 JNDMCMGKKBK = 2;
 }
+

@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MBAAFHPBLEP
 message MBAAFHPBLEP {
-	uint32 CIJKBDKOIMH = 7;
+    uint32 FPCJCINAGGB = 7;
 }
+

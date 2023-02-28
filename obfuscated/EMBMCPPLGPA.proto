@@ -3,10 +3,19 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
-import "EMBMCPPLGPA.DHIHLCELBPL.MCCICFBIADN.proto";
 
+// Name: EMBMCPPLGPA
+// CmdId: 201
 message EMBMCPPLGPA {
-	EMBMCPPLGPA.DHIHLCELBPL.MCCICFBIADN KCMEPPIKHLM = 14;
-	DALMLFNANKL HGBNELBIDMP = 1;
-	string AEGFFGCCCFK = 4;
+    // Name: MCCICFBIADN
+    enum MCCICFBIADN {
+        MCCICFBIADN_PEEHJNGGDDD = 0;
+        MCCICFBIADN_HICPEGCHBJI = 1;
+        MCCICFBIADN_GEBCGGBPKAH = 2;
+    }
+
+    MCCICFBIADN ENHLDJCHHNF = 14;
+    DALMLFNANKL LKPILJJECKJ = 1;
+    string DNPJKFKFAMM = 4;
 }
+

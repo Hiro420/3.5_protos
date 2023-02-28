@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EDCGEBDOJLH.proto";
 
+// Name: NICOCIKJHBL
 message NICOCIKJHBL {
-	bool DJKOKFDGKIG = 11;
-	repeated uint32 MKJAOBCOLCE = 8;
-	repeated EDCGEBDOJLH PDFHOAILMJO = 10;
-	uint32 BEJDBNONODA = 6;
-	repeated uint32 EIDOKJLFBIM = 1;
+    bool HKDOCGOMBKP = 11;
+    repeated uint32 ENEFLMCICBB = 8;
+    repeated EDCGEBDOJLH KAOKIDNOGCB = 10;
+    uint32 NJIHDDKBBLA = 6;
+    repeated uint32 NJEEPCAOMNI = 1;
 }
+

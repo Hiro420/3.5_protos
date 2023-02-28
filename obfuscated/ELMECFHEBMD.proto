@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ILEIPGLHFAP.proto";
 
+// Name: ELMECFHEBMD
+// CmdId: 4584
 message ELMECFHEBMD {
-	ILEIPGLHFAP IPADFLCOAFN = 11;
+    ILEIPGLHFAP GKOFIJJACGA = 11;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OHOPHOBAPIL.proto";
 
+// Name: DCGJFPPNBPH
+// CmdId: 176
 message DCGJFPPNBPH {
-	repeated OHOPHOBAPIL PDEHNFANKOD = 8;
+    repeated OHOPHOBAPIL GAJICGDOPFI = 8;
 }
+

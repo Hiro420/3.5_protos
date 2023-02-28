@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MOCGOKGHGNG.proto";
+import "NFCMDLFAPCF.proto";
+
+// Name: HCHEBMEEOJO
+// CmdId: 6346
+message HCHEBMEEOJO {
+    MOCGOKGHGNG FLBOLNLJOPM = 14;
+    int32 KFCODGHIJEH = 4;
+    uint64 GDABHBPIGIP = 7;
+    oneof GPHEKOFFLKO {
+        NFCMDLFAPCF KEOPHDCIMPI = 8;
+    }
+}
+

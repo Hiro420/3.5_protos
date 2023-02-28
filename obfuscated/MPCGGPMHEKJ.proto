@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MPCGGPMHEKJ
 message MPCGGPMHEKJ {
-	uint32 JIKFEHBKOCO = 13;
+    uint32 EBDOCHHNJEP = 13;
 }
+

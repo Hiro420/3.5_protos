@@ -2,12 +2,20 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "LELLKGFJIGJ.ODPNPEFMLBG.IFGPMCDEMII.proto";
-
+// Name: LELLKGFJIGJ
+// CmdId: 1191
 message LELLKGFJIGJ {
-	float JEJJLGIFBFG = 10;
-	uint32 PJCGDLILPIH = 7;
-	LELLKGFJIGJ.ODPNPEFMLBG.IFGPMCDEMII AGFEDHAFFCF = 4;
-	float GJDMBBAMIDJ = 8;
-	uint32 PDFLEGGDOCP = 14;
+    // Name: IFGPMCDEMII
+    enum IFGPMCDEMII {
+        IFGPMCDEMII_PFJKOGOCCJL = 0;
+        IFGPMCDEMII_FHGGEHFNIIJ = 1;
+        IFGPMCDEMII_HKNCMABDFIM = 2;
+    }
+
+    float FJABCGFHDKE = 10;
+    uint32 BDCOBCIBCMM = 7;
+    IFGPMCDEMII MAEHDEOIOEI = 4;
+    float IHLLNJNJBGO = 8;
+    uint32 GPBLLPDCIFK = 14;
 }
+

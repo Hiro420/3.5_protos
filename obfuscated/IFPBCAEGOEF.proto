@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HHNOKNHCINE.proto";
 
+// Name: IFPBCAEGOEF
+// CmdId: 23181
 message IFPBCAEGOEF {
-	uint32 BEJDBNONODA = 6;
-	repeated HHNOKNHCINE LALLGCCFAFE = 5;
-	uint32 MEGEPCAJCKE = 8;
+    uint32 NJIHDDKBBLA = 6;
+    repeated HHNOKNHCINE MDDKIHLKOOM = 5;
+    uint32 ONOCGGDGHIP = 8;
 }
+

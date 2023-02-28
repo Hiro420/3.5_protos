@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+import "DIKOEKMPPAO.proto";
+import "KJBDKIHKDBE.proto";
+
+// Name: HKKDPBGCGHK
+// CmdId: 3065
+message HKKDPBGCGHK {
+    bool BBGEGPLJIEE = 13;
+    int32 JNJLDAEALJB = 12;
+    DALMLFNANKL LIFCLOEOFKP = 14;
+    bool DIEJPBFPPFC = 9;
+    uint32 JFMPEFGAHLF = 10;
+    uint32 EMOIPBDAMAA = 11;
+    uint32 IKMIOFDEJNF = 1;
+    uint32 LJNLOCELKND = 2;
+    oneof MPKBKJAFNOH {
+        float NNPCPNIDNLD = 1214;
+        DALMLFNANKL FNMLAJMMMIF = 1267;
+        KJBDKIHKDBE GNMNHBEELNH = 778;
+        DIKOEKMPPAO CAHCGAFPKFE = 1154;
+    }
+}
+

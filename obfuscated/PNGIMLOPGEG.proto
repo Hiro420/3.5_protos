@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CKMOHPMEDFD.proto";
+import "DKAJENPELLD.proto";
+import "IHPHFDDEJPE.proto";
+import "IJGOANLDAJD.proto";
+import "JACLPLPBKCK.proto";
+import "JGFHBJKGCLJ.proto";
+import "JHEKPKFLJJL.proto";
+import "KBOONBLCMFK.proto";
+import "PEPHBANPBCG.proto";
+import "PGAFCGFEDED.proto";
+
+// Name: PNGIMLOPGEG
+message PNGIMLOPGEG {
+    uint32 IEBIABJPGEF = 11;
+    uint32 FNIAGKNACKP = 12;
+    uint32 CMABCLNMGNL = 13;
+    uint32 JJJDABMAPJG = 9;
+    uint32 JPIGCJLKDGO = 3;
+    uint32 ENHLDJCHHNF = 10;
+    uint32 MPLJBMEAIBB = 14;
+    oneof NGKAEIMKBBL {
+        KBOONBLCMFK OOOJLKNPCOM = 2012;
+        JACLPLPBKCK HNCPKCPNBCH = 1567;
+        IHPHFDDEJPE BEBJINLINBK = 410;
+        PGAFCGFEDED CEAOKBLNPKK = 740;
+        CKMOHPMEDFD NKIIEDNFDKP = 596;
+        DKAJENPELLD PJIDGHCGEFI = 1931;
+        JHEKPKFLJJL FPGFCLNCOBA = 859;
+        PEPHBANPBCG CBEFELIHPDE = 814;
+        JGFHBJKGCLJ AIKBJNBJHGP = 737;
+        IJGOANLDAJD FANHNOAPOOK = 690;
+    }
+}
+

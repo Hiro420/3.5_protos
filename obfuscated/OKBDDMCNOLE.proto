@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OKBDDMCNOLE
+// CmdId: 4668
 message OKBDDMCNOLE {
-	bool ADNBNHMDIDH = 9;
-	uint32 BFDKEIGKAFH = 13;
+    bool GJFNDMOCPBK = 9;
+    uint32 PHPJIFLPAKF = 13;
 }
+

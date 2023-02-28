@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AFGBFGAFILO
+// CmdId: 3959
 message AFGBFGAFILO {
-	uint32 AABLOHALBGG = 10;
+    uint32 GOGGEGHMKKM = 10;
 }
+

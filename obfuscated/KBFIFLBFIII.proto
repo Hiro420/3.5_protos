@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KBFIFLBFIII
+// CmdId: 626
 message KBFIFLBFIII {
-	map<uint32, uint64> OBOMGMKOPIN = 3;
+    map<uint32, uint64> ONLEHBFEGFN = 3;
 }
+

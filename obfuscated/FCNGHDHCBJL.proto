@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: FCNGHDHCBJL
+// CmdId: 2304
 message FCNGHDHCBJL {
-	DALMLFNANKL MEPKAGJBDAB = 6;
-	DALMLFNANKL BGFAOKGCANM = 13;
+    DALMLFNANKL GKJOKIEMKMN = 6;
+    DALMLFNANKL EODFKMKEAEK = 13;
 }
+

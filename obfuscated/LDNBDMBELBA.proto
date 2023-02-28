@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LDNBDMBELBA
 message LDNBDMBELBA {
-	uint32 BEJDBNONODA = 5;
-	bool IAJEKOIOEAF = 6;
-	bool DJKOKFDGKIG = 3;
-	uint32 AIJOKLEENGC = 2;
+    uint32 NJIHDDKBBLA = 5;
+    bool MDLKFBKMGEA = 6;
+    bool HKDOCGOMBKP = 3;
+    uint32 OBBPIGOHAJL = 2;
 }
+

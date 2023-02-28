@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JNCBMFIIBGA
 message JNCBMFIIBGA {
-	uint32 BEJDBNONODA = 2;
-	bool DJKOKFDGKIG = 13;
-	uint32 JIKFEHBKOCO = 1;
+    uint32 NJIHDDKBBLA = 2;
+    bool HKDOCGOMBKP = 13;
+    uint32 EBDOCHHNJEP = 1;
 }
+

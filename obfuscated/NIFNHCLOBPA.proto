@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NIFNHCLOBPA
 message NIFNHCLOBPA {
-	uint32 PFKDFHHKBFD = 8;
-	bool DJKOKFDGKIG = 1;
-	uint32 PLMDDEEEAAB = 10;
-	uint32 NDEGDDBLMKD = 6;
-	uint32 HFKNDLGIPML = 14;
+    uint32 NLBJCAHEJOC = 8;
+    bool HKDOCGOMBKP = 1;
+    uint32 JPIGCJLKDGO = 10;
+    uint32 CDEJEDMAFIH = 6;
+    uint32 EILEKGBEBLI = 14;
 }
+

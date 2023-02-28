@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IPBEHJKODFE
+// CmdId: 4400
 message IPBEHJKODFE {
-	uint32 MBNDPCHNFLH = 9;
-	bool GPPCFJBGIKD = 13;
+    uint32 ABMLKJAEEAK = 9;
+    bool OOKCDDOJMBI = 13;
 }
+

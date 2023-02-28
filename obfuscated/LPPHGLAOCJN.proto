@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LPPHGLAOCJN
+// CmdId: 9000
 message LPPHGLAOCJN {
-	uint32 AIJOKLEENGC = 13;
+    uint32 OBBPIGOHAJL = 13;
 }
+

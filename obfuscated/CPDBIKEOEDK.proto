@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CPDBIKEOEDK
 message CPDBIKEOEDK {
-	uint32 AEIMCODOHEI = 1;
-	uint32 KLDIMGLKFOA = 2;
+    uint32 BKCGADAFBIH = 1;
+    uint32 IONDBDADLKJ = 2;
 }
+

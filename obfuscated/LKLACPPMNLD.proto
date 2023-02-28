@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GNIAJGHFPEJ.proto";
 
+// Name: LKLACPPMNLD
 message LKLACPPMNLD {
-	uint32 MAIDDMNGNBL = 11;
-	repeated GNIAJGHFPEJ ALCCNEEPGHC = 4;
-	uint32 AMJDALOEBEP = 5;
+    uint32 POLIIGDFOBJ = 11;
+    repeated GNIAJGHFPEJ LDABEKLMHJH = 4;
+    uint32 GBDGANAALCC = 5;
 }
+

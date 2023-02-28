@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NCLHEKKHBAC
+// CmdId: 3180
 message NCLHEKKHBAC {
-	uint32 HBMBODJGAPM = 6;
-	uint32 KFEMBAPKMFH = 5;
+    uint32 HNIOMMFIPJP = 6;
+    uint32 NDGLECFHBCJ = 5;
 }
+

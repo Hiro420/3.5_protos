@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CMMDBGIFBAL.proto";
 
+// Name: KKADAHCNCNG
+// CmdId: 1648
 message KKADAHCNCNG {
-	map<uint64, CMMDBGIFBAL> DMOKCMAGGDE = 8;
+    map<uint64, CMMDBGIFBAL> AIEGHAMJOKE = 8;
 }
+

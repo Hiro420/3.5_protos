@@ -2,13 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "EHHKFDCDNLN.proto";
 import "DALMLFNANKL.proto";
+import "EHHKFDCDNLN.proto";
 
+// Name: IGKGJNCLPBA
 message IGKGJNCLPBA {
-	uint32 BNCBCBPCKLB = 10;
-	DALMLFNANKL IBJAJJOOACP = 2;
-	uint32 HLHGOGKGBDF = 6;
-	uint32 KFEMBAPKMFH = 15;
-	repeated EHHKFDCDNLN LCEDFNBOHOL = 11;
+    uint32 DOIFHNNEPEC = 10;
+    DALMLFNANKL JOAFFOCECOM = 2;
+    uint32 BFDAKOBOBDN = 6;
+    uint32 NDGLECFHBCJ = 15;
+    repeated EHHKFDCDNLN JAHEFCKOHGL = 11;
 }
+

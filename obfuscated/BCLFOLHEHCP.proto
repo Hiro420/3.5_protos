@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BCLFOLHEHCP
+// CmdId: 6234
 message BCLFOLHEHCP {
-	int32 IJIABMFLJGH = 9;
+    int32 KFCODGHIJEH = 9;
 }
+

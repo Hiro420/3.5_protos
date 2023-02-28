@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: GGCMGFLFFPB
+enum GGCMGFLFFPB {
+    GGCMGFLFFPB_CAEDKGBMOOP = 0;
+    GGCMGFLFFPB_CHHOBOINALF = 1;
+    GGCMGFLFFPB_DGAGIHAKKPJ = 2;
+}
+

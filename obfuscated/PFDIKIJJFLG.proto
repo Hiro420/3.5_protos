@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PAEEGEIHHOJ.proto";
 
+// Name: PFDIKIJJFLG
+// CmdId: 2111
 message PFDIKIJJFLG {
-	int32 IJIABMFLJGH = 4;
-	repeated PAEEGEIHHOJ EKFOGPKKONJ = 15;
+    int32 KFCODGHIJEH = 4;
+    repeated PAEEGEIHHOJ MGMAOKKDIGE = 15;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FOPGOIJCICK.proto";
 
+// Name: PBGEBLODBDC
+// CmdId: 842
 message PBGEBLODBDC {
-	repeated FOPGOIJCICK CANCLEDDKEP = 14;
+    repeated FOPGOIJCICK DIGBDDBNBHP = 14;
 }
+

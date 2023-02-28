@@ -2,9 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "NPMBLHJCHHD.JDGNCDFFNKG.ELAIMJJNBCG.proto";
-
+// Name: NPMBLHJCHHD
 message NPMBLHJCHHD {
-	uint32 GKHJKEGICOO = 1;
-	NPMBLHJCHHD.JDGNCDFFNKG.ELAIMJJNBCG JKDNHDLNHMJ = 7;
+    // Name: ELAIMJJNBCG
+    enum ELAIMJJNBCG {
+        ELAIMJJNBCG_BBIEFMGCLDI = 0;
+        ELAIMJJNBCG_NLLLGCCBCOO = 1;
+        ELAIMJJNBCG_LJEPFDPLBDN = 2;
+    }
+
+    uint32 FBJHOFHKIIG = 1;
+    ELAIMJJNBCG LHFGALANHMN = 7;
 }
+

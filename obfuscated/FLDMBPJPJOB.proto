@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DDCNIPBHDIM.proto";
 
+// Name: FLDMBPJPJOB
 message FLDMBPJPJOB {
-	uint32 NDEGDDBLMKD = 3;
-	map<uint32, DDCNIPBHDIM> NDNMHJPEHAJ = 2;
+    uint32 CDEJEDMAFIH = 3;
+    map<uint32, DDCNIPBHDIM> FLMFCDJBBAM = 2;
 }
+

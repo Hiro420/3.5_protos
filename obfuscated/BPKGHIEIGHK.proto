@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BPKGHIEIGHK
 message BPKGHIEIGHK {
-	uint32 HDHFDDKANOF = 1;
-	uint32 IMDEMLEDGOE = 9;
+    uint32 EHPPNPOKAGI = 1;
+    uint32 BBPNLONBPAM = 9;
 }
+

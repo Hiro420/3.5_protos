@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GABBGJCLKIK.proto";
 
+// Name: DKGLCEBBJPD
 message DKGLCEBBJPD {
-	repeated GABBGJCLKIK CANCLEDDKEP = 1;
+    repeated GABBGJCLKIK DIGBDDBNBHP = 1;
 }
+

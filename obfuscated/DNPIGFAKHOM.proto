@@ -4,12 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GBHMJFABANH.proto";
 
+// Name: DNPIGFAKHOM
 message DNPIGFAKHOM {
-	bool KBDMIAGCPKB = 9;
-	uint32 BBEJEEENLPN = 2;
-	bool HLCFBEMMOOA = 8;
-	map<uint32, GBHMJFABANH> HMFNNGCBNDI = 5;
-	uint32 BEJDBNONODA = 4;
-	uint32 JFDMLBBNKEE = 13;
-	uint32 IELIJACJAAB = 10;
+    bool INAOJMIAHFP = 9;
+    uint32 PJNELCLHMOH = 2;
+    bool FHNAEKAPHEG = 8;
+    map<uint32, GBHMJFABANH> BNIGHEFDIIN = 5;
+    uint32 NJIHDDKBBLA = 4;
+    uint32 ELJEAMFPPAP = 13;
+    uint32 POJECMGFJKG = 10;
 }
+

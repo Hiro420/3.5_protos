@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CANJOFHONKD
 message CANJOFHONKD {
-	uint32 IMBKKJGDBOF = 2;
-	uint32 JGEEAPIIMMJ = 10;
-	bool IAJEKOIOEAF = 7;
+    uint32 OKEIPKBLLMC = 2;
+    uint32 AGCEPNMABLJ = 10;
+    bool MDLKFBKMGEA = 7;
 }
+

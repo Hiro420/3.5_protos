@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DFNGPIGNBJJ.proto";
 
+// Name: FNPGJPIIMLH
+// CmdId: 61
 message FNPGJPIIMLH {
-	DFNGPIGNBJJ EPEODEDDAGP = 15;
-	uint32 AAEBBDIDMAO = 11;
-	int32 IJIABMFLJGH = 13;
-	uint32 ICFIJIEKEEJ = 6;
+    DFNGPIGNBJJ HELKOOJMKNI = 15;
+    uint32 AKDECIELPLN = 11;
+    int32 KFCODGHIJEH = 13;
+    uint32 PIOGLHEHAAD = 6;
 }
+

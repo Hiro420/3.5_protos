@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PCLCKHPGJKN.proto";
 
+// Name: JJHDGPCHPHD
+// CmdId: 2027
 message JJHDGPCHPHD {
-	map<uint32, PCLCKHPGJKN> BNEDMJBNGDD = 8;
-	uint32 HGNNFDONPCJ = 7;
+    map<uint32, PCLCKHPGJKN> LHBEOANNKFK = 8;
+    uint32 OKMAODPDMIN = 7;
 }
+

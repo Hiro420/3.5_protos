@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DEIIEJODMDG.proto";
 
+// Name: EMIEMODACJI
+// CmdId: 5385
 message EMIEMODACJI {
-	repeated DEIIEJODMDG NOMIMDOOFLA = 9;
+    repeated DEIIEJODMDG EDLFJHLFCFL = 9;
 }
+

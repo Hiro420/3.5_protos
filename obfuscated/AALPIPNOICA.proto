@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AALPIPNOICA
+// CmdId: 493
 message AALPIPNOICA {
-	uint32 BOFBIJGMIGM = 11;
-	uint64 MPCNAGMMHGF = 9;
-	int32 IJIABMFLJGH = 1;
+    uint32 CJMAPJPILIC = 11;
+    uint64 HIOBIJJHKDN = 9;
+    int32 KFCODGHIJEH = 1;
 }
+

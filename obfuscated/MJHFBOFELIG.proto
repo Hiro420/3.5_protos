@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MJHFBOFELIG
 message MJHFBOFELIG {
-	uint32 FPNIJFBLNNE = 7;
-	uint32 ICFIJIEKEEJ = 13;
-	uint32 ILKJCBNLDLL = 8;
+    uint32 MDHELGBPNMP = 7;
+    uint32 PIOGLHEHAAD = 13;
+    uint32 HKAKPBCDMJB = 8;
 }
+

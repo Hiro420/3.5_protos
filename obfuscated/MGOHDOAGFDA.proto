@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: MGOHDOAGFDA
+enum MGOHDOAGFDA {
+    MGOHDOAGFDA_NAJNIJEMGNC = 0;
+    MGOHDOAGFDA_AKFKBNNBLKL = 1;
+    MGOHDOAGFDA_IKCIEHBJEIF = 2;
+}
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: KOBACDPOPJI
+// CmdId: 187
 message KOBACDPOPJI {
-	DALMLFNANKL AKANNIGGDKH = 11;
-	uint32 JLKDMIGAPAJ = 6;
+    DALMLFNANKL GHGPLCNLCDF = 11;
+    uint32 CLJAIOEHNFN = 6;
 }
+

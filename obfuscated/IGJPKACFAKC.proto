@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FEPJMFICDGB.proto";
 
+// Name: IGJPKACFAKC
+// CmdId: 4182
 message IGJPKACFAKC {
-	bool ADNBNHMDIDH = 7;
-	FEPJMFICDGB GIPBJFBBEFI = 11;
+    bool GJFNDMOCPBK = 7;
+    FEPJMFICDGB CLMHDABEAMH = 11;
 }
+

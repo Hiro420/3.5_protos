@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HIMLJEHFCOM
+// CmdId: 8364
 message HIMLJEHFCOM {
-	repeated uint32 LEBLCEEAONJ = 13;
-	uint32 EPODNOIKDEM = 4;
-	repeated uint32 BIGKKHKAGNF = 15;
-	uint32 AHEFDMPHAAK = 9;
-	uint32 KIBAJLBGNCK = 10;
+    repeated uint32 FFPJNOHKICJ = 13;
+    uint32 PJFOLMPAJKP = 4;
+    repeated uint32 KELHCDAGMEP = 15;
+    uint32 NOGMACBJJCL = 9;
+    uint32 INMABIOHDCE = 10;
 }
+

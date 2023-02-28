@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FLNJMFJNNPD
+// CmdId: 2148
 message FLNJMFJNNPD {
-	uint32 JKOMBNAKGFA = 6;
+    uint32 HLENOGEFPPM = 6;
 }
+

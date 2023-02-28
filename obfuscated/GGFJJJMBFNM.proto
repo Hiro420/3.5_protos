@@ -2,14 +2,21 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "GGFJJJMBFNM.IKHDNICLLLN.CPHIAOBBAMM.proto";
-
+// Name: GGFJJJMBFNM
 message GGFJJJMBFNM {
-	repeated uint32 HAAECHANELE = 4;
-	uint32 GKHJKEGICOO = 2;
-	uint32 BCBLLBADMPK = 12;
-	map<uint32, int32> HOLJALJNKID = 15;
-	map<uint32, int32> NLAKCMGJDJC = 3;
-	map<uint32, uint32> ACNGFBCFHEP = 1;
-	GGFJJJMBFNM.IKHDNICLLLN.CPHIAOBBAMM AEBGOFAHGKL = 7;
+    // Name: CPHIAOBBAMM
+    enum CPHIAOBBAMM {
+        CPHIAOBBAMM_MLBFMJIBJEP = 0;
+        CPHIAOBBAMM_IBKIEBHEHBN = 1;
+        CPHIAOBBAMM_KBDDBCLCIGF = 2;
+    }
+
+    repeated uint32 MOKEMPLKKBN = 4;
+    uint32 FBJHOFHKIIG = 2;
+    uint32 LBNMLEDFLGF = 12;
+    map<uint32, int32> PENJAEJFOCP = 15;
+    map<uint32, int32> GIINOODGCOO = 3;
+    map<uint32, uint32> LMLKJKDNKMG = 1;
+    CPHIAOBBAMM JFCEBFEEJFL = 7;
 }
+

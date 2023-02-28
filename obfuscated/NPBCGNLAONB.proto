@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: NPBCGNLAONB
+enum NPBCGNLAONB {
+    NPBCGNLAONB_MLLFHGDJNGP = 0;
+    NPBCGNLAONB_FHMAHLKINBJ = 1;
+    NPBCGNLAONB_ELOIPPHFLML = 2;
+}
+

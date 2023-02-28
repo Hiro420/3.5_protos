@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OKLGIBNIEKN
 message OKLGIBNIEKN {
-	bool DJKOKFDGKIG = 8;
-	bool JKOPJPIBEIH = 4;
-	uint32 MPGJJEALABF = 6;
-	uint32 BEJDBNONODA = 7;
+    bool HKDOCGOMBKP = 8;
+    bool BHODOHBHODP = 4;
+    uint32 GPKPCCJAFAH = 6;
+    uint32 NJIHDDKBBLA = 7;
 }
+

@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NNHECDNAAAO.proto";
 
+// Name: FEGCMMBGONJ
 message FEGCMMBGONJ {
-	int32 FEDEOMEFFLO = 1;
-	NNHECDNAAAO CCGPKJEFNDH = 2;
+    int32 PAIAOGFKOKH = 1;
+    NNHECDNAAAO PACFMBKDLGO = 2;
 }
+

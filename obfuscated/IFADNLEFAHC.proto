@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IFADNLEFAHC
+// CmdId: 2104
 message IFADNLEFAHC {
-	uint32 CKENLBDFJEI = 4;
+    uint32 AJNDPCEAIBO = 4;
 }
+

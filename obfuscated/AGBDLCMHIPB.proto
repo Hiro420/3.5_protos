@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HBEFCJKDDIN.proto";
 
+// Name: AGBDLCMHIPB
 message AGBDLCMHIPB {
-	repeated uint32 DMALFJDGIIG = 10;
-	repeated uint32 HGLMKIKINGD = 3;
-	repeated HBEFCJKDDIN NNKHOEDINJE = 7;
+    repeated uint32 NANIIOABNOG = 10;
+    repeated uint32 PIEMKNGALPB = 3;
+    repeated HBEFCJKDDIN FALMAMOMDAG = 7;
 }
+

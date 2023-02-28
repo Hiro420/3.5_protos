@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GOMOAABDCLP
+// CmdId: 1972
 message GOMOAABDCLP {
-	uint32 OHALJPKNJLA = 2;
-	uint32 AHOBPKJAFIM = 4;
+    uint32 EFLHLGADIOL = 2;
+    uint32 JNIMIKPMODP = 4;
 }
+

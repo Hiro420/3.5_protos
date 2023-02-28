@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CGOCEJAMMOF
+// CmdId: 3036
 message CGOCEJAMMOF {
-	repeated uint32 LPOFEOHHFOA = 15;
+    repeated uint32 GMOEIIMMHKN = 15;
 }
+

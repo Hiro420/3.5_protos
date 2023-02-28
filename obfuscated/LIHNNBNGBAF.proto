@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LIHNNBNGBAF
+// CmdId: 1989
 message LIHNNBNGBAF {
-	repeated uint32 AIAFJPDIOOB = 9;
+    repeated uint32 BIKKHMMPHOB = 9;
 }
+

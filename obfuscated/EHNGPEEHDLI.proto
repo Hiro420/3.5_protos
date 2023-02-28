@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: EHNGPEEHDLI
+// CmdId: 278
 message EHNGPEEHDLI {
-	uint32 OJGJNNDIDGJ = 14;
-	DALMLFNANKL ONPNDEDLPNB = 6;
+    uint32 BAEJFEDNCCG = 14;
+    DALMLFNANKL HBMLNLCODNM = 6;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BGOPOLELLBI
+// CmdId: 5301
 message BGOPOLELLBI {
-	uint32 NJAEFGBAJLN = 7;
-	uint32 OLOICLLBLMC = 3;
+    uint32 GKJEDGIJGKL = 7;
+    uint32 MDPECKHDPDD = 3;
 }
+

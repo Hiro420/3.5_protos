@@ -2,13 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IJOOGAIOODO
 message IJOOGAIOODO {
-	uint32 PLMDDEEEAAB = 15;
-	bool NGOOGCNKDLE = 2;
-	string PKKKDNJBCEO = 14;
-	string KCFCFHLOPPL = 12;
-	uint32 NDEGDDBLMKD = 7;
-	uint32 PLCGJIIOEGF = 6;
-	uint32 ELNIKBMMMPB = 10;
-	uint32 OBEEECDCKAK = 4;
+    uint32 JPIGCJLKDGO = 15;
+    bool CEIODDDJIJE = 2;
+    string CIKGJJHDEBL = 14;
+    string DHACMKDLBOL = 12;
+    uint32 CDEJEDMAFIH = 7;
+    uint32 PEKFGOHFPIB = 6;
+    uint32 PICPEBDGGAO = 10;
+    uint32 BHGJFKLJMOC = 4;
 }
+

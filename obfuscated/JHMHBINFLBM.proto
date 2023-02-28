@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NICOCIKJHBL.proto";
 
+// Name: JHMHBINFLBM
+// CmdId: 8262
 message JHMHBINFLBM {
-	int32 IJIABMFLJGH = 2;
-	NICOCIKJHBL KDABNICDMNC = 4;
+    int32 KFCODGHIJEH = 2;
+    NICOCIKJHBL ABDCEBOICDJ = 4;
 }
+

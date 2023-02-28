@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CHGPLODIFEO
+// CmdId: 3914
 message CHGPLODIFEO {
-	uint32 IHMAEEJLCCC = 1;
+    uint32 FMMBJJLEBAF = 1;
 }
+

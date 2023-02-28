@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AGFJDCJANKA.proto";
 
+// Name: FHPFPENBEIB
 message FHPFPENBEIB {
-	bool BKCMLMBPJGL = 5;
-	repeated AGFJDCJANKA LIHEPHPKCOI = 12;
+    bool GHMGBHANDLN = 5;
+    repeated AGFJDCJANKA OLCOJNKIDMA = 12;
 }
+

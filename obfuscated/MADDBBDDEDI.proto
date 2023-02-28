@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "HECBIKPCMOF.proto";
 import "ENOCIMKMJJG.proto";
+import "HECBIKPCMOF.proto";
 
+// Name: MADDBBDDEDI
+// CmdId: 2615
 message MADDBBDDEDI {
-	repeated ENOCIMKMJJG CANCLEDDKEP = 10;
-	repeated HECBIKPCMOF IOLPDPGNDOD = 15;
-	int32 IJIABMFLJGH = 8;
+    repeated ENOCIMKMJJG DIGBDDBNBHP = 10;
+    repeated HECBIKPCMOF DADJJOAHIJA = 15;
+    int32 KFCODGHIJEH = 8;
 }
+

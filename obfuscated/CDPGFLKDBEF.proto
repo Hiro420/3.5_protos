@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: CDPGFLKDBEF
+enum CDPGFLKDBEF {
+    CDPGFLKDBEF_EHCGPAPHBHJ = 0;
+    CDPGFLKDBEF_OGIJDELBNLF = 1;
+}
+

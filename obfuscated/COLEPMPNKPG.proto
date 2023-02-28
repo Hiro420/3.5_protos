@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IGKGJNCLPBA.proto";
 
+// Name: COLEPMPNKPG
+// CmdId: 4710
 message COLEPMPNKPG {
-	IGKGJNCLPBA GFMDBDEHPJK = 3;
+    IGKGJNCLPBA JHJFBPOIMAF = 3;
 }
+

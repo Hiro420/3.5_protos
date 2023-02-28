@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ELIICPEDJIM
+// CmdId: 870
 message ELIICPEDJIM {
-	uint32 POBJGKEJPNJ = 5;
+    uint32 GOKBENCJIBE = 5;
 }
+

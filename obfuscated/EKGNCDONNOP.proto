@@ -2,17 +2,26 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "EKGNCDONNOP.EJJBBKAJIBA.AHIMDALMFPK.proto";
 import "ABMCDDFMBOC.proto";
 import "IHGNENANDMD.proto";
 
+// Name: EKGNCDONNOP
+// CmdId: 5393
 message EKGNCDONNOP {
-	repeated IHGNENANDMD KCJDLDNKBOH = 6;
-	repeated ABMCDDFMBOC FADPNNCLMPK = 3;
-	uint32 MODGFBJMMHC = 5;
-	uint32 DOGKMJOKNJA = 12;
-	uint32 ODLPNAIPIFJ = 10;
-	EKGNCDONNOP.EJJBBKAJIBA.AHIMDALMFPK GNLDDLIKJDN = 11;
-	repeated uint32 DEMHHFNLBFL = 2;
-	bool EEBLKDLIMPB = 7;
+    // Name: AHIMDALMFPK
+    enum AHIMDALMFPK {
+        AHIMDALMFPK_EOIAPIIANLJ = 0;
+        AHIMDALMFPK_IOBKALBDOIN = 1;
+        AHIMDALMFPK_DPKMEPHPHBI = 2;
+    }
+
+    repeated IHGNENANDMD LGAGGHJDINL = 6;
+    repeated ABMCDDFMBOC KOJALAALAKA = 3;
+    uint32 JJJDABMAPJG = 5;
+    uint32 GECOOGMJNAO = 12;
+    uint32 FNIAGKNACKP = 10;
+    AHIMDALMFPK BHDBMLOIDGK = 11;
+    repeated uint32 PLJHALKKIMB = 2;
+    bool IKDJCHKKJJB = 7;
 }
+

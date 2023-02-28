@@ -2,14 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "EJBPKIGPFIG.proto";
 import "CIDOFFBIFIA.proto";
+import "EJBPKIGPFIG.proto";
 import "ONIKMEGNJAK.proto";
 
+// Name: DBMIEOGPEEB
 message DBMIEOGPEEB {
-	uint32 DBPFNJIMHGH = 7;
-	repeated ONIKMEGNJAK CDPBJBDIDAP = 14;
-	repeated CIDOFFBIFIA OCHNOMHEMIN = 15;
-	repeated EJBPKIGPFIG KAAMHANJPMD = 13;
-	uint32 EEJNPEHKPFL = 3;
+    uint32 DELFEGPPGMK = 7;
+    repeated ONIKMEGNJAK INEBKAJGDND = 14;
+    repeated CIDOFFBIFIA BFDMNOAALHL = 15;
+    repeated EJBPKIGPFIG ILDDMPOECIK = 13;
+    uint32 EPKNIKCAAAM = 3;
 }
+

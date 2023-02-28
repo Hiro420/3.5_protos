@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: NKAECBFOIGF
+enum NKAECBFOIGF {
+    NKAECBFOIGF_JJIMJJIIEPP = 0;
+    NKAECBFOIGF_OKEBJICKDDJ = 1;
+    NKAECBFOIGF_IFGBKLCCGCJ = 2;
+    NKAECBFOIGF_IHKNFNGNCHP = 3;
+}
+

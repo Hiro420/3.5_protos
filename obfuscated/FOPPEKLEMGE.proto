@@ -5,10 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "DIABFFLIANK.proto";
 import "OKLGIBNIEKN.proto";
 
+// Name: FOPPEKLEMGE
 message FOPPEKLEMGE {
-	bool CKMCPIOKFFE = 5;
-	uint32 HKHCEDBNKAO = 15;
-	uint32 HGAJHGCAHGJ = 1;
-	repeated OKLGIBNIEKN EKELCMOJGDN = 2;
-	repeated DIABFFLIANK AMOHFDAPNHG = 14;
+    bool NKMBACDACBI = 5;
+    uint32 IMHBJJAIBFJ = 15;
+    uint32 JHEBGEDHMLB = 1;
+    repeated OKLGIBNIEKN JBHMKDEGKCL = 2;
+    repeated DIABFFLIANK NDAJBBAPIMD = 14;
 }
+

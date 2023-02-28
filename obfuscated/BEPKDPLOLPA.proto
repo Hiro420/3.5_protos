@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BEPKDPLOLPA
+// CmdId: 215
 message BEPKDPLOLPA {
-	uint32 BFOIKHIHJIA = 11;
-	uint32 GJNGOHMNEGD = 15;
-	uint32 IKNCEKPKPOL = 3;
-	uint32 BGBHFPOKAND = 13;
+    uint32 KEOCNNMJHNB = 11;
+    uint32 FDIGFCBHDHO = 15;
+    uint32 DJHBGNNLBLA = 3;
+    uint32 AILDFBDPFBD = 13;
 }
+

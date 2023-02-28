@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FIMCPLKLILH
+// CmdId: 1701
 message FIMCPLKLILH {
-	uint32 LMFGKMPGIPD = 13;
+    uint32 BFELILCAPAD = 13;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BJHINJBCGKK.proto";
 
+// Name: JHJDMNBLHDM
+// CmdId: 4748
 message JHJDMNBLHDM {
-	BJHINJBCGKK CKOKMBLACNC = 13;
-	int32 IJIABMFLJGH = 15;
+    BJHINJBCGKK ICCDHJANOEB = 13;
+    int32 KFCODGHIJEH = 15;
 }
+

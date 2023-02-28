@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DFMOCHLPHCF.proto";
 
+// Name: FMKKKFIOHKJ
+// CmdId: 325
 message FMKKKFIOHKJ {
-	map<uint32, DFMOCHLPHCF> AJDFGNMIKOC = 2;
+    map<uint32, DFMOCHLPHCF> OCLKIMOHEMI = 2;
 }
+

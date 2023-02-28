@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NMKBMCHIBJB
 message NMKBMCHIBJB {
-	repeated uint32 MEPBBOLDMPM = 3;
-	uint32 GAGEGAFGHHE = 7;
-	uint32 BNGHDMNKMNB = 10;
-	string NMNFNBJMPBJ = 8;
+    repeated uint32 BMFAGHFGACH = 3;
+    uint32 BOLGBBHIENJ = 7;
+    uint32 IFKHJLODEIF = 10;
+    string PEGAHPGAMFL = 8;
 }
+

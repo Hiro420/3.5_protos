@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: IFBACLBBNBH
+// CmdId: 471
+message IFBACLBBNBH {
+    uint32 AGIJDEIALFJ = 5;
+    int32 KFCODGHIJEH = 2;
+    oneof ICFIJIEKEEJ {
+        uint32 OCFEJAGKHBJ = 1;
+        uint32 PDDEJIGJICI = 6;
+    }
+}
+

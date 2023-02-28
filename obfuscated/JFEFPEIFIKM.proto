@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JFEFPEIFIKM
 message JFEFPEIFIKM {
-	uint32 ELGEMKFFKJP = 4;
-	uint32 NPJKIMDHDPE = 12;
-	int32 BIDLONENAAB = 14;
-	uint32 CGKFLJFDHEJ = 10;
+    uint32 HFFGJLPCDJJ = 4;
+    uint32 NFDOJPPKIND = 12;
+    int32 MCBLHOKILEK = 14;
+    uint32 NLGFIILKOAO = 10;
 }
+

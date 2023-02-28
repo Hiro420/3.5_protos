@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: CGJEFNPEPCF
+enum CGJEFNPEPCF {
+    CGJEFNPEPCF_CEGCCNPGAMB = 0;
+    CGJEFNPEPCF_KELCCIEAGFA = 1;
+    CGJEFNPEPCF_HGEGGDFPEKG = 2;
+    CGJEFNPEPCF_JBGEMDIJGPM = 3;
+    CGJEFNPEPCF_FEPJINHEOGJ = 4;
+    CGJEFNPEPCF_LNEAAIAJLAH = 5;
+}
+

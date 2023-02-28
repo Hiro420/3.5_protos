@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PALOPENLFFM
 message PALOPENLFFM {
-	uint32 GJDMBBAMIDJ = 6;
-	uint32 NMNFNBJMPBJ = 13;
+    uint32 IHLLNJNJBGO = 6;
+    uint32 PEGAHPGAMFL = 13;
 }
+

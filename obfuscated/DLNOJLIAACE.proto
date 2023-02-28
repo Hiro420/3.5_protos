@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DLNOJLIAACE
+// CmdId: 266
 message DLNOJLIAACE {
-	uint32 HBMBODJGAPM = 3;
-	uint32 KFEMBAPKMFH = 10;
+    uint32 HNIOMMFIPJP = 3;
+    uint32 NDGLECFHBCJ = 10;
 }
+

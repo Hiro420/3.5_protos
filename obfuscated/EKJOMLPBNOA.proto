@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EKJOMLPBNOA
+// CmdId: 8034
 message EKJOMLPBNOA {
-	uint32 PFKDFHHKBFD = 9;
-	int32 IJIABMFLJGH = 15;
+    uint32 NLBJCAHEJOC = 9;
+    int32 KFCODGHIJEH = 15;
 }
+

@@ -2,11 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CMILIIPNCIE
 message CMILIIPNCIE {
-	uint32 DBCEEODIKCO = 6;
-	uint32 MPGJJEALABF = 1;
-	uint32 EPODNOIKDEM = 5;
-	bool DJKOKFDGKIG = 2;
-	repeated uint32 NMEHEIJHGHM = 15;
-	bool OOBIKPCFJMH = 4;
+    uint32 IBHFHNMMJKH = 6;
+    uint32 GPKPCCJAFAH = 1;
+    uint32 PJFOLMPAJKP = 5;
+    bool HKDOCGOMBKP = 2;
+    repeated uint32 PGFJHIDMAPG = 15;
+    bool IOLPAGGDMGP = 4;
 }
+

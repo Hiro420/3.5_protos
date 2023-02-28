@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ANDOJPOAAPC
+// CmdId: 572
 message ANDOJPOAAPC {
-	uint32 JGEEAPIIMMJ = 8;
+    uint32 AGCEPNMABLJ = 8;
 }
+

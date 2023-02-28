@@ -2,17 +2,20 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "KDECJEOGKOO.proto";
 import "ABMCDDFMBOC.proto";
+import "KDECJEOGKOO.proto";
 
+// Name: EKBBAAECGFH
+// CmdId: 6538
 message EKBBAAECGFH {
-	uint32 GHKIKNJNIGG = 11;
-	uint32 PLMDDEEEAAB = 10;
-	repeated ABMCDDFMBOC FADPNNCLMPK = 13;
-	bool CMAANCBEGLK = 9;
-	uint32 MODGFBJMMHC = 2;
-	uint32 ODLPNAIPIFJ = 14;
-	bool FNGIDMGFLDP = 15;
-	repeated KDECJEOGKOO KCJDLDNKBOH = 7;
-	repeated uint32 EJDEJEGGPNC = 4;
+    uint32 IEBIABJPGEF = 11;
+    uint32 JPIGCJLKDGO = 10;
+    repeated ABMCDDFMBOC KOJALAALAKA = 13;
+    bool KLPPEDENJEF = 9;
+    uint32 JJJDABMAPJG = 2;
+    uint32 FNIAGKNACKP = 14;
+    bool AGPJPHOBGEP = 15;
+    repeated KDECJEOGKOO LGAGGHJDINL = 7;
+    repeated uint32 HJEBIONDCIL = 4;
 }
+

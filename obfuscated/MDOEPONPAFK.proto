@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CPANDOCFHFN.proto";
 
+// Name: MDOEPONPAFK
+// CmdId: 4136
 message MDOEPONPAFK {
-	uint32 LCEDCOPMJCK = 12;
-	repeated CPANDOCFHFN FOFOHKIMAPN = 8;
+    uint32 GJLNJAKPKCI = 12;
+    repeated CPANDOCFHFN COHMIKBCHLB = 8;
 }
+

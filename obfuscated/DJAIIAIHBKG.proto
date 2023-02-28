@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: DJAIIAIHBKG
+enum DJAIIAIHBKG {
+    DJAIIAIHBKG_MJDGEJOFKFP = 0;
+    DJAIIAIHBKG_KMENICMLNAG = 1;
+    DJAIIAIHBKG_FIAFOEEONLE = 2;
+}
+

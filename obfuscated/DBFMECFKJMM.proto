@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DBFMECFKJMM
 message DBFMECFKJMM {
-	repeated uint32 NJJLCDGPKOB = 5;
-	uint32 GGDMGDJLKCO = 13;
+    repeated uint32 MEJCALJPMNA = 5;
+    uint32 GNAPPNPBOGK = 13;
 }
+

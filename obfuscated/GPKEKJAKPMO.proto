@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NEOMIACADNF.proto";
 
+// Name: GPKEKJAKPMO
+// CmdId: 4262
 message GPKEKJAKPMO {
-	NEOMIACADNF JBMNMONEFGL = 12;
+    NEOMIACADNF MBHKOCILJCN = 12;
 }
+

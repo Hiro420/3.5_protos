@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EJLABJMFMFD
+// CmdId: 8291
 message EJLABJMFMFD {
-	uint32 JGPHAPFKFBP = 14;
-	bool MLOEBHENKLC = 13;
+    uint32 LPHLIECFGPI = 14;
+    bool FLOKDMPHILL = 13;
 }
+

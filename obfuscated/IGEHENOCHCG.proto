@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IGEHENOCHCG
+// CmdId: 841
 message IGEHENOCHCG {
-	string CEFOGPEEPAM = 12;
-	string LKFPHPKNPMC = 13;
-	uint32 POBJGKEJPNJ = 14;
-	int32 IJIABMFLJGH = 4;
+    string NGMLPNIKOGK = 12;
+    string IIALNHAJJIO = 13;
+    uint32 GOKBENCJIBE = 14;
+    int32 KFCODGHIJEH = 4;
 }
+

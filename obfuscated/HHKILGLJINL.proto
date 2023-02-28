@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PEPHBANPBCG.proto";
 
+// Name: HHKILGLJINL
+// CmdId: 6553
 message HHKILGLJINL {
-	PEPHBANPBCG DPILDFNIELM = 9;
+    PEPHBANPBCG CBEFELIHPDE = 9;
 }
+

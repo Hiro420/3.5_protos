@@ -3,14 +3,17 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "CPHKFHIHEBD.proto";
+import "DIIKFAIPKGG.proto";
 import "DLNFNGEEJLG.proto";
 import "FHKCBLNAOEA.proto";
-import "DIIKFAIPKGG.proto";
 
+// Name: KDKPOOCEACI
+// CmdId: 4506
 message KDKPOOCEACI {
-	DIIKFAIPKGG PKNGPHJNNJH = 1;
-	repeated FHKCBLNAOEA PFIPFPKGMNK = 15;
-	repeated DLNFNGEEJLG LMKEDEHLEAN = 3;
-	repeated CPHKFHIHEBD DAGKAHCCJND = 9;
-	int32 IJIABMFLJGH = 2;
+    DIIKFAIPKGG LFKMDOMNNIO = 1;
+    repeated FHKCBLNAOEA FNPCKDHCAGB = 15;
+    repeated DLNFNGEEJLG NEADCLEJICO = 3;
+    repeated CPHKFHIHEBD IBLMHABIDBI = 9;
+    int32 KFCODGHIJEH = 2;
 }
+

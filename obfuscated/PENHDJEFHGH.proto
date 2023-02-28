@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PENHDJEFHGH
+// CmdId: 1990
 message PENHDJEFHGH {
-	uint32 NEFICBIOPGF = 15;
-	bool JALLMFBFCBC = 2;
+    uint32 DMKPAFGLJLJ = 15;
+    bool NMKAOGDDEGP = 2;
 }
+

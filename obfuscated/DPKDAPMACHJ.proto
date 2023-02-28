@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OCCPCJJPICK.proto";
 
+// Name: DPKDAPMACHJ
 message DPKDAPMACHJ {
-	repeated OCCPCJJPICK LEDDDHBFGEM = 4;
-	uint32 JODNCINCMIF = 2;
+    repeated OCCPCJJPICK FICHNEEOMOD = 4;
+    uint32 BKNCDDAAGLJ = 2;
 }
+

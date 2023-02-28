@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HAKIOHFAJDG.proto";
 
+// Name: COAIHEFLJII
 message COAIHEFLJII {
-	bool CKMCPIOKFFE = 13;
-	repeated HAKIOHFAJDG GGKKFALHEMD = 15;
+    bool NKMBACDACBI = 13;
+    repeated HAKIOHFAJDG CLHGMFGLPIP = 15;
 }
+

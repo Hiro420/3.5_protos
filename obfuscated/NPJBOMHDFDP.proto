@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KCHCDPDGNGK.proto";
 
+// Name: NPJBOMHDFDP
+// CmdId: 4618
 message NPJBOMHDFDP {
-	KCHCDPDGNGK LNFKELDOBON = 15;
-	uint32 CMEGGBMBNGK = 6;
-	bool DBIKCJCJHFI = 2;
-	uint32 KKMLAEEAHJA = 3;
+    KCHCDPDGNGK OMHIFLNBFCC = 15;
+    uint32 JHPEADCJEBP = 6;
+    bool AAMENNENDKM = 2;
+    uint32 IIBPCMOEENO = 3;
 }
+

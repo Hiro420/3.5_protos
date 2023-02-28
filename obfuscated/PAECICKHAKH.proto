@@ -2,22 +2,24 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "LGJFDLLGBOO.proto";
-import "JFHLNEBEOAA.proto";
 import "ALGGELGLCLJ.proto";
+import "JFHLNEBEOAA.proto";
+import "LGJFDLLGBOO.proto";
 
+// Name: PAECICKHAKH
 message PAECICKHAKH {
-	int32 NLPOIMACPIF = 1;
-	uint32 COIIIPPPKOM = 2;
-	ALGGELGLCLJ FNMENKKPGPG = 3;
-	ALGGELGLCLJ FIDMNFPOKLJ = 4;
-	uint32 IKKCCMNJGKE = 5;
-	uint32 JCGDEEEEPFD = 6;
-	float NHEPBHMJIAI = 7;
-	JFHLNEBEOAA AJBNCECJLLE = 8;
-	uint32 PPBCGEBJIPP = 9;
-	bool MLHNIAFGDBD = 10;
-	LGJFDLLGBOO KCLBPKLMIHF = 11;
-	uint32 OLFHIBFNHLM = 12;
-	bool HOMPLOJNGBP = 13;
+    int32 OGOFGOLGDOK = 1;
+    uint32 HMCOHFNDLCB = 2;
+    ALGGELGLCLJ NDPKDMEDNMC = 3;
+    ALGGELGLCLJ EDPLMCMLNKD = 4;
+    uint32 AKLOJMJDHPE = 5;
+    uint32 OEKBIJIGEDO = 6;
+    float KIIIPJDCGGK = 7;
+    JFHLNEBEOAA PPDIKKDLECC = 8;
+    uint32 MPEHHAOGALI = 9;
+    bool IHEOALDGCIH = 10;
+    LGJFDLLGBOO HHDKPLEEJOL = 11;
+    uint32 DJBBODIGFNE = 12;
+    bool LMOOIJKDBNK = 13;
 }
+

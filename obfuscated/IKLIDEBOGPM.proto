@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LBJMAKBIBJO.proto";
 
+// Name: IKLIDEBOGPM
+// CmdId: 1729
 message IKLIDEBOGPM {
-	repeated uint32 MCIKJAELHEC = 8;
-	map<uint32, LBJMAKBIBJO> ANIEDMJHGCN = 3;
-	repeated uint64 CMKKOGEFOLN = 6;
+    repeated uint32 FLOAAGABKJK = 8;
+    map<uint32, LBJMAKBIBJO> NBFDMGPLFGH = 3;
+    repeated uint64 PBHMDBEPFHO = 6;
 }
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BPIDHOFHENA
+// CmdId: 631
 message BPIDHOFHENA {
-	uint32 BBBBHFMINGB = 10;
-	repeated uint64 NKBDOKHHKEB = 12;
-	uint32 AMJLLOEKGMD = 14;
+    uint32 BLLHOLGPJFB = 10;
+    repeated uint64 JLHDCBNMAON = 12;
+    uint32 CEGEDDOGGAD = 14;
 }
+

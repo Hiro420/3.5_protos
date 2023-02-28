@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CMDOHKNKFDH
 message CMDOHKNKFDH {
-	bool LOJDNGKDDBC = 1;
-	uint32 OFBMGFHIPAD = 9;
-	uint32 AHFGCEDNLHM = 14;
+    bool KJHPHCIAKKI = 1;
+    uint32 FFDILGMGOJL = 9;
+    uint32 LAMMGIKJMDL = 14;
 }
+

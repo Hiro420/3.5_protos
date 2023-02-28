@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AJEFOANICHF
+// CmdId: 8156
 message AJEFOANICHF {
-	uint32 HHEPIOBIFPG = 6;
-	int32 IJIABMFLJGH = 13;
-	repeated uint32 DDHDPFEAJOJ = 4;
-	uint32 PAKGCBBEOBJ = 12;
-	uint32 MHOFMBAEDEG = 3;
+    uint32 ADEFNBHFFOK = 6;
+    int32 KFCODGHIJEH = 13;
+    repeated uint32 MADKIGIDEAD = 4;
+    uint32 GIKJPLBMPNH = 12;
+    uint32 KLGCDHDAOBN = 3;
 }
+

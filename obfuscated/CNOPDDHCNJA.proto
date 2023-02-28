@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CNOPDDHCNJA
 message CNOPDDHCNJA {
-	float ILJFCAPPOPJ = 13;
-	float LEIFKFAGMGI = 12;
+    float BBGFHEIICOB = 13;
+    float NIJAKGLOOAD = 12;
 }
+

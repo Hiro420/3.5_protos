@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CNKNLMCLGEE.proto";
 
+// Name: GFEOHCLAHME
 message GFEOHCLAHME {
-	uint32 OPBEDPAPGBC = 11;
-	uint32 FEOMIOKBKJA = 6;
-	CNKNLMCLGEE GNLDDLIKJDN = 2;
-	uint32 HJHJNBFEAOB = 7;
+    uint32 NOFNEMFHAAF = 11;
+    uint32 GIKJGOPJELA = 6;
+    CNKNLMCLGEE BHDBMLOIDGK = 2;
+    uint32 CBICILBHMII = 7;
 }
+

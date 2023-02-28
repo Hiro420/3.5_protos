@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JGIODDMALOF
+// CmdId: 616
 message JGIODDMALOF {
-	uint64 POGHDEAENAD = 13;
-	uint32 OKDKDJGOBOA = 14;
-	uint32 AFGCHCLCHLK = 10;
+    uint64 PKJEEFBMBNM = 13;
+    uint32 JNDMCMGKKBK = 14;
+    uint32 OFGHIEBNGNF = 10;
 }
+

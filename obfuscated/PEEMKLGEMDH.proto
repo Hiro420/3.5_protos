@@ -2,17 +2,20 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MLEOKHKOFND.proto";
 import "COCLMIBAHOP.proto";
+import "MLEOKHKOFND.proto";
 
+// Name: PEEMKLGEMDH
+// CmdId: 8546
 message PEEMKLGEMDH {
-	uint32 LAMKPGOOMKN = 2;
-	repeated COCLMIBAHOP EHFIMIPFDMC = 12;
-	uint32 PIHGKGFGEBA = 4;
-	uint32 ACCLOFGMBGM = 15;
-	uint32 ONEBMNIHENB = 6;
-	uint32 BEJDBNONODA = 1;
-	int32 IJIABMFLJGH = 13;
-	repeated MLEOKHKOFND BHNNGHBIIMP = 5;
-	uint32 AJBGOLNNAAD = 9;
+    uint32 OBPDPLFCLGI = 2;
+    repeated COCLMIBAHOP JCFLOELIFGE = 12;
+    uint32 JPDEEDPFBMB = 4;
+    uint32 FOPCMLBHHHF = 15;
+    uint32 FBHAEFIAIHM = 6;
+    uint32 NJIHDDKBBLA = 1;
+    int32 KFCODGHIJEH = 13;
+    repeated MLEOKHKOFND KIPJMGPOBDM = 5;
+    uint32 EOFAHKCJBKK = 9;
 }
+

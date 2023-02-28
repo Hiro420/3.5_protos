@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HBGEEBPFDEL
 message HBGEEBPFDEL {
-	uint32 CJMCIOJABIJ = 14;
-	repeated uint32 HJCBBKFOOIG = 7;
+    uint32 DMOGBMIPNFM = 14;
+    repeated uint32 DNNHJJHLLFK = 7;
 }
+

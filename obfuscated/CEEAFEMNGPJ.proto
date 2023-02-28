@@ -4,12 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NICDJJJMPJJ.proto";
 
+// Name: CEEAFEMNGPJ
 message CEEAFEMNGPJ {
-	uint32 AICHGGMIALC = 11;
-	uint32 DDCNOGGBFAI = 14;
-	uint32 APPJCEKCOBP = 13;
-	repeated NICDJJJMPJJ DNKJGPIPJAK = 15;
-	uint32 GJGAMKPCOBE = 3;
-	uint32 AGILGBMCAEN = 4;
-	uint32 NKHLKGPINMK = 7;
+    uint32 GKBILFJMMAO = 11;
+    uint32 DBCNEFPDHHM = 14;
+    uint32 IPLGACBJJGH = 13;
+    repeated NICDJJJMPJJ MIHFAPPAMPH = 15;
+    uint32 CNLJGGLHKAE = 3;
+    uint32 JEGENLBHOCJ = 4;
+    uint32 FABBPOHPPEC = 7;
 }
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BFDPNMECJCE
+// CmdId: 1838
 message BFDPNMECJCE {
-	bool PABLMALJLHG = 11;
-	uint32 PCNJPJFLFHC = 15;
-	uint32 LGLGGMGCBHM = 8;
+    bool HMOPPHKKLHP = 11;
+    uint32 DJNCIDFAPML = 15;
+    uint32 HOIPIEEKMPN = 8;
 }
+

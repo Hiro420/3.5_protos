@@ -5,11 +5,13 @@ option java_package = "emu.grasscutter.net.proto";
 import "BGNNBFGLOLE.proto";
 import "DCMLDNDFBDN.proto";
 
+// Name: KHJFNIAKPID
 message KHJFNIAKPID {
-	repeated DCMLDNDFBDN OFAHBBCMAGO = 10;
-	bool KKNIHHNECIP = 4;
-	repeated uint32 PAPNIEEPPEO = 6;
-	bool CKMCPIOKFFE = 5;
-	repeated uint32 PKHKDKLJOPD = 15;
-	repeated BGNNBFGLOLE IPDABMHNEKD = 1;
+    repeated DCMLDNDFBDN KHPKHNJLADN = 10;
+    bool AHOCDJJEEEP = 4;
+    repeated uint32 HABKKALDAHF = 6;
+    bool NKMBACDACBI = 5;
+    repeated uint32 DPFPEEGPEKO = 15;
+    repeated BGNNBFGLOLE ODLJKAPEKIH = 1;
 }
+

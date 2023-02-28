@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KJGMEKEGPNF
 message KJGMEKEGPNF {
-	uint32 AFJJCDAMFIK = 1;
-	bool HDKCINHMAIA = 2;
-	string AOBEGLGGMMO = 3;
-	string EFNEOLGHCOA = 4;
-	string DLBDJEGPMGF = 5;
-	string APPHAEBHCGC = 6;
-	string JALKPJLMFBK = 7;
+    uint32 EAKDPMJABDI = 1;
+    bool BNDINLPGBEB = 2;
+    string MKLGKMMHOOK = 3;
+    string IHIHNKDJJGA = 4;
+    string HKCCPLOAHBJ = 5;
+    string ODKNNOLHGKB = 6;
+    string AOOKDJPCPFC = 7;
 }
+

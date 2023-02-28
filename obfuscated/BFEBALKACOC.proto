@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BFEBALKACOC
+// CmdId: 5391
 message BFEBALKACOC {
-	uint32 MODGFBJMMHC = 11;
-	uint32 EGABCOAEGAN = 1;
-	uint32 NJAEFGBAJLN = 3;
-	uint32 JEEFNCHAJOJ = 12;
+    uint32 JJJDABMAPJG = 11;
+    uint32 MFIAJEFMBCI = 1;
+    uint32 GKJEDGIJGKL = 3;
+    uint32 MPLJBMEAIBB = 12;
 }
+

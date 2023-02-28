@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LGFHFABDOKE
+// CmdId: 5243
 message LGFHFABDOKE {
-	int32 IJIABMFLJGH = 2;
-	uint32 CGMINHHFDAK = 14;
+    int32 KFCODGHIJEH = 2;
+    uint32 OGEOGDEOJEE = 14;
 }
+

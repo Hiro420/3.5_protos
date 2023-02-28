@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DNMFAABHOJP
+// CmdId: 4040
 message DNMFAABHOJP {
-	bool AONJNMHMHEB = 8;
-	repeated uint32 CPOPJCHHIHE = 15;
+    bool DPPHODOCPAO = 8;
+    repeated uint32 JMEMHABKGEI = 15;
 }
+

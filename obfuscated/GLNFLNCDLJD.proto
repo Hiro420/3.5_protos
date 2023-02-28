@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DKFNMCMGENJ.proto";
 
+// Name: GLNFLNCDLJD
 message GLNFLNCDLJD {
-	repeated DKFNMCMGENJ BGMGDNKCCGL = 6;
+    repeated DKFNMCMGENJ JEMDLFKHGLE = 6;
 }
+

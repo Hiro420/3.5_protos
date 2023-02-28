@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AMAEJCFDLLP.proto";
+import "MOCGOKGHGNG.proto";
+import "NFCMDLFAPCF.proto";
+
+// Name: DMPCNMHFEHN
+// CmdId: 6344
+message DMPCNMHFEHN {
+    MOCGOKGHGNG FLBOLNLJOPM = 13;
+    uint32 NLBJCAHEJOC = 2;
+    oneof HIKDHNPCMFD {
+        AMAEJCFDLLP GFOKMFMEKPI = 11;
+    }
+    oneof GPHEKOFFLKO {
+        NFCMDLFAPCF KEOPHDCIMPI = 380;
+    }
+}
+

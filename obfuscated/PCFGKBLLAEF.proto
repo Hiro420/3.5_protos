@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PCFGKBLLAEF
+// CmdId: 6301
 message PCFGKBLLAEF {
-	bool PJBCOIOAKFK = 6;
-	bool BPHFCPCKJNH = 5;
-	bool JFFJPHNECIM = 8;
-	bool IIADLECJGMC = 3;
+    bool FNFJAIOGDIL = 6;
+    bool OLEDANJLOEI = 5;
+    bool NFBPGNCIKPD = 8;
+    bool EBONPFLOCKN = 3;
 }
+

@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PBEGADLGMHP
 message PBEGADLGMHP {
-	repeated uint32 DIJEPGCODAD = 8;
+    repeated uint32 PAHKLFIGFNE = 8;
 }
+

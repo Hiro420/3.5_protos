@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DLKKODBHNOD.proto";
 
+// Name: JGCJDJCLGIC
 message JGCJDJCLGIC {
-	bool DBIKCJCJHFI = 7;
-	DLKKODBHNOD LNFKELDOBON = 8;
+    bool AAMENNENDKM = 7;
+    DLKKODBHNOD OMHIFLNBFCC = 8;
 }
+

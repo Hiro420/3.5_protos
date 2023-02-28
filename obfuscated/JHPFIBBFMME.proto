@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: JHPFIBBFMME
+enum JHPFIBBFMME {
+    JHPFIBBFMME_LINJBNAEFCB = 0;
+    JHPFIBBFMME_IPMBMHLAKEA = 1;
+}
+

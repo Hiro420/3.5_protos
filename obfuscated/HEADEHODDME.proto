@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HEADEHODDME
+// CmdId: 8885
 message HEADEHODDME {
-	repeated uint32 CFEBEHGOEIH = 10;
-	repeated uint32 IECBADDHDAB = 11;
+    repeated uint32 ILGIBMIOLPL = 10;
+    repeated uint32 PINDJOBJNJC = 11;
 }
+

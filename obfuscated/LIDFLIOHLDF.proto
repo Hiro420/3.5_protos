@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BKBKNDJIDHM.proto";
 
+// Name: LIDFLIOHLDF
+// CmdId: 4042
 message LIDFLIOHLDF {
-	BKBKNDJIDHM MANADEFHNGP = 11;
-	int32 IJIABMFLJGH = 9;
+    BKBKNDJIDHM EMDFLBKMCHI = 11;
+    int32 KFCODGHIJEH = 9;
 }
+

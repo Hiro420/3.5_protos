@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CNMOCADLDKL.proto";
 
+// Name: ECMOIJJBJJD
+// CmdId: 20263
 message ECMOIJJBJJD {
-	uint32 OJFBJDNMMHD = 10;
-	repeated CNMOCADLDKL ADOCOJHGCNJ = 14;
+    uint32 NNMLBBIDIEN = 10;
+    repeated CNMOCADLDKL NFEJPMGNGKO = 14;
 }
+

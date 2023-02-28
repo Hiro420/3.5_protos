@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GMOMLDPAJEJ
+// CmdId: 2254
 message GMOMLDPAJEJ {
-	uint32 OOGLJJNLEGM = 6;
-	uint32 HHMKLDDMEDH = 4;
+    uint32 HBHEEENAIMM = 6;
+    uint32 CHLBLGGPCHA = 4;
 }
+

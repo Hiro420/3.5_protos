@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GBLLGEFNPCP
 message GBLLGEFNPCP {
-	uint32 JCFHMHDAJCC = 9;
-	uint32 AAHPGNIAFFG = 5;
-	uint32 KMELHPDBEEH = 15;
+    uint32 MOHICPCPAFK = 9;
+    uint32 NGOELONIDLG = 5;
+    uint32 GEDKAGMKGAA = 15;
 }
+

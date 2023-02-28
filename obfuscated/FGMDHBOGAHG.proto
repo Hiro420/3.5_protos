@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FGMDHBOGAHG
 message FGMDHBOGAHG {
-	uint32 NOOOFFADAHI = 6;
-	uint32 MELOIKDODAP = 2;
+    uint32 OBOMOEJEDHL = 6;
+    uint32 NHOPNOMIDEF = 2;
 }
+

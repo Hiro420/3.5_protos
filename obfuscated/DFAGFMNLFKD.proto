@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: DFAGFMNLFKD
+enum DFAGFMNLFKD {
+    DFAGFMNLFKD_GIMDMJEOPEM = 0;
+    DFAGFMNLFKD_GPKHHIOPBCK = 1;
+    DFAGFMNLFKD_HKHGMPPIEKF = 2;
+    DFAGFMNLFKD_AMGDAPLMLGF = 3;
+    DFAGFMNLFKD_LCACDNODANJ = 4;
+}
+

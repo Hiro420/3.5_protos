@@ -5,9 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "ANJOMJAFKNK.proto";
 import "ENOCIMKMJJG.proto";
 
+// Name: HFOJANBFGFH
+// CmdId: 1707
 message HFOJANBFGFH {
-	int32 IJIABMFLJGH = 1;
-	repeated ENOCIMKMJJG CANCLEDDKEP = 11;
-	map<uint64, ANJOMJAFKNK> CAIPAJKGJPM = 9;
-	repeated ENOCIMKMJJG JNILONBLFBC = 5;
+    int32 KFCODGHIJEH = 1;
+    repeated ENOCIMKMJJG DIGBDDBNBHP = 11;
+    map<uint64, ANJOMJAFKNK> EELJILCEEEN = 9;
+    repeated ENOCIMKMJJG PJGLLJJHHHC = 5;
 }
+

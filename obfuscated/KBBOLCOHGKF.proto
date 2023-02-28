@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KBBOLCOHGKF
+// CmdId: 4088
 message KBBOLCOHGKF {
-	uint32 HEDBPNIJDKL = 8;
-	int32 IJIABMFLJGH = 15;
-	uint32 AAEBBDIDMAO = 14;
+    uint32 NOAEFIMLNGP = 8;
+    int32 KFCODGHIJEH = 15;
+    uint32 AKDECIELPLN = 14;
 }
+

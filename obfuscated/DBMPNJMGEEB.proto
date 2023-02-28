@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PCGPDJMBEMO.proto";
 
+// Name: DBMPNJMGEEB
+// CmdId: 2507
 message DBMPNJMGEEB {
-	repeated PCGPDJMBEMO BCHAJLDJCIH = 5;
+    repeated PCGPDJMBEMO NPEGEAHKDMI = 5;
 }
+

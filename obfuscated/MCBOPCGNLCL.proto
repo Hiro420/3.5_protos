@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KMPDADDDNCP.proto";
 
+// Name: MCBOPCGNLCL
+// CmdId: 2486
 message MCBOPCGNLCL {
-	uint32 MMMCCBJBEBP = 9;
-	repeated KMPDADDDNCP CGILBCHLLPO = 8;
-	uint32 NLJFOOHENPC = 13;
+    uint32 JDJEMHGDMAN = 9;
+    repeated KMPDADDDNCP FHMCBGGFNEM = 8;
+    uint32 JNMMLJHLIEE = 13;
 }
+

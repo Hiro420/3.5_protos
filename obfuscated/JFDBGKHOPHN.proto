@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JFDBGKHOPHN
 message JFDBGKHOPHN {
-	uint32 BHPKEGBOPMK = 5;
-	repeated uint32 IBJLLLBAHGG = 7;
-	bool DJKOKFDGKIG = 10;
+    uint32 BDJJMOANOIA = 5;
+    repeated uint32 EDDNLDMJBML = 7;
+    bool HKDOCGOMBKP = 10;
 }
+

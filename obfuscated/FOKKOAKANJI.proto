@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FOKKOAKANJI
+// CmdId: 8916
 message FOKKOAKANJI {
-	uint32 CKEFLAMJNPN = 4;
-	int32 IJIABMFLJGH = 1;
-	uint32 KKMLAEEAHJA = 13;
+    uint32 BJGOAFIIHEK = 4;
+    int32 KFCODGHIJEH = 1;
+    uint32 IIBPCMOEENO = 13;
 }
+

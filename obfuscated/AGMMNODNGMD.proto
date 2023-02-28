@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EDDKDMFIJFI.proto";
 
+// Name: AGMMNODNGMD
 message AGMMNODNGMD {
-	repeated EDDKDMFIJFI HBMOMAEDJDL = 5;
-	uint32 AHEFDMPHAAK = 11;
+    repeated EDDKDMFIJFI JHIALJBIOFG = 5;
+    uint32 NOGMACBJJCL = 11;
 }
+

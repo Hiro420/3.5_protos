@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: EHGNPLKIBNP
+enum EHGNPLKIBNP {
+    EHGNPLKIBNP_AKCCAEEDPOB = 0;
+    EHGNPLKIBNP_HGFEDIKNKAC = 1;
+    EHGNPLKIBNP_KCDAGACPAAJ = 2;
+    EHGNPLKIBNP_GGJIKCMNACA = 3;
+    EHGNPLKIBNP_CAADJNLIGGP = 4;
+    EHGNPLKIBNP_FBMHACGILNM = 5;
+}
+

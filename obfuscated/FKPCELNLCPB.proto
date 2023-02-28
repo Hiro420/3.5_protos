@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BNEGCDIFHLA.proto";
 
+// Name: FKPCELNLCPB
+// CmdId: 282
 message FKPCELNLCPB {
-	uint32 PDFLEGGDOCP = 3;
-	uint32 BEKCJPOGBHB = 6;
-	uint32 AEPAKCBPNEH = 4;
-	BNEGCDIFHLA EINPEHFFEAI = 2;
+    uint32 GPBLLPDCIFK = 3;
+    uint32 ALHOCCJPIFL = 6;
+    uint32 HPONOGFDPBP = 4;
+    BNEGCDIFHLA GENELNCGPHP = 2;
 }
+

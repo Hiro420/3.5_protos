@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JBAAKNEGPHN
 message JBAAKNEGPHN {
-	repeated uint32 FMGHBNAAIGP = 14;
-	repeated uint32 FAKJFKCIJFF = 1;
+    repeated uint32 OPAAMANFINL = 14;
+    repeated uint32 LIOBJBIJFCF = 1;
 }
+

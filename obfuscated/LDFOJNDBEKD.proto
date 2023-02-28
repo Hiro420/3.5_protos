@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: LDFOJNDBEKD
+// CmdId: 66
+message LDFOJNDBEKD {
+    bool OKIDGEBBIKE = 3;
+    oneof BDOCBCKAFCK {
+        uint32 AKDECIELPLN = 11;
+        string CJCJMEFFNIG = 9;
+        string HJGOCGGAJNB = 2;
+    }
+}
+

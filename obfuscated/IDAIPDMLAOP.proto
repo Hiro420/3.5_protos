@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AFGHMMDBPMD.proto";
 
+// Name: IDAIPDMLAOP
+// CmdId: 638
 message IDAIPDMLAOP {
-	AFGHMMDBPMD HCMPEPODKPP = 12;
+    AFGHMMDBPMD IOGCBDAJIJK = 12;
 }
+

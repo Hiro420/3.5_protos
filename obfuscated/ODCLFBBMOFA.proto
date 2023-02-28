@@ -2,18 +2,21 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ODCLFBBMOFA
+// CmdId: 229
 message ODCLFBBMOFA {
-	repeated uint32 GNLKHKDDCPI = 3;
-	repeated uint32 HCKCKDHFGIB = 13;
-	int32 IJIABMFLJGH = 2;
-	repeated uint32 NKODIOAOFLG = 12;
-	repeated uint32 CCBMLCGDBDK = 7;
-	uint32 JGICJBNGOHP = 8;
-	repeated uint32 DEJJPGBHKCL = 11;
-	repeated uint32 NJLGEBJEKLI = 14;
-	bool NOHKOAEDEAK = 5;
-	repeated uint32 IIOIIGPPHFL = 10;
-	repeated uint32 BLAHCNNHPGC = 15;
-	uint32 KFEMBAPKMFH = 6;
-	repeated uint32 MJLOBONJGJF = 4;
+    repeated uint32 LHGAOJELAMA = 3;
+    repeated uint32 FKDLJELPPOJ = 13;
+    int32 KFCODGHIJEH = 2;
+    repeated uint32 PACPPJJOIFA = 12;
+    repeated uint32 LLLIACPHNEH = 7;
+    uint32 OMLCGLJKBNI = 8;
+    repeated uint32 KBGDANIJLFK = 11;
+    repeated uint32 LEAMLBEEBMN = 14;
+    bool PGBKOMBKBKG = 5;
+    repeated uint32 JOMDNANCHND = 10;
+    repeated uint32 HJLALADBFAC = 15;
+    uint32 NDGLECFHBCJ = 6;
+    repeated uint32 NDEEKPLDCIB = 4;
 }
+

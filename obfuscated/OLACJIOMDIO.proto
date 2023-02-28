@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: OLACJIOMDIO
 message OLACJIOMDIO {
-	uint32 APPJCEKCOBP = 5;
-	DALMLFNANKL LABCKOJLEFP = 3;
-	DALMLFNANKL AKANNIGGDKH = 7;
+    uint32 IPLGACBJJGH = 5;
+    DALMLFNANKL AJAMEIHEMEA = 3;
+    DALMLFNANKL GHGPLCNLCDF = 7;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "POGIPAEBEHM.proto";
 
+// Name: JICBPNFKLGF
+// CmdId: 5175
 message JICBPNFKLGF {
-	int32 IJIABMFLJGH = 4;
-	repeated POGIPAEBEHM KDHMIOJHOOG = 7;
+    int32 KFCODGHIJEH = 4;
+    repeated POGIPAEBEHM OKKHFJJBAMD = 7;
 }
+

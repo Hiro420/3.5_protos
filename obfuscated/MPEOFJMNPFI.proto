@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MPEOFJMNPFI
+// CmdId: 1971
 message MPEOFJMNPFI {
-	uint32 LLOBHFKCOJA = 2;
-	int32 IJIABMFLJGH = 6;
+    uint32 PDDEJIGJICI = 2;
+    int32 KFCODGHIJEH = 6;
 }
+

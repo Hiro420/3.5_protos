@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PDONEGKNDKM
 message PDONEGKNDKM {
-	uint32 CELMHNAODJL = 1;
-	uint32 IPLCIBDDABI = 2;
-	uint32 KKPDIBFCOCK = 3;
+    uint32 PPEPDDPKKMF = 1;
+    uint32 ACINONNDIMJ = 2;
+    uint32 IAEHHDCFDEE = 3;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BEGHMDLHHND.proto";
 
+// Name: AGBJEGIMDLE
+// CmdId: 387
 message AGBJEGIMDLE {
-	repeated BEGHMDLHHND GDLEKELHGPC = 3;
+    repeated BEGHMDLHHND EHHEEFIMNEE = 3;
 }
+

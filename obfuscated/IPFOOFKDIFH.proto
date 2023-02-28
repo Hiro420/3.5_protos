@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IPFOOFKDIFH
+// CmdId: 2194
 message IPFOOFKDIFH {
-	uint32 FALKHJGHBOD = 15;
-	uint32 DEPLICDLIHN = 13;
-	uint32 JGAHPOJJDHJ = 1;
+    uint32 BCHEDLFFNKC = 15;
+    uint32 NEFKFHIPLHG = 13;
+    uint32 LGAHNCLEDCF = 1;
 }
+

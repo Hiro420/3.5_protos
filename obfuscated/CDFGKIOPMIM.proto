@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CDFGKIOPMIM
+// CmdId: 682
 message CDFGKIOPMIM {
-	uint32 BMMNFGPOIAM = 12;
-	bool FFHIMIJJJJM = 9;
-	uint32 OFBMGFHIPAD = 13;
-	uint64 JDDEJFKJHJN = 14;
-	uint64 PGNGCODDLMG = 7;
+    uint32 FMPFNDPHPFK = 12;
+    bool JKCPAFHIFCA = 9;
+    uint32 FFDILGMGOJL = 13;
+    uint64 LECPGEIPAFI = 14;
+    uint64 KGIHACJCBEK = 7;
 }
+

@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DGPPIFFCCGJ.proto";
 
+// Name: PCLCKHPGJKN
 message PCLCKHPGJKN {
-	DGPPIFFCCGJ LNFKELDOBON = 11;
-	bool DBIKCJCJHFI = 7;
+    DGPPIFFCCGJ OMHIFLNBFCC = 11;
+    bool AAMENNENDKM = 7;
 }
+

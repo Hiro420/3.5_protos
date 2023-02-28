@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OCMDBKMAAPK
+// CmdId: 22688
 message OCMDBKMAAPK {
-	uint32 AIJOKLEENGC = 12;
-	uint32 ELPEALPEJBM = 1;
+    uint32 OBBPIGOHAJL = 12;
+    uint32 BCLNLNDCMGF = 1;
 }
+

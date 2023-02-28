@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ILBGCAPNDLF.proto";
 
+// Name: GCBDKGNHLHB
+// CmdId: 940
 message GCBDKGNHLHB {
-	int32 IJIABMFLJGH = 1;
-	repeated ILBGCAPNDLF FIOJMKANAFF = 13;
+    int32 KFCODGHIJEH = 1;
+    repeated ILBGCAPNDLF NCABMHNEEGJ = 13;
 }
+

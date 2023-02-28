@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AINGLIBEGNA
 message AINGLIBEGNA {
-	uint32 AIJOKLEENGC = 1;
+    uint32 OBBPIGOHAJL = 1;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NFHIIJNJBGB.proto";
 
+// Name: AAPDEPBPHIL
+// CmdId: 3413
 message AAPDEPBPHIL {
-	NFHIIJNJBGB CMFOECMOIIJ = 3;
-	int32 IJIABMFLJGH = 8;
+    NFHIIJNJBGB EOKGKCNBADN = 3;
+    int32 KFCODGHIJEH = 8;
 }
+

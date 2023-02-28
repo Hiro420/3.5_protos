@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CMILNMPDBEB
+// CmdId: 4552
 message CMILNMPDBEB {
-	uint32 JAOBPKMBOKD = 15;
-	uint32 FAICIMDLBMF = 11;
+    uint32 AHMMKMKHHFP = 15;
+    uint32 KFKLCBBKMNC = 11;
 }
+

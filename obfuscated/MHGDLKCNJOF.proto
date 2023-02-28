@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LMHJMCBLEMN.proto";
 
+// Name: MHGDLKCNJOF
+// CmdId: 8818
 message MHGDLKCNJOF {
-	LMHJMCBLEMN BMHBBOMLGPF = 5;
-	bool JJGIODDPEPC = 15;
+    LMHJMCBLEMN IMPIGNNMFLJ = 5;
+    bool GJGNBILKDCI = 15;
 }
+

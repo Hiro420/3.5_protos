@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IKCAPLALLPO.proto";
 
+// Name: BPGHGKPKCBA
+// CmdId: 8743
 message BPGHGKPKCBA {
-	uint32 PDFLEGGDOCP = 4;
-	IKCAPLALLPO ABCACACAHNG = 9;
+    uint32 GPBLLPDCIFK = 4;
+    IKCAPLALLPO ELNMHDIIEIE = 9;
 }
+

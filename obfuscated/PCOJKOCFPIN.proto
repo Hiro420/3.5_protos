@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CCNCLHGNBFP.proto";
 
+// Name: PCOJKOCFPIN
+// CmdId: 4044
 message PCOJKOCFPIN {
-	uint32 AAEBBDIDMAO = 9;
-	CCNCLHGNBFP NFPLGOIMHEN = 3;
+    uint32 AKDECIELPLN = 9;
+    CCNCLHGNBFP DCIGCGHDAHN = 3;
 }
+

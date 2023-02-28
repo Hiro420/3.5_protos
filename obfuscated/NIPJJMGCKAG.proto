@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NIPJJMGCKAG
+// CmdId: 2631
 message NIPJJMGCKAG {
-	uint32 IKJDCCDPFLL = 5;
-	string EJNMMOMKGCO = 7;
-	int32 IJIABMFLJGH = 10;
-	string DHPNGKFNOCF = 14;
-	uint32 HJCAMPKGCFP = 11;
+    uint32 GCOBIKNBNJI = 5;
+    string APHGPJLNCDD = 7;
+    int32 KFCODGHIJEH = 10;
+    string FNIODJLHDLL = 14;
+    uint32 DGNENNGDFOI = 11;
 }
+

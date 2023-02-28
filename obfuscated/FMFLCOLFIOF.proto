@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FMFLCOLFIOF
+// CmdId: 7551
 message FMFLCOLFIOF {
-	uint32 KGHKFNGDPNI = 13;
+    uint32 AHAIAIPGFDN = 13;
 }
+

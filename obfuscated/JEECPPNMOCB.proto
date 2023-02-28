@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: JEECPPNMOCB
+// CmdId: 20804
 message JEECPPNMOCB {
-	repeated ENOCIMKMJJG CAKMNOIHAPK = 10;
-	uint32 MEIABGHLKEC = 4;
+    repeated ENOCIMKMJJG KMFELIADHPJ = 10;
+    uint32 HEMKBGLMMIP = 4;
 }
+

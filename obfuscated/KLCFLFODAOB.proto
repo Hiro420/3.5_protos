@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MPHNEOMIAEB.proto";
 
+// Name: KLCFLFODAOB
 message KLCFLFODAOB {
-	uint32 MGGIEMKADBL = 1;
-	uint32 KFEMBAPKMFH = 2;
-	bool NPFDOLMAHIG = 3;
-	repeated MPHNEOMIAEB ABLDBCKPKBP = 4;
+    uint32 HCCNGFOJDMH = 1;
+    uint32 NDGLECFHBCJ = 2;
+    bool AHJDLONCEPG = 3;
+    repeated MPHNEOMIAEB EFKOILPNEIH = 4;
 }
+

@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BEBIONDAIJE
 message BEBIONDAIJE {
-	bool IFKHAJDMIGI = 12;
-	uint32 CEKDLLLCMKI = 8;
-	bool GBECEMGGCPJ = 14;
-	uint32 OKPFLEMFIAL = 13;
+    bool MCCAEONNHPH = 12;
+    uint32 LKBMPEACAEJ = 8;
+    bool JNEMHMEMNEB = 14;
+    uint32 MBIJNDHCADL = 13;
 }
+

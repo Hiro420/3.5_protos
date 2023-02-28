@@ -2,41 +2,43 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "GKIJDMOCNDH.proto";
-import "NEFCHPHBGAP.proto";
-import "JPOMNGOBDIO.proto";
 import "ALJEMELPDLN.proto";
 import "CMMDBGIFBAL.proto";
-import "FJJOGOJMCOO.proto";
-import "LCCNADFOJME.proto";
 import "EACNABDMBBF.proto";
+import "FJJOGOJMCOO.proto";
+import "GKIJDMOCNDH.proto";
+import "JPOMNGOBDIO.proto";
+import "LCCNADFOJME.proto";
+import "NEFCHPHBGAP.proto";
 
+// Name: FBDKBKEHACB
 message FBDKBKEHACB {
-	uint32 JAOBPKMBOKD = 1;
-	uint64 JDDEJFKJHJN = 2;
-	map<uint32, EACNABDMBBF> PCLGCGJBFEK = 3;
-	uint32 BIMJAJDBCNC = 4;
-	repeated uint64 ABIEFGCJCKH = 5;
-	repeated uint32 OEHOLAFEDBD = 6;
-	map<uint32, float> MIBGCBHMOLP = 7;
-	LCCNADFOJME CIMHGNHGELD = 9;
-	map<uint32, FJJOGOJMCOO> GDHFAHOCDFC = 10;
-	uint32 DOKELIFOJAB = 11;
-	CMMDBGIFBAL EFINMBAMAID = 12;
-	uint32 EHBNKGEJCDL = 13;
-	repeated uint32 CDOBNLGFLAA = 14;
-	map<uint32, uint32> MIHGMNKKEGM = 15;
-	ALJEMELPDLN BBCAGHKBCNN = 16;
-	map<uint32, uint32> KCPMHALGDKP = 17;
-	bool FNNCDNDFHMM = 18;
-	uint32 FIGOAAGGALJ = 19;
-	repeated uint32 MCLFOKCPPNK = 20;
-	uint32 ODLKLNEHBCE = 21;
-	repeated JPOMNGOBDIO BNDALNPMDFP = 22;
-	uint32 BPLAPCEKDFD = 23;
-	repeated uint32 BKFPNOAODIH = 24;
-	uint32 LMFGKMPGIPD = 25;
-	NEFCHPHBGAP DHPGKDIGGOL = 26;
-	uint32 KFMCIFELJEF = 27;
-	GKIJDMOCNDH NLANIHBINMC = 28;
+    uint32 AHMMKMKHHFP = 1;
+    uint64 LECPGEIPAFI = 2;
+    map<uint32, EACNABDMBBF> PLCADEAJFEG = 3;
+    uint32 LCMKLNJCNDC = 4;
+    repeated uint64 JAPOMEPNIGN = 5;
+    repeated uint32 EPDBEJEFCGO = 6;
+    map<uint32, float> OAJNBHKCNND = 7;
+    LCCNADFOJME NHHLMCGBKAG = 9;
+    map<uint32, FJJOGOJMCOO> OLKGKPJGCIN = 10;
+    uint32 GOEBNBGAKLB = 11;
+    CMMDBGIFBAL HMJHAHCLCMN = 12;
+    uint32 GHNJABDOGOK = 13;
+    repeated uint32 MLJLLFNKIJP = 14;
+    map<uint32, uint32> IBBBBDFLEOD = 15;
+    ALJEMELPDLN KEHFNAGEAEH = 16;
+    map<uint32, uint32> AHLLFKMILOG = 17;
+    bool IMILJHDGOJK = 18;
+    uint32 OLKAAFIFCMO = 19;
+    repeated uint32 LFLADDNCKNA = 20;
+    uint32 KAKLNBMFCPN = 21;
+    repeated JPOMNGOBDIO JDMKNFGHPHL = 22;
+    uint32 GPJJNFAJNHD = 23;
+    repeated uint32 DFBFBGILALF = 24;
+    uint32 BFELILCAPAD = 25;
+    NEFCHPHBGAP HPNADFKGEKC = 26;
+    uint32 MGGFLCGOMLL = 27;
+    GKIJDMOCNDH FPDEJLIHLGJ = 28;
 }
+

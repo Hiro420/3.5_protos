@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NIFNHCLOBPA.proto";
 
+// Name: PPNHKLGJMMG
+// CmdId: 2032
 message PPNHKLGJMMG {
-	repeated NIFNHCLOBPA CLKAHPMDDIH = 3;
-	int32 IJIABMFLJGH = 9;
-	uint32 HKKBPCMFKNJ = 7;
+    repeated NIFNHCLOBPA EJCFAMANPKM = 3;
+    int32 KFCODGHIJEH = 9;
+    uint32 LADOHIGCFCB = 7;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: MHKKAAKLPEC
+// CmdId: 250
 message MHKKAAKLPEC {
-	bool IDMAAKJHDAB = 15;
-	DALMLFNANKL LABCKOJLEFP = 2;
+    bool IDJJEJHCFBP = 15;
+    DALMLFNANKL AJAMEIHEMEA = 2;
 }
+

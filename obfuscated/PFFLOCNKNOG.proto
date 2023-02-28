@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PFFLOCNKNOG
 message PFFLOCNKNOG {
-	uint32 OOEOKNDLKJI = 4;
-	uint32 IIIDCPNBHJL = 7;
+    uint32 JHAGKKPIDBM = 4;
+    uint32 KADBGBGCNLG = 7;
 }
+

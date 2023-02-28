@@ -4,11 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BNEGCDIFHLA.proto";
 
+// Name: LLNPGEGHIHC
+// CmdId: 3017
 message LLNPGEGHIHC {
-	uint32 BEKCJPOGBHB = 12;
-	uint32 PDFLEGGDOCP = 10;
-	bool BNGFCOHDDED = 9;
-	uint64 HFIMPFMOMJF = 7;
-	BNEGCDIFHLA EINPEHFFEAI = 2;
-	uint64 LNIOGOIBJGH = 13;
+    uint32 ALHOCCJPIFL = 12;
+    uint32 GPBLLPDCIFK = 10;
+    bool PLADOHKIIMJ = 9;
+    uint64 NCJDFLPBAJK = 7;
+    BNEGCDIFHLA GENELNCGPHP = 2;
+    uint64 HDMGAPIBOBA = 13;
 }
+

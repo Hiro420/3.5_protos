@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PAOIENMGCAB
+// CmdId: 1791
 message PAOIENMGCAB {
-	repeated uint64 POGHDEAENAD = 2;
+    repeated uint64 PKJEEFBMBNM = 2;
 }
+

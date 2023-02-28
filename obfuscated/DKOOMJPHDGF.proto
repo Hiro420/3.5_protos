@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CCNCLHGNBFP.proto";
 
+// Name: DKOOMJPHDGF
+// CmdId: 4033
 message DKOOMJPHDGF {
-	repeated CCNCLHGNBFP MJABIOJPCJK = 12;
-	int32 IJIABMFLJGH = 1;
+    repeated CCNCLHGNBFP DNEMGBJJOBA = 12;
+    int32 KFCODGHIJEH = 1;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MGKPNGHCGBA.proto";
 
+// Name: MAPJPGFCLAE
+// CmdId: 8387
 message MAPJPGFCLAE {
-	uint32 KKMLAEEAHJA = 11;
-	MGKPNGHCGBA LNFKELDOBON = 6;
+    uint32 IIBPCMOEENO = 11;
+    MGKPNGHCGBA OMHIFLNBFCC = 6;
 }
+

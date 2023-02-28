@@ -2,17 +2,26 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "CLPJPELPELM.ECGBAEOLGPB.NFPBPLIEDNC.proto";
 import "KJGMEKEGPNF.proto";
 
+// Name: CLPJPELPELM
+// CmdId: 140
 message CLPJPELPELM {
-	KJGMEKEGPNF HAMPCAFDJBJ = 14;
-	uint32 PHMIPHBEEBM = 1;
-	CLPJPELPELM.ECGBAEOLGPB.NFPBPLIEDNC LBHIINLKALB = 13;
-	bool ODLBBHEHDHJ = 7;
-	string OCGPBJLFDBI = 11;
-	string HFDHMHKDEIA = 6;
-	string CCMMJOKAOIB = 9;
-	string CPPBAKEBNLL = 15;
-	uint32 PJHLKALBLIJ = 10;
+    // Name: NFPBPLIEDNC
+    enum NFPBPLIEDNC {
+        NFPBPLIEDNC_KEMOAKIFGJO = 0;
+        NFPBPLIEDNC_DLPKMLNGJMM = 1;
+        NFPBPLIEDNC_AFKKEFAMOAL = 2;
+    }
+
+    KJGMEKEGPNF DLBPAFNFBFF = 14;
+    uint32 CGNHAGIEBAO = 1;
+    NFPBPLIEDNC DCJGKIIHHPA = 13;
+    bool BHBKNFHMHMK = 7;
+    string LOBOEBCDIJE = 11;
+    string NKKKDHFOADF = 6;
+    string BPFBCBOOIPG = 9;
+    string PCPPJJKFMBB = 15;
+    uint32 GDNBOBIOBPO = 10;
 }
+

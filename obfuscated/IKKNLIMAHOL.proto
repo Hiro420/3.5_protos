@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: IKKNLIMAHOL
 message IKKNLIMAHOL {
-	repeated ENOCIMKMJJG JJKACNJOOJF = 14;
-	repeated ENOCIMKMJJG ALNLFFOCBON = 8;
-	uint32 APPJCEKCOBP = 10;
+    repeated ENOCIMKMJJG MGGPAJLJMDB = 14;
+    repeated ENOCIMKMJJG NIOHABCNACL = 8;
+    uint32 IPLGACBJJGH = 10;
 }
+

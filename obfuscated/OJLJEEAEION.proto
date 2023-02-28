@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: OJLJEEAEION
+// CmdId: 5017
+message OJLJEEAEION {
+    uint32 AKDECIELPLN = 13;
+    oneof FELNMAMJHCP {
+        string FFLOCPCDAKI = 14;
+        uint32 JFDCEHGCIKD = 8;
+    }
+}
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HMLAENOCENE
+// CmdId: 7195
 message HMLAENOCENE {
-	repeated uint32 BDJJCKHEGNO = 10;
+    repeated uint32 IAADAMKHBIL = 10;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IMHGEPAOFOP
+// CmdId: 21717
 message IMHGEPAOFOP {
-	repeated uint32 KOEPJAIKKHG = 5;
-	repeated uint32 MGOHBJCGELK = 11;
+    repeated uint32 GDFDJOIKHNL = 5;
+    repeated uint32 MBKDEFPNCFK = 11;
 }
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KJMKJAIFNEC.proto";
+
+// Name: HJNJFLOPJOP
+message HJNJFLOPJOP {
+    bool IACPFHDIBAH = 1;
+    repeated KJMKJAIFNEC FIAKFNFDPFP = 999;
+}
+

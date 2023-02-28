@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IKKNLIMAHOL.proto";
 
+// Name: KIOEDAAHHFP
+// CmdId: 8374
 message KIOEDAAHHFP {
-	IKKNLIMAHOL GIHNGJPAIDN = 10;
-	int32 IJIABMFLJGH = 12;
+    IKKNLIMAHOL LDOPMBHAINP = 10;
+    int32 KFCODGHIJEH = 12;
 }
+

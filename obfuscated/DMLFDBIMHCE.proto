@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DMLFDBIMHCE
+// CmdId: 3136
 message DMLFDBIMHCE {
-	repeated int32 BLOEGDPHGDD = 14;
-	uint32 HCMPEPODKPP = 10;
-	string BKLAPAFNFCC = 3;
-	repeated float CCGDJOMMLOG = 15;
+    repeated int32 OLOMGFEHEMN = 14;
+    uint32 IOGCBDAJIJK = 10;
+    string GKDJJICHCGE = 3;
+    repeated float HFJADFOMFFB = 15;
 }
+

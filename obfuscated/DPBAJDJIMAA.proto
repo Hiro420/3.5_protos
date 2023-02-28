@@ -2,14 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+import "JFDLFELGAEJ.proto";
 import "MJMMGKPBGGH.proto";
 import "PLPINEPGFHD.proto";
-import "JFDLFELGAEJ.proto";
 
+// Name: DPBAJDJIMAA
 message DPBAJDJIMAA {
-	repeated JFDLFELGAEJ KOAKPPEAFKE = 13;
-	bool BOGIIHOKFML = 15;
-	repeated uint32 PADEDBMHHMF = 1;
-	repeated PLPINEPGFHD BOHHMACOIMI = 6;
-	repeated MJMMGKPBGGH NAONPHINPJO = 5;
+    repeated JFDLFELGAEJ EFLDLOMLAHO = 13;
+    bool PCMDIDICGGO = 15;
+    repeated uint32 HILJBMJKMDD = 1;
+    repeated PLPINEPGFHD FIJCIJMNPLB = 6;
+    repeated MJMMGKPBGGH GNPBHDMACIH = 5;
 }
+

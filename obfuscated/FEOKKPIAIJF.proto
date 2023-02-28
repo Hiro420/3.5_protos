@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KBLDACDEINJ.proto";
 
+// Name: FEOKKPIAIJF
+// CmdId: 1114
 message FEOKKPIAIJF {
-	uint32 PDFLEGGDOCP = 12;
-	string GNLDDLIKJDN = 3;
-	KBLDACDEINJ LLDMONGBCEE = 8;
+    uint32 GPBLLPDCIFK = 12;
+    string BHDBMLOIDGK = 3;
+    KBLDACDEINJ KOMOAPFGOKH = 8;
 }
+

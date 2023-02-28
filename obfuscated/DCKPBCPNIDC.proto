@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DCKPBCPNIDC
 message DCKPBCPNIDC {
-	float PILKIILIPON = 1;
-	float BNKCHKMAMLH = 2;
-	float ILAINCDGGGP = 3;
+    float JNFINBCGKFJ = 1;
+    float OLFGKHGHIMD = 2;
+    float LNAKCLLPDHM = 3;
 }
+

@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MFAPEBAOAIB
 message MFAPEBAOAIB {
-	uint32 POMDDAKNKCD = 4;
-	repeated uint32 HJCBBKFOOIG = 7;
-	repeated uint32 NCMDBDILNGA = 6;
-	uint32 GGDMGDJLKCO = 14;
+    uint32 PCCJFLJIGOL = 4;
+    repeated uint32 DNNHJJHLLFK = 7;
+    repeated uint32 AAIFHDFFPKD = 6;
+    uint32 GNAPPNPBOGK = 14;
 }
+

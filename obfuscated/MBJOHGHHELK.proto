@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FKIGMKCEDGL.proto";
 
+// Name: MBJOHGHHELK
 message MBJOHGHHELK {
-	map<uint32, FKIGMKCEDGL> PJMHAABEOAI = 13;
+    map<uint32, FKIGMKCEDGL> OHMLEPMLBLD = 13;
 }
+

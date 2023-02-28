@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HPDLLEKEJEF
 message HPDLLEKEJEF {
-	uint32 HHEPIOBIFPG = 10;
-	uint64 EGLKAGHBGPD = 6;
-	uint32 HFBDPMHFGHL = 1;
+    uint32 ADEFNBHFFOK = 10;
+    uint64 FABLHDPMMFG = 6;
+    uint32 NHNLKFAFFAB = 1;
 }
+

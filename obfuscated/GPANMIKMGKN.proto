@@ -2,13 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GPANMIKMGKN
 message GPANMIKMGKN {
-	uint32 GNJMJAKKCAK = 4;
-	uint32 DOFOEPDFHCM = 2;
-	uint32 KKLGNGAOIOK = 6;
-	uint32 LENHFFGPPMH = 8;
-	uint32 KDJHNHNLNPE = 11;
-	uint32 OHMNDEMEOCE = 9;
-	uint32 DNDDJPAFBCE = 3;
-	uint32 KEPCLLOONML = 15;
+    uint32 BPFKPEOHJHO = 4;
+    uint32 LMICEFBKOID = 2;
+    uint32 PBABFGGNMDF = 6;
+    uint32 DPLICOODJLA = 8;
+    uint32 LFGKBLLGBBO = 11;
+    uint32 IFCFDJKPPEJ = 9;
+    uint32 NACBICBMNFJ = 3;
+    uint32 JPIIACAHIFE = 15;
 }
+

@@ -2,11 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NHLAHNCCBFA
 message NHLAHNCCBFA {
-	uint32 AENFGBFJNIH = 15;
-	map<uint32, uint32> BBHEBHCBKJG = 9;
-	map<uint32, uint32> PMPCJOEPDOI = 5;
-	bool AMFFHNBJEBO = 8;
-	bool CKMCPIOKFFE = 7;
-	uint32 FGGCOCMKODE = 12;
+    uint32 FGNMBEAOPAM = 15;
+    map<uint32, uint32> KNKPDDKPBBD = 9;
+    map<uint32, uint32> MBHJNEMIKII = 5;
+    bool JFNNIICICHL = 8;
+    bool NKMBACDACBI = 7;
+    uint32 CBDEPGIGFHK = 12;
 }
+

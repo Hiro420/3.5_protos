@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GMGIEHFGOKN
 message GMGIEHFGOKN {
-	float CKHPMJBHMLD = 9;
-	bool JPLDPJLBHKF = 2;
+    float BNJHFOKEHJM = 9;
+    bool LFOEOBPGJGK = 2;
 }
+

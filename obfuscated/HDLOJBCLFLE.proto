@@ -2,16 +2,18 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MBIEJKBJKCH.proto";
 import "LDJBCPLPPHB.proto";
+import "MBIEJKBJKCH.proto";
 
+// Name: HDLOJBCLFLE
 message HDLOJBCLFLE {
-	string GFEPMNAKLAL = 1;
-	string PDFLEGGDOCP = 2;
-	string BOCKELBHKCA = 3;
-	string KDNLODANHDI = 4;
-	string BAFMLDIMHOG = 5;
-	uint32 APPJCEKCOBP = 6;
-	repeated LDJBCPLPPHB EADOMFAJOOE = 7;
-	repeated MBIEJKBJKCH ACNMCKEKEDG = 8;
+    string HHHAFMBFDFC = 1;
+    string GPBLLPDCIFK = 2;
+    string DMBKJKNPKBC = 3;
+    string HLICLJPPEFN = 4;
+    string JLFDINHJDBI = 5;
+    uint32 IPLGACBJJGH = 6;
+    repeated LDJBCPLPPHB EOEGNOCDJLA = 7;
+    repeated MBIEJKBJKCH AAALFDDINJL = 8;
 }
+

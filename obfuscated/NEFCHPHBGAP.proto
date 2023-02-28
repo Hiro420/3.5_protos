@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NEFCHPHBGAP
 message NEFCHPHBGAP {
-	uint64 MIOIAHLGMBO = 1;
-	uint64 CIMMMGOEBOC = 2;
-	uint64 HIDCBOOKLOB = 3;
-	uint64 DMKFBPFHAGM = 4;
-	uint64 PNHMPBDAIDH = 5;
+    uint64 IOEPKJBJAIJ = 1;
+    uint64 MHIBJLFKAOK = 2;
+    uint64 BOGFFFBKIKE = 3;
+    uint64 JEMJDGHHMJD = 4;
+    uint64 OOAPIFKBEGD = 5;
 }
+

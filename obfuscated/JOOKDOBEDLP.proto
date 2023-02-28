@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JOOKDOBEDLP
 message JOOKDOBEDLP {
-	uint32 BEJDBNONODA = 10;
-	bool DJKOKFDGKIG = 6;
-	uint32 MPGJJEALABF = 9;
+    uint32 NJIHDDKBBLA = 10;
+    bool HKDOCGOMBKP = 6;
+    uint32 GPKPCCJAFAH = 9;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ODFEGOJADOK
+// CmdId: 2116
 message ODFEGOJADOK {
-	repeated uint32 BLPEALJMFBI = 3;
+    repeated uint32 BGDHHIAPPLK = 3;
 }
+

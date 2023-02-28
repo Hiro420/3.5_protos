@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CKNMIHFPLAI.proto";
 
+// Name: CAFDCOCIHGK
+// CmdId: 3193
 message CAFDCOCIHGK {
-	int32 IJIABMFLJGH = 15;
-	repeated CKNMIHFPLAI GGOLMMCCPGD = 13;
+    int32 KFCODGHIJEH = 15;
+    repeated CKNMIHFPLAI JBIIMOMDFHH = 13;
 }
+

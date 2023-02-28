@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: DJBLPMPKGKO
 message DJBLPMPKGKO {
-	DALMLFNANKL IBJAJJOOACP = 15;
-	repeated int32 BHAHBGIIJMO = 4;
-	uint32 JDDEJFKJHJN = 5;
-	uint32 CACNAACAJIF = 6;
-	bool HFDICHICGFJ = 1;
+    DALMLFNANKL JOAFFOCECOM = 15;
+    repeated int32 FKLNECJNJIN = 4;
+    uint32 LECPGEIPAFI = 5;
+    uint32 ACECLINGJEA = 6;
+    bool LODADOGPBJB = 1;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DNMOBHEAKBE
+// CmdId: 1909
 message DNMOBHEAKBE {
-	bool GMODBCIADLM = 9;
-	repeated uint32 LIPJDBCMCEP = 6;
+    bool IIKNNGPAHBL = 9;
+    repeated uint32 GGLNDBMFCOA = 6;
 }
+

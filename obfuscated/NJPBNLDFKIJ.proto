@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KNIKNHIMAFF.proto";
 
+// Name: NJPBNLDFKIJ
+// CmdId: 2754
 message NJPBNLDFKIJ {
-	repeated KNIKNHIMAFF NAINFAHOBLH = 8;
+    repeated KNIKNHIMAFF IBCMIFEBFKC = 8;
 }
+

@@ -2,12 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "KFALPHIPJOK.proto";
 import "DALMLFNANKL.proto";
+import "KFALPHIPJOK.proto";
 
+// Name: HDMIAHCJMLG
+// CmdId: 4344
 message HDMIAHCJMLG {
-	bool GEEDHGLGGIN = 5;
-	uint32 MGLBGKBAKOM = 6;
-	DALMLFNANKL LOEGIFANAEN = 2;
-	KFALPHIPJOK KAOBAJAEIPN = 13;
+    bool EGKJBBHODEG = 5;
+    uint32 HCKBCNACPKG = 6;
+    DALMLFNANKL OFGADCJCCCK = 2;
+    KFALPHIPJOK IMDPDHPGDLC = 13;
 }
+

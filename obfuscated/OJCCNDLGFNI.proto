@@ -2,8 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "OJCCNDLGFNI.FGCHFGGBFJP.MEFIOHIAAJP.proto";
-
+// Name: OJCCNDLGFNI
+// CmdId: 7002
 message OJCCNDLGFNI {
-	OJCCNDLGFNI.FGCHFGGBFJP.MEFIOHIAAJP JCBBAMFKJPI = 7;
+    // Name: MEFIOHIAAJP
+    enum MEFIOHIAAJP {
+        MEFIOHIAAJP_NOILKPDEDBD = 0;
+        MEFIOHIAAJP_MCAJBBDOHGI = 1;
+    }
+
+    MEFIOHIAAJP KMMJNGOOAJM = 7;
 }
+

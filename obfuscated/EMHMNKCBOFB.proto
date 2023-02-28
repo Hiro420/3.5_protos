@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: EMHMNKCBOFB
 message EMHMNKCBOFB {
-	float GDPPFECIEPA = 10;
-	DALMLFNANKL ECIGILIDPOH = 14;
+    float KJPKKKLAMKK = 10;
+    DALMLFNANKL BEMBGHIMOBJ = 14;
 }
+

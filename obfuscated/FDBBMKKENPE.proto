@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FDBBMKKENPE
 message FDBBMKKENPE {
-	string BAFMLDIMHOG = 5;
-	uint32 APPJCEKCOBP = 2;
-	uint32 BOCKELBHKCA = 13;
-	uint32 JODNCINCMIF = 9;
-	uint64 BOPOMJIPJMI = 3;
+    string JLFDINHJDBI = 5;
+    uint32 IPLGACBJJGH = 2;
+    uint32 DMBKJKNPKBC = 13;
+    uint32 BKNCDDAAGLJ = 9;
+    uint64 HKLHMEABKCO = 3;
 }
+

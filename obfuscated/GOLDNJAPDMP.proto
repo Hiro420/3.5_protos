@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GOCHCAEPGHD.proto";
 
+// Name: GOLDNJAPDMP
+// CmdId: 2197
 message GOLDNJAPDMP {
-	repeated GOCHCAEPGHD IFNOGNBCCNI = 11;
-	int32 IJIABMFLJGH = 14;
+    repeated GOCHCAEPGHD CPFBELINKKA = 11;
+    int32 KFCODGHIJEH = 14;
 }
+

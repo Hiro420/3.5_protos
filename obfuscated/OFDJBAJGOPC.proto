@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EGMHJIHCDBD.proto";
 
+// Name: OFDJBAJGOPC
+// CmdId: 891
 message OFDJBAJGOPC {
-	uint32 PDFLEGGDOCP = 1;
-	EGMHJIHCDBD MDKCKGAAJLL = 15;
+    uint32 GPBLLPDCIFK = 1;
+    EGMHJIHCDBD FNAAFOFGMKP = 15;
 }
+

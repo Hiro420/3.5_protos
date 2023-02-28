@@ -2,23 +2,25 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "NEFCHPHBGAP.proto";
-import "CMMDBGIFBAL.proto";
 import "BBBEJBEBBLD.proto";
+import "CMMDBGIFBAL.proto";
 import "EACNABDMBBF.proto";
+import "NEFCHPHBGAP.proto";
 
+// Name: LFKBPFHPKCN
 message LFKBPFHPKCN {
-	uint32 JAOBPKMBOKD = 1;
-	map<uint32, EACNABDMBBF> PCLGCGJBFEK = 2;
-	repeated uint32 OEHOLAFEDBD = 3;
-	map<uint32, float> MIBGCBHMOLP = 4;
-	uint32 DOKELIFOJAB = 5;
-	uint32 EHBNKGEJCDL = 6;
-	repeated uint32 CDOBNLGFLAA = 7;
-	map<uint32, uint32> MIHGMNKKEGM = 8;
-	map<uint32, uint32> KCPMHALGDKP = 9;
-	repeated BBBEJBEBBLD ACJANLPCKHN = 10;
-	CMMDBGIFBAL EFINMBAMAID = 11;
-	uint32 LMFGKMPGIPD = 12;
-	NEFCHPHBGAP DHPGKDIGGOL = 13;
+    uint32 AHMMKMKHHFP = 1;
+    map<uint32, EACNABDMBBF> PLCADEAJFEG = 2;
+    repeated uint32 EPDBEJEFCGO = 3;
+    map<uint32, float> OAJNBHKCNND = 4;
+    uint32 GOEBNBGAKLB = 5;
+    uint32 GHNJABDOGOK = 6;
+    repeated uint32 MLJLLFNKIJP = 7;
+    map<uint32, uint32> IBBBBDFLEOD = 8;
+    map<uint32, uint32> AHLLFKMILOG = 9;
+    repeated BBBEJBEBBLD NDGGAKGJNGG = 10;
+    CMMDBGIFBAL HMJHAHCLCMN = 11;
+    uint32 BFELILCAPAD = 12;
+    NEFCHPHBGAP HPNADFKGEKC = 13;
 }
+

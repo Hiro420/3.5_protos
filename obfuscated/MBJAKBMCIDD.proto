@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "GKPCNMJKNBG.proto";
 import "DKDAOPDHNED.proto";
+import "GKPCNMJKNBG.proto";
 
+// Name: MBJAKBMCIDD
 message MBJAKBMCIDD {
-	DKDAOPDHNED PPNFNIDIKKH = 3;
-	GKPCNMJKNBG HDJPLJAAIJO = 2;
+    DKDAOPDHNED GPCJOCOKPCL = 3;
+    GKPCNMJKNBG PLABCAJDHND = 2;
 }
+

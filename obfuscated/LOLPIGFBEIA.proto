@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LOLPIGFBEIA
+// CmdId: 1652
 message LOLPIGFBEIA {
-	repeated uint64 MOLLMLMMPMC = 8;
-	uint64 LHFBBMDLIHF = 3;
-	int32 IJIABMFLJGH = 9;
+    repeated uint64 MNCDODFKAOK = 8;
+    uint64 MFJLBDJGMKC = 3;
+    int32 KFCODGHIJEH = 9;
 }
+

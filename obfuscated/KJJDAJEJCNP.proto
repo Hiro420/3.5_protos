@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KJJDAJEJCNP
+// CmdId: 296
 message KJJDAJEJCNP {
-	map<uint32, string> BGADMGBNHMH = 13;
-	uint32 CDAMPNPKLPL = 9;
+    map<uint32, string> GHJFBLLCFPA = 13;
+    uint32 NMKIFFEKHLM = 9;
 }
+

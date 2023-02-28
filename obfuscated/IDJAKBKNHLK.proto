@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LLJAMLLPIIF.proto";
 
+// Name: IDJAKBKNHLK
 message IDJAKBKNHLK {
-	LLJAMLLPIIF GNLDDLIKJDN = 11;
+    LLJAMLLPIIF BHDBMLOIDGK = 11;
 }
+

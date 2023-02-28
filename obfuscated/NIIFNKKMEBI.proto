@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NIIFNKKMEBI
+// CmdId: 5407
 message NIIFNKKMEBI {
-	bool EIEALMKLEIC = 7;
-	uint32 IGHODAEJNCH = 14;
-	int32 IJIABMFLJGH = 10;
+    bool BDLBHOCMALO = 7;
+    uint32 CMIFHNOBAIC = 14;
+    int32 KFCODGHIJEH = 10;
 }
+

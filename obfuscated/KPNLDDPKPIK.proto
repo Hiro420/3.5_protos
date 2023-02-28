@@ -5,20 +5,22 @@ option java_package = "emu.grasscutter.net.proto";
 import "EIDMCBCONOB.proto";
 import "KEKIOJDBHEP.proto";
 
+// Name: KPNLDDPKPIK
 message KPNLDDPKPIK {
-	bool IMNGDPDOANB = 5;
-	uint32 FGHBNPHIBMI = 12;
-	uint32 BEJDBNONODA = 2;
-	repeated KEKIOJDBHEP MNJANPNMFMH = 4;
-	uint32 JILNBBADMMD = 1459;
-	uint32 DAPMLAHNPHP = 6;
-	bool PHDCENOBAEM = 3;
-	EIDMCBCONOB PFDLAMPJAKD = 1;
-	uint32 CGNCILFOCMN = 11;
-	bool LKNMFONJMOL = 9;
-	bool DJKOKFDGKIG = 13;
-	bool GHPAHHHKFJC = 8;
-	uint32 BBEJEEENLPN = 10;
-	uint32 GNIJCIBOGHJ = 1004;
-	uint32 GFIEFBGBKJC = 7;
+    bool BAGNKKNCIBC = 5;
+    uint32 OKMJMHDCGJB = 12;
+    uint32 NJIHDDKBBLA = 2;
+    repeated KEKIOJDBHEP LNOICBPDKAM = 4;
+    uint32 ANNBBNHPAOF = 1459;
+    uint32 KNLGBLNMMII = 6;
+    bool CGJGPFLLNBM = 3;
+    EIDMCBCONOB FFFAONENLHL = 1;
+    uint32 PBHGOHEOAJA = 11;
+    bool ELEPGIOFIBF = 9;
+    bool HKDOCGOMBKP = 13;
+    bool FIPLFJFDALD = 8;
+    uint32 PJNELCLHMOH = 10;
+    uint32 NAFIKKJDDDN = 1004;
+    uint32 DONFAPGFDMK = 7;
 }
+

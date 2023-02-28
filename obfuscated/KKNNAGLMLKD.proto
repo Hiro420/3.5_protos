@@ -2,23 +2,26 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KKNNAGLMLKD
+// CmdId: 8278
 message KKNNAGLMLKD {
-	uint32 LGHFADDEAJN = 1;
-	uint32 JDJDOCNKLHI = 14;
-	uint64 DHJBPPJOKNK = 6;
-	uint32 CIGDKOHEPCA = 1954;
-	uint32 HFGHKPOBBLK = 15;
-	bool AMPGLKBGHIN = 3;
-	uint32 EAAJKAHEPKL = 181;
-	repeated uint32 IFHJPOFALMN = 630;
-	uint32 DBCEEODIKCO = 2;
-	bool GACFGGGMICG = 1707;
-	uint32 MHMANMAOBAF = 1085;
-	bool LEIOJKICPHB = 634;
-	float NOCCECFFIFI = 1108;
-	repeated uint32 KKBOGAFIKBF = 13;
-	uint32 CMBCMNNFIGF = 8;
-	uint32 MIJOKJMFHMC = 10;
-	uint32 KKJPLCNBNLD = 4;
-	uint32 NAEGOGKCCIB = 12;
+    uint32 APJPLBOJEGN = 1;
+    uint32 LGGIEEFEFFO = 14;
+    uint64 GDABHBPIGIP = 6;
+    uint32 OJIACEJOFJF = 1954;
+    uint32 EKNFGPCDCLK = 15;
+    bool LEOGICLCOKE = 3;
+    uint32 BFAIDHEKEOD = 181;
+    repeated uint32 DGMDAOAENMJ = 630;
+    uint32 IBHFHNMMJKH = 2;
+    bool JIIDBCILMEP = 1707;
+    uint32 JNBMKEFPJIC = 1085;
+    bool AECNMHLOMBH = 634;
+    float BBEBFCMEOPN = 1108;
+    repeated uint32 NNIJFEMDAIM = 13;
+    uint32 HPAMHHMILKM = 8;
+    uint32 NDOFNFADKJH = 10;
+    uint32 JFGEINBKKMB = 4;
+    uint32 AAHAACKGAGG = 12;
 }
+

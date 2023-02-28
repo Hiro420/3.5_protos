@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MBJAKBMCIDD.proto";
 
+// Name: LHMDJABMLNN
+// CmdId: 2416
 message LHMDJABMLNN {
-	int32 IJIABMFLJGH = 14;
-	repeated MBJAKBMCIDD FCLAMGHHMNG = 1;
+    int32 KFCODGHIJEH = 14;
+    repeated MBJAKBMCIDD GEHELKMBPJI = 1;
 }
+

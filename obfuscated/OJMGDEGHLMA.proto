@@ -2,13 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "HEBCDMGHOMC.proto";
 import "GKDCKNEDMAM.proto";
+import "HEBCDMGHOMC.proto";
 import "KNOKLJBFHCE.proto";
 
+// Name: OJMGDEGHLMA
+// CmdId: 6204
 message OJMGDEGHLMA {
-	KNOKLJBFHCE OHLNFFNBLLG = 4;
-	GKDCKNEDMAM BPFKHHEPPIJ = 12;
-	HEBCDMGHOMC HOIHBLFGAGJ = 9;
-	repeated uint32 FOGJAFAGGOP = 2;
+    KNOKLJBFHCE BAHAPDCMHHP = 4;
+    GKDCKNEDMAM IACEPFNMLKI = 12;
+    HEBCDMGHOMC MGKJOJILKHN = 9;
+    repeated uint32 EKAGDONOKPN = 2;
 }
+

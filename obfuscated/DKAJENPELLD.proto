@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EBCKHAKAFEN.proto";
 
+// Name: DKAJENPELLD
 message DKAJENPELLD {
-	repeated EBCKHAKAFEN LALLGCCFAFE = 9;
-	uint32 FGCLNBKILOH = 5;
-	uint32 BEJDBNONODA = 7;
-	uint32 GOBCEBKCKAG = 14;
-	uint32 AIJOKLEENGC = 1;
+    repeated EBCKHAKAFEN MDDKIHLKOOM = 9;
+    uint32 JNLHFFKMCNM = 5;
+    uint32 NJIHDDKBBLA = 7;
+    uint32 OEHEMHPFFBO = 14;
+    uint32 OBBPIGOHAJL = 1;
 }
+

@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EIOOMOJGHCP.proto";
 
+// Name: JENNEPEEJMO
+// CmdId: 7238
 message JENNEPEEJMO {
-	repeated EIOOMOJGHCP LFCJJJGJEKJ = 1;
-	EIOOMOJGHCP EINJMBGPLGD = 13;
-	repeated EIOOMOJGHCP GOKFCLPDOJN = 9;
+    repeated EIOOMOJGHCP FBCGJHJAKCB = 1;
+    EIOOMOJGHCP KHMBPIBKKII = 13;
+    repeated EIOOMOJGHCP PKPONJNCKFM = 9;
 }
+

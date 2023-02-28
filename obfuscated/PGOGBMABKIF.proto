@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: PGOGBMABKIF
+message PGOGBMABKIF {
+    string LGNKLEPOPJI = 1;
+    bytes IHLLNJNJBGO = 2;
+}
+

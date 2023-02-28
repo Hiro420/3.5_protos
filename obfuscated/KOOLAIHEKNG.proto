@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KOOLAIHEKNG
+// CmdId: 177
 message KOOLAIHEKNG {
-	uint32 FFKJAOHOCJN = 7;
-	uint32 GCOHJCDPDHG = 1;
-	uint32 INEPDGFJJED = 13;
-	bool IJNFFGJCODC = 4;
+    uint32 COBBLPOPDMO = 7;
+    uint32 OMJHLAHAKJN = 1;
+    uint32 NCHDGFJEELA = 13;
+    bool NLNMEENDNBK = 4;
 }
+

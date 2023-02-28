@@ -2,10 +2,18 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "PAIAJAJDMPF.GMOHBPFIAEN.KFKPCGHIEHA.proto";
-
+// Name: PAIAJAJDMPF
 message PAIAJAJDMPF {
-	repeated int32 MEPGPIFOLJH = 3;
-	repeated PAIAJAJDMPF.GMOHBPFIAEN.KFKPCGHIEHA PIJPPKEEBLJ = 12;
-	int32 KFDKAFPONOB = 6;
+    // Name: KFKPCGHIEHA
+    enum KFKPCGHIEHA {
+        KFKPCGHIEHA_FJFHKKFINFH = 0;
+        KFKPCGHIEHA_NHKNOIFALLE = 1;
+        KFKPCGHIEHA_NFBFEEFAICO = 2;
+        KFKPCGHIEHA_OAKEBFJFLFK = 3;
+    }
+
+    repeated int32 CPLIFGPIEBF = 3;
+    repeated KFKPCGHIEHA CHDKPBJPCBM = 12;
+    int32 ONNJNGDDNKM = 6;
 }
+

@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AJPMIFGBPCH.proto";
+import "APHMIMMPMDI.proto";
+import "APLBOALHGKD.proto";
+import "BNEGCDIFHLA.proto";
+import "CPDBIKEOEDK.proto";
+import "FEGCMMBGONJ.proto";
+import "IGFMCNMHFFH.proto";
+import "JGDPHOLMJAK.proto";
+import "JIKGNBFBIGC.proto";
+import "KLGFAAAPHPO.proto";
+import "KOMONGMKKND.proto";
+import "LGAFMFIJKIE.proto";
+import "PEALFGKFNKK.proto";
+
+// Name: HGJKEMEBOKC
+message HGJKEMEBOKC {
+    APHMIMMPMDI MOCKBHIDNDO = 1;
+    uint32 GPBLLPDCIFK = 2;
+    string FGEDEGFCPDJ = 3;
+    BNEGCDIFHLA GENELNCGPHP = 4;
+    repeated KLGFAAAPHPO LEPLDBHCKLN = 5;
+    repeated KOMONGMKKND IKMIFBNFMFB = 6;
+    uint32 LCMKLNJCNDC = 7;
+    repeated FEGCMMBGONJ BJCJLGHLCMP = 9;
+    uint32 HBIAHIIFBKK = 17;
+    uint32 BOMNJLFACNM = 18;
+    LGAFMFIJKIE CCJLKANIBMD = 19;
+    repeated CPDBIKEOEDK FMNAHMIBMPL = 20;
+    PEALFGKFNKK BMJMPFNADMI = 21;
+    repeated string HHPMILMICBI = 22;
+    repeated IGFMCNMHFFH NHIJKOEOAFH = 23;
+    oneof DPDNKOIFCPO {
+        JIKGNBFBIGC BKEAKBDBPCJ = 10;
+        AJPMIFGBPCH FHMAHLKINBJ = 11;
+        JGDPHOLMJAK NHLDHDMMHKN = 12;
+        APLBOALHGKD LDHOPBBKNJE = 13;
+    }
+}
+

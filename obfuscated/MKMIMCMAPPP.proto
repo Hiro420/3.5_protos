@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NOMPJNNKOKM.proto";
 
+// Name: MKMIMCMAPPP
+// CmdId: 5801
 message MKMIMCMAPPP {
-	bool AECKJJJPJGE = 2;
-	NOMPJNNKOKM KPCHBEGMEKM = 6;
-	uint32 KCLGPLGLCOH = 14;
+    bool NFPCKPPCEGN = 2;
+    NOMPJNNKOKM JDHCGKFBINH = 6;
+    uint32 DFDIIFEGAPL = 14;
 }
+

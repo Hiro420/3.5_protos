@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NJOPCBIPPBE.proto";
 
+// Name: FGNKBHOCEPG
+// CmdId: 3975
 message FGNKBHOCEPG {
-	int32 IJIABMFLJGH = 12;
-	NJOPCBIPPBE FDJELIDEOJJ = 1;
+    int32 KFCODGHIJEH = 12;
+    NJOPCBIPPBE OOOJLKNPCOM = 1;
 }
+

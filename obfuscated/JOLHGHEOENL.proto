@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JOLHGHEOENL
+// CmdId: 23121
 message JOLHGHEOENL {
-	uint32 BEJDBNONODA = 13;
-	uint32 AIJOKLEENGC = 9;
-	bool MEDBNAPDCLL = 15;
-	uint32 OPLEJJBAPMI = 6;
-	bool LLNAKLLANNO = 12;
+    uint32 NJIHDDKBBLA = 13;
+    uint32 OBBPIGOHAJL = 9;
+    bool OMMDIFHOGIA = 15;
+    uint32 AGDIFNGNFOK = 6;
+    bool CHFPHPBILMC = 12;
 }
+

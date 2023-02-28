@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HKNICPJLBBF.proto";
 
+// Name: CNHEFALIEFK
+// CmdId: 4082
 message CNHEFALIEFK {
-	HKNICPJLBBF FPKNBNEFGCL = 8;
-	uint32 AAEBBDIDMAO = 2;
-	int32 IJIABMFLJGH = 12;
+    HKNICPJLBBF CFFNKFKPBCI = 8;
+    uint32 AKDECIELPLN = 2;
+    int32 KFCODGHIJEH = 12;
 }
+

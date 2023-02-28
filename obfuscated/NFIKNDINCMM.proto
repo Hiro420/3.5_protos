@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JJOLFAPBPNN.proto";
 
+// Name: NFIKNDINCMM
+// CmdId: 3125
 message NFIKNDINCMM {
-	JJOLFAPBPNN FKHCMPFAAHJ = 5;
-	uint32 EBJNKJCIPHA = 15;
+    JJOLFAPBPNN BBMMPANMJOI = 5;
+    uint32 LKKGIIANNGL = 15;
 }
+

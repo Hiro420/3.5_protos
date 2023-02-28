@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ONIKMEGNJAK
 message ONIKMEGNJAK {
-	repeated uint32 KIOODOPEPAK = 3;
-	uint32 IAIEOLAOPAB = 10;
+    repeated uint32 ECNNODOGJIA = 3;
+    uint32 ODPJBCIMOMA = 10;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FBKBALODAED.proto";
 
+// Name: GANMGHEFDNP
+// CmdId: 4417
 message GANMGHEFDNP {
-	FBKBALODAED KKPGKEPJEMO = 2;
+    FBKBALODAED OOJPOLAFIOO = 2;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GHKBLBNPHEN
+// CmdId: 972
 message GHKBLBNPHEN {
-	bool CANKFDJAHAN = 3;
-	repeated uint32 INJOJCFDOKF = 11;
+    bool FJHOJJNNMLL = 3;
+    repeated uint32 BJGKONJKJKH = 11;
 }
+

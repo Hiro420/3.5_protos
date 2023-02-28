@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: FPBAKHENGML
+enum FPBAKHENGML {
+    FPBAKHENGML_EKDLJFAAEDC = 0;
+    FPBAKHENGML_GBNGBLMAOLO = 1;
+}
+

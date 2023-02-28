@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KDDEEFOPBJB.proto";
 
+// Name: OOFDGHBGGCB
+// CmdId: 8929
 message OOFDGHBGGCB {
-	bool FNCIHCFJNPN = 10;
-	repeated KDDEEFOPBJB FDHAOGJKFPI = 1;
-	uint32 PCLLHONGBPM = 6;
-	uint32 LCOOHOHDNMJ = 2;
+    bool PELDPPJBIOK = 10;
+    repeated KDDEEFOPBJB KGDOHMOGNDL = 1;
+    uint32 JIFCMKCIKMM = 6;
+    uint32 GABBOIAJKLA = 2;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DCOJKOKIFOJ.proto";
 
+// Name: BHEMFHAADAI
+// CmdId: 4289
 message BHEMFHAADAI {
-	int32 IJIABMFLJGH = 13;
-	DCOJKOKIFOJ ABKAJBJLHGG = 7;
+    int32 KFCODGHIJEH = 13;
+    DCOJKOKIFOJ AGBBNMFEBCC = 7;
 }
+

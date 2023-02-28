@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GONMNBFLCOH.proto";
 
+// Name: PEPHBANPBCG
 message PEPHBANPBCG {
-	repeated GONMNBFLCOH GJLNDPMMIPG = 6;
-	uint32 MODGFBJMMHC = 4;
-	uint32 AIJOKLEENGC = 14;
+    repeated GONMNBFLCOH MLKOODGPINM = 6;
+    uint32 JJJDABMAPJG = 4;
+    uint32 OBBPIGOHAJL = 14;
 }
+

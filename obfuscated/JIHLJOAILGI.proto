@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KBLDACDEINJ.proto";
 
+// Name: JIHLJOAILGI
+// CmdId: 1107
 message JIHLJOAILGI {
-	bool FJLKKJAAEMA = 1;
-	repeated KBLDACDEINJ KENBKHFDPOO = 8;
-	uint32 PDFLEGGDOCP = 3;
+    bool EHIMLHFJENC = 1;
+    repeated KBLDACDEINJ DJIKJBBBBAB = 8;
+    uint32 GPBLLPDCIFK = 3;
 }
+

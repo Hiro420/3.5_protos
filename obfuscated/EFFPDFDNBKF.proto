@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EFFPDFDNBKF
+// CmdId: 205
 message EFFPDFDNBKF {
-	repeated uint32 KJJKABHBMGO = 14;
-	int32 IJIABMFLJGH = 3;
-	repeated uint32 CHPPDJGOGKP = 9;
+    repeated uint32 NAOCKPEFPAC = 14;
+    int32 KFCODGHIJEH = 3;
+    repeated uint32 GKDJDLFGGIN = 9;
 }
+

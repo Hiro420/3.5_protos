@@ -5,9 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "HEBCDMGHOMC.proto";
 import "KNOKLJBFHCE.proto";
 
+// Name: DKDPGFEDLKH
+// CmdId: 6243
 message DKDPGFEDLKH {
-	KNOKLJBFHCE OHLNFFNBLLG = 5;
-	HEBCDMGHOMC HOIHBLFGAGJ = 14;
-	int32 IJIABMFLJGH = 1;
-	map<uint32, uint32> LHJIDOOLOOP = 3;
+    KNOKLJBFHCE BAHAPDCMHHP = 5;
+    HEBCDMGHOMC MGKJOJILKHN = 14;
+    int32 KFCODGHIJEH = 1;
+    map<uint32, uint32> JDCIBFBEAJO = 3;
 }
+

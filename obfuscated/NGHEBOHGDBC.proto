@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IGKIPAJDMNO.proto";
 
+// Name: NGHEBOHGDBC
 message NGHEBOHGDBC {
-	uint32 NPFDOLMAHIG = 5;
-	uint32 AFJJCDAMFIK = 10;
-	repeated IGKIPAJDMNO KHKIIAGAMNF = 8;
-	uint32 MGGIEMKADBL = 2;
-	uint32 KFEMBAPKMFH = 7;
+    uint32 AHJDLONCEPG = 5;
+    uint32 EAKDPMJABDI = 10;
+    repeated IGKIPAJDMNO LOEKNOMIEEI = 8;
+    uint32 HCCNGFOJDMH = 2;
+    uint32 NDGLECFHBCJ = 7;
 }
+

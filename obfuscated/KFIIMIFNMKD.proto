@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KFIIMIFNMKD
 message KFIIMIFNMKD {
-	repeated uint32 NBFAPPINAJF = 10;
-	repeated uint32 DNEPPAJEHAB = 7;
+    repeated uint32 MJENOJLMDHH = 10;
+    repeated uint32 FILEOPOKGMG = 7;
 }
+

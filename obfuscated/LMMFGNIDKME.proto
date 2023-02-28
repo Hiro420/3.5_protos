@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HNPNHGMKOGO.proto";
+import "IBDHKPKIDND.proto";
+
+// Name: LMMFGNIDKME
+message LMMFGNIDKME {
+    uint32 FPEGMBJFBBF = 3;
+    repeated uint32 JADNPMJGJCA = 4;
+    bool LMOOIJKDBNK = 5;
+    repeated IBDHKPKIDND FIJMEGFPCCK = 6;
+    HNPNHGMKOGO JCAGLLGJIGK = 7;
+    oneof NDMGFMPJKEH {
+        uint32 AKLOJMJDHPE = 1;
+        uint32 OEKBIJIGEDO = 2;
+    }
+}
+

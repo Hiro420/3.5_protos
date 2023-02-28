@@ -2,13 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MKOCGKJGDEN
+// CmdId: 2115
 message MKOCGKJGDEN {
-	uint32 MANKLDHPGMA = 7;
-	uint32 BMPBBANDEPM = 14;
-	uint32 DBCEEODIKCO = 5;
-	bool DBIKCJCJHFI = 15;
-	uint32 JEEFNCHAJOJ = 3;
-	uint32 JMECAMPDNEE = 9;
-	bool MFPGHFOFAFP = 4;
-	uint32 CNHCBFLHDDD = 10;
+    uint32 ECGNDJEFALL = 7;
+    uint32 DOJCKDMCLJE = 14;
+    uint32 IBHFHNMMJKH = 5;
+    bool AAMENNENDKM = 15;
+    uint32 MPLJBMEAIBB = 3;
+    uint32 IKLDEPKLIMD = 9;
+    bool KANHMLPBBHL = 4;
+    uint32 NJENGLLHPJD = 10;
 }
+

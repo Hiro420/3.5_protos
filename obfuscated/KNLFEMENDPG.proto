@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HDILGEFEHEL.proto";
 
+// Name: KNLFEMENDPG
 message KNLFEMENDPG {
-	repeated HDILGEFEHEL KLJPKMNOLLJ = 15;
+    repeated HDILGEFEHEL MJMOMNIDILO = 15;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LFJEGCDDKCK.proto";
 
+// Name: LNIKBMEBALI
+// CmdId: 1172
 message LNIKBMEBALI {
-	repeated LFJEGCDDKCK OGNKCEPOGCB = 12;
+    repeated LFJEGCDDKCK MMMEEGOLGGG = 12;
 }
+

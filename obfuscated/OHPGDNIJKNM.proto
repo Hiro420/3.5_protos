@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PIHAKFBEGFO.proto";
 
+// Name: OHPGDNIJKNM
+// CmdId: 446
 message OHPGDNIJKNM {
-	int32 IJIABMFLJGH = 3;
-	int32 PPKJKJBPNEP = 11;
-	PIHAKFBEGFO GMEGEBDHNLB = 4;
-	uint32 BKHNPLBGEID = 12;
+    int32 KFCODGHIJEH = 3;
+    int32 BFJHDGOBCFE = 11;
+    PIHAKFBEGFO GBNBNLANEBA = 4;
+    uint32 NALCJKNOEPA = 12;
 }
+

@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DBDANFEPCMO
+// CmdId: 8665
 message DBDANFEPCMO {
-	uint32 BEJDBNONODA = 7;
-	uint32 FEOMIOKBKJA = 6;
-	uint32 GHGHAHFFPOF = 3;
-	uint32 LOLDFOKEGGF = 14;
-	bool DBIKCJCJHFI = 12;
-	uint32 AHEFDMPHAAK = 11;
+    uint32 NJIHDDKBBLA = 7;
+    uint32 GIKJGOPJELA = 6;
+    uint32 LFMGDDMJGIP = 3;
+    uint32 DNCGDPEOCHL = 14;
+    bool AAMENNENDKM = 12;
+    uint32 NOGMACBJJCL = 11;
 }
+

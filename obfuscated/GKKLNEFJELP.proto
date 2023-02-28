@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GKKLNEFJELP
+// CmdId: 249
 message GKKLNEFJELP {
-	uint32 CDAMPNPKLPL = 6;
+    uint32 NMKIFFEKHLM = 6;
 }
+

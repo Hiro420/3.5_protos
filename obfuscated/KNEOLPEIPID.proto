@@ -2,9 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "KNEOLPEIPID.NAKBINMMLFB.IPLKGKOHDOL.proto";
-
+// Name: KNEOLPEIPID
+// CmdId: 829
 message KNEOLPEIPID {
-	KNEOLPEIPID.NAKBINMMLFB.IPLKGKOHDOL LBHIINLKALB = 8;
-	uint32 PDFLEGGDOCP = 7;
+    // Name: IPLKGKOHDOL
+    enum IPLKGKOHDOL {
+        IPLKGKOHDOL_MPABHDCHDAD = 0;
+        IPLKGKOHDOL_LJIFNIHEENH = 1;
+        IPLKGKOHDOL_PLMNDJCBBED = 2;
+    }
+
+    IPLKGKOHDOL DCJGKIIHHPA = 8;
+    uint32 GPBLLPDCIFK = 7;
 }
+

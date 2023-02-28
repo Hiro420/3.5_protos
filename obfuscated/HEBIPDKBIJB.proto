@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "KFALPHIPJOK.proto";
 import "DALMLFNANKL.proto";
+import "KFALPHIPJOK.proto";
 
+// Name: HEBIPDKBIJB
+// CmdId: 4339
 message HEBIPDKBIJB {
-	DALMLFNANKL HCEBPBEMMBG = 9;
-	uint32 BLNEAIDBFAB = 1;
-	KFALPHIPJOK KAOBAJAEIPN = 12;
+    DALMLFNANKL GDGFHIFPFNL = 9;
+    uint32 MBKACHGMKBJ = 1;
+    KFALPHIPJOK IMDPDHPGDLC = 12;
 }
+

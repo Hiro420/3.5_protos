@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IPCPFADOJFH
 message IPCPFADOJFH {
-	bool IDGGPDICKOO = 5;
-	uint32 LOLDFOKEGGF = 1;
-	uint32 FEOMIOKBKJA = 11;
-	bool DBIKCJCJHFI = 6;
-	uint32 AHEFDMPHAAK = 13;
-	uint32 MAAACGNIINH = 9;
-	uint32 AIJOKLEENGC = 15;
+    bool IIKHHOCDJDK = 5;
+    uint32 DNCGDPEOCHL = 1;
+    uint32 GIKJGOPJELA = 11;
+    bool AAMENNENDKM = 6;
+    uint32 NOGMACBJJCL = 13;
+    uint32 ACLMNJDOGKP = 9;
+    uint32 OBBPIGOHAJL = 15;
 }
+

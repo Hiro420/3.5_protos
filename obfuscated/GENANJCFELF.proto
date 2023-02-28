@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GENANJCFELF
+// CmdId: 301
 message GENANJCFELF {
-	uint32 PEHOGHMLHPL = 6;
-	float DDLCHFBLPIG = 4;
-	uint32 IBBGGDNDKOD = 3;
-	float HNEALPAFDGI = 7;
+    uint32 OICJOMCHDPD = 6;
+    float JHONBPIGLCI = 4;
+    uint32 FPHBLPNDGEK = 3;
+    float PNLNNJHIJFC = 7;
 }
+

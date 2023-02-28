@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MIMGLIBHAPO
+// CmdId: 1768
 message MIMGLIBHAPO {
-	uint64 LHFBBMDLIHF = 12;
-	repeated uint64 MOLLMLMMPMC = 13;
+    uint64 MFJLBDJGMKC = 12;
+    repeated uint64 MNCDODFKAOK = 13;
 }
+

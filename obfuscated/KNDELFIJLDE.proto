@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KNDELFIJLDE
 message KNDELFIJLDE {
-	uint32 GCOHBAJKCEO = 10;
-	uint32 AJKMILGDHEH = 11;
-	uint32 DBCEEODIKCO = 12;
+    uint32 OCIDBCHINBK = 10;
+    uint32 FLLBEKKCGGN = 11;
+    uint32 IBHFHNMMJKH = 12;
 }
+

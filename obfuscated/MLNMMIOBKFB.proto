@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: MLNMMIOBKFB
+enum MLNMMIOBKFB {
+    MLNMMIOBKFB_DGCCEODKCHA = 0;
+    MLNMMIOBKFB_DFNBKCKFOMM = 1;
+    MLNMMIOBKFB_PIPGJCKEMGI = 2;
+    MLNMMIOBKFB_PKMHGALHLAC = 3;
+    MLNMMIOBKFB_IBDFMKJDMDJ = 4;
+}
+

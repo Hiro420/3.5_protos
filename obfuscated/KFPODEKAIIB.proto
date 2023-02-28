@@ -2,16 +2,18 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "NAHPGADLEJH.proto";
 import "IKPIMJPJJNH.proto";
+import "NAHPGADLEJH.proto";
 
+// Name: KFPODEKAIIB
 message KFPODEKAIIB {
-	bool EHEMPALDKMN = 9;
-	IKPIMJPJJNH MHANNMGPJCP = 1;
-	uint32 NNEADGDBAKH = 2;
-	bool LAMICHCMOMM = 12;
-	bool HBCIALNCIPO = 8;
-	uint32 PNKEAFMICOH = 13;
-	uint64 BOPOMJIPJMI = 14;
-	repeated NAHPGADLEJH OMOICEENHEL = 15;
+    bool EBDMFAMBJNG = 9;
+    IKPIMJPJJNH EJPDFKKGEMK = 1;
+    uint32 FFHGCKHMLIA = 2;
+    bool FPAPPKDEIEM = 12;
+    bool JNDPMPEBPIK = 8;
+    uint32 LLPJGIPPIDD = 13;
+    uint64 HKLHMEABKCO = 14;
+    repeated NAHPGADLEJH ALGCLPMMNKC = 15;
 }
+

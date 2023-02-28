@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NLBMAKMGHOE.proto";
 
+// Name: IKCAPLALLPO
 message IKCAPLALLPO {
-	repeated NLBMAKMGHOE GNDDNIKDPPI = 1;
+    repeated NLBMAKMGHOE NOEENBALEKH = 1;
 }
+

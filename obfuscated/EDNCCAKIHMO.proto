@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EDNCCAKIHMO
+// CmdId: 23580
 message EDNCCAKIHMO {
-	bool MFPGHFOFAFP = 3;
-	int32 IJIABMFLJGH = 10;
+    bool KANHMLPBBHL = 3;
+    int32 KFCODGHIJEH = 10;
 }
+

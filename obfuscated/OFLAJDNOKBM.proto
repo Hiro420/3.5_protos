@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: OFLAJDNOKBM
+// CmdId: 302
 message OFLAJDNOKBM {
-	uint32 PDFLEGGDOCP = 12;
-	uint64 DAKINCEPDIJ = 11;
-	DALMLFNANKL ONPNDEDLPNB = 5;
+    uint32 GPBLLPDCIFK = 12;
+    uint64 MEHIMLBGJLN = 11;
+    DALMLFNANKL HBMLNLCODNM = 5;
 }
+

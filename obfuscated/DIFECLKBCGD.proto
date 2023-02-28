@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DFNGPIGNBJJ.proto";
 
+// Name: DIFECLKBCGD
+// CmdId: 65
 message DIFECLKBCGD {
-	repeated DFNGPIGNBJJ GJLNDPMMIPG = 13;
-	uint32 ICFIJIEKEEJ = 12;
-	int32 IJIABMFLJGH = 14;
+    repeated DFNGPIGNBJJ MLKOODGPINM = 13;
+    uint32 PIOGLHEHAAD = 12;
+    int32 KFCODGHIJEH = 14;
 }
+

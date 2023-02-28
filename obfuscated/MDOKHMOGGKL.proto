@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MDOKHMOGGKL
+// CmdId: 24023
 message MDOKHMOGGKL {
-	int32 IJIABMFLJGH = 7;
-	uint32 MEIABGHLKEC = 12;
+    int32 KFCODGHIJEH = 7;
+    uint32 HEMKBGLMMIP = 12;
 }
+

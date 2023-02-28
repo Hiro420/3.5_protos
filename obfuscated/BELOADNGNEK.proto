@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KMNAIPMHDEG.proto";
 
+// Name: BELOADNGNEK
+// CmdId: 3543
 message BELOADNGNEK {
-	repeated KMNAIPMHDEG CEBFLKOHOBF = 11;
+    repeated KMNAIPMHDEG NOKCPGKAHPI = 11;
 }
+

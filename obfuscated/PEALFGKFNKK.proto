@@ -2,18 +2,20 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MJCEMFIHNCD.proto";
-import "FEGCMMBGONJ.proto";
 import "DALMLFNANKL.proto";
-import "NELPLEPDNED.proto";
+import "FEGCMMBGONJ.proto";
 import "LNAAJJBMJEM.proto";
+import "MJCEMFIHNCD.proto";
+import "NELPLEPDNED.proto";
 import "ONHDINIKADE.proto";
 
+// Name: PEALFGKFNKK
 message PEALFGKFNKK {
-	ONHDINIKADE GCLFCOJPHIJ = 1;
-	LNAAJJBMJEM DKHKOCFHHAO = 2;
-	NELPLEPDNED NHCAJDOBFCI = 3;
-	DALMLFNANKL OFPNGCGDNME = 4;
-	repeated FEGCMMBGONJ JBIAFJNECOK = 5;
-	MJCEMFIHNCD BAMAEEFHMFK = 6;
+    ONHDINIKADE HCIMANAELGD = 1;
+    LNAAJJBMJEM CCIJIFKPHMG = 2;
+    NELPLEPDNED BBIEPEKCOAA = 3;
+    DALMLFNANKL LGOIELIDPML = 4;
+    repeated FEGCMMBGONJ EFMECMPICPF = 5;
+    MJCEMFIHNCD EFHCIMCAGOD = 6;
 }
+

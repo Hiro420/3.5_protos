@@ -2,13 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ANHIPICCPMI
 message ANHIPICCPMI {
-	uint32 CELMHNAODJL = 1;
-	uint32 MCPMDEAPNAD = 2;
-	uint64 JDDEJFKJHJN = 3;
-	uint32 OJGJNNDIDGJ = 4;
-	uint32 KKPDIBFCOCK = 5;
-	bool FGLHGJMLKAM = 6;
-	bool CNMOMLHFJCI = 7;
-	repeated uint32 EGFGKHNBCAB = 8;
+    uint32 PPEPDDPKKMF = 1;
+    uint32 DDGOMGMCACF = 2;
+    uint64 LECPGEIPAFI = 3;
+    uint32 BAEJFEDNCCG = 4;
+    uint32 IAEHHDCFDEE = 5;
+    bool NNCAGHBGICE = 6;
+    bool KEJKHMDLKLO = 7;
+    repeated uint32 HONIJGMKIKC = 8;
 }
+

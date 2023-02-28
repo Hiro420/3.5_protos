@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EFLDHGLFIDD.proto";
 
+// Name: CFNFHECAPPI
 message CFNFHECAPPI {
-	EFLDHGLFIDD PLCGHLEONOA = 15;
-	uint32 FLGDHAHGOGD = 14;
+    EFLDHGLFIDD JOCOFDOGDPG = 15;
+    uint32 FBCMJLAKGHF = 14;
 }
+

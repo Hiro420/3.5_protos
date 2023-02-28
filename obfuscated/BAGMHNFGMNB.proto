@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ABEAGCMPNGD.proto";
 
+// Name: BAGMHNFGMNB
+// CmdId: 56
 message BAGMHNFGMNB {
-	repeated ABEAGCMPNGD HNAKLOOFNEO = 5;
+    repeated ABEAGCMPNGD BCEFPODENMM = 5;
 }
+

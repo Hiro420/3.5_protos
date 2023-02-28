@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: DAMDPHBCAKI
 message DAMDPHBCAKI {
-	DALMLFNANKL AKANNIGGDKH = 11;
-	DALMLFNANKL LABCKOJLEFP = 8;
+    DALMLFNANKL GHGPLCNLCDF = 11;
+    DALMLFNANKL AJAMEIHEMEA = 8;
 }
+

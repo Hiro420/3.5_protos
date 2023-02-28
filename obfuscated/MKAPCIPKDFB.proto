@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MKAPCIPKDFB
+// CmdId: 198
 message MKAPCIPKDFB {
-	uint32 DIJEPGCODAD = 4;
+    uint32 PAHKLFIGFNE = 4;
 }
+

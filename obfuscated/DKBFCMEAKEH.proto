@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DKBFCMEAKEH
+// CmdId: 2182
 message DKBFCMEAKEH {
-	uint32 LLOBHFKCOJA = 13;
-	uint32 PFKDFHHKBFD = 1;
-	uint32 KBHPCOGCDEJ = 8;
+    uint32 PDDEJIGJICI = 13;
+    uint32 NLBJCAHEJOC = 1;
+    uint32 NHEPCIPHIGF = 8;
 }
+

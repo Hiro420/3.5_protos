@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BKPPKNEHIIC
+// CmdId: 4992
 message BKPPKNEHIIC {
-	uint32 EBJNKJCIPHA = 13;
-	bool GKHGEPEKGKJ = 1;
+    uint32 LKKGIIANNGL = 13;
+    bool KNCKLGOPJEB = 1;
 }
+

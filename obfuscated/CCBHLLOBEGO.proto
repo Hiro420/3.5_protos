@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CCBHLLOBEGO
+// CmdId: 943
 message CCBHLLOBEGO {
-	bool NBEOJGHKOGP = 11;
-	int32 IJIABMFLJGH = 2;
-	bool FFDKELEGNPH = 12;
+    bool DKHFKPODGCP = 11;
+    int32 KFCODGHIJEH = 2;
+    bool DCANPFBMFNE = 12;
 }
+

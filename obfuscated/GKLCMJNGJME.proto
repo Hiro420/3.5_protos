@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GKLCMJNGJME
+// CmdId: 21430
 message GKLCMJNGJME {
-	uint32 ELPEALPEJBM = 8;
+    uint32 BCLNLNDCMGF = 8;
 }
+

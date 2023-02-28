@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: ECMNOHNCFLI
+enum ECMNOHNCFLI {
+    ECMNOHNCFLI_JJIMJJIIEPP = 0;
+    ECMNOHNCFLI_EGGAPDHBGFA = 1;
+    ECMNOHNCFLI_CAEJKENKAPM = 2;
+    ECMNOHNCFLI_OEHBOLDDKIM = 3;
+}
+

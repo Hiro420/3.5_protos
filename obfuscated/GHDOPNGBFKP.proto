@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GHDOPNGBFKP
+// CmdId: 8220
 message GHDOPNGBFKP {
-	bool LPGAJJALBDN = 15;
-	uint32 PDDPIHFNDBO = 2;
-	uint32 DMODFCHLIIH = 9;
+    bool PIHHIOENHPL = 15;
+    uint32 FNAIMAFAIMG = 2;
+    uint32 KMKENHDGMLI = 9;
 }
+

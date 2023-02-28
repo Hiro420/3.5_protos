@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IMEFDIKAJBD.proto";
 
+// Name: IHGEAOHBLMH
+// CmdId: 2698
 message IHGEAOHBLMH {
-	repeated IMEFDIKAJBD MFGKEEFJKJB = 15;
-	repeated uint32 PCKJEGGHOHJ = 4;
+    repeated IMEFDIKAJBD LPIDIJHMCGA = 15;
+    repeated uint32 FMJAIHDCFLG = 4;
 }
+

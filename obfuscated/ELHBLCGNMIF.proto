@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ELHBLCGNMIF
+// CmdId: 818
 message ELHBLCGNMIF {
-	int32 IJIABMFLJGH = 14;
+    int32 KFCODGHIJEH = 14;
 }
+

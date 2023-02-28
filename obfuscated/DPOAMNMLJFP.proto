@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CGOOHEEBLLK.proto";
 
+// Name: DPOAMNMLJFP
+// CmdId: 844
 message DPOAMNMLJFP {
-	uint32 PDFLEGGDOCP = 8;
-	CGOOHEEBLLK HDHCBKKBOIN = 9;
-	uint32 AKANNIGGDKH = 6;
+    uint32 GPBLLPDCIFK = 8;
+    CGOOHEEBLLK PMCMKHHPKMF = 9;
+    uint32 GHGPLCNLCDF = 6;
 }
+

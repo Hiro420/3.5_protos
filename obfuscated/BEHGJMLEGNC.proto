@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KJGMEKEGPNF.proto";
 
+// Name: BEHGJMLEGNC
+// CmdId: 173
 message BEHGJMLEGNC {
-	KJGMEKEGPNF EGOHCGIKAFF = 11;
-	string BBGPFOCODKF = 7;
-	int32 IJIABMFLJGH = 3;
+    KJGMEKEGPNF IAFOGMDNNMO = 11;
+    string EOODHEFECEE = 7;
+    int32 KFCODGHIJEH = 3;
 }
+

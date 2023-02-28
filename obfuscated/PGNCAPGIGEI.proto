@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PGNCAPGIGEI
+// CmdId: 21442
 message PGNCAPGIGEI {
-	int32 IJIABMFLJGH = 11;
+    int32 KFCODGHIJEH = 11;
 }
+

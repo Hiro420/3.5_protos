@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NFAGLBHALKL.proto";
 
+// Name: KFLGDLECPAK
+// CmdId: 1901
 message KFLGDLECPAK {
-	repeated NFAGLBHALKL KIDKPLPCPHB = 6;
+    repeated NFAGLBHALKL CHLANCGCOED = 6;
 }
+

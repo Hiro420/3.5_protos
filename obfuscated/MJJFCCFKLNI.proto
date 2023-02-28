@@ -4,13 +4,15 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MINFKAPPGGC.proto";
 
+// Name: MJJFCCFKLNI
 message MJJFCCFKLNI {
-	repeated MINFKAPPGGC FMFMHONIBCO = 10;
-	uint32 LABOMKEGNGN = 13;
-	repeated bool NGFOJPPEGJA = 3;
-	repeated MINFKAPPGGC MKEMDBIFNBP = 6;
-	bool PHDCENOBAEM = 8;
-	uint32 PEPLGLLHHMI = 15;
-	uint32 JBPNHOFNGDA = 9;
-	bool IAJEKOIOEAF = 2;
+    repeated MINFKAPPGGC GKKNHCHAOEE = 10;
+    uint32 HJGEELHCIOO = 13;
+    repeated bool OCNBDGPDEPP = 3;
+    repeated MINFKAPPGGC EPNJIAGPPBE = 6;
+    bool CGJGPFLLNBM = 8;
+    uint32 IBHCLHKHGMG = 15;
+    uint32 BFACGAKGEGP = 9;
+    bool MDLKFBKMGEA = 2;
 }
+

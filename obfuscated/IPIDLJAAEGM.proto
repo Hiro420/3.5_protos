@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IPIDLJAAEGM
 message IPIDLJAAEGM {
-	uint64 POGHDEAENAD = 3;
-	float NNELKIGHJEG = 13;
-	float FPNIJFBLNNE = 5;
+    uint64 PKJEEFBMBNM = 3;
+    float DKIDIKKNBHK = 13;
+    float MDHELGBPNMP = 5;
 }
+

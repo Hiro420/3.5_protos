@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EKGBIBIKFPI
+// CmdId: 1802
 message EKGBIBIKFPI {
-	string BKNHMPPKNLH = 1;
-	int32 IJIABMFLJGH = 8;
-	uint32 ICFIJIEKEEJ = 3;
+    string ACGGKBBKNOO = 1;
+    int32 KFCODGHIJEH = 8;
+    uint32 PIOGLHEHAAD = 3;
 }
+

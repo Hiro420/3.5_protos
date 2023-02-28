@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GOOCOODBHLP
+// CmdId: 436
 message GOOCOODBHLP {
-	uint32 MIPJHAJBOOK = 12;
-	bool OCPLCADHBIK = 2;
-	string PFAEKDPKBCG = 14;
+    uint32 PIHMJCILKHB = 12;
+    bool ALOCBBLKEFD = 2;
+    string OPEJIFGDMBH = 14;
 }
+

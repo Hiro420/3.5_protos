@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JNCBMFIIBGA.proto";
 
+// Name: PPCEKDHPNCC
 message PPCEKDHPNCC {
-	bool HLBNKGLEMFC = 10;
-	repeated JNCBMFIIBGA JIMPICDBNLP = 9;
+    bool GIAICNDMKIE = 10;
+    repeated JNCBMFIIBGA NONMGOOHKJD = 9;
 }
+

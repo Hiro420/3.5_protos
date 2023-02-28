@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LELAMOBAAJE
+// CmdId: 3379
 message LELAMOBAAJE {
-	uint32 OGECCMIPGDB = 3;
-	int32 DFOGKEOAIAO = 6;
-	uint32 PDFLEGGDOCP = 14;
+    uint32 EOPNDAKEKEG = 3;
+    int32 PIALCAMMNPF = 6;
+    uint32 GPBLLPDCIFK = 14;
 }
+

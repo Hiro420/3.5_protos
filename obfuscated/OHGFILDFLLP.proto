@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OHGFILDFLLP
+// CmdId: 8030
 message OHGFILDFLLP {
-	int32 IJIABMFLJGH = 15;
-	uint32 KKMLAEEAHJA = 1;
+    int32 KFCODGHIJEH = 15;
+    uint32 IIBPCMOEENO = 1;
 }
+

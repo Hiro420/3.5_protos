@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "KJDMCAKDFCO.proto";
 import "CABODJPEHAN.proto";
+import "KJDMCAKDFCO.proto";
 
+// Name: LDLBBCPMMKK
 message LDLBBCPMMKK {
-	repeated CABODJPEHAN BMJMCGFPEGD = 2;
-	map<uint32, uint32> KACPDBFDHID = 1;
-	repeated KJDMCAKDFCO LIHEPHPKCOI = 11;
-	repeated CABODJPEHAN DHAELIIGBJB = 13;
+    repeated CABODJPEHAN FEPJHGGDGPB = 2;
+    map<uint32, uint32> JMLOCONKPLA = 1;
+    repeated KJDMCAKDFCO OLCOJNKIDMA = 11;
+    repeated CABODJPEHAN HEEIHFIIKFB = 13;
 }
+

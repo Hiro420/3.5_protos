@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AAPBIOOIMNP.proto";
 
+// Name: IANIIFGHKLG
+// CmdId: 6172
 message IANIIFGHKLG {
-	int32 ABPJCCJHPJG = 4;
-	AAPBIOOIMNP JFDDEKJKEML = 1;
-	int32 IJIABMFLJGH = 10;
+    int32 IGKHHPEADAN = 4;
+    AAPBIOOIMNP JNNGPOHBKBC = 1;
+    int32 KFCODGHIJEH = 10;
 }
+

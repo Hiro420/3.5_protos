@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GBLLGEFNPCP.proto";
 
+// Name: NFALFEOJHIP
+// CmdId: 4267
 message NFALFEOJHIP {
-	repeated GBLLGEFNPCP JGLFJMFMJGF = 15;
+    repeated GBLLGEFNPCP CBGOLEHIAOC = 15;
 }
+

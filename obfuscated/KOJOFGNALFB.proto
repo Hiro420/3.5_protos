@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KOJOFGNALFB
 message KOJOFGNALFB {
-	repeated uint32 LPFCCKMCHNI = 1;
-	uint32 HIGAIJIHCOC = 15;
+    repeated uint32 IFBJHNAFONA = 1;
+    uint32 AECPDOLHDKN = 15;
 }
+

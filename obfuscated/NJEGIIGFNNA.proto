@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AIFFCHGENAF.proto";
 
+// Name: NJEGIIGFNNA
+// CmdId: 2142
 message NJEGIIGFNNA {
-	repeated AIFFCHGENAF DEKCFKPIBGG = 11;
+    repeated AIFFCHGENAF FMFPKKFDMLN = 11;
 }
+

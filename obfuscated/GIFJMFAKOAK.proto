@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GIFJMFAKOAK
+// CmdId: 4162
 message GIFJMFAKOAK {
-	uint32 HIBOBLMJJIA = 2;
+    uint32 LOAIMILPOJG = 2;
 }
+

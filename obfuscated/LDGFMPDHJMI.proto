@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ILEGGBKJDDK.proto";
 
+// Name: LDGFMPDHJMI
+// CmdId: 1250
 message LDGFMPDHJMI {
-	float KMPLFMENCJA = 15;
-	uint32 BKCFIMBKPND = 5;
-	float OBNNMFOOMFF = 13;
-	ILEGGBKJDDK GNLDDLIKJDN = 4;
+    float CDMKPBGNHPL = 15;
+    uint32 DFOMFPLPHAM = 5;
+    float NENEAMKJELM = 13;
+    ILEGGBKJDDK BHDBMLOIDGK = 4;
 }
+

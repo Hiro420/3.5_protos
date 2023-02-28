@@ -4,11 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: ILEIPGLHFAP
 message ILEIPGLHFAP {
-	uint32 MJHJPEMNFGB = 12;
-	uint32 KNJDJKFOOBD = 11;
-	DALMLFNANKL CGHIHIGNGPF = 1;
-	uint32 ADNDAJJMLEP = 6;
-	uint32 APPJCEKCOBP = 14;
-	DALMLFNANKL GIJGIMDKEIO = 9;
+    uint32 CLCPIJBAOEA = 12;
+    uint32 PGENOLMDFEM = 11;
+    DALMLFNANKL CKJKPEEKOGG = 1;
+    uint32 NIDABDPMHHF = 6;
+    uint32 IPLGACBJJGH = 14;
+    DALMLFNANKL GMPJFCODOLK = 9;
 }
+

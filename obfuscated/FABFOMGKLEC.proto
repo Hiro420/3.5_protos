@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FABFOMGKLEC
+// CmdId: 2110
 message FABFOMGKLEC {
-	uint32 NJFDJPCMBNH = 2;
-	uint32 FGGCOCMKODE = 4;
-	uint32 PFKDFHHKBFD = 6;
+    uint32 LPNOOOGNHNB = 2;
+    uint32 CBDEPGIGFHK = 4;
+    uint32 NLBJCAHEJOC = 6;
 }
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ELJAPPEFAID
+// CmdId: 666
 message ELJAPPEFAID {
-	uint32 KNEGMCGKFAL = 11;
-	uint64 POGHDEAENAD = 6;
-	int32 IJIABMFLJGH = 1;
+    uint32 PLDBHAGEBDM = 11;
+    uint64 PKJEEFBMBNM = 6;
+    int32 KFCODGHIJEH = 1;
 }
+

@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PEDADDDLODK.proto";
 
+// Name: ONKNDCHIGIA
 message ONKNDCHIGIA {
-	bool DJKOKFDGKIG = 6;
-	uint32 BEJDBNONODA = 5;
-	repeated PEDADDDLODK HBMOMAEDJDL = 11;
+    bool HKDOCGOMBKP = 6;
+    uint32 NJIHDDKBBLA = 5;
+    repeated PEDADDDLODK JHIALJBIOFG = 11;
 }
+

@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KGMFLOMCIPP
 message KGMFLOMCIPP {
-	uint64 POGHDEAENAD = 12;
-	bool NHDPHIMDACF = 11;
-	bool CGKDOADDHDF = 8;
+    uint64 PKJEEFBMBNM = 12;
+    bool OABFKGLGLHI = 11;
+    bool CKPOGFMEIPH = 8;
 }
+

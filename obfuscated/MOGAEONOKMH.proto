@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MOGAEONOKMH
+// CmdId: 7506
 message MOGAEONOKMH {
-	uint32 JLMLALKOMFN = 12;
-	int32 IJIABMFLJGH = 7;
+    uint32 OCFEJAGKHBJ = 12;
+    int32 KFCODGHIJEH = 7;
 }
+

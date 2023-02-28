@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HOJAPBHACAL.proto";
 
+// Name: MHAFPLJHPLJ
+// CmdId: 24069
 message MHAFPLJHPLJ {
-	repeated HOJAPBHACAL OAFONCHFNCI = 7;
-	bool LCBIHNCIDMM = 13;
-	bool MFPGHFOFAFP = 6;
-	uint32 AIJOKLEENGC = 10;
+    repeated HOJAPBHACAL HMDKJHOPFBL = 7;
+    bool AKGNMFDCOMG = 13;
+    bool KANHMLPBBHL = 6;
+    uint32 OBBPIGOHAJL = 10;
 }
+

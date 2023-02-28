@@ -3,26 +3,28 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "ADKBFFHEKCF.proto";
+import "LJPNPOFMLPJ.proto";
 import "MBPAKAMJPFM.proto";
 import "NIOIKEFHDOK.proto";
-import "LJPNPOFMLPJ.proto";
 
+// Name: KBOONBLCMFK
 message KBOONBLCMFK {
-	uint32 DCEKINKBLDI = 11;
-	repeated LJPNPOFMLPJ BGMGDNKCCGL = 8;
-	uint32 CBBBPNMKCIH = 12;
-	uint32 OPLEJJBAPMI = 4;
-	uint32 KDDKPADCBLI = 15;
-	repeated uint32 OELKGKGODKN = 1424;
-	uint32 JMFNJOKPDJH = 7;
-	NIOIKEFHDOK HJFHICFFFLL = 1;
-	repeated MBPAKAMJPFM NCOOMJLCENK = 5;
-	repeated ADKBFFHEKCF HFCAIMJEDHH = 14;
-	uint32 HNPHMOEHJGK = 3;
-	uint64 GDJNONMGFJI = 10;
-	uint64 KDIBLHCJEFA = 13;
-	uint32 IFJLDBCLNGD = 6;
-	uint64 MHIMNOAOBFF = 2;
-	repeated uint32 GEHONCEKNNJ = 1322;
-	repeated MBPAKAMJPFM OLJOCLFDAIJ = 9;
+    uint32 PCJFLHLDDOF = 11;
+    repeated LJPNPOFMLPJ JEMDLFKHGLE = 8;
+    uint32 DPEMBLHJKLA = 12;
+    uint32 AGDIFNGNFOK = 4;
+    uint32 ILHMPAELDML = 15;
+    repeated uint32 DJNBDJABIFJ = 1424;
+    uint32 OGBKDEOPACM = 7;
+    NIOIKEFHDOK CHHELOIIOFA = 1;
+    repeated MBPAKAMJPFM JBFDPPPJLJM = 5;
+    repeated ADKBFFHEKCF FPDMMEOIPLP = 14;
+    uint32 GIJGKGGEBOM = 3;
+    uint64 GOKKPEFBACN = 10;
+    uint64 MPGMCKFJGEA = 13;
+    uint32 OKLHBOOKALC = 6;
+    uint64 NPJFNKDPKKN = 2;
+    repeated uint32 EMBPJMBHBMA = 1322;
+    repeated MBPAKAMJPFM AAOFBGCFKGN = 9;
 }
+

@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DKPIGJECCHK.proto";
+import "DNPIGFAKHOM.proto";
+import "DPACDAIBBIL.proto";
+import "EOLLJLFBEKA.proto";
+import "FCDJFEIIFCP.proto";
+import "FGMDHBOGAHG.proto";
+import "HFHCNBEGKGP.proto";
+import "IJIFIANJEKJ.proto";
+import "IPCPFADOJFH.proto";
+import "JDOFGAKDDPA.proto";
+import "KECDCNCPKIO.proto";
+import "LIIKFCCFKNN.proto";
+import "MBLNIKHFGKN.proto";
+import "OAAPNIGGILO.proto";
+import "PILMILBHFIB.proto";
+import "PNOJAMMOOGN.proto";
+
+// Name: FFCKLBMMNOC
+// CmdId: 950
+message FFCKLBMMNOC {
+    uint32 CEHNBFEIODF = 4;
+    uint32 HGINECOFFJJ = 7;
+    uint32 HLBBDKOAHNE = 11;
+    uint32 CFMPHBBHMBL = 10;
+    repeated uint32 MPAOFBECHBL = 3;
+    repeated DPACDAIBBIL HIEPPAOLFOH = 14;
+    map<uint32, MBLNIKHFGKN> NLEILHLODMF = 6;
+    map<uint32, FGMDHBOGAHG> JLEHDFLIKGD = 9;
+    bool KANHMLPBBHL = 15;
+    uint32 IHBGNOACKJJ = 12;
+    oneof NGKAEIMKBBL {
+        OAAPNIGGILO AMKPLDLBLEJ = 771;
+        JDOFGAKDDPA NCCIKBPMLMC = 626;
+        PNOJAMMOOGN IOMDEBAEJAP = 1006;
+        HFHCNBEGKGP CPGNPOCAFEK = 243;
+        DNPIGFAKHOM KPNFDNGPDKN = 919;
+        IPCPFADOJFH EKKOMNMNIEG = 202;
+        IJIFIANJEKJ EEGJHIDJGPN = 1187;
+        PILMILBHFIB PGCKAHHGJFB = 1506;
+        DKPIGJECCHK KGDEIBDDJCH = 1577;
+        FCDJFEIIFCP EKJONKAHCLN = 757;
+        LIIKFCCFKNN LIOPMGJHJBJ = 1881;
+        EOLLJLFBEKA JOIPOJIEGJO = 1722;
+        KECDCNCPKIO FPLNJBPKINB = 63;
+    }
+}
+

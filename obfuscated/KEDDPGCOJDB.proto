@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KEDDPGCOJDB
+// CmdId: 5209
 message KEDDPGCOJDB {
-	uint32 CCOAEHIJMOE = 7;
-	uint32 MFEKIFJGMAE = 3;
-	uint32 JGAHPOJJDHJ = 11;
-	bool MLGMPHEDNGC = 9;
-	uint32 DGIEEHGNALM = 6;
+    uint32 JCFKODDCBIH = 7;
+    uint32 CNFPOAJGGDN = 3;
+    uint32 LGAHNCLEDCF = 11;
+    bool FDIHMLEEMJC = 9;
+    uint32 AHPNKIDCOKC = 6;
 }
+

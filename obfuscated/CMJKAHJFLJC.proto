@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BNNCKKOLHCI.proto";
+import "GFALKLPILFA.proto";
+import "MPCGGPMHEKJ.proto";
+
+// Name: CMJKAHJFLJC
+message CMJKAHJFLJC {
+    uint32 OKMAODPDMIN = 9;
+    bool HKDOCGOMBKP = 12;
+    uint32 GPKPCCJAFAH = 1;
+    oneof NGKAEIMKBBL {
+        MPCGGPMHEKJ OIFNHENOFHD = 14;
+        GFALKLPILFA FAGLLNOMGAL = 8;
+        BNNCKKOLHCI OLJGPGEBEIE = 2;
+    }
+}
+

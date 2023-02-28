@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HIDNILLDCAD.proto";
 
+// Name: FPPMLGOAFGH
 message FPPMLGOAFGH {
-	HIDNILLDCAD HCMPEPODKPP = 1;
-	int32 FEHDKBAABKF = 2;
+    HIDNILLDCAD IOGCBDAJIJK = 1;
+    int32 JGHOLPKKJJA = 2;
 }
+

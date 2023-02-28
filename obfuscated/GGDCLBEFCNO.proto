@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GGDCLBEFCNO
 message GGDCLBEFCNO {
-	uint32 JLMLALKOMFN = 14;
-	uint32 ELNNIELNMBO = 13;
-	uint32 BOEJPMCPEBM = 10;
+    uint32 OCFEJAGKHBJ = 14;
+    uint32 KFGGNNFODBD = 13;
+    uint32 NEKALOMMAAG = 10;
 }
+

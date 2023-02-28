@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FHEHLPMHPID
+// CmdId: 8231
 message FHEHLPMHPID {
-	uint32 BEJDBNONODA = 15;
+    uint32 NJIHDDKBBLA = 15;
 }
+

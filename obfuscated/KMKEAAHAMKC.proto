@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ECMNOHNCFLI.proto";
 
+// Name: KMKEAAHAMKC
 message KMKEAAHAMKC {
-	uint32 JAOBPKMBOKD = 15;
-	ECMNOHNCFLI FIGOAAGGALJ = 10;
-	uint32 LMFGKMPGIPD = 12;
+    uint32 AHMMKMKHHFP = 15;
+    ECMNOHNCFLI OLKAAFIFCMO = 10;
+    uint32 BFELILCAPAD = 12;
 }
+

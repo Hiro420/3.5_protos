@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IKMBEDDMCFP
 message IKMBEDDMCFP {
-	uint32 KKPDIBFCOCK = 5;
+    uint32 IAEHHDCFDEE = 5;
 }
+

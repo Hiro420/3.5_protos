@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CFBCJPNBGAI
+// CmdId: 567
 message CFBCJPNBGAI {
-	uint32 ANCIAPPOAJH = 8;
-	uint32 PDFLEGGDOCP = 3;
-	uint32 JNNEHCIJKMD = 11;
+    uint32 CHFJJAPNPJH = 8;
+    uint32 GPBLLPDCIFK = 3;
+    uint32 GEOGPHELDFO = 11;
 }
+

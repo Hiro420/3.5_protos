@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ALJEMELPDLN.proto";
 
+// Name: ANJOMJAFKNK
 message ANJOMJAFKNK {
-	ALJEMELPDLN JKDNHDLNHMJ = 1;
-	uint32 EBJJHMPNKDJ = 2;
-	uint32 IDDACPMHMIK = 3;
-	uint32 NFOPOKGDODK = 4;
-	float EJEOJFCHNFO = 5;
+    ALJEMELPDLN LHFGALANHMN = 1;
+    uint32 BOKGJKDGEMK = 2;
+    uint32 MNKCOMILIAE = 3;
+    uint32 PFLGEMLFBLL = 4;
+    float MMJPNDECDGD = 5;
 }
+

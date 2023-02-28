@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FEPJMFICDGB.proto";
 
+// Name: PIAKCFDMPCN
+// CmdId: 4189
 message PIAKCFDMPCN {
-	uint32 HIBOBLMJJIA = 11;
-	int32 IJIABMFLJGH = 12;
-	FEPJMFICDGB GIPBJFBBEFI = 15;
-	bool ADNBNHMDIDH = 2;
+    uint32 LOAIMILPOJG = 11;
+    int32 KFCODGHIJEH = 12;
+    FEPJMFICDGB CLMHDABEAMH = 15;
+    bool GJFNDMOCPBK = 2;
 }
+

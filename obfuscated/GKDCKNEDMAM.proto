@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: GKDCKNEDMAM
+enum GKDCKNEDMAM {
+    GKDCKNEDMAM_DOEJFNAIOFO = 0;
+    GKDCKNEDMAM_DHHPFGACAFO = 1;
+    GKDCKNEDMAM_HJAFFKLJBGP = 2;
+    GKDCKNEDMAM_JEEKCKHMCOF = 3;
+}
+

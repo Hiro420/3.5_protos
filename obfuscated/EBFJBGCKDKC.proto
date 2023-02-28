@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HPAIEMHJBDF.proto";
 
+// Name: EBFJBGCKDKC
 message EBFJBGCKDKC {
-	HPAIEMHJBDF HCNOMGOMMIG = 9;
-	repeated uint32 PPPHIIGJKEM = 5;
-	repeated uint32 KFDOMJGBBJK = 15;
-	repeated uint32 EOMHFGHBDLN = 11;
+    HPAIEMHJBDF PCAAGABKFEA = 9;
+    repeated uint32 DAOJKENBHIH = 5;
+    repeated uint32 GDJHCPPGIIM = 15;
+    repeated uint32 LHOLJFDKFHM = 11;
 }
+

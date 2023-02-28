@@ -2,12 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LIKPGKGOHGB
+// CmdId: 20042
 message LIKPGKGOHGB {
-	uint32 BEJDBNONODA = 5;
-	uint32 FPNIJFBLNNE = 15;
-	uint32 KKMLAEEAHJA = 4;
-	uint32 HOCNICOJJIN = 6;
-	bool MGBJPMJONBP = 11;
-	bool DBIKCJCJHFI = 13;
-	bool LOCMFFIFLGK = 7;
+    uint32 NJIHDDKBBLA = 5;
+    uint32 MDHELGBPNMP = 15;
+    uint32 IIBPCMOEENO = 4;
+    uint32 LEDKDCJIDNE = 6;
+    bool LPIJDHBEDND = 11;
+    bool AAMENNENDKM = 13;
+    bool BMPCEOKKBEA = 7;
 }
+

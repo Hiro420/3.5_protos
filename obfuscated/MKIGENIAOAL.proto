@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MKIGENIAOAL
+// CmdId: 290
 message MKIGENIAOAL {
-	bool ILOILKOCMBN = 13;
-	uint32 PILMDEIGHLG = 1;
+    bool LALFLFJKMOE = 13;
+    uint32 IIBOCMBKAID = 1;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CFLMLFLEPBM
+// CmdId: 4056
 message CFLMLFLEPBM {
-	repeated string FFMJEFNBECD = 2;
+    repeated string MEOOMDJIPLJ = 2;
 }
+

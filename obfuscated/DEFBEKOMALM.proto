@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: DEFBEKOMALM
+// CmdId: 2665
 message DEFBEKOMALM {
-	repeated ENOCIMKMJJG CANCLEDDKEP = 10;
-	int32 IJIABMFLJGH = 6;
-	repeated uint32 GALNIILLPHH = 14;
+    repeated ENOCIMKMJJG DIGBDDBNBHP = 10;
+    int32 KFCODGHIJEH = 6;
+    repeated uint32 DEAOJOOBCDE = 14;
 }
+

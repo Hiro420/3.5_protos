@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HECBIKPCMOF.proto";
 
+// Name: HDGDFGOALDG
+// CmdId: 2636
 message HDGDFGOALDG {
-	repeated HECBIKPCMOF IOLPDPGNDOD = 11;
+    repeated HECBIKPCMOF DADJJOAHIJA = 11;
 }
+

@@ -2,9 +2,18 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "KADMHAIDOBA.OJDJFKEEEPG.LHNJKLLKOAI.proto";
-
+// Name: KADMHAIDOBA
+// CmdId: 4592
 message KADMHAIDOBA {
-	int32 IJIABMFLJGH = 1;
-	repeated KADMHAIDOBA.OJDJFKEEEPG.LHNJKLLKOAI NOAOGINDLJI = 10;
+    // Name: LHNJKLLKOAI
+    message LHNJKLLKOAI {
+        uint32 KHGAODFOGNM = 10;
+        uint32 HFHHPNMIHPA = 4;
+        uint32 IBHCLHKHGMG = 9;
+        uint32 MOLJKENNPCP = 11;
+    }
+
+    int32 KFCODGHIJEH = 1;
+    repeated LHNJKLLKOAI NMIIHLAHDBN = 10;
 }
+

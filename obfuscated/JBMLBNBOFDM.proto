@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JBMLBNBOFDM
+// CmdId: 243
 message JBMLBNBOFDM {
-	uint32 KFEMBAPKMFH = 5;
-	uint32 PAKGCBBEOBJ = 7;
-	uint32 IDILGEHKMON = 9;
+    uint32 NDGLECFHBCJ = 5;
+    uint32 GIKJPLBMPNH = 7;
+    uint32 MMJJICJEAJL = 9;
 }
+

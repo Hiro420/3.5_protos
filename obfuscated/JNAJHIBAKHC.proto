@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AOOFANGHMOJ.proto";
 
+// Name: JNAJHIBAKHC
+// CmdId: 8730
 message JNAJHIBAKHC {
-	AOOFANGHMOJ JOPFMDLPLMK = 1;
-	bool BEAIJPNDHPA = 3;
-	int32 IJIABMFLJGH = 6;
+    AOOFANGHMOJ IPIOMEICOBD = 1;
+    bool HOPFMGGHPDJ = 3;
+    int32 KFCODGHIJEH = 6;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LJJPPMGMILK
+// CmdId: 4610
 message LJJPPMGMILK {
-	uint32 AAEBBDIDMAO = 6;
-	bool LMNJDGDPNED = 1;
+    uint32 AKDECIELPLN = 6;
+    bool NJJFCAIJNCJ = 1;
 }
+

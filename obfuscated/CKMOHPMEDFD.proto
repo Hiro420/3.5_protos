@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BLOPFDPFLDE.proto";
 
+// Name: CKMOHPMEDFD
 message CKMOHPMEDFD {
-	repeated uint32 OEIBFJFFHNB = 8;
-	uint32 AICHGGMIALC = 13;
-	uint32 LGGGCABNDFL = 1;
-	BLOPFDPFLDE FICNBGHCEDF = 6;
-	uint32 NLHMNDICIKD = 11;
+    repeated uint32 OFACHBGLCFC = 8;
+    uint32 GKBILFJMMAO = 13;
+    uint32 POFADABHHEG = 1;
+    BLOPFDPFLDE LMJMAEFMIMP = 6;
+    uint32 CGCEKHJDBBP = 11;
 }
+

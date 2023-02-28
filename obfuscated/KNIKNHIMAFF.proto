@@ -4,15 +4,17 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: KNIKNHIMAFF
 message KNIKNHIMAFF {
-	bool OJBFEELFDMG = 10;
-	uint32 BNIJIKCPOKJ = 13;
-	DALMLFNANKL AKANNIGGDKH = 4;
-	uint32 DIGHGFNNKGA = 7;
-	uint32 KFEMBAPKMFH = 8;
-	uint32 CEKDLLLCMKI = 1;
-	uint32 OINILICKJGE = 2;
-	uint32 MMECOIGNLDO = 14;
-	uint32 ELNNIELNMBO = 5;
-	uint32 JKDNHDLNHMJ = 6;
+    bool BKLLMPPDEAD = 10;
+    uint32 NBFGIIKBIHE = 13;
+    DALMLFNANKL GHGPLCNLCDF = 4;
+    uint32 DIBMGMPIPAH = 7;
+    uint32 NDGLECFHBCJ = 8;
+    uint32 LKBMPEACAEJ = 1;
+    uint32 LMOHNPIDBGB = 2;
+    uint32 MIILNGGNDAH = 14;
+    uint32 KFGGNNFODBD = 5;
+    uint32 LHFGALANHMN = 6;
 }
+

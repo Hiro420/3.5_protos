@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PJOPDHANLEM.proto";
 
+// Name: ADOKOEBEDKI
+// CmdId: 4001
 message ADOKOEBEDKI {
-	PJOPDHANLEM NFFPHIIAKJB = 3;
-	int32 IJIABMFLJGH = 10;
+    PJOPDHANLEM BMJDIHKKKLD = 3;
+    int32 KFCODGHIJEH = 10;
 }
+

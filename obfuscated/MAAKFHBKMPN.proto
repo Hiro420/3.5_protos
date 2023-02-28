@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: MAAKFHBKMPN
+// CmdId: 8147
 message MAAKFHBKMPN {
-	repeated ENOCIMKMJJG CANCLEDDKEP = 1;
-	int32 IJIABMFLJGH = 3;
+    repeated ENOCIMKMJJG DIGBDDBNBHP = 1;
+    int32 KFCODGHIJEH = 3;
 }
+

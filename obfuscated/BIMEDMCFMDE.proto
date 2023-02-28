@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: BIMEDMCFMDE
+// CmdId: 2023
 message BIMEDMCFMDE {
-	repeated ENOCIMKMJJG CANCLEDDKEP = 12;
-	repeated uint32 CEOAHLEFDBB = 15;
-	uint32 HFKNDLGIPML = 2;
-	int32 IJIABMFLJGH = 11;
+    repeated ENOCIMKMJJG DIGBDDBNBHP = 12;
+    repeated uint32 LLPCAENMBHN = 15;
+    uint32 EILEKGBEBLI = 2;
+    int32 KFCODGHIJEH = 11;
 }
+

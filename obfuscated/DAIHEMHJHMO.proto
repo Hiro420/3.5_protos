@@ -2,17 +2,19 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+import "BLAPHKFLNJB.proto";
 import "HMEFDAPADKA.proto";
 import "NBBNIDCNBNJ.proto";
 import "OMCFMEFELOC.proto";
-import "BLAPHKFLNJB.proto";
 
+// Name: DAIHEMHJHMO
 message DAIHEMHJHMO {
-	repeated BLAPHKFLNJB BGBEJMLJGOK = 12;
-	repeated OMCFMEFELOC ADDOPDCOLFI = 9;
-	repeated NBBNIDCNBNJ OAEEKDIPKGI = 2;
-	repeated HMEFDAPADKA ODDACLGIAGN = 14;
-	repeated uint32 ELEMALAOIJH = 1;
-	repeated uint32 KHKNGHHABLJ = 5;
-	repeated uint32 JJFCNIJAAEO = 8;
+    repeated BLAPHKFLNJB CFDAMMAJNLP = 12;
+    repeated OMCFMEFELOC AHOABLPADMI = 9;
+    repeated NBBNIDCNBNJ PMHHABADGHO = 2;
+    repeated HMEFDAPADKA OEKELAIIPHO = 14;
+    repeated uint32 BOBMJNEDDJA = 1;
+    repeated uint32 EPHINHFNJCL = 5;
+    repeated uint32 IJECEAHGLJP = 8;
 }
+

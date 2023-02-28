@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FGOAFKPBNDC
+// CmdId: 7558
 message FGOAFKPBNDC {
-	bool MFPGHFOFAFP = 15;
-	string FLLJCECLOEA = 3;
-	string GGLLIEIEEOL = 1;
+    bool KANHMLPBBHL = 15;
+    string EGKHNMCFDOB = 3;
+    string MGKLHFKKEPN = 1;
 }
+

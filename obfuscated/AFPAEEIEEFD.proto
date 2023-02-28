@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AFPAEEIEEFD
+// CmdId: 4152
 message AFPAEEIEEFD {
-	bool EIEALMKLEIC = 15;
-	uint32 APPJCEKCOBP = 10;
-	uint32 HIBOBLMJJIA = 2;
+    bool BDLBHOCMALO = 15;
+    uint32 IPLGACBJJGH = 10;
+    uint32 LOAIMILPOJG = 2;
 }
+

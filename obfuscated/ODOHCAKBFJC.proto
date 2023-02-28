@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AIOFHFPBCHH.proto";
 
+// Name: ODOHCAKBFJC
 message ODOHCAKBFJC {
-	bool DODDIBDACEF = 2;
-	uint32 GKHJKEGICOO = 14;
-	repeated AIOFHFPBCHH OECABILILIJ = 10;
+    bool GJFFKCDADEL = 2;
+    uint32 FBJHOFHKIIG = 14;
+    repeated AIOFHFPBCHH GIFJDKINPKF = 10;
 }
+

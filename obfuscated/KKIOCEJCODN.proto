@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KKIOCEJCODN
+// CmdId: 5482
 message KKIOCEJCODN {
-	uint32 CKDLHFIADEK = 14;
-	bool EIEALMKLEIC = 6;
-	uint32 IGHODAEJNCH = 9;
+    uint32 BBPBNJOCBOJ = 14;
+    bool BDLBHOCMALO = 6;
+    uint32 CMIFHNOBAIC = 9;
 }
+

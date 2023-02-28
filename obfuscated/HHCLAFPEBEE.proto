@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: HHCLAFPEBEE
+// CmdId: 5812
 message HHCLAFPEBEE {
-	uint32 APPJCEKCOBP = 4;
-	DALMLFNANKL AKANNIGGDKH = 9;
-	repeated uint32 OBHMJHCAHBI = 3;
+    uint32 IPLGACBJJGH = 4;
+    DALMLFNANKL GHGPLCNLCDF = 9;
+    repeated uint32 IHPGDHMONME = 3;
 }
+

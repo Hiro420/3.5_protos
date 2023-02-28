@@ -4,8 +4,18 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: OEAAFGJPJGP
+// CmdId: 5248
 message OEAAFGJPJGP {
-	uint32 CGMINHHFDAK = 7;
-	DALMLFNANKL LABCKOJLEFP = 6;
-	DALMLFNANKL AKANNIGGDKH = 9;
+    // Name: DLDCNGNDKOC
+    enum DLDCNGNDKOC {
+        DLDCNGNDKOC_CIEDPDIKNGO = 0;
+        DLDCNGNDKOC_EBJPFOFAOFG = 1;
+        DLDCNGNDKOC_FJDMFFAJOBB = 2;
+    }
+
+    uint32 OGEOGDEOJEE = 7;
+    DALMLFNANKL AJAMEIHEMEA = 6;
+    DALMLFNANKL GHGPLCNLCDF = 9;
 }
+

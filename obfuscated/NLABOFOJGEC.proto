@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NLABOFOJGEC
+// CmdId: 4404
 message NLABOFOJGEC {
-	uint32 MPOIBMDNGGL = 6;
-	int32 IJIABMFLJGH = 15;
-	uint32 MBNDPCHNFLH = 14;
-	repeated uint32 JMJFJOBDLNG = 8;
-	bool DGCKNCPKJKA = 7;
+    uint32 NIMGECOFOGC = 6;
+    int32 KFCODGHIJEH = 15;
+    uint32 ABMLKJAEEAK = 14;
+    repeated uint32 NLNPKIPAKNE = 8;
+    bool CKLFKGGFLON = 7;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KOGHPNIOEKJ.proto";
 
+// Name: NLCCANLMPOI
+// CmdId: 6038
 message NLCCANLMPOI {
-	uint32 PABCHJFEFDJ = 1;
-	repeated KOGHPNIOEKJ PALDPGDIGMK = 10;
+    uint32 LNAOGBPFPHO = 1;
+    repeated KOGHPNIOEKJ FIOCOLHCMFC = 10;
 }
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EJICDNGNAAJ
+// CmdId: 150
 message EJICDNGNAAJ {
-	uint32 FOHCBFDMFIE = 13;
-	uint32 JOMMHFHBOEK = 14;
-	int32 IJIABMFLJGH = 7;
+    uint32 CEBFIKMFOBI = 13;
+    uint32 CCHDFPAMLKC = 14;
+    int32 KFCODGHIJEH = 7;
 }
+

@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PDOEIHIJNGB.proto";
 
+// Name: ENHIHJAEFOP
 message ENHIHJAEFOP {
-	PDOEIHIJNGB PPCCFBFNMLF = 15;
+    PDOEIHIJNGB JHLEMEPMPPP = 15;
 }
+

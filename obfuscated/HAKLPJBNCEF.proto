@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EHKHLMKNGHN.proto";
 
+// Name: HAKLPJBNCEF
+// CmdId: 6040
 message HAKLPJBNCEF {
-	EHKHLMKNGHN GGCHKFBOAOM = 15;
+    EHKHLMKNGHN LDOHLHDDPEH = 15;
 }
+

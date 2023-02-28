@@ -4,11 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KMKEAAHAMKC.proto";
 
+// Name: KEFALHAGPKF
+// CmdId: 8559
 message KEFALHAGPKF {
-	repeated KMKEAAHAMKC LKELIJOEJPB = 3;
-	uint32 CDEFMKKKEJA = 8;
-	map<uint32, uint32> BLKPDNJLOGM = 15;
-	KMKEAAHAMKC OCOGBDIHGLF = 5;
-	map<uint32, uint32> IPJALFBIEDA = 12;
-	uint32 FMKIPOMPOLG = 14;
+    repeated KMKEAAHAMKC LDGIHAGEEMJ = 3;
+    uint32 BKAALJDKGFO = 8;
+    map<uint32, uint32> IIGOLKJOKAL = 15;
+    KMKEAAHAMKC LFJGECOCLOJ = 5;
+    map<uint32, uint32> GIGIAGDALHG = 12;
+    uint32 JFNBPHFCMEC = 14;
 }
+

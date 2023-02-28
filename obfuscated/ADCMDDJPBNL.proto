@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IABHECOCONE.proto";
 
+// Name: ADCMDDJPBNL
+// CmdId: 5464
 message ADCMDDJPBNL {
-	uint32 IGHODAEJNCH = 5;
-	int32 IJIABMFLJGH = 2;
-	repeated IABHECOCONE OOGPFPJAGLC = 12;
-	uint32 MPOIBMDNGGL = 4;
+    uint32 CMIFHNOBAIC = 5;
+    int32 KFCODGHIJEH = 2;
+    repeated IABHECOCONE KBALHCAAAPH = 12;
+    uint32 NIMGECOFOGC = 4;
 }
+

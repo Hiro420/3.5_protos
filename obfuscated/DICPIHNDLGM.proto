@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KHINCMAFNBJ.proto";
 
+// Name: DICPIHNDLGM
+// CmdId: 907
 message DICPIHNDLGM {
-	KHINCMAFNBJ KDKCJGDCMKK = 11;
-	bool BBJPNLGPCCO = 9;
+    KHINCMAFNBJ HOLPKCKCOFN = 11;
+    bool IIDLGIGGACM = 9;
 }
+

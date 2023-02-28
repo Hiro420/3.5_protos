@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NGFKBELCGDK.proto";
 
+// Name: MGMCOIIAJLO
+// CmdId: 8624
 message MGMCOIIAJLO {
-	NGFKBELCGDK HNGNJHNBCHP = 13;
+    NGFKBELCGDK NFGAOIENDJP = 13;
 }
+

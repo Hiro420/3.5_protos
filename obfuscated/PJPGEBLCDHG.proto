@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HNBHEIDALPL.proto";
+import "OCBPLJBJHLF.proto";
+
+// Name: PJPGEBLCDHG
+message PJPGEBLCDHG {
+    bool ELPEIGPPDPO = 3;
+    oneof NGKAEIMKBBL {
+        HNBHEIDALPL PFOBMDCOECN = 1;
+        OCBPLJBJHLF OOOOCOPKFNC = 2;
+    }
+}
+

@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HCOOANKLKCD.proto";
 
+// Name: GOICFLKADLN
 message GOICFLKADLN {
-	repeated HCOOANKLKCD PJLABOFLCAK = 14;
+    repeated HCOOANKLKCD ILFEHEIPKEA = 14;
 }
+

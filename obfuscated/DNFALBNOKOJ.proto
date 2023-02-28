@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GIELCMCDBEP.proto";
 
+// Name: DNFALBNOKOJ
+// CmdId: 5072
 message DNFALBNOKOJ {
-	GIELCMCDBEP OAIHEGADPEO = 8;
+    GIELCMCDBEP JBIAALODFPE = 8;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DFPAJAOALOG
+// CmdId: 84
 message DFPAJAOALOG {
-	string AJEFEPAGBBJ = 2;
+    string DKMFFBNJCNA = 2;
 }
+

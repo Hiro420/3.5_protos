@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENLCMOEBCFN.proto";
 
+// Name: DODDPBJKEPH
+// CmdId: 602
 message DODDPBJKEPH {
-	ENLCMOEBCFN KNKNBCLCIIK = 5;
-	uint32 DNHPJCNEGFI = 1;
+    ENLCMOEBCFN EFPFDPEFBBL = 5;
+    uint32 JMDHGGCOMNK = 1;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GDFLMPCLCBL.proto";
 
+// Name: NGEGEDPEMGJ
+// CmdId: 2343
 message NGEGEDPEMGJ {
-	repeated GDFLMPCLCBL NICGGGNEFGI = 11;
+    repeated GDFLMPCLCBL JNEBFPOMOEE = 11;
 }
+

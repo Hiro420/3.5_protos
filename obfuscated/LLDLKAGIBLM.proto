@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LLDLKAGIBLM
+// CmdId: 665
 message LLDLKAGIBLM {
-	uint32 AHFGCEDNLHM = 8;
-	uint64 JDDEJFKJHJN = 7;
-	int32 IJIABMFLJGH = 13;
-	uint64 PGNGCODDLMG = 14;
-	uint32 BMMNFGPOIAM = 11;
+    uint32 LAMMGIKJMDL = 8;
+    uint64 LECPGEIPAFI = 7;
+    int32 KFCODGHIJEH = 13;
+    uint64 KGIHACJCBEK = 14;
+    uint32 FMPFNDPHPFK = 11;
 }
+

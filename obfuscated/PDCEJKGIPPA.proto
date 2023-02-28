@@ -5,10 +5,13 @@ option java_package = "emu.grasscutter.net.proto";
 import "CHKGDGODKAA.proto";
 import "JHPFIBBFMME.proto";
 
+// Name: PDCEJKGIPPA
+// CmdId: 5232
 message PDCEJKGIPPA {
-	uint32 JGAHPOJJDHJ = 2;
-	uint32 HIGAIJIHCOC = 6;
-	JHPFIBBFMME LBHIINLKALB = 8;
-	CHKGDGODKAA HDHCBKKBOIN = 7;
-	int32 IJIABMFLJGH = 13;
+    uint32 LGAHNCLEDCF = 2;
+    uint32 AECPDOLHDKN = 6;
+    JHPFIBBFMME DCJGKIIHHPA = 8;
+    CHKGDGODKAA PMCMKHHPKMF = 7;
+    int32 KFCODGHIJEH = 13;
 }
+

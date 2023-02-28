@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: JIFDENLBIOG
+enum JIFDENLBIOG {
+    JIFDENLBIOG_CBNAFBPJOEK = 0;
+    JIFDENLBIOG_KMBMBJOIIIG = 1;
+    JIFDENLBIOG_BIJHJMONDGC = 2;
+}
+

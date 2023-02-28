@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CGCOGKBDBKA
 message CGCOGKBDBKA {
-	uint32 HHEPIOBIFPG = 2;
-	bool CANKFDJAHAN = 7;
-	int32 GJDMBBAMIDJ = 11;
+    uint32 ADEFNBHFFOK = 2;
+    bool FJHOJJNNMLL = 7;
+    int32 IHLLNJNJBGO = 11;
 }
+

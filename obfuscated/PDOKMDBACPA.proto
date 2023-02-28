@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PDOKMDBACPA
+// CmdId: 4984
 message PDOKMDBACPA {
-	uint32 AAEBBDIDMAO = 9;
-	uint32 EJAKHOFJCKN = 11;
-	uint32 JCMOCIFNLJO = 7;
+    uint32 AKDECIELPLN = 9;
+    uint32 JBKDCKFOAGH = 11;
+    uint32 JJDCBKLFOGK = 7;
 }
+

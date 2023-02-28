@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GPDPAAPFOML.proto";
 
+// Name: GCENKBAKPFM
+// CmdId: 3068
 message GCENKBAKPFM {
-	repeated GPDPAAPFOML GGGLAAHCLKF = 15;
+    repeated GPDPAAPFOML GOIIKGJEFOI = 15;
 }
+

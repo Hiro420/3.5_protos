@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EFFKKHNDIAF
+// CmdId: 1075
 message EFFKKHNDIAF {
-	uint64 POGHDEAENAD = 5;
-	uint32 NOKDGNIHLGF = 13;
-	int32 IJIABMFLJGH = 4;
+    uint64 PKJEEFBMBNM = 5;
+    uint32 IOOIAKJCPPH = 13;
+    int32 KFCODGHIJEH = 4;
 }
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IBIMGHOHNDK
+// CmdId: 649
 message IBIMGHOHNDK {
-	uint32 KMPLFMENCJA = 14;
-	uint32 HECMCAJIEEH = 13;
-	uint32 EGLKGJCODJH = 12;
+    uint32 CDMKPBGNHPL = 14;
+    uint32 KDJDKFKHOEN = 13;
+    uint32 NJLHPIKCNOP = 12;
 }
+

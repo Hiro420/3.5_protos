@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HAJOOIPKGMA
+// CmdId: 3428
 message HAJOOIPKGMA {
-	uint32 PDFLEGGDOCP = 10;
-	string NKHNPCLCADD = 6;
-	bool CANKFDJAHAN = 9;
+    uint32 GPBLLPDCIFK = 10;
+    string DEGGFDMNJFK = 6;
+    bool FJHOJJNNMLL = 9;
 }
+

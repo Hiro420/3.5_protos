@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IKCAPLALLPO.proto";
 
+// Name: IELGIIKMOPI
+// CmdId: 816
 message IELGIIKMOPI {
-	uint32 BPAJGOBHAPL = 14;
-	IKCAPLALLPO ABCACACAHNG = 7;
-	uint32 JGAHPOJJDHJ = 6;
+    uint32 EEKDNBHCPHK = 14;
+    IKCAPLALLPO ELNMHDIIEIE = 7;
+    uint32 LGAHNCLEDCF = 6;
 }
+

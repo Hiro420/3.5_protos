@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CBBFEJJDBNO.proto";
+import "DODPKMOFDGP.proto";
+import "HBGEEBPFDEL.proto";
+import "HJCEJCIMBAD.proto";
+import "JBAAKNEGPHN.proto";
+import "JMKLPMBHOGG.proto";
+import "MFAPEBAOAIB.proto";
+import "NIBCJKGJBNG.proto";
+
+// Name: AOBAFNIHINJ
+message AOBAFNIHINJ {
+    oneof BAJHMIBJPMG {
+        CBBFEJJDBNO CJMBMFHFDMF = 3;
+        HJCEJCIMBAD FLJAAAOONIK = 14;
+        DODPKMOFDGP JNONJGLADJE = 6;
+        HBGEEBPFDEL BHLMLPBPMIA = 2;
+        JMKLPMBHOGG LMONILNOJAI = 15;
+        MFAPEBAOAIB OJMLFAGIIDP = 9;
+        JBAAKNEGPHN KNAAEEEOPCK = 12;
+        NIBCJKGJBNG KLBNEFEJNIN = 4;
+    }
+}
+

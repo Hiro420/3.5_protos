@@ -4,11 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KKCFBPFKGKM.proto";
 
+// Name: ANJJOLGLLOC
+// CmdId: 8536
 message ANJJOLGLLOC {
-	uint32 BEJDBNONODA = 3;
-	uint32 MANJPJHHGHO = 15;
-	repeated KKCFBPFKGKM EFFIMFEFJDH = 13;
-	uint32 BMFIIEMIBIO = 10;
-	uint32 HFKNDLGIPML = 7;
-	uint32 OMEDKLAJEJI = 5;
+    uint32 NJIHDDKBBLA = 3;
+    uint32 FDGOAAPAMDK = 15;
+    repeated KKCFBPFKGKM CMIKKJODCFF = 13;
+    uint32 JOLHHGEAOGA = 10;
+    uint32 EILEKGBEBLI = 7;
+    uint32 PDDNDHHKBIH = 5;
 }
+

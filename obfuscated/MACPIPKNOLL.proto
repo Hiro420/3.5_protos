@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PCHDKENMKEJ.proto";
 
+// Name: MACPIPKNOLL
+// CmdId: 974
 message MACPIPKNOLL {
-	repeated PCHDKENMKEJ DLGNEDFGAFD = 11;
-	uint32 JEEFNCHAJOJ = 8;
+    repeated PCHDKENMKEJ HEAPDAHGBAD = 11;
+    uint32 MPLJBMEAIBB = 8;
 }
+

@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CFICKMNDGGL.proto";
 
+// Name: HFIMDLCBBNH
 message HFIMDLCBBNH {
-	uint32 BEJDBNONODA = 3;
-	CFICKMNDGGL PECGBJMEEIN = 7;
-	bool LBEMEDFJLPE = 13;
+    uint32 NJIHDDKBBLA = 3;
+    CFICKMNDGGL KNELKEIDPDD = 7;
+    bool HOIFOEJMFML = 13;
 }
+

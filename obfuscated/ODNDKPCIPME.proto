@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ODNDKPCIPME
+// CmdId: 3118
 message ODNDKPCIPME {
-	uint32 KMCJOBPMLBM = 4;
-	int32 IJIABMFLJGH = 15;
-	bool EALPNKKDGDL = 7;
+    uint32 EKBHIPFBMGH = 4;
+    int32 KFCODGHIJEH = 15;
+    bool DEHLKIAJEMF = 7;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FEGEKLPBFCP
+// CmdId: 8933
 message FEGEKLPBFCP {
-	bool JOLLHKKICLI = 15;
-	uint32 AIJOKLEENGC = 10;
+    bool EGLDEEIABJL = 15;
+    uint32 OBBPIGOHAJL = 10;
 }
+

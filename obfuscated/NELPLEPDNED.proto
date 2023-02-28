@@ -2,15 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "HAKHNIFICLC.proto";
 import "DALMLFNANKL.proto";
+import "HAKHNIFICLC.proto";
 
+// Name: NELPLEPDNED
 message NELPLEPDNED {
-	bool BEGFFBPHCIG = 1;
-	DALMLFNANKL OFPNGCGDNME = 2;
-	map<uint32, uint32> KCAMCHFHNJD = 3;
-	HAKHNIFICLC BCLLMBIHOAE = 4;
-	map<uint32, uint32> FPIEKMLGNLI = 5;
-	map<uint32, uint32> OLJEAFNIHHM = 6;
-	uint32 MAPBJECAOAJ = 7;
+    bool CKCADANGMMF = 1;
+    DALMLFNANKL LGOIELIDPML = 2;
+    map<uint32, uint32> EOJBCJCJHLI = 3;
+    HAKHNIFICLC LAFKMAPEBOL = 4;
+    map<uint32, uint32> BINPMAEHDBD = 5;
+    map<uint32, uint32> EAFEHHBGLEF = 6;
+    uint32 AAKEEPDHNOG = 7;
 }
+

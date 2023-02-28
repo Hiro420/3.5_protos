@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: KNOKLJBFHCE
+enum KNOKLJBFHCE {
+    KNOKLJBFHCE_EGAHECFOHHN = 0;
+    KNOKLJBFHCE_GDDGCKAJLJN = 1;
+    KNOKLJBFHCE_INAPEAFCFPJ = 2;
+    KNOKLJBFHCE_AGPGOBDLPME = 3;
+}
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JBCFNKJOKBB
+// CmdId: 5523
 message JBCFNKJOKBB {
-	uint32 KKMLAEEAHJA = 13;
+    uint32 IIBPCMOEENO = 13;
 }
+

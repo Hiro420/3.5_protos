@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FNABEPABCNG.proto";
 
+// Name: FDFGBNHDIOK
+// CmdId: 4704
 message FDFGBNHDIOK {
-	repeated FNABEPABCNG BFCBJGLNCGH = 7;
-	int32 IJIABMFLJGH = 2;
+    repeated FNABEPABCNG PPDPNAMODIM = 7;
+    int32 KFCODGHIJEH = 2;
 }
+

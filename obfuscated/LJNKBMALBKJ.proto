@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KFALPHIPJOK.proto";
 
+// Name: LJNKBMALBKJ
+// CmdId: 4301
 message LJNKBMALBKJ {
-	KFALPHIPJOK KAOBAJAEIPN = 12;
+    KFALPHIPJOK IMDPDHPGDLC = 12;
 }
+

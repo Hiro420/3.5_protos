@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AFIFNBPACMH
+// CmdId: 336
 message AFIFNBPACMH {
-	uint32 PDFLEGGDOCP = 2;
+    uint32 GPBLLPDCIFK = 2;
 }
+

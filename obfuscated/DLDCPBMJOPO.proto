@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DLDCPBMJOPO
+// CmdId: 20295
 message DLDCPBMJOPO {
-	uint32 FEDEOMEFFLO = 9;
-	uint32 AHGGLLMBAAG = 4;
+    uint32 PAIAOGFKOKH = 9;
+    uint32 IJPCJNLNAME = 4;
 }
+

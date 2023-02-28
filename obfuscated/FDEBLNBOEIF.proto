@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FDEBLNBOEIF
+// CmdId: 2184
 message FDEBLNBOEIF {
-	int32 IJIABMFLJGH = 9;
-	uint32 PFKDFHHKBFD = 10;
+    int32 KFCODGHIJEH = 9;
+    uint32 NLBJCAHEJOC = 10;
 }
+

@@ -2,17 +2,19 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "POIKFFBLPIJ.proto";
-import "FCNOMNNGOHN.proto";
 import "CMJKAHJFLJC.proto";
+import "FCNOMNNGOHN.proto";
+import "POIKFFBLPIJ.proto";
 
+// Name: IJJHLPGGEHO
 message IJJHLPGGEHO {
-	map<uint32, CMJKAHJFLJC> EJMEBNMPAEB = 11;
-	bool PEOHNFADBKG = 1;
-	uint32 ENPJCJMEELO = 8;
-	uint32 IIJEBGGBCGK = 15;
-	map<uint32, FCNOMNNGOHN> AGOCMBICGEE = 3;
-	bool CKMCPIOKFFE = 10;
-	repeated POIKFFBLPIJ FKKBLFKCEGK = 14;
-	uint32 OBEEECDCKAK = 2;
+    map<uint32, CMJKAHJFLJC> PEPCJNFENPN = 11;
+    bool IAIAONKDCKK = 1;
+    uint32 PEIAKLKGGIP = 8;
+    uint32 PIIHNGHBLJI = 15;
+    map<uint32, FCNOMNNGOHN> GMJODDNKHLM = 3;
+    bool NKMBACDACBI = 10;
+    repeated POIKFFBLPIJ ADOGMHFGKGK = 14;
+    uint32 BHGJFKLJMOC = 2;
 }
+

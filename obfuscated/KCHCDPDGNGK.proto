@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LLJAMLLPIIF.proto";
 
+// Name: KCHCDPDGNGK
 message KCHCDPDGNGK {
-	uint32 CGBDEINMJBN = 1;
-	LLJAMLLPIIF GNLDDLIKJDN = 13;
-	uint32 DBCEEODIKCO = 9;
-	uint32 FEBGPCJDBLI = 4;
+    uint32 KLIJLAAJCIE = 1;
+    LLJAMLLPIIF BHDBMLOIDGK = 13;
+    uint32 IBHFHNMMJKH = 9;
+    uint32 IAFBFELIHBK = 4;
 }
+

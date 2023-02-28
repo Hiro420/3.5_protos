@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PBJCNECPFLE.proto";
 
+// Name: IHPCDCEIDJD
+// CmdId: 130
 message IHPCDCEIDJD {
-	uint32 FENPOHDIBJF = 10;
-	uint32 IBLNNJHPNGL = 8;
-	repeated PBJCNECPFLE FLGEELPFGDF = 6;
+    uint32 CDFPMDEEHKO = 10;
+    uint32 DOCJEPPBKOH = 8;
+    repeated PBJCNECPFLE IIPIACKLBCL = 6;
 }
+

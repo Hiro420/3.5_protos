@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PONFDKGBPMB
 message PONFDKGBPMB {
-	uint32 JAOBPKMBOKD = 1;
-	string PFAEKDPKBCG = 11;
+    uint32 AHMMKMKHHFP = 1;
+    string OPEJIFGDMBH = 11;
 }
+

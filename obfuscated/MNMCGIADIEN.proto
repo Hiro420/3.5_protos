@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KNOKLJBFHCE.proto";
 
+// Name: MNMCGIADIEN
+// CmdId: 6248
 message MNMCGIADIEN {
-	uint64 BOPOMJIPJMI = 3;
-	uint32 OEGEDJPNJAD = 2;
-	KNOKLJBFHCE OHLNFFNBLLG = 6;
+    uint64 HKLHMEABKCO = 3;
+    uint32 CEHNBFEIODF = 2;
+    KNOKLJBFHCE BAHAPDCMHHP = 6;
 }
+

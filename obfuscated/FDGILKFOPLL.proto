@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: FDGILKFOPLL
 message FDGILKFOPLL {
-	uint32 JGEEAPIIMMJ = 1;
-	DALMLFNANKL AKANNIGGDKH = 2;
+    uint32 AGCEPNMABLJ = 1;
+    DALMLFNANKL GHGPLCNLCDF = 2;
 }
+

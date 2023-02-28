@@ -5,7 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "FPCOGOEEBDM.proto";
 import "NDOJCJJNIKB.proto";
 
+// Name: HIAAGMFNAFI
+// CmdId: 64
 message HIAAGMFNAFI {
-	repeated NDOJCJJNIKB CKEINGOPDCB = 1;
-	FPCOGOEEBDM BKMIKKIDJOB = 8;
+    repeated NDOJCJJNIKB PLIJBBENAAI = 1;
+    FPCOGOEEBDM GBJKLEMMGLA = 8;
 }
+

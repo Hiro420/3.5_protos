@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HGOBDHKMDHO.proto";
 
+// Name: LLAGIAGEIKA
+// CmdId: 1407
 message LLAGIAGEIKA {
-	int32 IJIABMFLJGH = 15;
-	bool HEIMCBDADCB = 10;
-	repeated HGOBDHKMDHO CMFPMDOFCFE = 11;
-	bool JILHCAEFGBJ = 13;
+    int32 KFCODGHIJEH = 15;
+    bool FHPIGCIIJGD = 10;
+    repeated HGOBDHKMDHO PENGALGGMHO = 11;
+    bool COGMCNHGJOI = 13;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ALPPJOBNODK
+// CmdId: 4007
 message ALPPJOBNODK {
-	int32 IJIABMFLJGH = 15;
-	uint32 AAEBBDIDMAO = 7;
+    int32 KFCODGHIJEH = 15;
+    uint32 AKDECIELPLN = 7;
 }
+

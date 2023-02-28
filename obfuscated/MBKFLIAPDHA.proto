@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MBKFLIAPDHA
+// CmdId: 20772
 message MBKFLIAPDHA {
-	bool EOOMPFDDIHN = 13;
-	int32 IJIABMFLJGH = 7;
-	uint32 AIJOKLEENGC = 5;
+    bool AHOPFGMFDAL = 13;
+    int32 KFCODGHIJEH = 7;
+    uint32 OBBPIGOHAJL = 5;
 }
+

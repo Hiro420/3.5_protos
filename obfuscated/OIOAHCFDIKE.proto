@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OIOAHCFDIKE
+// CmdId: 1691
 message OIOAHCFDIKE {
-	int32 IJIABMFLJGH = 15;
-	uint64 POGHDEAENAD = 9;
-	uint32 FIJBKDKOFKL = 8;
-	uint32 CEKDLLLCMKI = 3;
+    int32 KFCODGHIJEH = 15;
+    uint64 PKJEEFBMBNM = 9;
+    uint32 MMFKOODFIKP = 8;
+    uint32 LKBMPEACAEJ = 3;
 }
+

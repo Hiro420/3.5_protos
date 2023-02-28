@@ -2,23 +2,25 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+import "IAMODOAMICJ.proto";
 import "IEMOLLDEMBH.proto";
 import "KKAGAEDPGGK.proto";
 import "LMPDFNFNKKI.proto";
-import "IAMODOAMICJ.proto";
 
+// Name: OLJLDADNNAF
 message OLJLDADNNAF {
-	uint32 HBGKHENHGJH = 3;
-	uint32 PFKDFHHKBFD = 5;
-	uint32 PLMDDEEEAAB = 12;
-	IAMODOAMICJ ECGBNFLBPLJ = 4;
-	bool DCFIELCKJGD = 14;
-	uint32 FGGMPNNKFFL = 8;
-	uint32 JLMLALKOMFN = 6;
-	LMPDFNFNKKI MAIFFLDLMOK = 13;
-	uint32 NDEGDDBLMKD = 1;
-	KKAGAEDPGGK LJEMMOKFJFL = 10;
-	uint32 IIMNNACDNII = 11;
-	repeated IEMOLLDEMBH LOJLLLENHHG = 15;
-	bool MEFKEONNPKL = 9;
+    uint32 EFNAOLNFOIL = 3;
+    uint32 NLBJCAHEJOC = 5;
+    uint32 JPIGCJLKDGO = 12;
+    IAMODOAMICJ GFIAGPNACIC = 4;
+    bool MMIFIPECKLP = 14;
+    uint32 ALBBELONLOC = 8;
+    uint32 OCFEJAGKHBJ = 6;
+    LMPDFNFNKKI FBMHMHMDMCP = 13;
+    uint32 CDEJEDMAFIH = 1;
+    KKAGAEDPGGK GOKFKJICOHD = 10;
+    uint32 NJKKLGMHFMG = 11;
+    repeated IEMOLLDEMBH JGOMIAGIAFB = 15;
+    bool COPMFJLLHOK = 9;
 }
+

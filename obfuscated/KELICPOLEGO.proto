@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KELICPOLEGO
 message KELICPOLEGO {
-	uint32 NFOPOKGDODK = 15;
-	uint32 NDEGDDBLMKD = 8;
+    uint32 PFLGEMLFBLL = 15;
+    uint32 CDEJEDMAFIH = 8;
 }
+

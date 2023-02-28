@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HNAOKKPNHAB.proto";
 
+// Name: LMNNPFFMONB
+// CmdId: 2173
 message LMNNPFFMONB {
-	HNAOKKPNHAB OMDCAKPEKJL = 12;
+    HNAOKKPNHAB LEMKAPOPFEJ = 12;
 }
+

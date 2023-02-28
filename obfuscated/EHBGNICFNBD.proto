@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EHBGNICFNBD
+// CmdId: 8709
 message EHBGNICFNBD {
-	uint32 DPJOJFFAOIB = 15;
-	uint32 BLKKMFFCCOE = 6;
-	int32 IJIABMFLJGH = 1;
-	uint32 MKPPAHMGOJO = 8;
-	repeated uint32 KLPFPILALNF = 14;
-	bool LOJDNGKDDBC = 5;
+    uint32 EGFOFPMNMJB = 15;
+    uint32 BELBOKFAOJF = 6;
+    int32 KFCODGHIJEH = 1;
+    uint32 GIJBLHLBDCD = 8;
+    repeated uint32 GAMMAJKGLII = 14;
+    bool KJHPHCIAKKI = 5;
 }
+

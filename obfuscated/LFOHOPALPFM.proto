@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KKNKJADICBH.proto";
+import "OKHOAHGOJBA.proto";
+import "PGPIMHLBMNI.proto";
+
+// Name: LFOHOPALPFM
+message LFOHOPALPFM {
+    uint32 MOCKBHIDNDO = 1;
+    uint32 CEGEDDOGGAD = 2;
+    uint32 MPFFBALNHEL = 3;
+    uint32 NHPLPJKKNBP = 4;
+    int64 FLECGDCDGKJ = 5;
+    oneof NBGGGBMJHHH {
+        OKHOAHGOJBA CNAIFJPIDJE = 6;
+        KKNKJADICBH JILBIAKKLCK = 7;
+        PGPIMHLBMNI IMLHKDCPPLA = 8;
+    }
+}
+

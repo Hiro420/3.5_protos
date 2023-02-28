@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EHFBOLNJEAC.proto";
 
+// Name: GGMMABALCCN
+// CmdId: 4519
 message GGMMABALCCN {
-	EHFBOLNJEAC MIGCNCGEFBK = 13;
-	int32 IJIABMFLJGH = 12;
+    EHFBOLNJEAC PFPJBKNMAJP = 13;
+    int32 KFCODGHIJEH = 12;
 }
+

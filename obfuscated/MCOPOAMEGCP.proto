@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DPIKGFELMFD.proto";
 
+// Name: MCOPOAMEGCP
 message MCOPOAMEGCP {
-	repeated uint32 HNFNNIALMHC = 7;
-	uint32 GNJMIICGMJM = 4;
-	uint32 JIKFEHBKOCO = 9;
-	DPIKGFELMFD KGGPGOOJKEF = 13;
+    repeated uint32 CNDHCLDMGJP = 7;
+    uint32 PHKLAGLHFFM = 4;
+    uint32 EBDOCHHNJEP = 9;
+    DPIKGFELMFD MHFMDCBOECI = 13;
 }
+

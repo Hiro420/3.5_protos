@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HGJKEMEBOKC.proto";
 
+// Name: DDPDLNJBKAP
+// CmdId: 1759
 message DDPDLNJBKAP {
-	HGJKEMEBOKC NBGGGBMJHHH = 3;
+    HGJKEMEBOKC CEOEJBEMDHP = 3;
 }
+

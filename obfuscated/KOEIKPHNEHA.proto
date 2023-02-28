@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EACNABDMBBF.proto";
 
+// Name: KOEIKPHNEHA
+// CmdId: 142
 message KOEIKPHNEHA {
-	repeated EACNABDMBBF MOOLAOOHHIC = 10;
+    repeated EACNABDMBBF LEPLDBHCKLN = 10;
 }
+

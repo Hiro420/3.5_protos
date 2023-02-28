@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CLIBPEMAFPA
 message CLIBPEMAFPA {
-	repeated uint32 CHHEMNNFLON = 4;
-	uint32 PHAHGDOJPKG = 13;
-	uint32 BNGHDMNKMNB = 5;
-	uint32 APMEKFHBPCP = 7;
-	repeated uint32 ODBNPLEOALM = 9;
-	uint32 HNLLICOKHCA = 2;
-	uint32 CHADFCNMKEP = 3;
+    repeated uint32 NLFKHJFABMF = 4;
+    uint32 LGJAHFJBMIA = 13;
+    uint32 IFKHJLODEIF = 5;
+    uint32 MGICPJOFJOA = 7;
+    repeated uint32 CEOPJHLAEHM = 9;
+    uint32 LCKAFGGJDIC = 2;
+    uint32 OGBFIGHOCIE = 3;
 }
+

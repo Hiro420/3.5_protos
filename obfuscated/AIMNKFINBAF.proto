@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DLNFNGEEJLG.proto";
 
+// Name: AIMNKFINBAF
+// CmdId: 4841
 message AIMNKFINBAF {
-	repeated DLNFNGEEJLG LMKEDEHLEAN = 14;
-	int32 IJIABMFLJGH = 8;
+    repeated DLNFNGEEJLG NEADCLEJICO = 14;
+    int32 KFCODGHIJEH = 8;
 }
+

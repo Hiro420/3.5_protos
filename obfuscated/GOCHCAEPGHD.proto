@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GOCHCAEPGHD
 message GOCHCAEPGHD {
-	uint32 LMFGKMPGIPD = 12;
-	string CAMINIPLMGO = 2;
-	string MCBJBNBKLOC = 6;
-	uint32 JAOBPKMBOKD = 5;
-	uint32 GPDCPEAMAAB = 4;
+    uint32 BFELILCAPAD = 12;
+    string JMPIBGAHPME = 2;
+    string CJCJMEFFNIG = 6;
+    uint32 AHMMKMKHHFP = 5;
+    uint32 FEDDOHLMNFF = 4;
 }
+

@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BJAGOBLGFKF.proto";
 
+// Name: ABEMHJAPEFE
+// CmdId: 8558
 message ABEMHJAPEFE {
-	int32 IJIABMFLJGH = 8;
-	uint32 OHPEFFGHJJJ = 3;
-	repeated BJAGOBLGFKF DBNNMGJNGEO = 10;
+    int32 KFCODGHIJEH = 8;
+    uint32 DBHKGFCGFJK = 3;
+    repeated BJAGOBLGFKF BIKLAHNELOK = 10;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MMCKMPPBHND
+// CmdId: 2034
 message MMCKMPPBHND {
-	bool MAFJCBMDEHH = 6;
-	uint32 DEFKOJOGBJA = 9;
+    bool JMBPPFPICAM = 6;
+    uint32 ALJACOKBBKH = 9;
 }
+

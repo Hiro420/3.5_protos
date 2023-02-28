@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FEPJMFICDGB.proto";
 
+// Name: KAONIMBCNLI
+// CmdId: 4196
 message KAONIMBCNLI {
-	FEPJMFICDGB GIPBJFBBEFI = 1;
+    FEPJMFICDGB CLMHDABEAMH = 1;
 }
+

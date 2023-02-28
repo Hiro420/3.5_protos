@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NLAGLOOCJKD
+// CmdId: 223
 message NLAGLOOCJKD {
-	uint32 KFEMBAPKMFH = 8;
-	int32 IJIABMFLJGH = 1;
-	uint32 HBMBODJGAPM = 9;
+    uint32 NDGLECFHBCJ = 8;
+    int32 KFCODGHIJEH = 1;
+    uint32 HNIOMMFIPJP = 9;
 }
+

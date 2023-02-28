@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DBMLBHBKCOF
+// CmdId: 8973
 message DBMLBHBKCOF {
-	uint32 PFKDFHHKBFD = 12;
+    uint32 NLBJCAHEJOC = 12;
 }
+

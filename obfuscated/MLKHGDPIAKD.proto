@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MLKHGDPIAKD
 message MLKHGDPIAKD {
-	uint32 JAOBPKMBOKD = 1;
-	uint32 JLMLALKOMFN = 2;
-	uint32 LMFGKMPGIPD = 3;
+    uint32 AHMMKMKHHFP = 1;
+    uint32 OCFEJAGKHBJ = 2;
+    uint32 BFELILCAPAD = 3;
 }
+

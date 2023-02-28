@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ABLOLDAEFJD.proto";
+import "BAECECBNOKK.proto";
+
+// Name: IJKNGHOLCFJ
+// CmdId: 304
+message IJKNGHOLCFJ {
+    int32 KJICPFNPGBD = 3;
+    float CENLBKPGNHK = 9;
+    uint32 ACHBBCGPOMJ = 1;
+    int32 MOCKBHIDNDO = 7;
+    uint32 KKHKHOFMNNI = 13;
+    int32 LOBMADPMGFK = 5;
+    uint32 FJBAIPKOAIE = 10;
+    oneof BFGDPIONBMA {
+        BAECECBNOKK JGABKPGONEE = 2;
+        ABLOLDAEFJD KPJNDDEMGAP = 8;
+    }
+}
+

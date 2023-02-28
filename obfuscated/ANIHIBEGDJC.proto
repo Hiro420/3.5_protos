@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: ANIHIBEGDJC
+enum ANIHIBEGDJC {
+    ANIHIBEGDJC_OKHMBACGIDI = 0;
+    ANIHIBEGDJC_HMNPIKMJBAB = 1;
+    ANIHIBEGDJC_LOPFCNNIOOD = 2;
+    ANIHIBEGDJC_EAAAMEMNHHJ = 3;
+}
+

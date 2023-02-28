@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PPMLILPAMKP
+// CmdId: 2087
 message PPMLILPAMKP {
-	uint32 NBKMNLGLAGM = 10;
+    uint32 BDFFCIIGFOL = 10;
 }
+

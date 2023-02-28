@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BKDDBLPBIHN
+// CmdId: 1975
 message BKDDBLPBIHN {
-	uint32 EDDAOBIMJJB = 13;
+    uint32 MMCKIDOJIFE = 13;
 }
+

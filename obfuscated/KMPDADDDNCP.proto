@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KMPDADDDNCP
 message KMPDADDDNCP {
-	bool LJCNAKMNMEN = 13;
-	uint32 LDMHIIMPNKD = 4;
-	uint32 MHEHIHMNOMA = 7;
-	bool ODJCPMKCLFH = 2;
+    bool EOJOAHGECCE = 13;
+    uint32 NLNHJFLCGHB = 4;
+    uint32 KOPBLHONCEF = 7;
+    bool MFPMLIGPNIJ = 2;
 }
+

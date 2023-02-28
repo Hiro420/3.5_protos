@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: APAPDHOMLGI
+// CmdId: 3234
 message APAPDHOMLGI {
-	uint32 OGECCMIPGDB = 13;
+    uint32 EOPNDAKEKEG = 13;
 }
+

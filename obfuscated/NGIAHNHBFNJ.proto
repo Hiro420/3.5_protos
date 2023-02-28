@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NGIAHNHBFNJ
+// CmdId: 1207
 message NGIAHNHBFNJ {
-	uint32 LILAJADOPJB = 13;
-	repeated uint32 GALNIILLPHH = 2;
+    uint32 MNPBAIEGCLN = 13;
+    repeated uint32 DEAOJOOBCDE = 2;
 }
+

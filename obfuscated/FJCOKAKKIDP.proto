@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FJCOKAKKIDP
+// CmdId: 5307
 message FJCOKAKKIDP {
-	uint32 MODGFBJMMHC = 5;
-	int32 IJIABMFLJGH = 3;
-	uint32 NJAEFGBAJLN = 13;
-	uint32 JEEFNCHAJOJ = 12;
+    uint32 JJJDABMAPJG = 5;
+    int32 KFCODGHIJEH = 3;
+    uint32 GKJEDGIJGKL = 13;
+    uint32 MPLJBMEAIBB = 12;
 }
+

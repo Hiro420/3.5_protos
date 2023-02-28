@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NLCHECAHEJL
+// CmdId: 4016
 message NLCHECAHEJL {
-	bool OKCDAFDCFIF = 12;
+    bool FFCHEFKANDO = 12;
 }
+

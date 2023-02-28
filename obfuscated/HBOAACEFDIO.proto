@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HBOAACEFDIO
+// CmdId: 864
 message HBOAACEFDIO {
-	repeated uint32 JMBAPGHCFCP = 5;
-	uint32 JGAHPOJJDHJ = 14;
+    repeated uint32 DGKMGAPLMBJ = 5;
+    uint32 LGAHNCLEDCF = 14;
 }
+

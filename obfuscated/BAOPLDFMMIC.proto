@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DBDNABMNFAO.proto";
 
+// Name: BAOPLDFMMIC
+// CmdId: 625
 message BAOPLDFMMIC {
-	map<uint32, DBDNABMNFAO> GAGONOJAEJH = 9;
-	repeated uint32 LHHHBCOOGJE = 14;
+    map<uint32, DBDNABMNFAO> BAMCMBEEFBO = 9;
+    repeated uint32 GLBKDFCEBHE = 14;
 }
+

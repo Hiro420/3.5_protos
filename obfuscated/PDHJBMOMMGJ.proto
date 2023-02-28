@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MPJJDJEINNM.proto";
 
+// Name: PDHJBMOMMGJ
 message PDHJBMOMMGJ {
-	map<uint32, MPJJDJEINNM> CKAGIIBGCAG = 11;
+    map<uint32, MPJJDJEINNM> LEJEMMNHKNO = 11;
 }
+

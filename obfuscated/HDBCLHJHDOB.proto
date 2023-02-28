@@ -5,10 +5,13 @@ option java_package = "emu.grasscutter.net.proto";
 import "JPEDGKIPECE.proto";
 import "PDLBLABILBO.proto";
 
+// Name: HDBCLHJHDOB
+// CmdId: 5925
 message HDBCLHJHDOB {
-	PDLBLABILBO BDCFHFKEPAL = 2;
-	uint32 AAHPGNIAFFG = 12;
-	uint32 CJJIOPDNBGJ = 8;
-	int32 IJIABMFLJGH = 7;
-	JPEDGKIPECE AKPBABIIFED = 6;
+    PDLBLABILBO DMNJKADOILE = 2;
+    uint32 NGOELONIDLG = 12;
+    uint32 ELOHOCHPAAG = 8;
+    int32 KFCODGHIJEH = 7;
+    JPEDGKIPECE FICNKGLBBAJ = 6;
 }
+

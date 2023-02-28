@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GNNGDDLNMPK
+// CmdId: 21212
 message GNNGDDLNMPK {
-	uint32 AIJOKLEENGC = 8;
-	int32 IJIABMFLJGH = 4;
+    uint32 OBBPIGOHAJL = 8;
+    int32 KFCODGHIJEH = 4;
 }
+

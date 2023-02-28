@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BOLIJBHHIAA
+// CmdId: 4029
 message BOLIJBHHIAA {
-	string AMDFPICMLCC = 15;
+    string GIHJOHOLMBH = 15;
 }
+

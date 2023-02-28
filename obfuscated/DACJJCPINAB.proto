@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FNABEPABCNG.proto";
 
+// Name: DACJJCPINAB
+// CmdId: 4600
 message DACJJCPINAB {
-	string HAJPGGOKDIK = 12;
-	FNABEPABCNG DFLIDJEIGPO = 3;
-	int32 IJIABMFLJGH = 13;
+    string IIPDEOODDGO = 12;
+    FNABEPABCNG JOLNHBKLDHC = 3;
+    int32 KFCODGHIJEH = 13;
 }
+

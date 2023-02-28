@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NCBMOJCMENN
+// CmdId: 2081
 message NCBMOJCMENN {
-	uint32 LAMKPGOOMKN = 6;
-	int32 IJIABMFLJGH = 5;
-	uint32 AHEFDMPHAAK = 8;
-	repeated uint32 BIGKKHKAGNF = 14;
+    uint32 OBPDPLFCLGI = 6;
+    int32 KFCODGHIJEH = 5;
+    uint32 NOGMACBJJCL = 8;
+    repeated uint32 KELHCDAGMEP = 14;
 }
+

@@ -4,12 +4,15 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CMDOHKNKFDH.proto";
 
+// Name: OKJGBFHLEIK
+// CmdId: 1787
 message OKJGBFHLEIK {
-	uint32 GNLDDLIKJDN = 3;
-	uint32 OPKJBKGCHMJ = 14;
-	uint32 AHFGCEDNLHM = 15;
-	uint32 JAOBPKMBOKD = 1;
-	uint32 BPCDBJOKIMD = 4;
-	bool BELAGGCENIA = 9;
-	repeated CMDOHKNKFDH MMOHPHJDCCM = 6;
+    uint32 BHDBMLOIDGK = 3;
+    uint32 AIGPMLAPMBL = 14;
+    uint32 LAMMGIKJMDL = 15;
+    uint32 AHMMKMKHHFP = 1;
+    uint32 KNGMKKHPDBJ = 4;
+    bool HLMKAKEADNE = 9;
+    repeated CMDOHKNKFDH GFHHGAKMIGH = 6;
 }
+

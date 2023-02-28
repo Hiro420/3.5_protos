@@ -2,5 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KMEEJMNFPAB
+// CmdId: 6226
 message KMEEJMNFPAB {
 }
+

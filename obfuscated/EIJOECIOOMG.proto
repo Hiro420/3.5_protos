@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EIJOECIOOMG
 message EIJOECIOOMG {
-	uint32 FJGLNNHJKIB = 10;
-	float JNEKEMPAKLM = 15;
-	uint32 JHAPGFPKDPP = 14;
-	float JNHINMJHPHO = 7;
+    uint32 GNNMLIMOPNJ = 10;
+    float GGFHOCCBOOK = 15;
+    uint32 IGDJFFNHDNC = 14;
+    float BLBHOEGPKOF = 7;
 }
+

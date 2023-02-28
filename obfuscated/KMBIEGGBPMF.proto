@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MGEECBMFJFJ.proto";
 
+// Name: KMBIEGGBPMF
+// CmdId: 1994
 message KMBIEGGBPMF {
-	repeated MGEECBMFJFJ EPIAMPJGAKM = 15;
-	repeated uint32 IPBFOFIOLLP = 2;
-	bool JALLMFBFCBC = 11;
-	uint32 NEFICBIOPGF = 4;
+    repeated MGEECBMFJFJ NFNMEECANOC = 15;
+    repeated uint32 FFDHBKIOAAK = 2;
+    bool NMKAOGDDEGP = 11;
+    uint32 DMKPAFGLJLJ = 4;
 }
+

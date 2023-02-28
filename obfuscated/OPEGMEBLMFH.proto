@@ -2,23 +2,25 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OPEGMEBLMFH
 message OPEGMEBLMFH {
-	uint32 BKHAIOKFEGB = 1;
-	uint32 FEEFNCONEOB = 2;
-	uint32 ONJOMBLGAKO = 3;
-	uint32 BFDHLMAEPDN = 4;
-	uint32 FJIJPOCOPGJ = 5;
-	uint64 OIKMBEMDAGM = 6;
-	uint32 ENMMDMCFAOD = 11;
-	uint32 BOHENLMHPFK = 12;
-	uint32 PHBPCHCIDFM = 13;
-	uint64 OKPDLDKALCI = 21;
-	uint32 AIMPDNHADPF = 22;
-	map<uint32, uint32> NAHGAKEAGPG = 23;
-	uint32 IBMLIBAFCDA = 24;
-	uint32 JJMELJFMGPI = 31;
-	uint32 CHFPOJBFGEC = 32;
-	map<uint32, uint32> NCAOGJILHFJ = 33;
-	bool GIFDOHBNAAO = 34;
-	uint32 FBOACIGHDJN = 35;
+    uint32 KHPJABMLNKN = 1;
+    uint32 POGOHKCNHLP = 2;
+    uint32 FDGFMLGOPCP = 3;
+    uint32 CANFECJGGAP = 4;
+    uint32 KOBLBBMPHMO = 5;
+    uint64 LOFGPIDLFMH = 6;
+    uint32 ACHBBCGPOMJ = 11;
+    uint32 COPADPBCDJD = 12;
+    uint32 HGLOJIBMBLC = 13;
+    uint64 LAENEIEMHAE = 21;
+    uint32 DHGCFAMPLNI = 22;
+    map<uint32, uint32> HPBMDCBFEMI = 23;
+    uint32 FCHFJDPGKDB = 24;
+    uint32 HLJMPEGBIAM = 31;
+    uint32 JJDOPMBMMPG = 32;
+    map<uint32, uint32> EPELBNGKIMI = 33;
+    bool PPPLHCGKFGF = 34;
+    uint32 DDHFMFLMNCE = 35;
 }
+

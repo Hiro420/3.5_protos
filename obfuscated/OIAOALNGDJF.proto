@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: OIAOALNGDJF
+// CmdId: 4274
 message OIAOALNGDJF {
-	uint32 AAHPGNIAFFG = 5;
-	DALMLFNANKL AKANNIGGDKH = 3;
-	uint32 PDFLEGGDOCP = 11;
+    uint32 NGOELONIDLG = 5;
+    DALMLFNANKL GHGPLCNLCDF = 3;
+    uint32 GPBLLPDCIFK = 11;
 }
+

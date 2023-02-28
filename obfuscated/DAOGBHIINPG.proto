@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EHFBOLNJEAC.proto";
 
+// Name: DAOGBHIINPG
+// CmdId: 4565
 message DAOGBHIINPG {
-	repeated uint32 MMBAHCAIGII = 1;
-	int32 IJIABMFLJGH = 8;
-	repeated EHFBOLNJEAC OEPDBDCFKDK = 13;
+    repeated uint32 FEBHEJGBPBO = 1;
+    int32 KFCODGHIJEH = 8;
+    repeated EHFBOLNJEAC LHEBGAGKLJP = 13;
 }
+

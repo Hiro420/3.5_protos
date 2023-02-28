@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LENDNBDJFGL
+// CmdId: 8951
 message LENDNBDJFGL {
-	uint32 AHEFDMPHAAK = 11;
-	repeated uint32 BIGKKHKAGNF = 15;
-	uint32 EPODNOIKDEM = 6;
+    uint32 NOGMACBJJCL = 11;
+    repeated uint32 KELHCDAGMEP = 15;
+    uint32 PJFOLMPAJKP = 6;
 }
+

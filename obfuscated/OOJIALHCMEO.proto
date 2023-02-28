@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PGKMKCDIPCM.proto";
 
+// Name: OOJIALHCMEO
+// CmdId: 157
 message OOJIALHCMEO {
-	uint32 GCBFDDKPKNI = 15;
-	repeated PGKMKCDIPCM OBDHKPDJNGE = 12;
+    uint32 LLEEHHGFIHE = 15;
+    repeated PGKMKCDIPCM AKDJLBFPMMM = 12;
 }
+

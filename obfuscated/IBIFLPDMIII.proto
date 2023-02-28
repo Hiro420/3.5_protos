@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PCGPDJMBEMO.proto";
 
+// Name: IBIFLPDMIII
+// CmdId: 2542
 message IBIFLPDMIII {
-	repeated PCGPDJMBEMO BCHAJLDJCIH = 5;
-	int32 IJIABMFLJGH = 9;
+    repeated PCGPDJMBEMO NPEGEAHKDMI = 5;
+    int32 KFCODGHIJEH = 9;
 }
+

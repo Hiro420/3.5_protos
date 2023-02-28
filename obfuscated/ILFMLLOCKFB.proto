@@ -4,11 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HGOBDHKMDHO.proto";
 
+// Name: ILFMLLOCKFB
+// CmdId: 1429
 message ILFMLLOCKFB {
-	int32 IJIABMFLJGH = 6;
-	uint32 ABJBOBMHCII = 1;
-	repeated HGOBDHKMDHO CMFPMDOFCFE = 10;
-	string OAGJAHBDCCO = 5;
-	bool JILHCAEFGBJ = 8;
-	uint32 MJGAALDCFFK = 13;
+    int32 KFCODGHIJEH = 6;
+    uint32 FCGFGPDOKOH = 1;
+    repeated HGOBDHKMDHO PENGALGGMHO = 10;
+    string OFKDJNIGLLH = 5;
+    bool COGMCNHGJOI = 8;
+    uint32 GKAOFKGNGGO = 13;
 }
+

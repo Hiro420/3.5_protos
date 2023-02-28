@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KPMFNAPKPOK.proto";
 
+// Name: IDIGJCADDCJ
 message IDIGJCADDCJ {
-	repeated KPMFNAPKPOK LIHEPHPKCOI = 14;
+    repeated KPMFNAPKPOK OLCOJNKIDMA = 14;
 }
+

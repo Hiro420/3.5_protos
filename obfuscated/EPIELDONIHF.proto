@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "IHFHAKKFMHG.proto";
 import "IHBAACKKKEC.proto";
+import "IHFHAKKFMHG.proto";
 
+// Name: EPIELDONIHF
+// CmdId: 318
 message EPIELDONIHF {
-	repeated IHBAACKKKEC KCGGOGIJHHM = 13;
-	IHFHAKKFMHG CBOLHDNGDGC = 9;
+    repeated IHBAACKKKEC FKIFNGNJGNG = 13;
+    IHFHAKKFMHG KDJAKKPIMGJ = 9;
 }
+

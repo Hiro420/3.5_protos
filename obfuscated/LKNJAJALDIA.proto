@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LKNJAJALDIA
+// CmdId: 8469
 message LKNJAJALDIA {
-	uint32 EJPEIKKGCAK = 6;
-	map<uint32, uint32> KMNMABNEHGM = 9;
-	uint32 HKDJCBBFMPH = 5;
-	uint32 OLHBBHCAHGJ = 14;
+    uint32 JBOFEKDGMIO = 6;
+    map<uint32, uint32> DKPIFLFCCEG = 9;
+    uint32 IMBCNJFONIC = 5;
+    uint32 BOPLNMEHANO = 14;
 }
+

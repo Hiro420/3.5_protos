@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OPANAMLOKOK
+// CmdId: 54
 message OPANAMLOKOK {
-	string KALLOCFPCLM = 6;
-	string AJEFEPAGBBJ = 13;
-	int32 IJIABMFLJGH = 12;
+    string ODJNCNGCIHG = 6;
+    string DKMFFBNJCNA = 13;
+    int32 KFCODGHIJEH = 12;
 }
+

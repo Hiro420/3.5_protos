@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DFKPKCCAHMK
+// CmdId: 4521
 message DFKPKCCAHMK {
-	uint32 DAIBJCNPOJG = 7;
-	bool HEKOGGBMIIL = 5;
+    uint32 FGCOFILIGGJ = 7;
+    bool ACOFLPFLFMA = 5;
 }
+

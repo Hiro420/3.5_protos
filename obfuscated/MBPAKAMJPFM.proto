@@ -4,11 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KKKJLKKHGDJ.proto";
 
+// Name: MBPAKAMJPFM
 message MBPAKAMJPFM {
-	uint32 BLCIMNPGKEF = 1;
-	uint32 CPNKGECJLKB = 2;
-	KKKJLKKHGDJ MBHNDJOJJNH = 13;
-	uint32 PFJINGEILEF = 12;
-	uint32 OGBNPABGBHH = 7;
-	uint32 NJAEFGBAJLN = 10;
+    uint32 MDBEPJAMPBA = 1;
+    uint32 LHLHKNLIKLK = 2;
+    KKKJLKKHGDJ NBFIJNIHLPD = 13;
+    uint32 LJHINGOMPDC = 12;
+    uint32 IADNAONEHKA = 7;
+    uint32 GKJEDGIJGKL = 10;
 }
+

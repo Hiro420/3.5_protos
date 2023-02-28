@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NFBAMPAFEIG.proto";
 
+// Name: EFMEAGBKNLI
+// CmdId: 208
 message EFMEAGBKNLI {
-	uint32 BEKCJPOGBHB = 12;
-	uint32 KFEMBAPKMFH = 10;
-	repeated NFBAMPAFEIG IBDAPAKPMFP = 14;
+    uint32 ALHOCCJPIFL = 12;
+    uint32 NDGLECFHBCJ = 10;
+    repeated NFBAMPAFEIG NEKBMPBDMEN = 14;
 }
+

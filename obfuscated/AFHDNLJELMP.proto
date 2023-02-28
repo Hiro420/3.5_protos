@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AFHDNLJELMP
+// CmdId: 416
 message AFHDNLJELMP {
-	int32 IJIABMFLJGH = 5;
-	uint32 HBMBODJGAPM = 4;
-	uint32 DPJOJFFAOIB = 3;
+    int32 KFCODGHIJEH = 5;
+    uint32 HNIOMMFIPJP = 4;
+    uint32 EGFOFPMNMJB = 3;
 }
+

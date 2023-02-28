@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MHBLMMJDAIF.proto";
+
+// Name: POGIPAEBEHM
+message POGIPAEBEHM {
+    uint32 NLBJCAHEJOC = 6;
+    uint32 EILEKGBEBLI = 8;
+    uint32 JPIGCJLKDGO = 7;
+    uint32 CDEJEDMAFIH = 10;
+    bool KNKJDFMLPIL = 15;
+    oneof NGKAEIMKBBL {
+        MHBLMMJDAIF AGGHPDGDBID = 9;
+    }
+}
+

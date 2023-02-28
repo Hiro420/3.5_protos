@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: FMBJNFHJFJF
+enum FMBJNFHJFJF {
+    FMBJNFHJFJF_BJJPFDMMGIB = 0;
+    FMBJNFHJFJF_LONNCFKHDCE = 1;
+    FMBJNFHJFJF_IEAOCDHFKOO = 2;
+    FMBJNFHJFJF_MDEBFOFPNAH = 3;
+    FMBJNFHJFJF_IJBMLCLKPME = 4;
+}
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PLKBIMJHCOK.proto";
 
+// Name: EPEIJILLNJM
+// CmdId: 3152
 message EPEIJILLNJM {
-	repeated PLKBIMJHCOK HNAKLOOFNEO = 3;
+    repeated PLKBIMJHCOK BCEFPODENMM = 3;
 }
+

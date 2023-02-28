@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OPEFMKHJAIN.proto";
 
+// Name: OGHEHLKHJOL
+// CmdId: 4807
 message OGHEHLKHJOL {
-	repeated OPEFMKHJAIN BMLCIANJGPJ = 10;
+    repeated OPEFMKHJAIN EMLGFIJNPAO = 10;
 }
+

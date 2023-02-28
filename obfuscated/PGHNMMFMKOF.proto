@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PGHNMMFMKOF
 message PGHNMMFMKOF {
-	bool DJKOKFDGKIG = 9;
-	uint32 BEJDBNONODA = 5;
+    bool HKDOCGOMBKP = 9;
+    uint32 NJIHDDKBBLA = 5;
 }
+

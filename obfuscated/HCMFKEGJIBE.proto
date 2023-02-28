@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HCMFKEGJIBE
 message HCMFKEGJIBE {
-	uint32 DOKELIFOJAB = 2;
-	repeated uint32 NJJLCDGPKOB = 6;
+    uint32 GOEBNBGAKLB = 2;
+    repeated uint32 MEJCALJPMNA = 6;
 }
+

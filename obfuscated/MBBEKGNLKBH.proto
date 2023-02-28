@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NGALEPLHONA.proto";
 
+// Name: MBBEKGNLKBH
 message MBBEKGNLKBH {
-	NGALEPLHONA OFKDKGCPOGA = 6;
-	uint32 JPCGGHLKOOF = 4;
+    NGALEPLHONA EKGNGMCOPFM = 6;
+    uint32 NJKLOCOLJLE = 4;
 }
+

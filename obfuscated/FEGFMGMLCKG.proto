@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NFCMDLFAPCF.proto";
 
+// Name: FEGFMGMLCKG
+// CmdId: 6326
 message FEGFMGMLCKG {
-	repeated NFCMDLFAPCF GCHDEHIOICK = 1;
-	repeated NFCMDLFAPCF FHDMGOBEOFE = 12;
+    repeated NFCMDLFAPCF JJMBELIDNLN = 1;
+    repeated NFCMDLFAPCF OMGGIPLOILH = 12;
 }
+

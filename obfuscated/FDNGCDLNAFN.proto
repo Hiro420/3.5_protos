@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FDNGCDLNAFN
+// CmdId: 1795
 message FDNGCDLNAFN {
-	uint64 OAACAHOMNJI = 12;
-	int32 IJIABMFLJGH = 9;
-	uint32 CJMCIOJABIJ = 7;
+    uint64 ENLFDLHPNOK = 12;
+    int32 KFCODGHIJEH = 9;
+    uint32 DMOGBMIPNFM = 7;
 }
+

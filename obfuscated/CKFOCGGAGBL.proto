@@ -4,14 +4,16 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JADEEKLDMOG.proto";
 
+// Name: CKFOCGGAGBL
 message CKFOCGGAGBL {
-	uint32 NFOPOKGDODK = 4;
-	uint32 PEPLGLLHHMI = 2;
-	uint32 FBCBHNDKKNN = 12;
-	uint32 LLNAABDELNL = 7;
-	bool LKNMFONJMOL = 15;
-	uint32 HKKJFAMKHAK = 6;
-	JADEEKLDMOG FALJGOFOIOE = 10;
-	uint32 OEGEDJPNJAD = 11;
-	uint32 NDEGDDBLMKD = 9;
+    uint32 PFLGEMLFBLL = 4;
+    uint32 IBHCLHKHGMG = 2;
+    uint32 HFEFHDCOMLB = 12;
+    uint32 EIMBMLKPONH = 7;
+    bool ELEPGIOFIBF = 15;
+    uint32 JPBJFFCFINC = 6;
+    JADEEKLDMOG ONIBNGHNGJM = 10;
+    uint32 CEHNBFEIODF = 11;
+    uint32 CDEJEDMAFIH = 9;
 }
+

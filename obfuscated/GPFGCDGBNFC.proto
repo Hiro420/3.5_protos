@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GPFGCDGBNFC
+// CmdId: 8384
 message GPFGCDGBNFC {
-	uint32 BEJDBNONODA = 9;
-	uint32 HFKNDLGIPML = 8;
+    uint32 NJIHDDKBBLA = 9;
+    uint32 EILEKGBEBLI = 8;
 }
+

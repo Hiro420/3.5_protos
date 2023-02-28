@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: NOMPJNNKOKM
+enum NOMPJNNKOKM {
+    NOMPJNNKOKM_JJIMJJIIEPP = 0;
+    NOMPJNNKOKM_LEAMDEHBMDD = 1;
+    NOMPJNNKOKM_HBBBLJDDJIL = 2;
+    NOMPJNNKOKM_MNDGJDNIMKP = 3;
+    NOMPJNNKOKM_ILDLFDMHGIE = 4;
+    NOMPJNNKOKM_AOCBONDOKCO = 5;
+}
+

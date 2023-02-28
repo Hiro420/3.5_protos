@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EDNCOEJLGBG
 message EDNCOEJLGBG {
-	uint32 ECEMGJIAFKE = 15;
-	repeated uint32 KLPFPILALNF = 9;
-	uint32 JLMLALKOMFN = 11;
+    uint32 JHKGKEPFCKL = 15;
+    repeated uint32 GAMMAJKGLII = 9;
+    uint32 OCFEJAGKHBJ = 11;
 }
+

@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DFNGPIGNBJJ.proto";
 
+// Name: DKFNMCMGENJ
 message DKFNMCMGENJ {
-	bool ADNBNHMDIDH = 3;
-	DFNGPIGNBJJ AFKLENIEKMJ = 7;
+    bool GJFNDMOCPBK = 3;
+    DFNGPIGNBJJ CCDLABDHHEH = 7;
 }
+

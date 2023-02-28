@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "OJNKFDIOAFA.proto";
 import "IGCNJKHEEOA.proto";
+import "OJNKFDIOAFA.proto";
 
+// Name: FFHGPFHLKPI
+// CmdId: 7528
 message FFHGPFHLKPI {
-	repeated IGCNJKHEEOA PDFHOAILMJO = 8;
-	repeated uint32 MOIHPNONAFK = 2;
-	repeated OJNKFDIOAFA ADDPBAJCPJA = 6;
+    repeated IGCNJKHEEOA KAOKIDNOGCB = 8;
+    repeated uint32 AEPLPNNGLPG = 2;
+    repeated OJNKFDIOAFA HKLDJONNBOA = 6;
 }
+

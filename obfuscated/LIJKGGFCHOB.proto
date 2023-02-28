@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LIJKGGFCHOB
 message LIJKGGFCHOB {
-	string EJNMMOMKGCO = 1;
-	string DHPNGKFNOCF = 2;
-	uint32 NJPCBCENJAA = 3;
-	uint32 AMMHFNJAOJI = 4;
-	uint32 MBOBAGMAKNE = 5;
-	uint32 NLABLOKLBML = 6;
-	bool KNJMLMCBFFP = 7;
+    string APHGPJLNCDD = 1;
+    string FNIODJLHDLL = 2;
+    uint32 JOIANPCEKPB = 3;
+    uint32 GOJEILKOHBH = 4;
+    uint32 CGACGBLLNGP = 5;
+    uint32 KCHMFBKCLKO = 6;
+    bool KCFCMKNCMAL = 7;
 }
+

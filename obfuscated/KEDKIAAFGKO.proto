@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NIFNHCLOBPA.proto";
 
+// Name: KEDKIAAFGKO
+// CmdId: 2068
 message KEDKIAAFGKO {
-	uint32 HKKBPCMFKNJ = 12;
-	repeated NIFNHCLOBPA CLKAHPMDDIH = 11;
+    uint32 LADOHIGCFCB = 12;
+    repeated NIFNHCLOBPA EJCFAMANPKM = 11;
 }
+

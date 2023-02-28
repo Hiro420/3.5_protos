@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "PDPKPDBANCA.proto";
 import "DPJENBKKAAG.proto";
+import "PDPKPDBANCA.proto";
 
+// Name: KAGBMEDMOLA
+// CmdId: 241
 message KAGBMEDMOLA {
-	DPJENBKKAAG GNLDDLIKJDN = 11;
-	PDPKPDBANCA DPDNKOIFCPO = 14;
-	bool JMBHKPLFJAM = 3;
+    DPJENBKKAAG BHDBMLOIDGK = 11;
+    PDPKPDBANCA GDHAFBJCLAD = 14;
+    bool GJDPPLLPKKM = 3;
 }
+

@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NHOJHEBAMEC
+// CmdId: 8747
 message NHOJHEBAMEC {
-	repeated uint32 PHAAJDKCIBL = 8;
-	int32 IJIABMFLJGH = 4;
-	uint32 DNJOGGHOALD = 5;
-	uint32 AIJOKLEENGC = 10;
+    repeated uint32 LICLDNLBKAI = 8;
+    int32 KFCODGHIJEH = 4;
+    uint32 BCJEPJFHKIN = 5;
+    uint32 OBBPIGOHAJL = 10;
 }
+

@@ -4,11 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DFNGPIGNBJJ.proto";
 
+// Name: DGPPIFFCCGJ
 message DGPPIFFCCGJ {
-	uint32 FEOMIOKBKJA = 7;
-	uint32 APPJCEKCOBP = 3;
-	map<uint32, uint32> GKALNKKNFIN = 2;
-	uint32 EDLGCIHFDGM = 13;
-	DFNGPIGNBJJ AFKLENIEKMJ = 6;
-	uint32 NBDHIEAPMOL = 5;
+    uint32 GIKJGOPJELA = 7;
+    uint32 IPLGACBJJGH = 3;
+    map<uint32, uint32> LJPCMJCCNNI = 2;
+    uint32 GBBJAMEMAHI = 13;
+    DFNGPIGNBJJ CCDLABDHHEH = 6;
+    uint32 DIOJNDKDDLI = 5;
 }
+

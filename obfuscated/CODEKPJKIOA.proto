@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CODEKPJKIOA
 message CODEKPJKIOA {
-	uint64 JAOBPKMBOKD = 11;
-	bool NHDPHIMDACF = 7;
+    uint64 AHMMKMKHHFP = 11;
+    bool OABFKGLGLHI = 7;
 }
+

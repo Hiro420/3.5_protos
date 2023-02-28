@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IBDHKPKIDND.proto";
 
+// Name: BNEFMGJODCK
 message BNEFMGJODCK {
-	repeated IBDHKPKIDND GCIMPMCMBPD = 15;
-	bool IAJGNBKDFHB = 6;
-	repeated int64 GNPDPNKCIGA = 13;
+    repeated IBDHKPKIDND FIJMEGFPCCK = 15;
+    bool DJDLPJELAMM = 6;
+    repeated int64 GBOKAEHCOHK = 13;
 }
+

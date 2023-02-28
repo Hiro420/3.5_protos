@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BCDLHIDENAP
+// CmdId: 921
 message BCDLHIDENAP {
-	uint32 FMKIPOMPOLG = 8;
-	uint32 CCAOAAKCHEI = 9;
+    uint32 JFNBPHFCMEC = 8;
+    uint32 EKEBDBCEHPO = 9;
 }
+

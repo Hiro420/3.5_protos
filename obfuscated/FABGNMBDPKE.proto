@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IPCIFFJCJLL.proto";
 
+// Name: FABGNMBDPKE
+// CmdId: 5534
 message FABGNMBDPKE {
-	map<uint32, IPCIFFJCJLL> NCDJLMDONDI = 15;
-	uint32 KKMLAEEAHJA = 12;
+    map<uint32, IPCIFFJCJLL> FDBLKNPOCBF = 15;
+    uint32 IIBPCMOEENO = 12;
 }
+

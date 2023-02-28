@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JPEDGKIPECE
 message JPEDGKIPECE {
-	uint64 NOGDGMJIPBI = 2;
-	uint32 GKHJKEGICOO = 3;
-	bool MFPGHFOFAFP = 10;
+    uint64 DGNDLNDKIMP = 2;
+    uint32 FBJHOFHKIIG = 3;
+    bool KANHMLPBBHL = 10;
 }
+

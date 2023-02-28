@@ -4,12 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ABMCDDFMBOC.proto";
 
+// Name: KCCNICENMAJ
 message KCCNICENMAJ {
-	bool MFPGHFOFAFP = 15;
-	uint32 GAOMGOJIMJC = 8;
-	uint32 LEHMNBDCPCB = 12;
-	repeated ABMCDDFMBOC FADPNNCLMPK = 4;
-	uint32 AJKAGKJOMKF = 3;
-	uint32 EGLODPDBDAL = 14;
-	uint64 ONEKBACCDAO = 2;
+    bool KANHMLPBBHL = 15;
+    uint32 MPCPKIIJOLM = 8;
+    uint32 JBBDBIKIILL = 12;
+    repeated ABMCDDFMBOC KOJALAALAKA = 4;
+    uint32 FBODLPEMNMN = 3;
+    uint32 AICKCKBBCMG = 14;
+    uint64 NGNCNCLNLOF = 2;
 }
+

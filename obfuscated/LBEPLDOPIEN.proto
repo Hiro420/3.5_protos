@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LBEPLDOPIEN
+// CmdId: 6203
 message LBEPLDOPIEN {
-	int32 IJIABMFLJGH = 9;
+    int32 KFCODGHIJEH = 9;
 }
+

@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HJCEJCIMBAD
 message HJCEJCIMBAD {
-	uint32 GGDMGDJLKCO = 13;
-	repeated uint32 HJCBBKFOOIG = 11;
+    uint32 GNAPPNPBOGK = 13;
+    repeated uint32 DNNHJJHLLFK = 11;
 }
+

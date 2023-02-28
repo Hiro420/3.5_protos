@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CBHNFOKCIKG.proto";
 
+// Name: JHIIPBFFOAN
+// CmdId: 27
 message JHIIPBFFOAN {
-	repeated CBHNFOKCIKG KDDDGFDLBHO = 15;
+    repeated CBHNFOKCIKG JNNIIAMPPHC = 15;
 }
+

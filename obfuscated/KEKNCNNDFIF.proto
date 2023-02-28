@@ -2,14 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KEKNCNNDFIF
 message KEKNCNNDFIF {
-	uint32 PGEOOGFMOGG = 13;
-	uint32 EAKIFGEJBIM = 15;
-	bool NDNPCFLNEPM = 2;
-	uint32 JHEOJOMPAML = 12;
-	uint32 JLMLALKOMFN = 4;
-	bool CKMCPIOKFFE = 1;
-	uint32 GNKANLBCOIM = 6;
-	repeated uint32 DADFOHJMPJB = 10;
-	uint32 OBEEECDCKAK = 14;
+    uint32 EBOOCJPFBNK = 13;
+    uint32 NDLDAHEHOGE = 15;
+    bool LJCECAKEBEM = 2;
+    uint32 PHPPKFDLABK = 12;
+    uint32 OCFEJAGKHBJ = 4;
+    bool NKMBACDACBI = 1;
+    uint32 KBCIOAPGBLK = 6;
+    repeated uint32 IOHMKLLKLHL = 10;
+    uint32 BHGJFKLJMOC = 14;
 }
+

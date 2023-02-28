@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AMPMPJCNLAG
 message AMPMPJCNLAG {
-	bool LLHDJNBMGMC = 15;
-	repeated uint32 INPMFBCPAJH = 1;
-	uint32 PDDPIHFNDBO = 7;
-	uint32 BEJDBNONODA = 2;
-	uint32 MEGEPCAJCKE = 13;
+    bool GLAJGDFDMMC = 15;
+    repeated uint32 IFDBKBAFNLM = 1;
+    uint32 FNAIMAFAIMG = 7;
+    uint32 NJIHDDKBBLA = 2;
+    uint32 ONOCGGDGHIP = 13;
 }
+

@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EGBGOAANIKP.proto";
 
+// Name: KINEAIJCOHJ
 message KINEAIJCOHJ {
-	bool DJKOKFDGKIG = 4;
-	uint32 MPGJJEALABF = 1;
-	uint32 BEJDBNONODA = 8;
-	bool LPGAJJALBDN = 14;
-	map<uint32, EGBGOAANIKP> PPNLHBMANKB = 2;
+    bool HKDOCGOMBKP = 4;
+    uint32 GPKPCCJAFAH = 1;
+    uint32 NJIHDDKBBLA = 8;
+    bool PIHHIOENHPL = 14;
+    map<uint32, EGBGOAANIKP> EMOJAOJMOJG = 2;
 }
+

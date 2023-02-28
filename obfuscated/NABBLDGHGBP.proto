@@ -3,27 +3,29 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "BACEMJKBMHN.proto";
-import "DAMDPHBCAKI.proto";
-import "OHILLFINBBI.proto";
-import "FNLKKMKJIDF.proto";
 import "CGDHNAGKLLP.proto";
-import "NICMKPJLHMI.proto";
-import "NALOPCHENIP.proto";
-import "FCEGEHJMIMC.proto";
+import "DAMDPHBCAKI.proto";
 import "DJBLPMPKGKO.proto";
+import "FCEGEHJMIMC.proto";
+import "FNLKKMKJIDF.proto";
+import "NALOPCHENIP.proto";
+import "NICMKPJLHMI.proto";
+import "OHILLFINBBI.proto";
 
+// Name: NABBLDGHGBP
 message NABBLDGHGBP {
-	repeated DJBLPMPKGKO OMFLBBFBAFM = 10;
-	bool NIDCPALPENG = 4;
-	repeated FCEGEHJMIMC ADIGKBLOKOE = 5;
-	repeated NALOPCHENIP LNLFJNMGBKM = 9;
-	uint32 CKKJAILNGJB = 7;
-	repeated NICMKPJLHMI OCDAJNIPLME = 14;
-	repeated CGDHNAGKLLP HADEOBCEINJ = 13;
-	repeated FNLKKMKJIDF JGAOKDMKGHK = 12;
-	repeated OHILLFINBBI GIFMIPIENIA = 3;
-	uint32 IPEHJELBLLP = 1;
-	repeated DAMDPHBCAKI IMFCCIBCEAP = 2;
-	repeated BACEMJKBMHN ECGBDHEPJCN = 11;
-	repeated NICMKPJLHMI MGIFOMONOGL = 15;
+    repeated DJBLPMPKGKO OEBFPJCALAB = 10;
+    bool DIDPHACGMIM = 4;
+    repeated FCEGEHJMIMC BMCCFHCOONP = 5;
+    repeated NALOPCHENIP LNHPBBENFJB = 9;
+    uint32 FLOONDGBJDK = 7;
+    repeated NICMKPJLHMI BKDJHPLLNNM = 14;
+    repeated CGDHNAGKLLP CALNDHLNLLD = 13;
+    repeated FNLKKMKJIDF KJEANMCBDHD = 12;
+    repeated OHILLFINBBI IAHAOPPBBMB = 3;
+    uint32 KDLNFLJAKJM = 1;
+    repeated DAMDPHBCAKI AFJJIMFLFEM = 2;
+    repeated BACEMJKBMHN LNMMCOKJCDD = 11;
+    repeated NICMKPJLHMI LJANEFIBHEJ = 15;
 }
+

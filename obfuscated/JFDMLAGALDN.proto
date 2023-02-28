@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JFDMLAGALDN
+// CmdId: 4011
 message JFDMLAGALDN {
-	bool AONJNMHMHEB = 10;
-	repeated uint32 CPOPJCHHIHE = 3;
-	int32 IJIABMFLJGH = 12;
+    bool DPPHODOCPAO = 10;
+    repeated uint32 JMEMHABKGEI = 3;
+    int32 KFCODGHIJEH = 12;
 }
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: KHINCMAFNBJ
+enum KHINCMAFNBJ {
+    KHINCMAFNBJ_BICAGJJHGKE = 0;
+    KHINCMAFNBJ_HBOMANNKMNI = 1;
+    KHINCMAFNBJ_MIOKOHMCFGE = 2;
+    KHINCMAFNBJ_HKDMNAFBPJA = 3;
+}
+

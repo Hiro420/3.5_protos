@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PGJPCBNFOEP.proto";
 
+// Name: CHHJEPHFEFF
 message CHHJEPHFEFF {
-	repeated PGJPCBNFOEP HBMOMAEDJDL = 15;
+    repeated PGJPCBNFOEP JHIALJBIOFG = 15;
 }
+

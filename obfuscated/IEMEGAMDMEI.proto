@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IEMEGAMDMEI
 message IEMEGAMDMEI {
-	repeated uint32 OLAIACPCIGM = 1;
-	uint32 JAOBPKMBOKD = 15;
+    repeated uint32 GKJEAJLCCHN = 1;
+    uint32 AHMMKMKHHFP = 15;
 }
+

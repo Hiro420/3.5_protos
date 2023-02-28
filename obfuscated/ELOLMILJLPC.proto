@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BAKOBLPLIGJ.proto";
 
+// Name: ELOLMILJLPC
+// CmdId: 858
 message ELOLMILJLPC {
-	repeated BAKOBLPLIGJ JADCGFNLFIM = 12;
+    repeated BAKOBLPLIGJ LHMIHCDLMJI = 12;
 }
+

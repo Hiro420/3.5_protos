@@ -5,8 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "DFNGPIGNBJJ.proto";
 import "FEPJMFICDGB.proto";
 
+// Name: BAGAKCIOLPE
+// CmdId: 4171
 message BAGAKCIOLPE {
-	FEPJMFICDGB GIPBJFBBEFI = 9;
-	uint32 NGIGADJPGOB = 3;
-	DFNGPIGNBJJ KDGDLKGKCDI = 2;
+    FEPJMFICDGB CLMHDABEAMH = 9;
+    uint32 LGMBEMCIFKK = 3;
+    DFNGPIGNBJJ EEOEBNBCJBA = 2;
 }
+

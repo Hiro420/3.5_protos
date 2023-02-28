@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BCHGENBPFJI
+// CmdId: 4252
 message BCHGENBPFJI {
-	uint32 AAHPGNIAFFG = 5;
-	int32 IJIABMFLJGH = 7;
+    uint32 NGOELONIDLG = 5;
+    int32 KFCODGHIJEH = 7;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HILEIPGFAAN.proto";
 
+// Name: KKBGBOJPPEN
+// CmdId: 2190
 message KKBGBOJPPEN {
-	HILEIPGFAAN PJDGGMLCAHF = 6;
+    HILEIPGFAAN LAHFNFKNHBG = 6;
 }
+

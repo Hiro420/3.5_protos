@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DFAGFMNLFKD.proto";
 
+// Name: NGFKBELCGDK
 message NGFKBELCGDK {
-	DFAGFMNLFKD JKDNHDLNHMJ = 6;
-	uint32 HDLHDIOKEOF = 15;
-	uint32 OEGEDJPNJAD = 3;
-	uint32 ABCMAJECJMG = 9;
-	uint32 OFKOOHKDFEC = 14;
+    DFAGFMNLFKD LHFGALANHMN = 6;
+    uint32 FGCBPCIOCGK = 15;
+    uint32 CEHNBFEIODF = 3;
+    uint32 BIDLFDFCLBI = 9;
+    uint32 DIJCEFIKGAK = 14;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IMEFDIKAJBD.proto";
 
+// Name: PFKCLOLEDDE
+// CmdId: 2693
 message PFKCLOLEDDE {
-	repeated IMEFDIKAJBD MFGKEEFJKJB = 2;
+    repeated IMEFDIKAJBD LPIDIJHMCGA = 2;
 }
+

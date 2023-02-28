@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ODHFJKNEAJB.proto";
 
+// Name: PKOBJAMOJMI
+// CmdId: 6385
 message PKOBJAMOJMI {
-	repeated ODHFJKNEAJB MNOBCLCLPIH = 9;
+    repeated ODHFJKNEAJB FEIMHFJCPCL = 9;
 }
+

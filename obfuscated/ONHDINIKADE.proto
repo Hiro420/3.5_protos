@@ -2,16 +2,18 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+import "JHJPOIJGPEB.proto";
+import "JOMDPHKGKJO.proto";
 import "LMMFGNIDKME.proto";
 import "PAECICKHAKH.proto";
-import "JOMDPHKGKJO.proto";
-import "JHJPOIJGPEB.proto";
 
+// Name: ONHDINIKADE
 message ONHDINIKADE {
-	bool GEDFGLOKCAN = 1;
-	repeated JHJPOIJGPEB JLFFNIONFHE = 2;
-	repeated JOMDPHKGKJO AAABJHLEBGP = 3;
-	repeated PAECICKHAKH NOIDEBFFMFD = 4;
-	repeated LMMFGNIDKME HOCHCJGCPMM = 5;
-	repeated JHJPOIJGPEB FCKJNDPOOGI = 6;
+    bool OFOEFMPFDOB = 1;
+    repeated JHJPOIJGPEB MDLBLLALEBC = 2;
+    repeated JOMDPHKGKJO BNBGADBMKCH = 3;
+    repeated PAECICKHAKH NFFDIBLGAIO = 4;
+    repeated LMMFGNIDKME HHPIBJDLPBO = 5;
+    repeated JHJPOIJGPEB OOLAFPBMDBK = 6;
 }
+

@@ -2,18 +2,21 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "LBJMAKBIBJO.proto";
 import "FBDKBKEHACB.proto";
+import "LBJMAKBIBJO.proto";
 import "PONFDKGBPMB.proto";
 
+// Name: HBOPCIGKJHO
+// CmdId: 1613
 message HBOPCIGKJHO {
-	repeated PONFDKGBPMB CNADFMPIGBI = 9;
-	repeated FBDKBKEHACB MHACHLFONFK = 1;
-	repeated uint64 CMKKOGEFOLN = 11;
-	uint32 KHJIGDIHAPM = 14;
-	map<uint32, LBJMAKBIBJO> ANIEDMJHGCN = 7;
-	repeated uint32 OMHPFKNLDPL = 2;
-	uint64 PMBGFPFMJIP = 6;
-	repeated uint32 MCIKJAELHEC = 12;
-	repeated uint32 ABIKAHKONKL = 10;
+    repeated PONFDKGBPMB KMBOPEOKAPD = 9;
+    repeated FBDKBKEHACB FAHEOKCHCOB = 1;
+    repeated uint64 PBHMDBEPFHO = 11;
+    uint32 MPMOGMICIBN = 14;
+    map<uint32, LBJMAKBIBJO> NBFDMGPLFGH = 7;
+    repeated uint32 OKJLBIHJBIH = 2;
+    uint64 KGBCEHKCFJM = 6;
+    repeated uint32 FLOAAGABKJK = 12;
+    repeated uint32 MAMPFHFMLMI = 10;
 }
+

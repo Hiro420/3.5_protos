@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EAMNCJHCHCI.proto";
 
+// Name: GFBNCCLPKFP
+// CmdId: 74
 message GFBNCCLPKFP {
-	repeated EAMNCJHCHCI PBJKLPFGCKM = 7;
+    repeated EAMNCJHCHCI KBOPFFKBPIA = 7;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NGMPIODHGFN
+// CmdId: 138
 message NGMPIODHGFN {
-	uint32 JLMLALKOMFN = 11;
+    uint32 OCFEJAGKHBJ = 11;
 }
+

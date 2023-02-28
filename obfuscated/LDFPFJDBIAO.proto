@@ -4,10 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JLFDNMKMFHD.proto";
 
+// Name: LDFPFJDBIAO
+// CmdId: 8295
 message LDFPFJDBIAO {
-	uint32 AIJOKLEENGC = 15;
-	uint32 BEJDBNONODA = 12;
-	uint32 KJBEOAEPLGD = 7;
-	uint32 FIHDKPEIDMH = 9;
-	repeated JLFDNMKMFHD NPAFFOADNCP = 11;
+    uint32 OBBPIGOHAJL = 15;
+    uint32 NJIHDDKBBLA = 12;
+    uint32 FADHHIJAJLC = 7;
+    uint32 PHAJIOEJGIE = 9;
+    repeated JLFDNMKMFHD FMCIBPMBLHA = 11;
 }
+

@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BPPEPMCCFFI
 message BPPEPMCCFFI {
-	uint32 JEEFNCHAJOJ = 2;
-	bool CEKEOGIAEBI = 8;
-	uint32 NFOPOKGDODK = 12;
-	uint32 JIKFEHBKOCO = 11;
-	repeated uint32 CEOAHLEFDBB = 4;
+    uint32 MPLJBMEAIBB = 2;
+    bool IHPBOGBAMCM = 8;
+    uint32 PFLGEMLFBLL = 12;
+    uint32 EBDOCHHNJEP = 11;
+    repeated uint32 LLPCAENMBHN = 4;
 }
+

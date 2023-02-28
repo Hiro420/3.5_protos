@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AMKGNFBMKAL.proto";
 
+// Name: KAEGDMONDEA
+// CmdId: 2875
 message KAEGDMONDEA {
-	int32 IJIABMFLJGH = 10;
-	uint32 ELNNIELNMBO = 8;
-	AMKGNFBMKAL AOJCKLDIPDA = 9;
+    int32 KFCODGHIJEH = 10;
+    uint32 KFGGNNFODBD = 8;
+    AMKGNFBMKAL PPAGGCNFOKJ = 9;
 }
+

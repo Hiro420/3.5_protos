@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: PIHAKFBEGFO
+enum PIHAKFBEGFO {
+    PIHAKFBEGFO_AJHEHFJPIBI = 0;
+    PIHAKFBEGFO_PBLJBJBLOBM = 1;
+    PIHAKFBEGFO_LHCBACEOPDA = 2;
+}
+

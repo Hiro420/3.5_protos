@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CMCJOKLGMCA
+// CmdId: 7150
 message CMCJOKLGMCA {
-	uint32 KGHKFNGDPNI = 15;
-	uint32 PJCEOGOEJBK = 12;
+    uint32 AHAIAIPGFDN = 15;
+    uint32 LKFDEJMGHMP = 12;
 }
+

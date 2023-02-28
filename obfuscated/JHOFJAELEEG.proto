@@ -4,11 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MNNNCKCAGLP.proto";
 
+// Name: JHOFJAELEEG
+// CmdId: 2012
 message JHOFJAELEEG {
-	uint32 HFKNDLGIPML = 10;
-	repeated MNNNCKCAGLP NKLNNPIIBGJ = 7;
-	repeated uint32 AADLBKADKDD = 13;
-	repeated uint32 JDKMEGKOJCC = 6;
-	repeated uint32 GGJJGOJJOIB = 9;
-	uint32 PFKDFHHKBFD = 12;
+    uint32 EILEKGBEBLI = 10;
+    repeated MNNNCKCAGLP HGHELNBJPMH = 7;
+    repeated uint32 PAGIONJOCJN = 13;
+    repeated uint32 LOCNJADIALA = 6;
+    repeated uint32 LGCJBENHFOB = 9;
+    uint32 NLBJCAHEJOC = 12;
 }
+

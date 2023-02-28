@@ -5,8 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "DALMLFNANKL.proto";
 import "IHFHAKKFMHG.proto";
 
+// Name: CCDONMKFPBI
+// CmdId: 374
 message CCDONMKFPBI {
-	uint32 PDFLEGGDOCP = 6;
-	IHFHAKKFMHG CBOLHDNGDGC = 10;
-	DALMLFNANKL FPJGJKLNCJC = 11;
+    uint32 GPBLLPDCIFK = 6;
+    IHFHAKKFMHG KDJAKKPIMGJ = 10;
+    DALMLFNANKL BJMOHEMAEIN = 11;
 }
+

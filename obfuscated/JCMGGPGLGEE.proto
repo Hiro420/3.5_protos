@@ -2,14 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "OMOODGHDNCO.proto";
 import "MFNCDACEPAG.proto";
+import "OMOODGHDNCO.proto";
 import "PIAOKDCGNAK.proto";
 
+// Name: JCMGGPGLGEE
 message JCMGGPGLGEE {
-	uint32 HDAELJLBKCO = 9;
-	repeated PIAOKDCGNAK PDAMEIJHACJ = 8;
-	repeated MFNCDACEPAG OHLIIIKBGME = 7;
-	repeated uint32 ANDFKBFOAPF = 2;
-	repeated OMOODGHDNCO CLBEDFEEJCC = 13;
+    uint32 DLGIKGOJJMJ = 9;
+    repeated PIAOKDCGNAK BJBBKPPIOMP = 8;
+    repeated MFNCDACEPAG BDCIAAKACJO = 7;
+    repeated uint32 MPOMKGFCPAJ = 2;
+    repeated OMOODGHDNCO DMCBFGHOKFJ = 13;
 }
+

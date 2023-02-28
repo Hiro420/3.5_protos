@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KKNKJADICBH.proto";
+import "OKHOAHGOJBA.proto";
+import "PGPIMHLBMNI.proto";
+
+// Name: INDNLCFGCHO
+message INDNLCFGCHO {
+    uint32 MOCKBHIDNDO = 1;
+    uint32 CEGEDDOGGAD = 2;
+    int64 FLECGDCDGKJ = 3;
+    oneof NBGGGBMJHHH {
+        OKHOAHGOJBA CNAIFJPIDJE = 4;
+        KKNKJADICBH JILBIAKKLCK = 5;
+        PGPIMHLBMNI IMLHKDCPPLA = 6;
+    }
+}
+

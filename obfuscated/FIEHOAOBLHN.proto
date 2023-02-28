@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FIEHOAOBLHN
+// CmdId: 145
 message FIEHOAOBLHN {
-	uint32 OAIDCFIDOLH = 14;
-	uint32 CCMHOHNPIGF = 10;
+    uint32 OMPOMKPPLEH = 14;
+    uint32 DIIJPMJFNOL = 10;
 }
+

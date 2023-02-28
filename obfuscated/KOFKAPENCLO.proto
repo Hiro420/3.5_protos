@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "INNAMCEODEG.proto";
 
+// Name: KOFKAPENCLO
+// CmdId: 4816
 message KOFKAPENCLO {
-	repeated INNAMCEODEG LFHBCJCAICD = 2;
+    repeated INNAMCEODEG GMLMNMFJPNG = 2;
 }
+

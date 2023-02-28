@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NKPCEHIAFBE
+// CmdId: 807
 message NKPCEHIAFBE {
-	uint32 PDFLEGGDOCP = 10;
-	uint32 KCMEPPIKHLM = 3;
-	repeated uint32 FMPCLKCKAMD = 12;
-	uint32 BAJHMIBJPMG = 11;
-	repeated uint32 JMJFJOBDLNG = 6;
-	string PMHKMKLCLBH = 9;
+    uint32 GPBLLPDCIFK = 10;
+    uint32 ENHLDJCHHNF = 3;
+    repeated uint32 OJIHOCHJDEK = 12;
+    uint32 MPNHLGJKOKG = 11;
+    repeated uint32 NLNPKIPAKNE = 6;
+    string IOCENIPAHNB = 9;
 }
+

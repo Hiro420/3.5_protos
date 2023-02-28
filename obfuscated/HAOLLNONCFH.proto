@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PENJFODAGGI.proto";
 
+// Name: HAOLLNONCFH
 message HAOLLNONCFH {
-	uint32 DMCCGMMAHCE = 15;
-	uint32 IAIEOLAOPAB = 2;
-	repeated PENJFODAGGI LOHKOCDLKBM = 14;
+    uint32 BLHBNKMMPIH = 15;
+    uint32 ODPJBCIMOMA = 2;
+    repeated PENJFODAGGI GGGHONFOAKP = 14;
 }
+

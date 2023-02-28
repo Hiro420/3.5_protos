@@ -3,13 +3,16 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "FIMJMLPLPAC.proto";
+import "FINEJDCEECI.proto";
 import "LIJKGGFCHOB.proto";
 import "MBNENOIDIDO.proto";
-import "FINEJDCEECI.proto";
 
+// Name: OAMGPILLNIL
+// CmdId: 4148
 message OAMGPILLNIL {
-	FINEJDCEECI EKHNFFHMHPL = 5;
-	MBNENOIDIDO JNOGHNBEALI = 10;
-	LIJKGGFCHOB OOPIPMPJMAG = 14;
-	FIMJMLPLPAC PFMGJCJMNIJ = 6;
+    FINEJDCEECI CJGLNOGNEJM = 5;
+    MBNENOIDIDO NKLHGAJLAHH = 10;
+    LIJKGGFCHOB DEJCOPDFAJK = 14;
+    FIMJMLPLPAC CEANLHMPPAB = 6;
 }
+

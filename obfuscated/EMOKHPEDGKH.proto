@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EMOKHPEDGKH
 message EMOKHPEDGKH {
-	bool IAJEKOIOEAF = 10;
-	uint32 GBEHFMNKNLD = 15;
-	uint32 BNGHDMNKMNB = 9;
-	uint32 LJCKMKPDNMO = 6;
+    bool MDLKFBKMGEA = 10;
+    uint32 HLPONKFNPNE = 15;
+    uint32 IFKHJLODEIF = 9;
+    uint32 PEBMJKKFPAE = 6;
 }
+

@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NCBPDLCPIJL
 message NCBPDLCPIJL {
-	string ICMINGELNIH = 1;
-	string LMHKFJHLEPJ = 2;
-	string NDMGFMPJKEH = 3;
+    string LKPCDMIOBJE = 1;
+    string BCGAGDLBIMO = 2;
+    string KEBHDHCCFPP = 3;
 }
+

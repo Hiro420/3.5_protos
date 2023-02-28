@@ -2,18 +2,20 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "FINEJDCEECI.proto";
-import "LIJKGGFCHOB.proto";
 import "EFLDHGLFIDD.proto";
 import "FIMJMLPLPAC.proto";
+import "FINEJDCEECI.proto";
+import "LIJKGGFCHOB.proto";
 
+// Name: HNDMELNBJGE
 message HNDMELNBJGE {
-	uint32 LDBCBANEHPJ = 11;
-	uint32 ELNNIELNMBO = 4;
-	repeated FIMJMLPLPAC JJBJDIAHFMO = 1;
-	uint32 PEPLGLLHHMI = 10;
-	repeated EFLDHGLFIDD MKHDNPHAJDN = 8;
-	repeated LIJKGGFCHOB KBMBJHJOGHH = 7;
-	uint32 ODJPCGIMADI = 9;
-	repeated FINEJDCEECI GLMFNGCKFBA = 12;
+    uint32 NLHAEJLMOIC = 11;
+    uint32 KFGGNNFODBD = 4;
+    repeated FIMJMLPLPAC GOHPJCODALI = 1;
+    uint32 IBHCLHKHGMG = 10;
+    repeated EFLDHGLFIDD IBOINAIOJIM = 8;
+    repeated LIJKGGFCHOB BNHCBEDPHKF = 7;
+    uint32 DCBMADGBDEL = 9;
+    repeated FINEJDCEECI FPPKBMBBHOD = 12;
 }
+

@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JACLPLPBKCK
 message JACLPLPBKCK {
-	uint32 JNDMKOEBEKF = 11;
-	uint32 GOBCEBKCKAG = 8;
-	uint32 POLIFBINHIA = 3;
-	repeated uint32 HIKDJIHEANN = 2;
-	repeated uint32 KFCIMMIDKEN = 6;
+    uint32 PLINGHKFANK = 11;
+    uint32 OEHEMHPFFBO = 8;
+    uint32 JAPOOOOHCEN = 3;
+    repeated uint32 KJDOAOPPGPL = 2;
+    repeated uint32 HNMODIBEKGK = 6;
 }
+

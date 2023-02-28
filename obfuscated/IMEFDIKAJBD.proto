@@ -2,12 +2,20 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "IMEFDIKAJBD.MCFFKFLNPHB.JPGOFPINCMO.proto";
-
+// Name: IMEFDIKAJBD
 message IMEFDIKAJBD {
-	uint32 OKMJACNOJDD = 2;
-	uint32 PEJNKHNOBKA = 13;
-	IMEFDIKAJBD.MCFFKFLNPHB.JPGOFPINCMO AEBGOFAHGKL = 6;
-	uint32 EMAKJPHNHDI = 5;
-	uint32 GKHJKEGICOO = 9;
+    // Name: JPGOFPINCMO
+    enum JPGOFPINCMO {
+        JPGOFPINCMO_MLBFMJIBJEP = 0;
+        JPGOFPINCMO_JLJOIFBOGLN = 1;
+        JPGOFPINCMO_KBDDBCLCIGF = 2;
+        JPGOFPINCMO_IBOGIDLGNJI = 3;
+    }
+
+    uint32 GBLFDPBBOMB = 2;
+    uint32 DDJFGMJAGNJ = 13;
+    JPGOFPINCMO JFCEBFEEJFL = 6;
+    uint32 BONGOFDPLFE = 5;
+    uint32 FBJHOFHKIIG = 9;
 }
+

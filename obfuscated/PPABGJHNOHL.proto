@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IHFHAKKFMHG.proto";
 
+// Name: PPABGJHNOHL
+// CmdId: 334
 message PPABGJHNOHL {
-	IHFHAKKFMHG CBOLHDNGDGC = 6;
-	uint32 PDFLEGGDOCP = 4;
+    IHFHAKKFMHG KDJAKKPIMGJ = 6;
+    uint32 GPBLLPDCIFK = 4;
 }
+

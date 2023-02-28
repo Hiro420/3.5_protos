@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OMBOHFLMOAN
+// CmdId: 5071
 message OMBOHFLMOAN {
-	int32 IJIABMFLJGH = 5;
-	uint32 HHMKLDDMEDH = 1;
-	uint32 JBPNHOFNGDA = 2;
+    int32 KFCODGHIJEH = 5;
+    uint32 CHLBLGGPCHA = 1;
+    uint32 BFACGAKGEGP = 2;
 }
+

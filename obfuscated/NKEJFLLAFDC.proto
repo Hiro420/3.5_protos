@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FDGILKFOPLL.proto";
 
+// Name: NKEJFLLAFDC
+// CmdId: 514
 message NKEJFLLAFDC {
-	int32 IJIABMFLJGH = 14;
-	repeated FDGILKFOPLL GPAPLKBJACP = 2;
-	uint32 KFEMBAPKMFH = 6;
+    int32 KFCODGHIJEH = 14;
+    repeated FDGILKFOPLL PIPHHMLBHKI = 2;
+    uint32 NDGLECFHBCJ = 6;
 }
+

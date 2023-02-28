@@ -4,11 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: KACCHOBDCLB
 message KACCHOBDCLB {
-	uint32 NLABLOKLBML = 5;
-	uint32 COFPJLPDNFI = 12;
-	uint32 HOKNBIJBGPM = 11;
-	ENOCIMKMJJG AMGENMALKKP = 2;
-	repeated ENOCIMKMJJG PNHBAHOHAKJ = 6;
-	uint32 IMBFCOMDHBH = 14;
+    uint32 KCHMFBKCLKO = 5;
+    uint32 LLJPJOEMPFE = 12;
+    uint32 FGACANHEBMH = 11;
+    ENOCIMKMJJG EBLCBNJGDMP = 2;
+    repeated ENOCIMKMJJG PMAFAIANIOA = 6;
+    uint32 GOMAIIJPDKD = 14;
 }
+

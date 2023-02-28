@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OPDLLIJJGFB.proto";
+import "PMJLNPPJJCI.proto";
+
+// Name: FPFHGDCLELH
+message FPFHGDCLELH {
+    string FGEDEGFCPDJ = 1;
+    repeated OPDLLIJJGFB GMIHFCGDEJH = 2;
+    PMJLNPPJJCI PNFIHGPGNKD = 3;
+}
+

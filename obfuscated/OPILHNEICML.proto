@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ODDOEKJFOII.proto";
 
+// Name: OPILHNEICML
+// CmdId: 295
 message OPILHNEICML {
-	bool PCPFMFNOHGB = 12;
-	uint32 PABHIALDFHM = 10;
-	repeated ODDOEKJFOII KMGCCJNIMOJ = 7;
+    bool HLCFBJAKEKE = 12;
+    uint32 MAAPCFDAJGE = 10;
+    repeated ODDOEKJFOII HJBACJNHEBB = 7;
 }
+

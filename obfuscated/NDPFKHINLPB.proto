@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CANCHLFEMAP.proto";
+import "FAABNJAKPJA.proto";
+import "MAAHGJJPDKG.proto";
+import "POKKBBGEIOB.proto";
+
+// Name: NDPFKHINLPB
+// CmdId: 4281
+message NDPFKHINLPB {
+    bool OJJOGCGCBPC = 358;
+    oneof ICFIJIEKEEJ {
+        MAAHGJJPDKG CJEBOCLDHHC = 848;
+        CANCHLFEMAP MLGACLPCEGA = 891;
+        POKKBBGEIOB HCNBFFAJIJF = 1727;
+        FAABNJAKPJA IGLLAHMAODE = 1265;
+    }
+}
+

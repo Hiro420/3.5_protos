@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "BOMMBPDKMOH.proto";
 import "BOKOEDGKGCL.proto";
+import "BOMMBPDKMOH.proto";
 
+// Name: AKGCFLIJKLA
 message AKGCFLIJKLA {
-	repeated BOKOEDGKGCL FNJHFGNGAHN = 12;
-	repeated BOMMBPDKMOH JEECAMIIPDF = 3;
+    repeated BOKOEDGKGCL ACJJADGKELI = 12;
+    repeated BOMMBPDKMOH PHBBACLECLE = 3;
 }
+

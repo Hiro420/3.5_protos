@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NMIGKDMCKHK.proto";
 
+// Name: GJFEGDKEGBM
+// CmdId: 414
 message GJFEGDKEGBM {
-	repeated NMIGKDMCKHK AHEFMPJCCPN = 15;
+    repeated NMIGKDMCKHK MNLIGMEHICH = 15;
 }
+

@@ -2,18 +2,20 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+import "DOCPAPKDBBK.proto";
+import "JNONGGFHNMC.proto";
 import "KIMICJIEGDD.proto";
 import "LDIGAAFIGJA.proto";
-import "DOCPAPKDBBK.proto";
 import "NHIJPCNBKJE.proto";
-import "JNONGGFHNMC.proto";
 
+// Name: CNPDBLPBPOC
 message CNPDBLPBPOC {
-	string NFGBBEGMFNN = 1;
-	repeated JNONGGFHNMC HDLFHDILLNL = 2;
-	repeated NHIJPCNBKJE GJEKIOPKEBO = 3;
-	string AFJJCDAMFIK = 4;
-	DOCPAPKDBBK AFMPBGMFBEC = 5;
-	repeated LDIGAAFIGJA NGKOEKJGIOI = 6;
-	KIMICJIEGDD ENCNPJNGPFM = 7;
+    string FGEDEGFCPDJ = 1;
+    repeated JNONGGFHNMC NMOFGFHGPAI = 2;
+    repeated NHIJPCNBKJE PNFIHGPGNKD = 3;
+    string EAKDPMJABDI = 4;
+    DOCPAPKDBBK KOHHOLKLCNH = 5;
+    repeated LDIGAAFIGJA FINKLGOFBLJ = 6;
+    KIMICJIEGDD FFDAHCPMGAI = 7;
 }
+

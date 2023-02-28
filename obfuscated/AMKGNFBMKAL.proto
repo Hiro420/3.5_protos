@@ -2,19 +2,21 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "NMIPDNNMELF.proto";
 import "CFHIGHGJCBF.proto";
 import "JFDBGKHOPHN.proto";
 import "LAELNKCMNMP.proto";
+import "NMIPDNNMELF.proto";
 
+// Name: AMKGNFBMKAL
 message AMKGNFBMKAL {
-	LAELNKCMNMP IOAIIMKNIJF = 2;
-	JFDBGKHOPHN MNCGEADOHCE = 4;
-	CFHIGHGJCBF PPBKCKGECFB = 10;
-	uint32 CLCAPKDCAHM = 15;
-	repeated uint32 PDANGLLDJFP = 6;
-	NMIPDNNMELF EGJLCBBNPKI = 7;
-	uint32 PGEOOGFMOGG = 5;
-	uint32 JLMLALKOMFN = 14;
-	uint32 PEPLGLLHHMI = 12;
+    LAELNKCMNMP MFGPICPIMLA = 2;
+    JFDBGKHOPHN PHDOGBOMPEK = 4;
+    CFHIGHGJCBF ONPMKPDMNHC = 10;
+    uint32 JDFPOHPGHCP = 15;
+    repeated uint32 JGNCEIPIHHK = 6;
+    NMIPDNNMELF CMHDHFKAMAL = 7;
+    uint32 EBOOCJPFBNK = 5;
+    uint32 OCFEJAGKHBJ = 14;
+    uint32 IBHCLHKHGMG = 12;
 }
+

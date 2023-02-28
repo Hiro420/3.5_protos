@@ -4,10 +4,20 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: OAAPNIGGILO
+// CmdId: 2457
 message OAAPNIGGILO {
-	uint32 DNJKAMPADLB = 11;
-	repeated uint32 CBMNNAONBMB = 13;
-	repeated ENOCIMKMJJG DNMBLBBPNIO = 9;
-	uint32 PFJGLFCPKPF = 8;
-	bool MFPGHFOFAFP = 7;
+    // Name: DAMKMDIILDC
+    enum DAMKMDIILDC {
+        DAMKMDIILDC_HNAFLAMPOCO = 0;
+        DAMKMDIILDC_KOCOFDKMJJK = 1;
+        DAMKMDIILDC_NMKCIJMAPGD = 2;
+    }
+
+    uint32 NHCHEMOAFPB = 11;
+    repeated uint32 EHPGAFICHNM = 13;
+    repeated ENOCIMKMJJG OAKEGMOIDOG = 9;
+    uint32 MILBJCPGNJN = 8;
+    bool KANHMLPBBHL = 7;
 }
+

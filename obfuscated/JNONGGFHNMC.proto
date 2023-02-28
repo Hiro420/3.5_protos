@@ -5,12 +5,14 @@ option java_package = "emu.grasscutter.net.proto";
 import "KIMICJIEGDD.proto";
 import "NHIJPCNBKJE.proto";
 
+// Name: JNONGGFHNMC
 message JNONGGFHNMC {
-	string NFGBBEGMFNN = 1;
-	string AHMFFIKNCGD = 2;
-	bool AAHCNLJIJDH = 3;
-	string MNLCMBOMCHE = 4;
-	bool JEMDPLBBINP = 5;
-	repeated NHIJPCNBKJE GJEKIOPKEBO = 6;
-	KIMICJIEGDD ENCNPJNGPFM = 7;
+    string FGEDEGFCPDJ = 1;
+    string FEDIANCDPPE = 2;
+    bool NNODEKCPMPJ = 3;
+    string LFFPKIEJOLH = 4;
+    bool DMOGKFBJKLC = 5;
+    repeated NHIJPCNBKJE PNFIHGPGNKD = 6;
+    KIMICJIEGDD FFDAHCPMGAI = 7;
 }
+

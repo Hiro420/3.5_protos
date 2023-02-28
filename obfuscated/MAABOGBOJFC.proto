@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MAABOGBOJFC
 message MAABOGBOJFC {
-	string JNJJFCGMKHD = 1;
+    string AGLGNFAKDMP = 1;
 }
+

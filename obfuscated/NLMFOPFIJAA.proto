@@ -2,7 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NLMFOPFIJAA
+// CmdId: 813
 message NLMFOPFIJAA {
-	uint32 LBHIINLKALB = 7;
-	uint32 PDFLEGGDOCP = 4;
+    // Name: BBKDNKKPBNN
+    enum BBKDNKKPBNN {
+        BBKDNKKPBNN_GGELPENFCJK = 0;
+        BBKDNKKPBNN_DFLAGIJHLLB = 1;
+        BBKDNKKPBNN_ABDNMKKFHHI = 2;
+    }
+
+    uint32 DCJGKIIHHPA = 7;
+    uint32 GPBLLPDCIFK = 4;
 }
+

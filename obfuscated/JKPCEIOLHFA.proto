@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MOCGOKGHGNG.proto";
 
+// Name: JKPCEIOLHFA
+// CmdId: 6332
 message JKPCEIOLHFA {
-	MOCGOKGHGNG MHFBFPNJJDL = 3;
-	uint64 DHJBPPJOKNK = 6;
-	int32 IJIABMFLJGH = 14;
-	bool FFLEEALLHAC = 11;
+    MOCGOKGHGNG FLBOLNLJOPM = 3;
+    uint64 GDABHBPIGIP = 6;
+    int32 KFCODGHIJEH = 14;
+    bool JGBHEMIDGCJ = 11;
 }
+

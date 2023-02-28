@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KONOGCPNPKC
+// CmdId: 1464
 message KONOGCPNPKC {
-	repeated uint32 ABFPOHLDEEL = 5;
+    repeated uint32 APHNAEFILJF = 5;
 }
+

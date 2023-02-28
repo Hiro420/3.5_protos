@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JDOFGAKDDPA
+// CmdId: 2105
 message JDOFGAKDDPA {
-	uint32 OKPFLEMFIAL = 10;
+    uint32 MBIJNDHCADL = 10;
 }
+

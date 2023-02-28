@@ -4,10 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ILEGGBKJDDK.proto";
 
+// Name: NPJACCMOFOE
+// CmdId: 1265
 message NPJACCMOFOE {
-	float OBNNMFOOMFF = 12;
-	uint64 POGHDEAENAD = 14;
-	ILEGGBKJDDK GNLDDLIKJDN = 5;
-	float KMPLFMENCJA = 6;
-	uint32 BKCFIMBKPND = 15;
+    float NENEAMKJELM = 12;
+    uint64 PKJEEFBMBNM = 14;
+    ILEGGBKJDDK BHDBMLOIDGK = 5;
+    float CDMKPBGNHPL = 6;
+    uint32 DFOMFPLPHAM = 15;
 }
+

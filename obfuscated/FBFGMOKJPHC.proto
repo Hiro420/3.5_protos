@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: FBFGMOKJPHC
+// CmdId: 8075
 message FBFGMOKJPHC {
-	repeated ENOCIMKMJJG MLMPFPOJHDF = 8;
-	repeated ENOCIMKMJJG MGGAFJOKJGL = 13;
-	int32 IJIABMFLJGH = 5;
+    repeated ENOCIMKMJJG NILCHGDNMNB = 8;
+    repeated ENOCIMKMJJG BDDKPFCDHIA = 13;
+    int32 KFCODGHIJEH = 5;
 }
+

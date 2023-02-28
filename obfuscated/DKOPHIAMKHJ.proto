@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EHEAJFFDMMD.proto";
 
+// Name: DKOPHIAMKHJ
 message DKOPHIAMKHJ {
-	bool DLNMHGDCMII = 5;
-	EHEAJFFDMMD HEKKLCGCNIL = 12;
+    bool GGDFEGIKJKK = 5;
+    EHEAJFFDMMD FOEGDGGOGNI = 12;
 }
+

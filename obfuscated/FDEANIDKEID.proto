@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FDEANIDKEID
+// CmdId: 4097
 message FDEANIDKEID {
-	bool EAPHIBJOPEB = 7;
-	int32 IJIABMFLJGH = 10;
-	string HBHMNFCFEJE = 14;
-	uint32 APPJCEKCOBP = 1;
+    bool MFFDNJLLMDJ = 7;
+    int32 KFCODGHIJEH = 10;
+    string ADFPJGPFBKF = 14;
+    uint32 IPLGACBJJGH = 1;
 }
+

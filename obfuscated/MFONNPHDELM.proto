@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MFONNPHDELM
 message MFONNPHDELM {
-	uint32 DLELMOGODFG = 2;
-	uint32 PJMJHENNHGF = 13;
-	uint32 AMJLLOEKGMD = 5;
-	repeated uint32 JENIDAEAAJD = 10;
+    uint32 AFGHLGEJAHK = 2;
+    uint32 KKDLGAMOOHA = 13;
+    uint32 CEGEDDOGGAD = 5;
+    repeated uint32 EDCMCJDGIKM = 10;
 }
+

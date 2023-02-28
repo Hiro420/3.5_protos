@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MEBMDKGNFIP
+// CmdId: 111
 message MEBMDKGNFIP {
-	uint32 NCLEDAOBJLL = 10;
-	bool FDCNBCLNHIL = 6;
-	uint32 OGPJEOJIDNP = 4;
+    uint32 DMICHAOPDKC = 10;
+    bool MDDNFDGGENL = 6;
+    uint32 MDKCMMGMLDA = 4;
 }
+

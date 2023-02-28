@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IPIDLJAAEGM.proto";
 
+// Name: GILFMIFBHII
+// CmdId: 1655
 message GILFMIFBHII {
-	repeated IPIDLJAAEGM KJALGJKBPGN = 3;
+    repeated IPIDLJAAEGM GBBNGEPCLLC = 3;
 }
+

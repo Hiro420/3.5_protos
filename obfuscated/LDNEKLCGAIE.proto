@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LDNEKLCGAIE
+// CmdId: 1491
 message LDNEKLCGAIE {
-	repeated uint32 ABFPOHLDEEL = 6;
-	bool EMOFFIHMAPE = 10;
+    repeated uint32 APHNAEFILJF = 6;
+    bool MKPDCOMKADP = 10;
 }
+

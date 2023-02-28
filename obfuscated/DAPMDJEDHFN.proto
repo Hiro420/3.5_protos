@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FBPFNNKKEOE.proto";
 
+// Name: DAPMDJEDHFN
+// CmdId: 8436
 message DAPMDJEDHFN {
-	uint32 BEJDBNONODA = 9;
-	FBPFNNKKEOE LNFKELDOBON = 8;
-	uint32 KKMLAEEAHJA = 11;
-	bool DBIKCJCJHFI = 10;
+    uint32 NJIHDDKBBLA = 9;
+    FBPFNNKKEOE OMHIFLNBFCC = 8;
+    uint32 IIBPCMOEENO = 11;
+    bool AAMENNENDKM = 10;
 }
+

@@ -5,9 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "AEJMHCCJBEH.proto";
 import "EOJPOKECCCF.proto";
 
+// Name: DNABDBFFIAJ
 message DNABDBFFIAJ {
-	repeated EOJPOKECCCF CLBEDFEEJCC = 3;
-	bool CKMCPIOKFFE = 5;
-	repeated AEJMHCCJBEH KDDNNKBDJEI = 2;
-	uint32 OBEEECDCKAK = 1;
+    repeated EOJPOKECCCF DMCBFGHOKFJ = 3;
+    bool NKMBACDACBI = 5;
+    repeated AEJMHCCJBEH CBAFHBIOEBJ = 2;
+    uint32 BHGJFKLJMOC = 1;
 }
+

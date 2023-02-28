@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IEGIJKAPDFN.proto";
 
+// Name: DIGAEAGCDDK
 message DIGAEAGCDDK {
-	IEGIJKAPDFN BFLOCEOKDCE = 3;
-	repeated uint32 JMJFJOBDLNG = 5;
+    IEGIJKAPDFN HDAFDILFLFL = 3;
+    repeated uint32 NLNPKIPAKNE = 5;
 }
+

@@ -2,31 +2,33 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "HCOOANKLKCD.proto";
 import "BBFLDMEFACH.proto";
-import "LIGEEIJEIOB.proto";
 import "EMNAEGOHFGI.proto";
 import "GNMIBJGAHKL.proto";
+import "HCOOANKLKCD.proto";
+import "LIGEEIJEIOB.proto";
 
+// Name: HNPNHGMKOGO
 message HNPNHGMKOGO {
-	uint64 PKGHEPCGEOP = 1;
-	uint64 NIFKCHOBLAJ = 2;
-	repeated GNMIBJGAHKL JDGPOJJFFGK = 3;
-	repeated GNMIBJGAHKL CJEFFELADKI = 4;
-	repeated EMNAEGOHFGI DILGDFNDMKH = 5;
-	uint32 JPPIDFKMNMG = 6;
-	bool LPGAJJALBDN = 7;
-	uint32 DBCEEODIKCO = 8;
-	uint32 JDJDOCNKLHI = 9;
-	uint32 HFGHKPOBBLK = 10;
-	uint32 GOAIFFBPGGO = 11;
-	uint32 JMHILNGANJC = 12;
-	repeated LIGEEIJEIOB IMKOKCGGBBI = 13;
-	uint32 PDFNMHICPPL = 14;
-	repeated BBFLDMEFACH PCDFJOHCFGO = 15;
-	repeated BBFLDMEFACH IFCOCJBLOIK = 16;
-	repeated HCOOANKLKCD PJLABOFLCAK = 17;
-	repeated GNMIBJGAHKL OMBCDKMMKAO = 18;
-	repeated uint32 BPCMGCDDALP = 19;
-	int32 CBEAPPEJMNH = 20;
+    uint64 AADJPJAEKKD = 1;
+    uint64 BNEFCDJGIBE = 2;
+    repeated GNMIBJGAHKL CFLAHEPONHK = 3;
+    repeated GNMIBJGAHKL GGAODKAJLNI = 4;
+    repeated EMNAEGOHFGI AJFICKAOKAB = 5;
+    uint32 LCDGPMCMLLH = 6;
+    bool PIHHIOENHPL = 7;
+    uint32 IBHFHNMMJKH = 8;
+    uint32 LGGIEEFEFFO = 9;
+    uint32 EKNFGPCDCLK = 10;
+    uint32 BLOCPDHOABK = 11;
+    uint32 KHFLKDJPHNE = 12;
+    repeated LIGEEIJEIOB FGDMBIOIIEH = 13;
+    uint32 MAOFKLPGGEJ = 14;
+    repeated BBFLDMEFACH NOHMPNONAHP = 15;
+    repeated BBFLDMEFACH OLDICALKNEB = 16;
+    repeated HCOOANKLKCD ILFEHEIPKEA = 17;
+    repeated GNMIBJGAHKL DFLOKHJPNCM = 18;
+    repeated uint32 GHOCFOCJGMF = 19;
+    int32 JLJGINOBEII = 20;
 }
+

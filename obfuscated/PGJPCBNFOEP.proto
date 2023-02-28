@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OFLLNPACMJD.proto";
 
+// Name: PGJPCBNFOEP
 message PGJPCBNFOEP {
-	repeated OFLLNPACMJD LNPENFFONHK = 3;
-	bool EHDLDDEGLEB = 14;
-	bool DJKOKFDGKIG = 6;
-	uint32 AIJOKLEENGC = 12;
+    repeated OFLLNPACMJD OLDAMGMLEJI = 3;
+    bool LPGFNPGNJFP = 14;
+    bool HKDOCGOMBKP = 6;
+    uint32 OBBPIGOHAJL = 12;
 }
+

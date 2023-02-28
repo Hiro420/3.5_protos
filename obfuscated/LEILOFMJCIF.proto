@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LEILOFMJCIF
+// CmdId: 8119
 message LEILOFMJCIF {
-	int32 IJIABMFLJGH = 8;
+    int32 KFCODGHIJEH = 8;
 }
+

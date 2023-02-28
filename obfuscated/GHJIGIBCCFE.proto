@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DAIJHGFFMFL.proto";
 
+// Name: GHJIGIBCCFE
+// CmdId: 5793
 message GHJIGIBCCFE {
-	DAIJHGFFMFL NAMMIDCHGJA = 2;
+    DAIJHGFFMFL CBOJCFGAEJK = 2;
 }
+

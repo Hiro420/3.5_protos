@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MHNKLABAELD
+// CmdId: 8058
 message MHNKLABAELD {
-	int32 IJIABMFLJGH = 8;
-	uint32 OHPEFFGHJJJ = 7;
+    int32 KFCODGHIJEH = 8;
+    uint32 DBHKGFCGFJK = 7;
 }
+

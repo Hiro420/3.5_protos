@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MFCBPCBFGOH.proto";
 
+// Name: MPHNEOMIAEB
 message MPHNEOMIAEB {
-	uint32 IPEHJELBLLP = 1;
-	repeated MFCBPCBFGOH IHKFHBOCMNH = 2;
+    uint32 KDLNFLJAKJM = 1;
+    repeated MFCBPCBFGOH EDKPLAOGKKB = 2;
 }
+

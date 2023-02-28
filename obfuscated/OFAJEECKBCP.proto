@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OFAJEECKBCP
+// CmdId: 411
 message OFAJEECKBCP {
-	map<uint32, uint32> IHNODCPLAFI = 6;
-	repeated uint32 KEILCBOIKAI = 15;
-	uint32 DPJOJFFAOIB = 8;
-	int32 IJIABMFLJGH = 14;
-	map<uint32, uint32> DDBBMHMDACP = 5;
-	repeated uint32 HCDNHIAOILN = 4;
+    map<uint32, uint32> NCPOOIMAKMO = 6;
+    repeated uint32 KPIKFCDPMMM = 15;
+    uint32 EGFOFPMNMJB = 8;
+    int32 KFCODGHIJEH = 14;
+    map<uint32, uint32> OCDJABANKIH = 5;
+    repeated uint32 DMLOPDKLBMF = 4;
 }
+

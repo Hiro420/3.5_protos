@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: KIAFPEPPCEL
 message KIAFPEPPCEL {
-	uint32 CEKDLLLCMKI = 6;
-	uint32 IGBIGJJFAGG = 14;
-	uint32 JEEFNCHAJOJ = 11;
-	DALMLFNANKL AKANNIGGDKH = 4;
+    uint32 LKBMPEACAEJ = 6;
+    uint32 EOJNEBMOAMH = 14;
+    uint32 MPLJBMEAIBB = 11;
+    DALMLFNANKL GHGPLCNLCDF = 4;
 }
+

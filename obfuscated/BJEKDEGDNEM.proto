@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HPDLLEKEJEF.proto";
 
+// Name: BJEKDEGDNEM
+// CmdId: 9067
 message BJEKDEGDNEM {
-	map<uint32, HPDLLEKEJEF> HPJDEDKFNGP = 10;
+    map<uint32, HPDLLEKEJEF> KCJJJHOHOMA = 10;
 }
+

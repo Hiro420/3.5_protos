@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DBDNABMNFAO.proto";
 
+// Name: BBHOPHBCLAE
+// CmdId: 658
 message BBHOPHBCLAE {
-	uint32 JIAHNLMJAPK = 2;
-	int32 IJIABMFLJGH = 1;
-	map<uint32, DBDNABMNFAO> GAGONOJAEJH = 9;
+    uint32 KJALACCCBIJ = 2;
+    int32 KFCODGHIJEH = 1;
+    map<uint32, DBDNABMNFAO> BAMCMBEEFBO = 9;
 }
+

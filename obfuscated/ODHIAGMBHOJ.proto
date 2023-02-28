@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ADMIOIMGPLK.proto";
+import "LFGAPDMPBAF.proto";
+
+// Name: ODHIAGMBHOJ
+// CmdId: 5567
+message ODHIAGMBHOJ {
+    uint32 CDEJEDMAFIH = 8;
+    uint32 PFLGEMLFBLL = 3;
+    uint32 GPEEHGBCEIL = 9;
+    uint32 IIBPCMOEENO = 11;
+    uint32 IAFBFELIHBK = 15;
+    oneof NGKAEIMKBBL {
+        LFGAPDMPBAF IONKFKJPLAN = 5;
+        ADMIOIMGPLK HPAEPELCHPN = 13;
+    }
+}
+

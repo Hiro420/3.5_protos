@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MINFKAPPGGC.proto";
 
+// Name: BJFIJOJGDCA
+// CmdId: 5051
 message BJFIJOJGDCA {
-	MINFKAPPGGC IJIMBFFKGGK = 11;
-	uint32 JBPNHOFNGDA = 13;
+    MINFKAPPGGC LHEHIAIFOJB = 11;
+    uint32 BFACGAKGEGP = 13;
 }
+

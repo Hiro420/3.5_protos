@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PBNEDENDCGG
+// CmdId: 8808
 message PBNEDENDCGG {
-	int32 IJIABMFLJGH = 3;
-	uint32 MHFBGJLMIFD = 14;
+    int32 KFCODGHIJEH = 3;
+    uint32 OHJNEKCFBAB = 14;
 }
+

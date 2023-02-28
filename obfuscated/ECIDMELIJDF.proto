@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ECIDMELIJDF
+// CmdId: 4843
 message ECIDMELIJDF {
-	uint32 MGGIEMKADBL = 2;
+    uint32 HCCNGFOJDMH = 2;
 }
+

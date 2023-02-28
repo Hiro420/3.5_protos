@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FMBKDAFFEFG
 message FMBKDAFFEFG {
-	uint32 KFEMBAPKMFH = 6;
-	repeated uint32 OBHMJHCAHBI = 5;
-	uint32 OHPGBJMMNMG = 14;
+    uint32 NDGLECFHBCJ = 6;
+    repeated uint32 IHPGDHMONME = 5;
+    uint32 MNLANKMEAIP = 14;
 }
+

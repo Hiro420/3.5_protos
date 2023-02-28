@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DHBOANFMLNE
 message DHBOANFMLNE {
-	uint32 GDPPPBENLCE = 15;
-	uint32 EHHJDGNDMEP = 6;
+    uint32 JIEODOEOBID = 15;
+    uint32 BOFDHHNBNCH = 6;
 }
+

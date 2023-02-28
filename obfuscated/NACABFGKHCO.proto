@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NACABFGKHCO
+// CmdId: 171
 message NACABFGKHCO {
-	bool LLPPDFMENJP = 6;
-	uint64 CKLKKOINOPA = 8;
-	uint64 JDLHCCNHMFD = 10;
+    bool ACPGAPIJNDO = 6;
+    uint64 LGFJNLNPJLB = 8;
+    uint64 LJHIOKKBGGC = 10;
 }
+

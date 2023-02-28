@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CILEPHLIFNG
+// CmdId: 5815
 message CILEPHLIFNG {
-	int32 IJIABMFLJGH = 10;
+    int32 KFCODGHIJEH = 10;
 }
+

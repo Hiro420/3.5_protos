@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FPIPPCDFCNG.proto";
 
+// Name: ENFAEEJBCNC
 message ENFAEEJBCNC {
-	repeated FPIPPCDFCNG NALBDAMAGLJ = 13;
-	bool CKMCPIOKFFE = 8;
-	uint32 LGOIHAENFIA = 14;
+    repeated FPIPPCDFCNG GFDEJLNFEAC = 13;
+    bool NKMBACDACBI = 8;
+    uint32 LDKIAJAHKBG = 14;
 }
+

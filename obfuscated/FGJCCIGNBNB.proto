@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FGJCCIGNBNB
 message FGJCCIGNBNB {
-	uint32 HHMKLDDMEDH = 12;
-	uint32 OKMJACNOJDD = 8;
-	bool PEDDFNOIIHH = 9;
-	uint32 EMAKJPHNHDI = 4;
+    uint32 CHLBLGGPCHA = 12;
+    uint32 GBLFDPBBOMB = 8;
+    bool HCFMBPODAKJ = 9;
+    uint32 BONGOFDPLFE = 4;
 }
+

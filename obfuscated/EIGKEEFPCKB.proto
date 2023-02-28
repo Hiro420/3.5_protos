@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EIGKEEFPCKB
+// CmdId: 8947
 message EIGKEEFPCKB {
-	int32 IJIABMFLJGH = 7;
-	uint32 GNJMIICGMJM = 6;
+    int32 KFCODGHIJEH = 7;
+    uint32 PHKLAGLHFFM = 6;
 }
+

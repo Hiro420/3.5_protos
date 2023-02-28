@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AOOFANGHMOJ.proto";
 
+// Name: OCFDPCBKDAK
+// CmdId: 8346
 message OCFDPCBKDAK {
-	int32 IJIABMFLJGH = 8;
-	AOOFANGHMOJ JOPFMDLPLMK = 15;
+    int32 KFCODGHIJEH = 8;
+    AOOFANGHMOJ IPIOMEICOBD = 15;
 }
+

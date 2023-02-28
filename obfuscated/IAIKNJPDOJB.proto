@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LANGJAKENPJ.proto";
 
+// Name: IAIKNJPDOJB
+// CmdId: 8930
 message IAIKNJPDOJB {
-	repeated LANGJAKENPJ CMPPJDHENIF = 6;
-	uint32 BEJDBNONODA = 14;
-	uint32 HFKNDLGIPML = 1;
-	uint32 AHEFDMPHAAK = 11;
+    repeated LANGJAKENPJ EPBPKJAPAGK = 6;
+    uint32 NJIHDDKBBLA = 14;
+    uint32 EILEKGBEBLI = 1;
+    uint32 NOGMACBJJCL = 11;
 }
+

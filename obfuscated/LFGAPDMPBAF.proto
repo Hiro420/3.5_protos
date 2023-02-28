@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LFGAPDMPBAF
 message LFGAPDMPBAF {
-	uint32 POCNDIKKMMH = 15;
+    uint32 OFPHHCKDGEP = 15;
 }
+

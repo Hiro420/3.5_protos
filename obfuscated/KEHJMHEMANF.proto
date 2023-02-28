@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KMNAIPMHDEG.proto";
 
+// Name: KEHJMHEMANF
+// CmdId: 3509
 message KEHJMHEMANF {
-	KMNAIPMHDEG HNJMPNDIKNG = 13;
+    KMNAIPMHDEG OFKEOFIHOBM = 13;
 }
+

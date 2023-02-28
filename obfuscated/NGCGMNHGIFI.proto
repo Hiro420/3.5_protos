@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MKFKNLDJOLL.proto";
 
+// Name: NGCGMNHGIFI
+// CmdId: 2564
 message NGCGMNHGIFI {
-	repeated MKFKNLDJOLL AAKADGDONLM = 10;
-	int32 IJIABMFLJGH = 11;
+    repeated MKFKNLDJOLL BDDOHMGAFIM = 10;
+    int32 KFCODGHIJEH = 11;
 }
+

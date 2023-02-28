@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MNNNCKCAGLP.proto";
 
+// Name: DNANMGCEKBC
 message DNANMGCEKBC {
-	bool HDFAEDLKHJE = 9;
-	uint32 AMJLLOEKGMD = 12;
-	repeated MNNNCKCAGLP HFCAIMJEDHH = 2;
+    bool NPNPDBHBMBB = 9;
+    uint32 CEGEDDOGGAD = 12;
+    repeated MNNNCKCAGLP FPDMMEOIPLP = 2;
 }
+

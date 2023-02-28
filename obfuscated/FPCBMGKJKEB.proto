@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FPCBMGKJKEB
+// CmdId: 7219
 message FPCBMGKJKEB {
-	bool EIEALMKLEIC = 4;
+    bool BDLBHOCMALO = 4;
 }
+

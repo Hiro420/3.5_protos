@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ECNGFMLEHPN.proto";
 
+// Name: IKCCHGCGGFI
 message IKCCHGCGGFI {
-	repeated ECNGFMLEHPN AIHPKLMABNF = 13;
-	uint32 CBHLNJNAJHH = 14;
-	uint32 BOHCDNAKJGO = 4;
+    repeated ECNGFMLEHPN HEPMINMGJIM = 13;
+    uint32 PKCNGGOJEJA = 14;
+    uint32 EPFPMGJEMJH = 4;
 }
+

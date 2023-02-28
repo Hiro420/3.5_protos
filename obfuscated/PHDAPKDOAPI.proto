@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PHDAPKDOAPI
 message PHDAPKDOAPI {
-	uint32 KGFBAIOAMNF = 1;
-	uint32 NDEGDDBLMKD = 2;
+    uint32 DPDHEOEFDIE = 1;
+    uint32 CDEJEDMAFIH = 2;
 }
+

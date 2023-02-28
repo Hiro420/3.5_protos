@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FHCMHOPJELB.proto";
 
+// Name: PEPNHFLKBLG
+// CmdId: 4753
 message PEPNHFLKBLG {
-	FHCMHOPJELB BDJBIFDHNCK = 5;
-	FHCMHOPJELB MLFHHIEMJJC = 14;
+    FHCMHOPJELB DPCGMOMFNCD = 5;
+    FHCMHOPJELB ONMIIOIPGAI = 14;
 }
+

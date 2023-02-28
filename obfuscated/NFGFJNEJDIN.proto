@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NFGFJNEJDIN
+// CmdId: 1837
 message NFGFJNEJDIN {
-	uint32 NDEGDDBLMKD = 6;
+    uint32 CDEJEDMAFIH = 6;
 }
+

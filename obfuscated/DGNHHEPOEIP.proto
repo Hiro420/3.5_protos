@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FBDKBKEHACB.proto";
 
+// Name: DGNHHEPOEIP
 message DGNHHEPOEIP {
-	uint32 EGABCOAEGAN = 3;
-	FBDKBKEHACB AJIOGJJEMLG = 4;
+    uint32 MFIAJEFMBCI = 3;
+    FBDKBKEHACB DPPKHKFLHKP = 4;
 }
+

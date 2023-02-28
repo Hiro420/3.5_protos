@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MBNENOIDIDO
 message MBNENOIDIDO {
-	string EJNMMOMKGCO = 1;
-	string DHPNGKFNOCF = 2;
-	uint32 PFKDFHHKBFD = 3;
+    string APHGPJLNCDD = 1;
+    string FNIODJLHDLL = 2;
+    uint32 NLBJCAHEJOC = 3;
 }
+

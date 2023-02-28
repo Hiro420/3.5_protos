@@ -2,21 +2,23 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AAMJIFFJBPA
 message AAMJIFFJBPA {
-	uint32 HCMPEPODKPP = 1;
-	uint32 GKHJKEGICOO = 2;
-	int32 BKDHBEFPKIC = 3;
-	int32 KHIGOACLIOB = 4;
-	int32 HDMPNOKOFAD = 5;
-	int32 BDKHPGGELJM = 6;
-	int32 BDNALCHPMKE = 7;
-	int32 HIDABFDIECI = 8;
-	bool NBLMPHJPBDD = 9;
-	int32 GHKIKNJNIGG = 10;
-	int32 NDEGDDBLMKD = 11;
-	uint32 JDJDOCNKLHI = 12;
-	uint32 IKNCEKPKPOL = 13;
-	uint32 KDPODGPLHOE = 14;
-	uint32 JLMLALKOMFN = 15;
-	uint32 LKIEGGEFJDB = 16;
+    uint32 IOGCBDAJIJK = 1;
+    uint32 FBJHOFHKIIG = 2;
+    int32 PFJOPBPLOHD = 3;
+    int32 CFJFAOMLMKF = 4;
+    int32 CKHPLMAGECJ = 5;
+    int32 KAFMECFIPDI = 6;
+    int32 OKNOKGHGCGJ = 7;
+    int32 MHMGLBPKMLG = 8;
+    bool JILIIBIBDOF = 9;
+    int32 IEBIABJPGEF = 10;
+    int32 CDEJEDMAFIH = 11;
+    uint32 LGGIEEFEFFO = 12;
+    uint32 DJHBGNNLBLA = 13;
+    uint32 GHEEHAAKBIC = 14;
+    uint32 OCFEJAGKHBJ = 15;
+    uint32 LIPOEEIACGD = 16;
 }
+

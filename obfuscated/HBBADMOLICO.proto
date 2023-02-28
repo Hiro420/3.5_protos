@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JJOLFAPBPNN.proto";
 
+// Name: HBBADMOLICO
+// CmdId: 5022
 message HBBADMOLICO {
-	int32 IJIABMFLJGH = 10;
-	repeated JJOLFAPBPNN FKHCMPFAAHJ = 15;
+    int32 KFCODGHIJEH = 10;
+    repeated JJOLFAPBPNN BBMMPANMJOI = 15;
 }
+

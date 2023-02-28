@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BPDDOOEIIHA
+// CmdId: 4263
 message BPDDOOEIIHA {
-	uint32 PDFLEGGDOCP = 4;
+    uint32 GPBLLPDCIFK = 4;
 }
+

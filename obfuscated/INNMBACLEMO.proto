@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: INNMBACLEMO
 message INNMBACLEMO {
-	uint32 EMAKJPHNHDI = 11;
-	uint32 LAMKPGOOMKN = 13;
-	uint32 OKMJACNOJDD = 12;
+    uint32 BONGOFDPLFE = 11;
+    uint32 OBPDPLFCLGI = 13;
+    uint32 GBLFDPBBOMB = 12;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CAHLCAONMAP.proto";
 
+// Name: PDBLNOEODKK
+// CmdId: 2454
 message PDBLNOEODKK {
-	CAHLCAONMAP KJFJLANLGKE = 9;
+    CAHLCAONMAP JBHKALAAHPG = 9;
 }
+

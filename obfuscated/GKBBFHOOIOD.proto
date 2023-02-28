@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DKFNMCMGENJ.proto";
 
+// Name: GKBBFHOOIOD
 message GKBBFHOOIOD {
-	repeated DKFNMCMGENJ BGMGDNKCCGL = 8;
-	uint32 DMKFJEMMOJI = 2;
-	uint32 HIBOBLMJJIA = 3;
+    repeated DKFNMCMGENJ JEMDLFKHGLE = 8;
+    uint32 EDFOCEBPLPP = 2;
+    uint32 LOAIMILPOJG = 3;
 }
+

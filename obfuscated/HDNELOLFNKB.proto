@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BJHINJBCGKK.proto";
 
+// Name: HDNELOLFNKB
+// CmdId: 4813
 message HDNELOLFNKB {
-	BJHINJBCGKK CKOKMBLACNC = 5;
+    BJHINJBCGKK ICCDHJANOEB = 5;
 }
+

@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IHINMBHNLHL
 message IHINMBHNLHL {
-	string HCMPEPODKPP = 1;
-	string FELNMAMJHCP = 2;
-	uint32 DFCCNLIJJKC = 3;
+    string IOGCBDAJIJK = 1;
+    string JNJBGLLLHFJ = 2;
+    uint32 IMLBHGHMNAJ = 3;
 }
+

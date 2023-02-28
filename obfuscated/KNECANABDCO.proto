@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: KNECANABDCO
+enum KNECANABDCO {
+    KNECANABDCO_KDDHKOJOANH = 0;
+    KNECANABDCO_MPOBECBHKDD = 1;
+    KNECANABDCO_CDJOBJKGGGG = 2;
+    KNECANABDCO_OEJICLODFCO = 3;
+    KNECANABDCO_CFEICNBMFMI = 4;
+}
+

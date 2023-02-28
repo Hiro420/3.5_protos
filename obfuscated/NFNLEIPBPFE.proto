@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NFNLEIPBPFE
+// CmdId: 8145
 message NFNLEIPBPFE {
-	uint32 AIJOKLEENGC = 6;
-	bool JOLLHKKICLI = 11;
-	int32 IJIABMFLJGH = 10;
-	uint32 NJAEFGBAJLN = 9;
+    uint32 OBBPIGOHAJL = 6;
+    bool EGLDEEIABJL = 11;
+    int32 KFCODGHIJEH = 10;
+    uint32 GKJEDGIJGKL = 9;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MNNNCKCAGLP.proto";
 
+// Name: MEHJOJBNMME
+// CmdId: 8969
 message MEHJOJBNMME {
-	bool EHADIADKIML = 14;
-	MNNNCKCAGLP HJAKPEEBFHE = 15;
+    bool JMMCPHGIOBC = 14;
+    MNNNCKCAGLP HAIHPNAFGIL = 15;
 }
+

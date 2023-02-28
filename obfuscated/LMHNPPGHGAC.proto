@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CCNCLHGNBFP.proto";
 
+// Name: LMHNPPGHGAC
+// CmdId: 4008
 message LMHNPPGHGAC {
-	repeated CCNCLHGNBFP DDCAINADFLI = 11;
+    repeated CCNCLHGNBFP CGHECPMANED = 11;
 }
+

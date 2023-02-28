@@ -2,12 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "EFLDHGLFIDD.proto";
 import "CFNFHECAPPI.proto";
+import "EFLDHGLFIDD.proto";
 
+// Name: LMIKBGJFDOA
+// CmdId: 750
 message LMIKBGJFDOA {
-	repeated CFNFHECAPPI DJEOPOOKEKO = 9;
-	repeated EFLDHGLFIDD MKHDNPHAJDN = 15;
-	int32 IJIABMFLJGH = 11;
-	uint32 ODJPCGIMADI = 13;
+    repeated CFNFHECAPPI CEGJBPBNMHJ = 9;
+    repeated EFLDHGLFIDD IBOINAIOJIM = 15;
+    int32 KFCODGHIJEH = 11;
+    uint32 DCBMADGBDEL = 13;
 }
+

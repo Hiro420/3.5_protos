@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ACAAHFKBPFI
+// CmdId: 8259
 message ACAAHFKBPFI {
-	int32 IJIABMFLJGH = 12;
-	repeated uint64 FDMHLNFONME = 6;
-	uint32 OFKOOHKDFEC = 5;
-	uint32 OEGEDJPNJAD = 13;
-	repeated uint64 MIKINHHKFOD = 4;
-	uint64 LHFBBMDLIHF = 9;
+    int32 KFCODGHIJEH = 12;
+    repeated uint64 JAFLIFFCFKB = 6;
+    uint32 DIJCEFIKGAK = 5;
+    uint32 CEHNBFEIODF = 13;
+    repeated uint64 FONLKNMONBE = 4;
+    uint64 MFJLBDJGMKC = 9;
 }
+

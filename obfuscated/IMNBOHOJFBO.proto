@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HDDLIDNBMJM.proto";
 
+// Name: IMNBOHOJFBO
 message IMNBOHOJFBO {
-	repeated HDDLIDNBMJM LNAHJBNMOEE = 15;
+    repeated HDDLIDNBMJM JDGOBICDINB = 15;
 }
+

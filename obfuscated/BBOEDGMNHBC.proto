@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MGOHDOAGFDA.proto";
 
+// Name: BBOEDGMNHBC
+// CmdId: 3472
 message BBOEDGMNHBC {
-	uint32 CBGMHEBIJPK = 3;
-	MGOHDOAGFDA FAJEIMEPBKL = 6;
+    uint32 OAEEDKMIFMO = 3;
+    MGOHDOAGFDA ABKDKOMKCAH = 6;
 }
+

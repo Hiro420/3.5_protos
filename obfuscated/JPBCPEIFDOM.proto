@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JPBCPEIFDOM
+// CmdId: 2639
 message JPBCPEIFDOM {
-	uint32 HJCAMPKGCFP = 4;
+    uint32 DGNENNGDFOI = 4;
 }
+

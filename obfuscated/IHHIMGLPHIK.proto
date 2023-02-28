@@ -2,21 +2,24 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "IHFHAKKFMHG.proto";
 import "DALMLFNANKL.proto";
+import "IHFHAKKFMHG.proto";
 
+// Name: IHHIMGLPHIK
+// CmdId: 394
 message IHHIMGLPHIK {
-	bool HGJDBAJKGLD = 2;
-	bool OOHLMEGLDFF = 3;
-	bool GGDLEMOAHPA = 14;
-	bool GPHPADKBABF = 4;
-	bool HIEFAHNILHB = 6;
-	uint32 PDFLEGGDOCP = 1;
-	DALMLFNANKL LJBDGFOPLKP = 9;
-	IHFHAKKFMHG CBOLHDNGDGC = 8;
-	bool DJKIFAJCEPO = 10;
-	bool HCCCANGIHEH = 15;
-	bool EIDOKIPIGLN = 11;
-	bool MFLABKKPGJI = 5;
-	bool PLBOJMALMLH = 7;
+    bool JLFJCEPAAID = 2;
+    bool FMJOMFCELJH = 3;
+    bool IAHIPHMIECD = 14;
+    bool EBHIPLBONHB = 4;
+    bool CDKNNHKAONA = 6;
+    uint32 GPBLLPDCIFK = 1;
+    DALMLFNANKL AKDAOFHJFDC = 9;
+    IHFHAKKFMHG KDJAKKPIMGJ = 8;
+    bool BDKLEGKEMAK = 10;
+    bool DOBDMHNEEDC = 15;
+    bool MPLKFIIEOBA = 11;
+    bool KAKAJBAGHHH = 5;
+    bool CJENPDMPBND = 7;
 }
+

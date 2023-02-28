@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GMIFBLJMMNA
 message GMIFBLJMMNA {
-	uint32 DBEIFOIAIPC = 4;
-	bool DBIKCJCJHFI = 15;
+    uint32 NLDGLBHBNJE = 4;
+    bool AAMENNENDKM = 15;
 }
+

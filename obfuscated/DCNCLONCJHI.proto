@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DCNCLONCJHI
+// CmdId: 3469
 message DCNCLONCJHI {
-	uint32 PKPMEKPEJED = 1;
-	string FELNMAMJHCP = 6;
-	string EKLGHKHNKFI = 14;
+    uint32 HLBBDKOAHNE = 1;
+    string JNJBGLLLHFJ = 6;
+    string LCBOPAHKOPE = 14;
 }
+

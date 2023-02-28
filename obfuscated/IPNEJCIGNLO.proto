@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NHIJPCNBKJE.proto";
 
+// Name: IPNEJCIGNLO
 message IPNEJCIGNLO {
-	string NFGBBEGMFNN = 1;
-	int32 ICKMIDACLPC = 2;
-	repeated NHIJPCNBKJE GJEKIOPKEBO = 3;
+    string FGEDEGFCPDJ = 1;
+    int32 IHHEFANAHMG = 2;
+    repeated NHIJPCNBKJE PNFIHGPGNKD = 3;
 }
+

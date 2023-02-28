@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GAAFLDIHAAF
+// CmdId: 692
 message GAAFLDIHAAF {
-	bool MPLOILHKKMO = 9;
-	uint32 OKDKDJGOBOA = 5;
+    bool ELPEIGPPDPO = 9;
+    uint32 JNDMCMGKKBK = 5;
 }
+

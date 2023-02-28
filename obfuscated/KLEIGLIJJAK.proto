@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KLEIGLIJJAK
+// CmdId: 865
 message KLEIGLIJJAK {
-	uint32 NFOPOKGDODK = 11;
-	uint32 PDFLEGGDOCP = 14;
-	uint32 KCMEPPIKHLM = 8;
+    uint32 PFLGEMLFBLL = 11;
+    uint32 GPBLLPDCIFK = 14;
+    uint32 ENHLDJCHHNF = 8;
 }
+

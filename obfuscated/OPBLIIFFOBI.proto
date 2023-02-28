@@ -2,5 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OPBLIIFFOBI
+// CmdId: 8778
 message OPBLIIFFOBI {
 }
+

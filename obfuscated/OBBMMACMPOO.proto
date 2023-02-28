@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OBBMMACMPOO
+// CmdId: 407
 message OBBMMACMPOO {
-	uint32 PDFLEGGDOCP = 11;
-	uint32 KFEMBAPKMFH = 7;
-	uint32 DPJOJFFAOIB = 2;
+    uint32 GPBLLPDCIFK = 11;
+    uint32 NDGLECFHBCJ = 7;
+    uint32 EGFOFPMNMJB = 2;
 }
+

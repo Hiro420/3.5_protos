@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: APABLKFKLJN
+// CmdId: 4608
 message APABLKFKLJN {
-	string HAJPGGOKDIK = 3;
+    string IIPDEOODDGO = 3;
 }
+

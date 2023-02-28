@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BKBKNDJIDHM.proto";
 
+// Name: POLNCBKMBPC
+// CmdId: 4091
 message POLNCBKMBPC {
-	BKBKNDJIDHM MANADEFHNGP = 10;
+    BKBKNDJIDHM EMDFLBKMCHI = 10;
 }
+

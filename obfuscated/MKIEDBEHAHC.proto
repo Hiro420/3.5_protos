@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GIKPGAHPHOM.proto";
 
+// Name: MKIEDBEHAHC
+// CmdId: 4207
 message MKIEDBEHAHC {
-	GIKPGAHPHOM HCMPEPODKPP = 10;
-	uint32 MFPNLAFBOIB = 15;
-	uint32 GKHJKEGICOO = 5;
+    GIKPGAHPHOM IOGCBDAJIJK = 10;
+    uint32 MIIBBNIDHOD = 15;
+    uint32 FBJHOFHKIIG = 5;
 }
+

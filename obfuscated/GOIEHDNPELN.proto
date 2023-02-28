@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GOIEHDNPELN
+// CmdId: 292
 message GOIEHDNPELN {
-	uint32 PCDDPCOCGFF = 1;
-	uint32 NDEGDDBLMKD = 13;
-	uint32 PILMDEIGHLG = 11;
-	uint32 DHNOJEGFDBE = 3;
-	uint32 BNGHDMNKMNB = 7;
+    uint32 HOECKCBABAL = 1;
+    uint32 CDEJEDMAFIH = 13;
+    uint32 IIBOCMBKAID = 11;
+    uint32 OBDOEOGAGHH = 3;
+    uint32 IFKHJLODEIF = 7;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MBIPNDBGKFI.proto";
 
+// Name: BGIMDCKHDHN
+// CmdId: 2827
 message BGIMDCKHDHN {
-	repeated MBIPNDBGKFI NPLLMJOANEC = 10;
+    repeated MBIPNDBGKFI JIJLHFANNDL = 10;
 }
+

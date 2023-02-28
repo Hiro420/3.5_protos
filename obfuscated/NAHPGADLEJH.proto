@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NAHPGADLEJH
 message NAHPGADLEJH {
-	bool MFPGHFOFAFP = 4;
-	uint32 LAMKPGOOMKN = 6;
-	uint32 ECHCDODIGAN = 2;
-	uint32 OKMJACNOJDD = 1;
+    bool KANHMLPBBHL = 4;
+    uint32 OBPDPLFCLGI = 6;
+    uint32 GLOLPGMFPBB = 2;
+    uint32 GBLFDPBBOMB = 1;
 }
+

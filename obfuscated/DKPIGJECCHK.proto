@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FMBJNFHJFJF.proto";
 
+// Name: DKPIGJECCHK
 message DKPIGJECCHK {
-	FMBJNFHJFJF FIHAGEFIDEK = 3;
-	repeated uint32 JJEHFIPOCFD = 6;
-	repeated uint32 HMOHCJEPCOC = 4;
+    FMBJNFHJFJF PIIEANDOIOF = 3;
+    repeated uint32 OCAANIJGLBH = 6;
+    repeated uint32 MFIDCJGMDKF = 4;
 }
+

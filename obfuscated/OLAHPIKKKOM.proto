@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OLAHPIKKKOM
 message OLAHPIKKKOM {
-	float JLLAFPALCCK = 1;
-	bool JMAEJDGDIPI = 2;
-	uint32 AHGGLLMBAAG = 8;
+    float IHKHEPAGNFD = 1;
+    bool ABCENJAFGOF = 2;
+    uint32 IJPCJNLNAME = 8;
 }
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EMIKPGMJCAG
+// CmdId: 8964
 message EMIKPGMJCAG {
-	int32 IJIABMFLJGH = 12;
-	repeated uint32 EMMAFLLDGJL = 8;
-	uint32 HFKNDLGIPML = 14;
+    int32 KFCODGHIJEH = 12;
+    repeated uint32 IFDPLDJJKJB = 8;
+    uint32 EILEKGBEBLI = 14;
 }
+

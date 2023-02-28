@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FNABEPABCNG.proto";
 
+// Name: FDIKAEEIFOI
+// CmdId: 4865
 message FDIKAEEIFOI {
-	string NNBFKFGHOCF = 3;
-	FNABEPABCNG DFLIDJEIGPO = 14;
-	uint32 DAIBJCNPOJG = 8;
-	uint32 LHDGCDJFAAK = 1;
+    string FNEMLLAABGO = 3;
+    FNABEPABCNG JOLNHBKLDHC = 14;
+    uint32 FGCOFILIGGJ = 8;
+    uint32 PDJBMFMHLPA = 1;
 }
+

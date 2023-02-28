@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CGAKMGMPFDD
 message CGAKMGMPFDD {
-	uint32 GKHJKEGICOO = 1;
-	repeated uint32 CKMDEODGJGD = 3;
+    uint32 FBJHOFHKIIG = 1;
+    repeated uint32 OPDIEJPIJHK = 3;
 }
+

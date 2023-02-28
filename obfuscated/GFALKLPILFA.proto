@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GFALKLPILFA
 message GFALKLPILFA {
-	uint32 JIKFEHBKOCO = 15;
+    uint32 EBDOCHHNJEP = 15;
 }
+

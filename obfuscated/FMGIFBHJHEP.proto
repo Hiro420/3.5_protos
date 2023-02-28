@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LHCNFJEHPLP.proto";
 
+// Name: FMGIFBHJHEP
+// CmdId: 4264
 message FMGIFBHJHEP {
-	repeated LHCNFJEHPLP JIMHBJNLDNJ = 1;
+    repeated LHCNFJEHPLP BBNFAIIGHPD = 1;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MPFLINHGFGI
+// CmdId: 4291
 message MPFLINHGFGI {
-	bool PELPDKIPJNP = 4;
-	uint32 AAHPGNIAFFG = 1;
+    bool NBBCDOAOGIN = 4;
+    uint32 NGOELONIDLG = 1;
 }
+

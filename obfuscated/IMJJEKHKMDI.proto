@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NLIKGMEMIKJ.proto";
 
+// Name: IMJJEKHKMDI
+// CmdId: 6246
 message IMJJEKHKMDI {
-	int32 IJIABMFLJGH = 14;
-	repeated NLIKGMEMIKJ DCIDIBJCEJB = 15;
-	uint32 NFOKBMLBAIA = 1;
+    int32 KFCODGHIJEH = 14;
+    repeated NLIKGMEMIKJ FFEHIAJHEDI = 15;
+    uint32 ECBHFJPGFNI = 1;
 }
+

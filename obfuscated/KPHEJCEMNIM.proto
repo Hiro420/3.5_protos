@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KBLDACDEINJ.proto";
 
+// Name: KPHEJCEMNIM
+// CmdId: 1175
 message KPHEJCEMNIM {
-	repeated KBLDACDEINJ KENBKHFDPOO = 12;
+    repeated KBLDACDEINJ DJIKJBBBBAB = 12;
 }
+

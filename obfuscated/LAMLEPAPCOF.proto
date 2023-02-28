@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LAMLEPAPCOF
 message LAMLEPAPCOF {
-	uint32 BIDBIMFINKK = 1;
-	uint32 DONFFKIMLLF = 2;
-	uint32 HNLIKJDCEEI = 3;
-	uint32 CLIJOGLBJEM = 4;
+    uint32 IBALDOGLDNN = 1;
+    uint32 GNKAIOKIGGH = 2;
+    uint32 FMCHLHCKHAK = 3;
+    uint32 DAAHFCNFIBP = 4;
 }
+

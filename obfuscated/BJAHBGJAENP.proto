@@ -4,11 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KMKEAAHAMKC.proto";
 
+// Name: BJAHBGJAENP
 message BJAHBGJAENP {
-	uint32 MPGJJEALABF = 7;
-	uint32 CDEFMKKKEJA = 10;
-	repeated KMKEAAHAMKC LKELIJOEJPB = 11;
-	uint32 AIJOKLEENGC = 13;
-	KMKEAAHAMKC OCOGBDIHGLF = 12;
-	bool DJKOKFDGKIG = 5;
+    uint32 GPKPCCJAFAH = 7;
+    uint32 BKAALJDKGFO = 10;
+    repeated KMKEAAHAMKC LDGIHAGEEMJ = 11;
+    uint32 OBBPIGOHAJL = 13;
+    KMKEAAHAMKC LFJGECOCLOJ = 12;
+    bool HKDOCGOMBKP = 5;
 }
+

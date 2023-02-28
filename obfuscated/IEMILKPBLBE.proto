@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IEMILKPBLBE
+// CmdId: 5519
 message IEMILKPBLBE {
-	uint32 KKMLAEEAHJA = 7;
-	uint32 NAIPFFHNDOH = 11;
-	uint32 AFDJLKOFMHC = 14;
+    uint32 IIBPCMOEENO = 7;
+    uint32 AEKMHMJGJJO = 11;
+    uint32 JHOFNMMGGJD = 14;
 }
+

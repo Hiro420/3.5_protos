@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LBLBKNOBLGL.proto";
 
+// Name: AKAJOGPHLCH
+// CmdId: 457
 message AKAJOGPHLCH {
-	repeated LBLBKNOBLGL IDKIMDJPPJH = 3;
-	int32 IJIABMFLJGH = 10;
+    repeated LBLBKNOBLGL OJLEKMAAECP = 3;
+    int32 KFCODGHIJEH = 10;
 }
+

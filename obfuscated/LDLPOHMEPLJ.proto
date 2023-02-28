@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: LDLPOHMEPLJ
+enum LDLPOHMEPLJ {
+    LDLPOHMEPLJ_GPFLIFHGENP = 0;
+    LDLPOHMEPLJ_DLJBLHFBCLN = 1;
+    LDLPOHMEPLJ_NNFHCOJMBGC = 2;
+    LDLPOHMEPLJ_LCIODFGHGMK = 3;
+    LDLPOHMEPLJ_BOGONJIBLLE = 4;
+    LDLPOHMEPLJ_MNDIGCCNPOF = 5;
+}
+

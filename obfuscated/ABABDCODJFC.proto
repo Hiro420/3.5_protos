@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ABABDCODJFC
 message ABABDCODJFC {
-	uint32 PPNEANIAAHC = 1;
-	bool DJKOKFDGKIG = 2;
+    uint32 EFLFKNJONGL = 1;
+    bool HKDOCGOMBKP = 2;
 }
+

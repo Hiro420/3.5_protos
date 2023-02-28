@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: BNEDOJNHOBO
+// CmdId: 203
 message BNEDOJNHOBO {
-	uint32 BFOIKHIHJIA = 10;
-	DALMLFNANKL LHHMJEEOCAI = 2;
-	int32 IJIABMFLJGH = 7;
+    uint32 KEOCNNMJHNB = 10;
+    DALMLFNANKL CHJGMKOEKBA = 2;
+    int32 KFCODGHIJEH = 7;
 }
+

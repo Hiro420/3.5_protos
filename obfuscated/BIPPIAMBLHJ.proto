@@ -2,17 +2,19 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "LINIENJBJIL.proto";
 import "ENOCIMKMJJG.proto";
 import "JKJKGLGIDJL.proto";
+import "LINIENJBJIL.proto";
 
+// Name: BIPPIAMBLHJ
 message BIPPIAMBLHJ {
-	JKJKGLGIDJL MNCGEADOHCE = 11;
-	repeated ENOCIMKMJJG IGHDCELHFIG = 13;
-	repeated uint32 DFPINPGIJFI = 8;
-	bool CKMCPIOKFFE = 15;
-	repeated LINIENJBJIL KEHGNLCGKJM = 9;
-	JKJKGLGIDJL KKPGKEPJEMO = 3;
-	repeated uint32 MBLLDNIGIAC = 2;
-	repeated uint32 FNJALJIJICA = 6;
+    JKJKGLGIDJL PHDOGBOMPEK = 11;
+    repeated ENOCIMKMJJG JNPODEJKNHA = 13;
+    repeated uint32 DMNPFGACGBA = 8;
+    bool NKMBACDACBI = 15;
+    repeated LINIENJBJIL NDCNEINIJOJ = 9;
+    JKJKGLGIDJL OOJPOLAFIOO = 3;
+    repeated uint32 FMPECJCEBPB = 2;
+    repeated uint32 PEDNCKOGHPO = 6;
 }
+

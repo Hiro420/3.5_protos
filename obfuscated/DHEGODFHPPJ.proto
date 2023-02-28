@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GGJNNEGFMKM.proto";
 
+// Name: DHEGODFHPPJ
+// CmdId: 5062
 message DHEGODFHPPJ {
-	int32 IJIABMFLJGH = 4;
-	GGJNNEGFMKM CKHBCOILEDN = 8;
+    int32 KFCODGHIJEH = 4;
+    GGJNNEGFMKM LEGKOLNHJKN = 8;
 }
+

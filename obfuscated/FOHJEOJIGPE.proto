@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FOHJEOJIGPE
+// CmdId: 2129
 message FOHJEOJIGPE {
-	uint32 MODHMMINNOH = 12;
+    uint32 GKCCDHDBKAG = 12;
 }
+

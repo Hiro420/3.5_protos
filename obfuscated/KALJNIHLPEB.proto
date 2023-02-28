@@ -2,15 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MCJJAJKEOAM.proto";
-import "JFAEOPHPBGL.proto";
 import "BEAKEGBMAJD.proto";
+import "JFAEOPHPBGL.proto";
+import "MCJJAJKEOAM.proto";
 
+// Name: KALJNIHLPEB
 message KALJNIHLPEB {
-	bool KAOMBJOJKDB = 1;
-	bool CCFNLFCKIFL = 7;
-	repeated BEAKEGBMAJD LIHEPHPKCOI = 9;
-	JFAEOPHPBGL GKIBJGNJDPD = 8;
-	bool CKMCPIOKFFE = 6;
-	MCJJAJKEOAM MGLODMPJICB = 10;
+    bool OEMINLMOPPP = 1;
+    bool MMEOMGJBGNE = 7;
+    repeated BEAKEGBMAJD OLCOJNKIDMA = 9;
+    JFAEOPHPBGL OEEDOHKBLMD = 8;
+    bool NKMBACDACBI = 6;
+    MCJJAJKEOAM EGDHPACCIFB = 10;
 }
+

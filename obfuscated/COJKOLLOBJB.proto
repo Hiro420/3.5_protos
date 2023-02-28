@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: COJKOLLOBJB
+enum COJKOLLOBJB {
+    COJKOLLOBJB_GOKAFHHPPAH = 0;
+    COJKOLLOBJB_DOACFKICNHP = 1;
+    COJKOLLOBJB_LHBEBBAONIA = 2;
+}
+

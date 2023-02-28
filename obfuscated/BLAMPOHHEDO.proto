@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JOOKDOBEDLP.proto";
 
+// Name: BLAMPOHHEDO
 message BLAMPOHHEDO {
-	repeated JOOKDOBEDLP LIHEPHPKCOI = 2;
+    repeated JOOKDOBEDLP OLCOJNKIDMA = 2;
 }
+

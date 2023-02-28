@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: ALJEMELPDLN
+enum ALJEMELPDLN {
+    ALJEMELPDLN_AJPCLJOMOPP = 0;
+    ALJEMELPDLN_HCDLEKGPMPC = 1;
+    ALJEMELPDLN_POMEMHIJPCJ = 2;
+    ALJEMELPDLN_BBIGEKKADCP = 3;
+    ALJEMELPDLN_IIHFLPJGFBO = 4;
+}
+

@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GGFJJJMBFNM.proto";
 
+// Name: MMKIGHGCLAJ
+// CmdId: 1967
 message MMKIGHGCLAJ {
-	int32 IJIABMFLJGH = 6;
-	bool GNHMDPKDBCC = 12;
-	uint32 OFDNCFCMENI = 10;
-	GGFJJJMBFNM KBGJJOKOAKJ = 7;
+    int32 KFCODGHIJEH = 6;
+    bool PDJEELLGELD = 12;
+    uint32 CIIHFDJKEMA = 10;
+    GGFJJJMBFNM MCBPOLKENEN = 7;
 }
+

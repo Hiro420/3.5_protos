@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CAEIOKCNHNF
+// CmdId: 8032
 message CAEIOKCNHNF {
-	uint32 BEJDBNONODA = 12;
-	bool MFPGHFOFAFP = 8;
-	repeated uint32 JPIAHFEPNPK = 1;
-	uint32 IMCEFKNODHF = 7;
+    uint32 NJIHDDKBBLA = 12;
+    bool KANHMLPBBHL = 8;
+    repeated uint32 KIGJLJHLOMP = 1;
+    uint32 DKBOHEPEPOF = 7;
 }
+

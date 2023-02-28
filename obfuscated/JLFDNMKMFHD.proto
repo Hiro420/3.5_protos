@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JLFDNMKMFHD
 message JLFDNMKMFHD {
-	bool NHDPHIMDACF = 9;
-	uint64 POGHDEAENAD = 8;
+    bool OABFKGLGLHI = 9;
+    uint64 PKJEEFBMBNM = 8;
 }
+

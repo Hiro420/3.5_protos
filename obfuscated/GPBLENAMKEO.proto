@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DHDKCGCJDGH.proto";
 
+// Name: GPBLENAMKEO
+// CmdId: 4206
 message GPBLENAMKEO {
-	repeated DHDKCGCJDGH AAINHPLMEPE = 2;
+    repeated DHDKCGCJDGH LIGONOPCHIK = 2;
 }
+

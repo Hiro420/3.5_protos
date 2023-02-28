@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: EACNABDMBBF
+message EACNABDMBBF {
+    uint32 IOGCBDAJIJK = 1;
+    int64 EBDJIKHBDDL = 4;
+    oneof GJDMBBAMIDJ {
+        int64 CABNOCAJNGD = 2;
+        float EKHKEMOBGBC = 3;
+    }
+}
+

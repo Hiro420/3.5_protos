@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KOHDDNNKDAG.proto";
 
+// Name: ALDMHFAPEBH
+// CmdId: 143
 message ALDMHFAPEBH {
-	repeated KOHDDNNKDAG HOEDDBEDGAI = 14;
+    repeated KOHDDNNKDAG BPPNDBMFBEG = 14;
 }
+

@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LHPBALCGMJH
 message LHPBALCGMJH {
-	bool POFHCDLCCNH = 8;
+    bool CCOOPAOKIGG = 8;
 }
+

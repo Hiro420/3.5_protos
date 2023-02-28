@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FCJLAGHOIFC.proto";
 
+// Name: CFFCOJOFDNG
+// CmdId: 320
 message CFFCOJOFDNG {
-	repeated uint32 OFFELOHMPEK = 8;
-	repeated FCJLAGHOIFC HNAKLOOFNEO = 5;
+    repeated uint32 NIDDPONMCBB = 8;
+    repeated FCJLAGHOIFC BCEFPODENMM = 5;
 }
+

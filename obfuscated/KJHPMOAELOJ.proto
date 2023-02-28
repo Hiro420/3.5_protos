@@ -2,14 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "LGICOHGEPKJ.proto";
 import "JHPFIBBFMME.proto";
+import "LGICOHGEPKJ.proto";
 
+// Name: KJHPMOAELOJ
+// CmdId: 867
 message KJHPMOAELOJ {
-	JHPFIBBFMME LBHIINLKALB = 8;
-	LGICOHGEPKJ BDBAJEAMICF = 4;
-	bool ONDEHMNBFHM = 9;
-	uint32 HIGAIJIHCOC = 3;
-	uint32 IBNGGJHDICN = 11;
-	uint32 JGAHPOJJDHJ = 2;
+    JHPFIBBFMME DCJGKIIHHPA = 8;
+    LGICOHGEPKJ CPHGAAEMBLA = 4;
+    bool FGLGPGPDEGL = 9;
+    uint32 AECPDOLHDKN = 3;
+    uint32 ODCGCDGHIDD = 11;
+    uint32 LGAHNCLEDCF = 2;
 }
+

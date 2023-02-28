@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CFNFHECAPPI.proto";
 
+// Name: DCEKNGGFLJN
+// CmdId: 765
 message DCEKNGGFLJN {
-	uint32 ODJPCGIMADI = 12;
-	repeated CFNFHECAPPI DJEOPOOKEKO = 2;
+    uint32 DCBMADGBDEL = 12;
+    repeated CFNFHECAPPI CEGJBPBNMHJ = 2;
 }
+

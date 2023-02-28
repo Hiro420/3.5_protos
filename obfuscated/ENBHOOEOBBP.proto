@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ENBHOOEOBBP
+// CmdId: 2152
 message ENBHOOEOBBP {
-	int32 IJIABMFLJGH = 7;
-	uint32 AHFGCEDNLHM = 1;
-	uint32 IDILGEHKMON = 10;
+    int32 KFCODGHIJEH = 7;
+    uint32 LAMMGIKJMDL = 1;
+    uint32 MMJJICJEAJL = 10;
 }
+

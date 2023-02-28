@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HINBMFGKCEC
+// CmdId: 4742
 message HINBMFGKCEC {
-	uint32 KFEMBAPKMFH = 1;
-	int32 IJIABMFLJGH = 5;
+    uint32 NDGLECFHBCJ = 1;
+    int32 KFCODGHIJEH = 5;
 }
+

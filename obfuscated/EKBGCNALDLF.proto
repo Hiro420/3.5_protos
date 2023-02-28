@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IFOMJPFNJIC.proto";
 
+// Name: EKBGCNALDLF
+// CmdId: 5594
 message EKBGCNALDLF {
-	uint32 AJKMILGDHEH = 8;
-	uint32 NAIPFFHNDOH = 3;
-	IFOMJPFNJIC HJFHICFFFLL = 12;
-	uint32 BNGHDMNKMNB = 6;
+    uint32 FLLBEKKCGGN = 8;
+    uint32 AEKMHMJGJJO = 3;
+    IFOMJPFNJIC CHHELOIIOFA = 12;
+    uint32 IFKHJLODEIF = 6;
 }
+

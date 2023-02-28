@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AKIMCMDLPEK.proto";
 
+// Name: PPIDGMOMDHC
+// CmdId: 8967
 message PPIDGMOMDHC {
-	uint32 KKMLAEEAHJA = 10;
-	AKIMCMDLPEK LNFKELDOBON = 6;
+    uint32 IIBPCMOEENO = 10;
+    AKIMCMDLPEK OMHIFLNBFCC = 6;
 }
+

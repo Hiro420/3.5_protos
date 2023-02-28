@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GALFAELEKAE
+// CmdId: 23655
 message GALFAELEKAE {
-	uint32 FPNIJFBLNNE = 3;
-	bool MGBJPMJONBP = 9;
-	bool DBIKCJCJHFI = 1;
+    uint32 MDHELGBPNMP = 3;
+    bool LPIJDHBEDND = 9;
+    bool AAMENNENDKM = 1;
 }
+

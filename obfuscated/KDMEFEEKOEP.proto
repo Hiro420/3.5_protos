@@ -5,9 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "COEAABHEACL.proto";
 import "DALMLFNANKL.proto";
 
+// Name: KDMEFEEKOEP
+// CmdId: 271
 message KDMEFEEKOEP {
-	DALMLFNANKL AKANNIGGDKH = 2;
-	uint32 KFEMBAPKMFH = 6;
-	COEAABHEACL GNLDDLIKJDN = 7;
-	DALMLFNANKL LABCKOJLEFP = 3;
+    DALMLFNANKL GHGPLCNLCDF = 2;
+    uint32 NDGLECFHBCJ = 6;
+    COEAABHEACL BHDBMLOIDGK = 7;
+    DALMLFNANKL AJAMEIHEMEA = 3;
 }
+

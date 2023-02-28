@@ -2,9 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "LAELNKCMNMP.DKPPEBHFMFI.KPPCAMMJJIO.proto";
-
+// Name: LAELNKCMNMP
 message LAELNKCMNMP {
-	bool DJKOKFDGKIG = 12;
-	repeated LAELNKCMNMP.DKPPEBHFMFI.KPPCAMMJJIO PFOCIHLFFBC = 2;
+    // Name: KPPCAMMJJIO
+    message KPPCAMMJJIO {
+        bool CGJGPFLLNBM = 3;
+        uint32 LCMJMIEBHHG = 7;
+        uint32 EGFOFPMNMJB = 2;
+    }
+
+    bool HKDOCGOMBKP = 12;
+    repeated KPPCAMMJJIO PFAPMICLFPH = 2;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JPEDGKIPECE.proto";
 
+// Name: ILBKGJILLKB
+// CmdId: 4271
 message ILBKGJILLKB {
-	repeated JPEDGKIPECE HIAOLPIDBMK = 2;
-	repeated JPEDGKIPECE BKMDNJJEABK = 6;
+    repeated JPEDGKIPECE PFCBOBOCPPJ = 2;
+    repeated JPEDGKIPECE PNKCMCMHCPL = 6;
 }
+

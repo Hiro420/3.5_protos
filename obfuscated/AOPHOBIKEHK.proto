@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AOPHOBIKEHK
 message AOPHOBIKEHK {
-	uint32 AHFGCEDNLHM = 1;
-	bool HHNCFGMIFGM = 2;
+    uint32 LAMMGIKJMDL = 1;
+    bool PJDICPJPANA = 2;
 }
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: MOCGOKGHGNG
+enum MOCGOKGHGNG {
+    MOCGOKGHGNG_JJIMJJIIEPP = 0;
+    MOCGOKGHGNG_LGNFHDHCILI = 1;
+}
+

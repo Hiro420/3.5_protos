@@ -2,12 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "ENANJKOACDB.proto";
 import "CGOOHEEBLLK.proto";
+import "ENANJKOACDB.proto";
 
+// Name: GPOEFPAIHOE
+// CmdId: 894
 message GPOEFPAIHOE {
-	uint32 PDFLEGGDOCP = 8;
-	int32 IJIABMFLJGH = 14;
-	CGOOHEEBLLK HDHCBKKBOIN = 3;
-	ENANJKOACDB MLDIJGKBDLN = 4;
+    uint32 GPBLLPDCIFK = 8;
+    int32 KFCODGHIJEH = 14;
+    CGOOHEEBLLK PMCMKHHPKMF = 3;
+    ENANJKOACDB HKKLHGHIDIL = 4;
 }
+

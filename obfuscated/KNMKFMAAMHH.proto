@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EFLDHGLFIDD.proto";
 
+// Name: KNMKFMAAMHH
+// CmdId: 754
 message KNMKFMAAMHH {
-	uint32 FLGDHAHGOGD = 14;
-	EFLDHGLFIDD PLCGHLEONOA = 5;
-	uint32 ODJPCGIMADI = 11;
+    uint32 FBCMJLAKGHF = 14;
+    EFLDHGLFIDD JOCOFDOGDPG = 5;
+    uint32 DCBMADGBDEL = 11;
 }
+

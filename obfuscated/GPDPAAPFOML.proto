@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: GPDPAAPFOML
 message GPDPAAPFOML {
-	DALMLFNANKL KLBCIKGCPEK = 12;
-	uint32 DKMJKLJKDFK = 15;
+    DALMLFNANKL FIMDCIDOEBC = 12;
+    uint32 MEABDIDHGMD = 15;
 }
+

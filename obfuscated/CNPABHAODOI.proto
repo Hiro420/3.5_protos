@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BIMILKAGLEC.proto";
 
+// Name: CNPABHAODOI
+// CmdId: 1923
 message CNPABHAODOI {
-	bool GMODBCIADLM = 14;
-	repeated BIMILKAGLEC HFCAIMJEDHH = 10;
-	int32 IJIABMFLJGH = 4;
+    bool IIKNNGPAHBL = 14;
+    repeated BIMILKAGLEC FPDMMEOIPLP = 10;
+    int32 KFCODGHIJEH = 4;
 }
+

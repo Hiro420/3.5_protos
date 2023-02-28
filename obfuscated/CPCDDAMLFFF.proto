@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MOCGOKGHGNG.proto";
 
+// Name: CPCDDAMLFFF
+// CmdId: 6321
 message CPCDDAMLFFF {
-	MOCGOKGHGNG MHFBFPNJJDL = 1;
-	repeated uint64 KGKOHDBBENG = 3;
-	int32 IJIABMFLJGH = 8;
+    MOCGOKGHGNG FLBOLNLJOPM = 1;
+    repeated uint64 BPCDPPAJLMO = 3;
+    int32 KFCODGHIJEH = 8;
 }
+

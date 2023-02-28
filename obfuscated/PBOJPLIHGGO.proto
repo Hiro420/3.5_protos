@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: PBOJPLIHGGO
 message PBOJPLIHGGO {
-	uint32 HMLLMGHGCIP = 1;
-	uint32 MIKAHNGMIMD = 2;
-	DALMLFNANKL GFELFABIBCC = 3;
-	uint32 GBAGMHJDDIK = 4;
-	uint32 OFHCEHOEFPF = 5;
+    uint32 NCLHMAEEPMB = 1;
+    uint32 LCAIEPBDNEL = 2;
+    DALMLFNANKL FPBLOIHHHIF = 3;
+    uint32 IDIONMPHNCD = 4;
+    uint32 LLGNPPGOPBF = 5;
 }
+

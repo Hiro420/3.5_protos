@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MJJFCCFKLNI.proto";
 
+// Name: POLODMBEAHE
+// CmdId: 5067
 message POLODMBEAHE {
-	int32 IJIABMFLJGH = 5;
-	uint32 CKENLBDFJEI = 10;
-	MJJFCCFKLNI DHEPKPPDLGD = 4;
-	uint32 CEKDLLLCMKI = 12;
+    int32 KFCODGHIJEH = 5;
+    uint32 AJNDPCEAIBO = 10;
+    MJJFCCFKLNI HHDMBEHMPHH = 4;
+    uint32 LKBMPEACAEJ = 12;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BBDPIINPKHI.proto";
 
+// Name: BOLIJNNEPBK
+// CmdId: 4165
 message BOLIJNNEPBK {
-	BBDPIINPKHI GNLDDLIKJDN = 9;
-	uint32 FDFJGMKKEDA = 13;
+    BBDPIINPKHI BHDBMLOIDGK = 9;
+    uint32 KLFMPGFLNBE = 13;
 }
+

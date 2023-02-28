@@ -2,13 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ACIHOPDLBIH
+// CmdId: 1064
 message ACIHOPDLBIH {
-	uint32 EHBNKGEJCDL = 13;
-	repeated uint32 OEHOLAFEDBD = 9;
-	uint32 PDFLEGGDOCP = 8;
-	uint32 DOKELIFOJAB = 10;
-	uint64 POGHDEAENAD = 15;
-	map<uint32, uint32> KCPMHALGDKP = 7;
-	map<uint32, uint32> MIHGMNKKEGM = 1;
-	repeated uint32 GDJCNOKDFEE = 12;
+    uint32 GHNJABDOGOK = 13;
+    repeated uint32 EPDBEJEFCGO = 9;
+    uint32 GPBLLPDCIFK = 8;
+    uint32 GOEBNBGAKLB = 10;
+    uint64 PKJEEFBMBNM = 15;
+    map<uint32, uint32> AHLLFKMILOG = 7;
+    map<uint32, uint32> IBBBBDFLEOD = 1;
+    repeated uint32 KALMIIIHOGO = 12;
 }
+

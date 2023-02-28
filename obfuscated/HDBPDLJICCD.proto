@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HDBPDLJICCD
+// CmdId: 6231
 message HDBPDLJICCD {
-	uint64 BOPOMJIPJMI = 6;
+    uint64 HKLHMEABKCO = 6;
 }
+

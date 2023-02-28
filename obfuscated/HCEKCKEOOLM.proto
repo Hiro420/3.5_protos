@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "GGCMGFLFFPB.proto";
 import "FOPGOIJCICK.proto";
+import "GGCMGFLFFPB.proto";
 
+// Name: HCEKCKEOOLM
+// CmdId: 667
 message HCEKCKEOOLM {
-	uint32 PGIGLIHMMDL = 3;
-	repeated FOPGOIJCICK CANCLEDDKEP = 6;
-	GGCMGFLFFPB OGLAJOOKPKD = 5;
+    uint32 FKDCMNHFIHK = 3;
+    repeated FOPGOIJCICK DIGBDDBNBHP = 6;
+    GGCMGFLFFPB DHMHAEJALOG = 5;
 }
+

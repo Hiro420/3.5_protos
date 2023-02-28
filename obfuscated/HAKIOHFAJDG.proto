@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: HAKIOHFAJDG
 message HAKIOHFAJDG {
-	DALMLFNANKL MEPKAGJBDAB = 7;
-	bool DJKOKFDGKIG = 5;
-	uint32 JJALFIOBOEB = 8;
-	bool KJOMKLMODIC = 1;
-	uint32 MPGJJEALABF = 14;
+    DALMLFNANKL GKJOKIEMKMN = 7;
+    bool HKDOCGOMBKP = 5;
+    uint32 MFEILFMANEL = 8;
+    bool NPJLNBLHLOJ = 1;
+    uint32 GPKPCCJAFAH = 14;
 }
+

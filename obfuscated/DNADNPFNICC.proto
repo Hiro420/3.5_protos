@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KDDEEFOPBJB.proto";
 
+// Name: DNADNPFNICC
+// CmdId: 8416
 message DNADNPFNICC {
-	repeated KDDEEFOPBJB IEPCNOEABPI = 4;
+    repeated KDDEEFOPBJB PLHJLNBEFDA = 4;
 }
+

@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MLNMMIOBKFB.proto";
 
+// Name: AIOFHFPBCHH
 message AIOFHFPBCHH {
-	bool DODDIBDACEF = 8;
-	MLNMMIOBKFB JKDNHDLNHMJ = 9;
-	uint32 BNGHDMNKMNB = 2;
-	uint32 NHOCHGBACAE = 3;
+    bool GJFFKCDADEL = 8;
+    MLNMMIOBKFB LHFGALANHMN = 9;
+    uint32 IFKHJLODEIF = 2;
+    uint32 MFBCGCELJLO = 3;
 }
+

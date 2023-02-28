@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ELEKPDNEEFC
+// CmdId: 4481
 message ELEKPDNEEFC {
-	repeated uint32 AGLKPBJDLHK = 3;
-	bool OHKBKFDLAPP = 7;
+    repeated uint32 BPFCGCCBIAE = 3;
+    bool PGKGHIKLAAH = 7;
 }
+

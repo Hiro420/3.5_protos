@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PCGDGEFFEDL
+// CmdId: 4115
 message PCGDGEFFEDL {
-	uint32 JNPGAMKIIOL = 13;
+    uint32 PJMMJHHHHPK = 13;
 }
+

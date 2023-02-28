@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OBALIOMGPBI
+// CmdId: 960
 message OBALIOMGPBI {
-	int32 IJIABMFLJGH = 9;
-	uint32 KMCCJLOLPAG = 11;
+    int32 KFCODGHIJEH = 9;
+    uint32 KNMPIDBAFHN = 11;
 }
+

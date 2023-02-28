@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KHHINOIPNPA
+// CmdId: 2005
 message KHHINOIPNPA {
-	uint32 OKPFLEMFIAL = 3;
+    uint32 MBIJNDHCADL = 3;
 }
+

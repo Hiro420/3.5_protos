@@ -2,10 +2,19 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "CHGIMIPEEAF.LFFJDDMDBNO.HKPDLAMCLDJ.proto";
-
+// Name: CHGIMIPEEAF
+// CmdId: 153
 message CHGIMIPEEAF {
-	CHGIMIPEEAF.LFFJDDMDBNO.HKPDLAMCLDJ GNLDDLIKJDN = 13;
-	uint32 JLKDMIGAPAJ = 5;
-	bool MGBJPMJONBP = 9;
+    // Name: HKPDLAMCLDJ
+    enum HKPDLAMCLDJ {
+        HKPDLAMCLDJ_AMCOCHIEFNK = 0;
+        HKPDLAMCLDJ_DAFHGKIBNEP = 1;
+        HKPDLAMCLDJ_LMHMGEPOFOJ = 2;
+        HKPDLAMCLDJ_ANEHAKHCCGK = 3;
+    }
+
+    HKPDLAMCLDJ BHDBMLOIDGK = 13;
+    uint32 CLJAIOEHNFN = 5;
+    bool LPIJDHBEDND = 9;
 }
+

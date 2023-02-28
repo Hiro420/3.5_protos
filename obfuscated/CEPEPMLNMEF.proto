@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IBPHKCENHNF.proto";
 
+// Name: CEPEPMLNMEF
+// CmdId: 467
 message CEPEPMLNMEF {
-	repeated IBPHKCENHNF DNOGFDADEHP = 3;
+    repeated IBPHKCENHNF HNONDENEHEA = 3;
 }
+

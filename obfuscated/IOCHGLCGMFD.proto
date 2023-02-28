@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MFONNPHDELM.proto";
 
+// Name: IOCHGLCGMFD
+// CmdId: 5082
 message IOCHGLCGMFD {
-	int32 IJIABMFLJGH = 6;
-	MFONNPHDELM JANCKEGCJLN = 1;
+    int32 KFCODGHIJEH = 6;
+    MFONNPHDELM DMEGMLKOMFP = 1;
 }
+

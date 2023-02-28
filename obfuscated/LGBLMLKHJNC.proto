@@ -2,14 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "KFALPHIPJOK.proto";
 import "DALMLFNANKL.proto";
+import "KFALPHIPJOK.proto";
 
+// Name: LGBLMLKHJNC
+// CmdId: 4321
 message LGBLMLKHJNC {
-	DALMLFNANKL EIBBGPLBJII = 7;
-	KFALPHIPJOK KAOBAJAEIPN = 11;
-	uint32 MGLBGKBAKOM = 1;
-	uint32 NHJANAEGMGJ = 10;
-	bool GEEDHGLGGIN = 9;
-	bool BMICBMFIOAO = 5;
+    DALMLFNANKL HBLAPIGPFLM = 7;
+    KFALPHIPJOK IMDPDHPGDLC = 11;
+    uint32 HCKBCNACPKG = 1;
+    uint32 KKCNIKBIDJN = 10;
+    bool EGKJBBHODEG = 9;
+    bool BCPDEIAKLMF = 5;
 }
+

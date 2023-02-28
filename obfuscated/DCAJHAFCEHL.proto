@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JKJKGLGIDJL.proto";
 
+// Name: DCAJHAFCEHL
+// CmdId: 8531
 message DCAJHAFCEHL {
-	JKJKGLGIDJL KKPGKEPJEMO = 8;
-	JKJKGLGIDJL MNCGEADOHCE = 1;
+    JKJKGLGIDJL OOJPOLAFIOO = 8;
+    JKJKGLGIDJL PHDOGBOMPEK = 1;
 }
+

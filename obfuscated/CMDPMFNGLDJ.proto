@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: CMDPMFNGLDJ
+// CmdId: 8697
 message CMDPMFNGLDJ {
-	repeated ENOCIMKMJJG MLMPFPOJHDF = 9;
+    repeated ENOCIMKMJJG NILCHGDNMNB = 9;
 }
+

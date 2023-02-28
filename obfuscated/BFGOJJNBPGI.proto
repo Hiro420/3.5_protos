@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BFGOJJNBPGI
+// CmdId: 1367
 message BFGOJJNBPGI {
-	uint32 OCNIEEICHCM = 13;
-	map<uint32, uint32> PIGOHJHEGLE = 6;
+    uint32 DJMLHEAEJBG = 13;
+    map<uint32, uint32> INOEKOKJFAA = 6;
 }
+

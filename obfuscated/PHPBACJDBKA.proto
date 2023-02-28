@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FFEPOPDPELC.proto";
 
+// Name: PHPBACJDBKA
+// CmdId: 5041
 message PHPBACJDBKA {
-	repeated FFEPOPDPELC NMLCAAMKMEA = 12;
-	repeated uint32 AFKAECFOLAH = 8;
+    repeated FFEPOPDPELC GLNBILGNANA = 12;
+    repeated uint32 BALGPCCOJPN = 8;
 }
+

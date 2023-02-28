@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GFEKIPGEAEH
 message GFEKIPGEAEH {
-	uint32 AFLIHFKEDCI = 15;
-	uint32 BBCPENFCHEF = 2;
-	uint32 FBMFDNNFFIB = 11;
-	string HIFBHPHGECF = 12;
-	int32 IJIABMFLJGH = 7;
+    uint32 JDNNBDBOMOE = 15;
+    uint32 CLCDBEAJHLO = 2;
+    uint32 NAEPCINCLBB = 11;
+    string LFGFCJIPBOP = 12;
+    int32 KFCODGHIJEH = 7;
 }
+

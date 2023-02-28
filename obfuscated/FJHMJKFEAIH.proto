@@ -2,28 +2,36 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "FJHMJKFEAIH.POMFBDDMAAB.MDIHEAIAGGM.proto";
 import "DALMLFNANKL.proto";
 
+// Name: FJHMJKFEAIH
+// CmdId: 260
 message FJHMJKFEAIH {
-	float GHKIKNJNIGG = 13;
-	bool OJOCKDAGJEO = 9;
-	bool NJEICOLBLME = 14;
-	repeated string JDKONHKFBAN = 5;
-	DALMLFNANKL DAPNOMHKANF = 4;
-	bool AEJLMLNDCLB = 1979;
-	bool OGLLLGPFGAE = 7;
-	float EGHMIMOHAHG = 12;
-	bool IHIAGFEDDLB = 8;
-	DALMLFNANKL PFACEBGDOKI = 15;
-	float ACNIHNGEIJL = 6;
-	uint32 DIBBNEKOCLC = 1200;
-	bool AMCEONEPOLC = 10;
-	float NLHLEHOOLNE = 2;
-	float PCODCBGDLNM = 377;
-	uint32 NEIFNMHEADE = 1905;
-	FJHMJKFEAIH.POMFBDDMAAB.MDIHEAIAGGM CPPCOMBHKDM = 11;
-	uint32 PDFLEGGDOCP = 434;
-	bool IPGFPNCBOOD = 1;
-	bool IMHKIDHPEOP = 3;
+    // Name: MDIHEAIAGGM
+    enum MDIHEAIAGGM {
+        MDIHEAIAGGM_HKNPMGIFONL = 0;
+        MDIHEAIAGGM_NAEKNMKBFBK = 1;
+    }
+
+    float IEBIABJPGEF = 13;
+    bool CGOMOLBNCEK = 9;
+    bool DMJLAAJBLIP = 14;
+    repeated string JBCHHPHIGDB = 5;
+    DALMLFNANKL EDFAEPBKAAH = 4;
+    bool MBABNKEGBLC = 1979;
+    bool PKOFLCGCONC = 7;
+    float OABBMACDPPB = 12;
+    bool DAILGEOMEGO = 8;
+    DALMLFNANKL INNJAHCEIJC = 15;
+    float FNKPCFHJNKA = 6;
+    uint32 CHEMGMDHDGD = 1200;
+    bool OMIOEABHHHO = 10;
+    float DJJAMHOCMBE = 2;
+    float GDMECCJFMEP = 377;
+    uint32 EBMJCELJDDE = 1905;
+    MDIHEAIAGGM LEMLIJDJKFI = 11;
+    uint32 GPBLLPDCIFK = 434;
+    bool EEPFDDMCFHK = 1;
+    bool MMOIMCGINIH = 3;
 }
+

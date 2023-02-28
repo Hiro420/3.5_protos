@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LGANMLHFGID
+// CmdId: 4201
 message LGANMLHFGID {
-	repeated uint32 OHIOOFHOJNB = 14;
-	int32 IJIABMFLJGH = 11;
-	repeated uint32 GINNCAFAFAN = 1;
-	repeated uint32 HEHOPCLFPIA = 8;
+    repeated uint32 EHOHFHEOKHJ = 14;
+    int32 KFCODGHIJEH = 11;
+    repeated uint32 KHEHMPJHELM = 1;
+    repeated uint32 MLPAKOILNCP = 8;
 }
+

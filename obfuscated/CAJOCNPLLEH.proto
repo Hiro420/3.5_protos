@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "KNOKLJBFHCE.proto";
 import "GKDCKNEDMAM.proto";
+import "KNOKLJBFHCE.proto";
 
+// Name: CAJOCNPLLEH
+// CmdId: 6250
 message CAJOCNPLLEH {
-	repeated uint32 FOGJAFAGGOP = 1;
-	GKDCKNEDMAM BPFKHHEPPIJ = 13;
-	KNOKLJBFHCE OHLNFFNBLLG = 10;
+    repeated uint32 EKAGDONOKPN = 1;
+    GKDCKNEDMAM IACEPFNMLKI = 13;
+    KNOKLJBFHCE BAHAPDCMHHP = 10;
 }
+

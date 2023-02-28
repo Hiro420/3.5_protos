@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AKAOAPDHJBF.proto";
 
+// Name: DIKOEKMPPAO
 message DIKOEKMPPAO {
-	float AEIOMMGHALH = 1;
-	repeated AKAOAPDHJBF EPJNHGBGCCN = 9;
+    float BDKNEBAOFPB = 1;
+    repeated AKAOAPDHJBF AMIBLPECIPJ = 9;
 }
+

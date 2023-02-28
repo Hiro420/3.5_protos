@@ -2,13 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "BFNEKAHMMLJ.proto";
 import "BAEHNHHABBK.proto";
+import "BFNEKAHMMLJ.proto";
 
+// Name: HJBDMAOCNLB
 message HJBDMAOCNLB {
-	bool DJKOKFDGKIG = 7;
-	uint32 BEJDBNONODA = 12;
-	uint32 MPGJJEALABF = 3;
-	BAEHNHHABBK MDAGPCAPEEN = 15;
-	repeated BFNEKAHMMLJ CCINCJFNKIG = 11;
+    bool HKDOCGOMBKP = 7;
+    uint32 NJIHDDKBBLA = 12;
+    uint32 GPKPCCJAFAH = 3;
+    BAEHNHHABBK CBACLPPODKC = 15;
+    repeated BFNEKAHMMLJ MBCDFDKJFIG = 11;
 }
+

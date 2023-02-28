@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IHFHAKKFMHG.proto";
 
+// Name: NDJOFLFACGC
+// CmdId: 337
 message NDJOFLFACGC {
-	bool CADJIFLHAKI = 4;
-	IHFHAKKFMHG CBOLHDNGDGC = 13;
-	uint32 PDFLEGGDOCP = 12;
+    bool EFGJJOPFKAK = 4;
+    IHFHAKKFMHG KDJAKKPIMGJ = 13;
+    uint32 GPBLLPDCIFK = 12;
 }
+

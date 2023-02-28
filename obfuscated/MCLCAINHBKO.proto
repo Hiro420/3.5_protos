@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EMOKHPEDGKH.proto";
 
+// Name: MCLCAINHBKO
+// CmdId: 3546
 message MCLCAINHBKO {
-	uint32 BBANLEGJMPB = 2;
-	EMOKHPEDGKH BNGONBMIGDE = 6;
+    uint32 EGJKAHIILPA = 2;
+    EMOKHPEDGKH EHELNNFBIEB = 6;
 }
+

@@ -3,17 +3,27 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "MNNNCKCAGLP.proto";
-import "IBDDDPHGINA.CFJMNNPCKMC.OLIFCDPAHJD.proto";
 
+// Name: IBDDDPHGINA
+// CmdId: 23542
 message IBDDDPHGINA {
-	uint32 AIJOKLEENGC = 8;
-	IBDDDPHGINA.CFJMNNPCKMC.OLIFCDPAHJD GNLDDLIKJDN = 10;
-	bool EOOMPFDDIHN = 6;
-	uint32 JDJDOCNKLHI = 15;
-	uint32 DBCEEODIKCO = 13;
-	uint32 KKMLAEEAHJA = 3;
-	uint32 DNJOGGHOALD = 5;
-	bool DBIKCJCJHFI = 2;
-	bool CEKCPILFPDB = 7;
-	repeated MNNNCKCAGLP MFBABMPALPM = 14;
+    // Name: OLIFCDPAHJD
+    enum OLIFCDPAHJD {
+        OLIFCDPAHJD_EOIAPIIANLJ = 0;
+        OLIFCDPAHJD_IOBKALBDOIN = 1;
+        OLIFCDPAHJD_DPKMEPHPHBI = 2;
+        OLIFCDPAHJD_ABGHIBDLIKP = 3;
+    }
+
+    uint32 OBBPIGOHAJL = 8;
+    OLIFCDPAHJD BHDBMLOIDGK = 10;
+    bool AHOPFGMFDAL = 6;
+    uint32 LGGIEEFEFFO = 15;
+    uint32 IBHFHNMMJKH = 13;
+    uint32 IIBPCMOEENO = 3;
+    uint32 BCJEPJFHKIN = 5;
+    bool AAMENNENDKM = 2;
+    bool JGJPFGLNEPN = 7;
+    repeated MNNNCKCAGLP NAOMKILCPJH = 14;
 }
+

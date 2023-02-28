@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PICNEBDLCOA
 message PICNEBDLCOA {
-	bool NHDPHIMDACF = 9;
-	uint64 JAOBPKMBOKD = 10;
+    bool OABFKGLGLHI = 9;
+    uint64 AHMMKMKHHFP = 10;
 }
+

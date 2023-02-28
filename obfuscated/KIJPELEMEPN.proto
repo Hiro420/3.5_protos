@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KACCHOBDCLB.proto";
 
+// Name: KIJPELEMEPN
+// CmdId: 4471
 message KIJPELEMEPN {
-	uint32 FLGDHAHGOGD = 14;
-	KACCHOBDCLB PLCGHLEONOA = 13;
+    uint32 FBCMJLAKGHF = 14;
+    KACCHOBDCLB JOCOFDOGDPG = 13;
 }
+

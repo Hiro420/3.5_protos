@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: BAOPAIMJBJG
+enum BAOPAIMJBJG {
+    BAOPAIMJBJG_OLIIGDNKKEJ = 0;
+    BAOPAIMJBJG_OCMDIIBJPNE = 1;
+    BAOPAIMJBJG_OBHFEFEGJIB = 2;
+}
+

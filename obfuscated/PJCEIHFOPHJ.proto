@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EJLOAGILHJF.proto";
 
+// Name: PJCEIHFOPHJ
 message PJCEIHFOPHJ {
-	uint32 NDEGDDBLMKD = 14;
-	map<uint32, EJLOAGILHJF> NAJKMDNMMMC = 7;
+    uint32 CDEJEDMAFIH = 14;
+    map<uint32, EJLOAGILHJF> ABAMEJOGGLN = 7;
 }
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: IEGIJKAPDFN
+enum IEGIJKAPDFN {
+    IEGIJKAPDFN_EPOCFGAECEJ = 0;
+    IEGIJKAPDFN_BHDINJJNDBP = 1;
+    IEGIJKAPDFN_NOEAMIOJAJJ = 2;
+    IEGIJKAPDFN_IOCABKKNALP = 3;
+    IEGIJKAPDFN_PMECCJLHICF = 4;
+}
+

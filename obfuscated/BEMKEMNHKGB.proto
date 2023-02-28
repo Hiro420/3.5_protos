@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BEMKEMNHKGB
+// CmdId: 982
 message BEMKEMNHKGB {
-	uint32 CEKBJHCMNDC = 1;
+    uint32 NNFHFCDIAFH = 1;
 }
+

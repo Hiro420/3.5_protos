@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LLDIKKJHCCB
 message LLDIKKJHCCB {
-	string NFGBBEGMFNN = 1;
-	string EKLGHKHNKFI = 2;
-	string HCMPEPODKPP = 3;
-	string DJHGEDAJBPJ = 4;
+    string FGEDEGFCPDJ = 1;
+    string LCBOPAHKOPE = 2;
+    string IOGCBDAJIJK = 3;
+    string PAHJMONJIMJ = 4;
 }
+

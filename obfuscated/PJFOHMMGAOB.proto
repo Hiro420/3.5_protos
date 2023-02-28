@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ECDLKNIAMAF.proto";
 
+// Name: PJFOHMMGAOB
+// CmdId: 6150
 message PJFOHMMGAOB {
-	uint32 KFEMBAPKMFH = 4;
-	repeated ECDLKNIAMAF LJGBHAHFKPE = 1;
-	bool INHMGOPHGKM = 5;
-	repeated int32 KAJMIGJEADL = 11;
+    uint32 NDGLECFHBCJ = 4;
+    repeated ECDLKNIAMAF NHAFGIDNOBL = 1;
+    bool BCMJKIOFJJK = 5;
+    repeated int32 GDPFOOJALOC = 11;
 }
+

@@ -2,12 +2,20 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "EJKIKKJCFKL.BNAMMBPHLGB.PMPLOIOCICM.proto";
-
+// Name: EJKIKKJCFKL
 message EJKIKKJCFKL {
-	EJKIKKJCFKL.BNAMMBPHLGB.PMPLOIOCICM JKDNHDLNHMJ = 6;
-	uint32 EMAKJPHNHDI = 5;
-	uint32 IPPDJNCDMDE = 7;
-	uint32 DPJOJFFAOIB = 14;
-	uint32 BNGHDMNKMNB = 1;
+    // Name: PMPLOIOCICM
+    enum PMPLOIOCICM {
+        PMPLOIOCICM_MLBFMJIBJEP = 0;
+        PMPLOIOCICM_CCEMKCFPLJG = 1;
+        PMPLOIOCICM_CCHBDMBIEBA = 2;
+        PMPLOIOCICM_IBOGIDLGNJI = 3;
+    }
+
+    PMPLOIOCICM LHFGALANHMN = 6;
+    uint32 BONGOFDPLFE = 5;
+    uint32 GGDEMFKMBAH = 7;
+    uint32 EGFOFPMNMJB = 14;
+    uint32 IFKHJLODEIF = 1;
 }
+

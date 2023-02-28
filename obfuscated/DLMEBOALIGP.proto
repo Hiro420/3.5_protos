@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DLMEBOALIGP
 message DLMEBOALIGP {
-	uint32 IPEHJELBLLP = 1;
-	uint32 LMKNOABFGNH = 2;
-	bytes POADHLJPAIA = 3;
-	bool OBEMPKDOCII = 4;
+    uint32 KDLNFLJAKJM = 1;
+    uint32 OFMOPICJBLN = 2;
+    bytes GLAIOGLOHAM = 3;
+    bool APAHHBNMALF = 4;
 }
+

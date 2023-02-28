@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NGFIIOEAKAD
+// CmdId: 242
 message NGFIIOEAKAD {
-	uint32 KFEMBAPKMFH = 9;
-	bool NOHKOAEDEAK = 1;
-	uint32 JGICJBNGOHP = 3;
+    uint32 NDGLECFHBCJ = 9;
+    bool PGBKOMBKBKG = 1;
+    uint32 OMLCGLJKBNI = 3;
 }
+

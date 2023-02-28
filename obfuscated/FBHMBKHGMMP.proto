@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FBHMBKHGMMP
+// CmdId: 7293
 message FBHMBKHGMMP {
-	string NFGBBEGMFNN = 5;
-	bool PNKNLIFDIJB = 9;
-	int32 IJIABMFLJGH = 6;
-	uint32 KGHKFNGDPNI = 10;
+    string FGEDEGFCPDJ = 5;
+    bool NKAEGAJGMIK = 9;
+    int32 KFCODGHIJEH = 6;
+    uint32 AHAIAIPGFDN = 10;
 }
+

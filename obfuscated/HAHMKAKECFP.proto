@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JIJKNLIIGAF.proto";
+import "KCCNICENMAJ.proto";
+import "MADAEKGENID.proto";
+
+// Name: HAHMKAKECFP
+// CmdId: 5348
+message HAHMKAKECFP {
+    uint32 JJJDABMAPJG = 11;
+    uint32 MPLJBMEAIBB = 13;
+    oneof NGKAEIMKBBL {
+        MADAEKGENID JFGADBFMHOE = 137;
+        KCCNICENMAJ CCIBDDNOGMA = 1316;
+        JIJKNLIIGAF NFIDLKOCBFO = 176;
+    }
+}
+

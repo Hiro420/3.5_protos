@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ICEDOFNJPDC
+// CmdId: 22260
 message ICEDOFNJPDC {
-	repeated uint64 FFJIMJPOFKP = 10;
+    repeated uint64 IEKHFNCBNBC = 10;
 }
+

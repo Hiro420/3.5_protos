@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JJOLFAPBPNN.proto";
 
+// Name: IOCNDGDEEOL
+// CmdId: 3236
 message IOCNDGDEEOL {
-	JJOLFAPBPNN FKHCMPFAAHJ = 15;
-	uint32 EBJNKJCIPHA = 4;
+    JJOLFAPBPNN BBMMPANMJOI = 15;
+    uint32 LKKGIIANNGL = 4;
 }
+

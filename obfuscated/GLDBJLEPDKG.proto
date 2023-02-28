@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GLDBJLEPDKG
+// CmdId: 1825
 message GLDBJLEPDKG {
-	int32 IJIABMFLJGH = 15;
-	uint32 LGLGGMGCBHM = 3;
-	bool DGCKNCPKJKA = 5;
+    int32 KFCODGHIJEH = 15;
+    uint32 HOIPIEEKMPN = 3;
+    bool CKLFKGGFLON = 5;
 }
+

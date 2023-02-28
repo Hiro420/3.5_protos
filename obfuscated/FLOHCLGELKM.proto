@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FLOHCLGELKM
+// CmdId: 1996
 message FLOHCLGELKM {
-	repeated uint32 HAAECHANELE = 6;
-	uint32 GKHJKEGICOO = 15;
-	int32 IJIABMFLJGH = 8;
+    repeated uint32 MOKEMPLKKBN = 6;
+    uint32 FBJHOFHKIIG = 15;
+    int32 KFCODGHIJEH = 8;
 }
+

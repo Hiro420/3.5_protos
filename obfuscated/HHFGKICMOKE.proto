@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PCGPDJMBEMO.proto";
 
+// Name: HHFGKICMOKE
+// CmdId: 2527
 message HHFGKICMOKE {
-	PCGPDJMBEMO BCHAJLDJCIH = 3;
-	int32 IJIABMFLJGH = 11;
+    PCGPDJMBEMO NPEGEAHKDMI = 3;
+    int32 KFCODGHIJEH = 11;
 }
+

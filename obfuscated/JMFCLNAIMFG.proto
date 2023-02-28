@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JMFCLNAIMFG
+// CmdId: 7366
 message JMFCLNAIMFG {
-	uint32 CKENLBDFJEI = 10;
-	uint32 NJAEFGBAJLN = 12;
+    uint32 AJNDPCEAIBO = 10;
+    uint32 GKJEDGIJGKL = 12;
 }
+

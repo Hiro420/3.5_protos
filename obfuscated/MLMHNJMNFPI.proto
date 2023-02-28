@@ -2,12 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "KFALPHIPJOK.proto";
 import "DALMLFNANKL.proto";
+import "KFALPHIPJOK.proto";
 
+// Name: MLMHNJMNFPI
+// CmdId: 4332
 message MLMHNJMNFPI {
-	DALMLFNANKL LOEGIFANAEN = 13;
-	uint32 BLNEAIDBFAB = 3;
-	uint32 NHJANAEGMGJ = 14;
-	KFALPHIPJOK KAOBAJAEIPN = 7;
+    DALMLFNANKL OFGADCJCCCK = 13;
+    uint32 MBKACHGMKBJ = 3;
+    uint32 KKCNIKBIDJN = 14;
+    KFALPHIPJOK IMDPDHPGDLC = 7;
 }
+

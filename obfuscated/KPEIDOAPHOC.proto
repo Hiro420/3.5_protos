@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KPEIDOAPHOC
+// CmdId: 1809
 message KPEIDOAPHOC {
-	uint32 AAEBBDIDMAO = 14;
-	int32 IJIABMFLJGH = 11;
-	uint32 ICFIJIEKEEJ = 2;
+    uint32 AKDECIELPLN = 14;
+    int32 KFCODGHIJEH = 11;
+    uint32 PIOGLHEHAAD = 2;
 }
+

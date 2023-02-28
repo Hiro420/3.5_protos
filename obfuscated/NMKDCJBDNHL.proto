@@ -2,10 +2,18 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "NMKDCJBDNHL.BFGMGKHDACD.NLPMIDEGMNA.proto";
-
+// Name: NMKDCJBDNHL
+// CmdId: 1832
 message NMKDCJBDNHL {
-	string NGFEJANHDBM = 10;
-	NMKDCJBDNHL.BFGMGKHDACD.NLPMIDEGMNA JKDNHDLNHMJ = 14;
-	uint32 APPJCEKCOBP = 12;
+    // Name: NLPMIDEGMNA
+    enum NLPMIDEGMNA {
+        NLPMIDEGMNA_MLBFMJIBJEP = 0;
+        NLPMIDEGMNA_BFAPANLILED = 1;
+        NLPMIDEGMNA_MNDGJDNIMKP = 2;
+    }
+
+    string HJKPKILCLFM = 10;
+    NLPMIDEGMNA LHFGALANHMN = 14;
+    uint32 IPLGACBJJGH = 12;
 }
+

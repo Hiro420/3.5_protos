@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+import "GICHAGEMNME.proto";
+
+// Name: PDPKPDBANCA
+message PDPKPDBANCA {
+    uint32 OCFEJAGKHBJ = 5;
+    DALMLFNANKL GHGPLCNLCDF = 6;
+    DALMLFNANKL AJAMEIHEMEA = 7;
+    uint32 NDGLECFHBCJ = 10;
+    uint32 ECBHFJPGFNI = 11;
+    uint32 NPKEFILPCBM = 12;
+    oneof DPDNKOIFCPO {
+        uint32 JHKGKEPFCKL = 1;
+        uint32 AGCEPNMABLJ = 2;
+        uint32 AECPDOLHDKN = 3;
+        uint32 LAMMGIKJMDL = 4;
+    }
+    oneof MGPBKHBAPPH {
+        GICHAGEMNME LDHOPBBKNJE = 13;
+    }
+}
+

@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GAPOAGCLGGA.proto";
+import "JCNBBFBADBF.proto";
+import "KKIDHAIDLFB.proto";
+
+// Name: KKEOOIIAONP
+// CmdId: 20310
+message KKEOOIIAONP {
+    uint32 NJIHDDKBBLA = 10;
+    uint32 OLMGCNBPMKH = 11;
+    bool AAMENNENDKM = 1;
+    uint32 GMIBGLMDMDC = 9;
+    bool OEIEDFKIFMJ = 15;
+    oneof OMDCAKPEKJL {
+        KKIDHAIDLFB AKOMOFJKHAJ = 12;
+        JCNBBFBADBF AEGOCHMPMJC = 2;
+        GAPOAGCLGGA FLGJGPGCPJK = 3;
+    }
+}
+

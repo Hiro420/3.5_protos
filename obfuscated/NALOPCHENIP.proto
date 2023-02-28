@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NALOPCHENIP
 message NALOPCHENIP {
-	uint32 AEIOMMGHALH = 8;
-	bytes DIJEPGCODAD = 6;
-	uint32 BGDLBOEDLAP = 14;
+    uint32 BDKNEBAOFPB = 8;
+    bytes PAHKLFIGFNE = 6;
+    uint32 JKMCCOJKLKF = 14;
 }
+

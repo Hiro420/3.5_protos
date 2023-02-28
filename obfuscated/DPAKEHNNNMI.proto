@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DPAKEHNNNMI
+// CmdId: 2407
 message DPAKEHNNNMI {
-	uint32 MMMCCBJBEBP = 9;
-	uint32 NLJFOOHENPC = 8;
-	int32 IJIABMFLJGH = 2;
-	repeated uint32 DMGGGFBLJJD = 11;
+    uint32 JDJEMHGDMAN = 9;
+    uint32 JNMMLJHLIEE = 8;
+    int32 KFCODGHIJEH = 2;
+    repeated uint32 BGOEAFFFKAI = 11;
 }
+

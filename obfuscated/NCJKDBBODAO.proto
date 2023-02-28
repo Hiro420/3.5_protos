@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: NCJKDBBODAO
+enum NCJKDBBODAO {
+    NCJKDBBODAO_CIIFKDGOKGA = 0;
+    NCJKDBBODAO_ANBDNLGLDAE = 1;
+    NCJKDBBODAO_LGFDHDODGGP = 2;
+    NCJKDBBODAO_DGCEFOJNDGI = 3;
+    NCJKDBBODAO_PMODPDHLPAB = 4;
+    NCJKDBBODAO_IBHMIPIKMCE = 5;
+}
+

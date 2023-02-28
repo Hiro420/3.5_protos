@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KIAFPEPPCEL.proto";
 
+// Name: BFNEKAHMMLJ
 message BFNEKAHMMLJ {
-	repeated KIAFPEPPCEL DEKCFKPIBGG = 8;
-	uint32 GHDDOCMLDMD = 1;
+    repeated KIAFPEPPCEL FMFPKKFDMLN = 8;
+    uint32 NPMHKFKNHEL = 1;
 }
+

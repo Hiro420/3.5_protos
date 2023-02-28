@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JONHAPLJANI.proto";
 
+// Name: ONGFFNHKKIA
 message ONGFFNHKKIA {
-	uint32 AIJOKLEENGC = 13;
-	repeated JONHAPLJANI OOJKCCMMCFH = 4;
+    uint32 OBBPIGOHAJL = 13;
+    repeated JONHAPLJANI LCBIEAMEBPF = 4;
 }
+

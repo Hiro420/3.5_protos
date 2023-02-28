@@ -2,10 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "GICHAGEMNME.NCDBLCJGKDI.FHHMGJOLDLM.proto";
 import "BHLCFGOBHBJ.proto";
 
+// Name: GICHAGEMNME
 message GICHAGEMNME {
-	BHLCFGOBHBJ ICHDBBHHKBB = 1;
-	GICHAGEMNME.NCDBLCJGKDI.FHHMGJOLDLM IPOCIIDIEBH = 2;
+    // Name: FHHMGJOLDLM
+    message FHHMGJOLDLM {
+        uint32 LNEKGINAHNE = 1;
+        bool BJNIIJCPEIB = 2;
+    }
+
+    BHLCFGOBHBJ BFMFOIHJCMP = 1;
+    FHHMGJOLDLM GOGJBHLIMJE = 2;
 }
+

@@ -2,15 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+import "EJDDAFOGCEF.proto";
+import "FIDBMENLPEP.proto";
 import "GMBOONICPBM.proto";
 import "HKCAHHHHPGL.proto";
-import "FIDBMENLPEP.proto";
-import "EJDDAFOGCEF.proto";
 
+// Name: NKCEOHKNCKG
 message NKCEOHKNCKG {
-	EJDDAFOGCEF KIGNKOBILGN = 11;
-	FIDBMENLPEP JNBNMLOJDAI = 3;
-	HKCAHHHHPGL IKFPHEOALAG = 12;
-	GMBOONICPBM PMANJGJDHGK = 5;
-	bool CKMCPIOKFFE = 8;
+    EJDDAFOGCEF OMIGMFKNCIK = 11;
+    FIDBMENLPEP CIGEOIIBPHF = 3;
+    HKCAHHHHPGL NLHOPBFKEKD = 12;
+    GMBOONICPBM CLNGPJKDMKO = 5;
+    bool NKMBACDACBI = 8;
 }
+

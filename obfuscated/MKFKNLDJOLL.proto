@@ -4,14 +4,16 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BHDLMGHIIFJ.proto";
 
+// Name: MKFKNLDJOLL
 message MKFKNLDJOLL {
-	uint32 PLMDDEEEAAB = 10;
-	uint32 NDEGDDBLMKD = 12;
-	uint32 PFKDFHHKBFD = 8;
-	uint32 PJMJHENNHGF = 11;
-	uint32 AMJLLOEKGMD = 6;
-	repeated BHDLMGHIIFJ KGCLPHKMBCF = 7;
-	bool DEFKNFIGEEL = 4;
-	repeated uint32 JENIDAEAAJD = 2;
-	uint32 DLELMOGODFG = 13;
+    uint32 JPIGCJLKDGO = 10;
+    uint32 CDEJEDMAFIH = 12;
+    uint32 NLBJCAHEJOC = 8;
+    uint32 KKDLGAMOOHA = 11;
+    uint32 CEGEDDOGGAD = 6;
+    repeated BHDLMGHIIFJ EOILJOMFOLI = 7;
+    bool DPKLFNDKMHB = 4;
+    repeated uint32 EDCMCJDGIKM = 2;
+    uint32 AFGHLGEJAHK = 13;
 }
+

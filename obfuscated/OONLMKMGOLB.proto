@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OONLMKMGOLB
+// CmdId: 5542
 message OONLMKMGOLB {
-	int32 IJIABMFLJGH = 14;
-	uint32 KKMLAEEAHJA = 11;
+    int32 KFCODGHIJEH = 14;
+    uint32 IIBPCMOEENO = 11;
 }
+

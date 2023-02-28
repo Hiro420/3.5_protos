@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BEONLOGAHNF
+// CmdId: 8191
 message BEONLOGAHNF {
-	uint32 EPODNOIKDEM = 11;
+    uint32 PJFOLMPAJKP = 11;
 }
+

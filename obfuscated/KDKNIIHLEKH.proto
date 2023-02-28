@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KBLDACDEINJ.proto";
 
+// Name: KDKNIIHLEKH
+// CmdId: 1164
 message KDKNIIHLEKH {
-	uint32 PDFLEGGDOCP = 8;
-	repeated KBLDACDEINJ KENBKHFDPOO = 3;
+    uint32 GPBLLPDCIFK = 8;
+    repeated KBLDACDEINJ DJIKJBBBBAB = 3;
 }
+

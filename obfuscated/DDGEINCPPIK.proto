@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DDGEINCPPIK
 message DDGEINCPPIK {
-	uint32 JKDNHDLNHMJ = 1;
-	uint32 GHLLJNPOOGI = 14;
-	uint32 DPJOJFFAOIB = 8;
+    uint32 LHFGALANHMN = 1;
+    uint32 LLNJKILEEBC = 14;
+    uint32 EGFOFPMNMJB = 8;
 }
+

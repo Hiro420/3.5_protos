@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HHACKKBLLHO.proto";
+
+// Name: CIDOFFBIFIA
+message CIDOFFBIFIA {
+    uint32 ODPJBCIMOMA = 14;
+    uint32 JCMACGJEEAD = 3;
+    oneof NGKAEIMKBBL {
+        string BDBMFCIHJPL = 12;
+        HHACKKBLLHO IEOMECODBLG = 7;
+    }
+}
+

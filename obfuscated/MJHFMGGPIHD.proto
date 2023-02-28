@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OAEDPFAIDHB.proto";
 
+// Name: MJHFMGGPIHD
+// CmdId: 8234
 message MJHFMGGPIHD {
-	repeated OAEDPFAIDHB HKFALCBBIFP = 15;
-	int32 IJIABMFLJGH = 2;
+    repeated OAEDPFAIDHB IBMEFHPLNED = 15;
+    int32 KFCODGHIJEH = 2;
 }
+

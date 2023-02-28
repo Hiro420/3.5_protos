@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KMJEHNCBPFA
+// CmdId: 1034
 message KMJEHNCBPFA {
-	int32 IJIABMFLJGH = 6;
-	uint64 POGHDEAENAD = 10;
+    int32 KFCODGHIJEH = 6;
+    uint64 PKJEEFBMBNM = 10;
 }
+

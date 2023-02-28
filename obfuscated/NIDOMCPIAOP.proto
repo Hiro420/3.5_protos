@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NIDOMCPIAOP
+// CmdId: 857
 message NIDOMCPIAOP {
-	int32 IJIABMFLJGH = 6;
-	uint32 PDFLEGGDOCP = 15;
-	uint32 LBHIINLKALB = 1;
+    int32 KFCODGHIJEH = 6;
+    uint32 GPBLLPDCIFK = 15;
+    uint32 DCJGKIIHHPA = 1;
 }
+

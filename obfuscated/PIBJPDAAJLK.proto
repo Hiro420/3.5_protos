@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: PIBJPDAAJLK
+// CmdId: 379
 message PIBJPDAAJLK {
-	uint64 DAKINCEPDIJ = 7;
-	DALMLFNANKL ONPNDEDLPNB = 15;
+    uint64 MEHIMLBGJLN = 7;
+    DALMLFNANKL HBMLNLCODNM = 15;
 }
+

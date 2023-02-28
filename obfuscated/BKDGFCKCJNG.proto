@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BKDGFCKCJNG
+// CmdId: 398
 message BKDGFCKCJNG {
-	uint32 PDFLEGGDOCP = 4;
+    uint32 GPBLLPDCIFK = 4;
 }
+

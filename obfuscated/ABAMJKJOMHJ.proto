@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PENJFODAGGI.proto";
 
+// Name: ABAMJKJOMHJ
+// CmdId: 7765
 message ABAMJKJOMHJ {
-	repeated uint32 HADFCHHPDAC = 8;
-	repeated PENJFODAGGI LOHKOCDLKBM = 13;
+    repeated uint32 MFJPHFOJKEF = 8;
+    repeated PENJFODAGGI GGGHONFOAKP = 13;
 }
+

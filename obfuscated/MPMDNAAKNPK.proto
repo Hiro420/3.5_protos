@@ -4,13 +4,16 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FGJCCIGNBNB.proto";
 
+// Name: MPMDNAAKNPK
+// CmdId: 5327
 message MPMDNAAKNPK {
-	uint64 ONEKBACCDAO = 4;
-	uint32 JEEFNCHAJOJ = 9;
-	uint32 KKMCLPJOOIN = 14;
-	uint32 LNBDAJMKABL = 13;
-	uint32 IEPBBDPBKGO = 8;
-	bool MFPGHFOFAFP = 11;
-	uint32 MODGFBJMMHC = 15;
-	repeated FGJCCIGNBNB MKEMDBIFNBP = 2;
+    uint64 NGNCNCLNLOF = 4;
+    uint32 MPLJBMEAIBB = 9;
+    uint32 NGOHOCDCPGA = 14;
+    uint32 KFJHHKKCHDF = 13;
+    uint32 NANDJMJIBHP = 8;
+    bool KANHMLPBBHL = 11;
+    uint32 JJJDABMAPJG = 15;
+    repeated FGJCCIGNBNB EPNJIAGPPBE = 2;
 }
+

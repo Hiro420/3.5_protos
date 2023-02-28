@@ -5,8 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "GPGKKBPELBF.proto";
 import "JDJAHIBMPAI.proto";
 
+// Name: PDNHKLOHIGL
+// CmdId: 6209
 message PDNHKLOHIGL {
-	bool CMEBGAAFAOM = 8;
-	JDJAHIBMPAI AOIHBDGJNBH = 5;
-	GPGKKBPELBF BAJBFKNPKKG = 11;
+    bool AEDJKPOMACN = 8;
+    JDJAHIBMPAI FMFDIKMKMMJ = 5;
+    GPGKKBPELBF OCDKGFDFKOA = 11;
 }
+

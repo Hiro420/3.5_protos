@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FCFNMEJMONG
+// CmdId: 23594
 message FCFNMEJMONG {
-	uint32 NAEGOGKCCIB = 11;
-	bool DBIKCJCJHFI = 3;
-	int32 IJIABMFLJGH = 13;
-	uint64 DHJBPPJOKNK = 5;
-	bool KJBDEIBLACP = 2;
+    uint32 AAHAACKGAGG = 11;
+    bool AAMENNENDKM = 3;
+    int32 KFCODGHIJEH = 13;
+    uint64 GDABHBPIGIP = 5;
+    bool BGJCLMIADJG = 2;
 }
+

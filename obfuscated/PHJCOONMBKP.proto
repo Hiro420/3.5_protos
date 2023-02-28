@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "IHFHAKKFMHG.proto";
 import "DALMLFNANKL.proto";
+import "IHFHAKKFMHG.proto";
 
+// Name: PHJCOONMBKP
+// CmdId: 346
 message PHJCOONMBKP {
-	DALMLFNANKL LJBDGFOPLKP = 3;
-	uint32 PDFLEGGDOCP = 13;
-	IHFHAKKFMHG CBOLHDNGDGC = 2;
+    DALMLFNANKL AKDAOFHJFDC = 3;
+    uint32 GPBLLPDCIFK = 13;
+    IHFHAKKFMHG KDJAKKPIMGJ = 2;
 }
+

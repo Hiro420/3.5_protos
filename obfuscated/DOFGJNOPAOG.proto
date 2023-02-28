@@ -4,10 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DHLMDFOJICF.proto";
 
+// Name: DOFGJNOPAOG
+// CmdId: 3300
 message DOFGJNOPAOG {
-	uint32 HHCCOEFFEMG = 13;
-	string GGHHCFKJLPL = 1;
-	uint32 PDFLEGGDOCP = 8;
-	uint32 FKMHOAALLGL = 10;
-	DHLMDFOJICF JKJHNNBDJGL = 3;
+    uint32 CKBGMMOPJMN = 13;
+    string BGGCJBNLEOM = 1;
+    uint32 GPBLLPDCIFK = 8;
+    uint32 DNKHLILOOBC = 10;
+    DHLMDFOJICF HGJNJJDKGJE = 3;
 }
+

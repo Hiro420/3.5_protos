@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JFBIKFCKPBC.proto";
 
+// Name: DIGOHGCDENF
+// CmdId: 19
 message DIGOHGCDENF {
-	repeated JFBIKFCKPBC POEGKPLLJIA = 14;
+    repeated JFBIKFCKPBC EBEDMFJIMFF = 14;
 }
+

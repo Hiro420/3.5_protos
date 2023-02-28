@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ADCHONLBKMH.proto";
+import "KMPFIBHBALL.proto";
+import "PJPGEBLCDHG.proto";
+
+// Name: FOPGOIJCICK
+message FOPGOIJCICK {
+    uint32 LAMMGIKJMDL = 1;
+    uint64 LECPGEIPAFI = 2;
+    oneof NGKAEIMKBBL {
+        ADCHONLBKMH PMNOLJEGLIP = 5;
+        PJPGEBLCDHG KNOMGFBBPJH = 6;
+        KMPFIBHBALL JDBGELCMGDB = 7;
+    }
+}
+

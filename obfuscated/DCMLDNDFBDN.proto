@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DCMLDNDFBDN
 message DCMLDNDFBDN {
-	bool LPGAJJALBDN = 11;
-	uint32 HDHFDDKANOF = 6;
-	uint32 GKHJKEGICOO = 12;
+    bool PIHHIOENHPL = 11;
+    uint32 EHPPNPOKAGI = 6;
+    uint32 FBJHOFHKIIG = 12;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NKEFJLKJCIP
+// CmdId: 486
 message NKEFJLKJCIP {
-	repeated uint32 IIPLOEDCNBN = 15;
-	repeated uint32 DINBBDJEKJI = 5;
+    repeated uint32 ENOCFBCHAMO = 15;
+    repeated uint32 PJLFACFIEAA = 5;
 }
+

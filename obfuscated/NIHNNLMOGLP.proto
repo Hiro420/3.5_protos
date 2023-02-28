@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NIHNNLMOGLP
+// CmdId: 2267
 message NIHNNLMOGLP {
-	repeated uint32 MKEMDBIFNBP = 7;
+    repeated uint32 EPNJIAGPPBE = 7;
 }
+

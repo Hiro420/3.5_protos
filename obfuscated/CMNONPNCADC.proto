@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CMNONPNCADC
+// CmdId: 7071
 message CMNONPNCADC {
-	int32 IJIABMFLJGH = 12;
-	uint32 CKENLBDFJEI = 6;
-	uint32 NJAEFGBAJLN = 9;
+    int32 KFCODGHIJEH = 12;
+    uint32 AJNDPCEAIBO = 6;
+    uint32 GKJEDGIJGKL = 9;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BCACMIENOOD
+// CmdId: 20879
 message BCACMIENOOD {
-	int32 IJIABMFLJGH = 14;
-	uint32 AIJOKLEENGC = 4;
+    int32 KFCODGHIJEH = 14;
+    uint32 OBBPIGOHAJL = 4;
 }
+

@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ONHDINIKADE.proto";
 
+// Name: FHHNDAIOPNP
 message FHHNDAIOPNP {
-	uint32 PDFLEGGDOCP = 1;
-	uint32 EGABCOAEGAN = 2;
-	uint32 INCIAKIONII = 3;
-	uint32 NALDAJFEAFA = 5;
-	ONHDINIKADE GCLFCOJPHIJ = 6;
+    uint32 GPBLLPDCIFK = 1;
+    uint32 MFIAJEFMBCI = 2;
+    uint32 NHPLPJKKNBP = 3;
+    uint32 MLBCMPFOEDO = 5;
+    ONHDINIKADE HCIMANAELGD = 6;
 }
+

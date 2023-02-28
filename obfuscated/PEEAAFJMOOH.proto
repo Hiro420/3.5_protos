@@ -4,10 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EACNABDMBBF.proto";
 
+// Name: PEEAAFJMOOH
+// CmdId: 182
 message PEEAAFJMOOH {
-	uint64 CKLKKOINOPA = 9;
-	string BHKGFPONKMP = 6;
-	map<uint32, EACNABDMBBF> PCLGCGJBFEK = 8;
-	bool GNODLNGILOA = 11;
-	uint32 JBIFNFKOOIH = 15;
+    uint64 LGFJNLNPJLB = 9;
+    string ACNJPBEDKDP = 6;
+    map<uint32, EACNABDMBBF> PLCADEAJFEG = 8;
+    bool OLCMIDDNLIM = 11;
+    uint32 NMNPKPCBHJM = 15;
 }
+

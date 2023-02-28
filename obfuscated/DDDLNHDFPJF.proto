@@ -2,14 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "BOLIIDNPFLP.proto";
 import "AFKBLLKBKDK.proto";
+import "BOLIIDNPFLP.proto";
 
+// Name: DDDLNHDFPJF
 message DDDLNHDFPJF {
-	repeated AFKBLLKBKDK KACADLIIPLM = 6;
-	uint32 FNFLOECHPJC = 1;
-	repeated BOLIIDNPFLP JJOHGMFOAJG = 5;
-	uint32 OBEEECDCKAK = 12;
-	uint32 NOOOCHKOCHH = 4;
-	bool CKMCPIOKFFE = 9;
+    repeated AFKBLLKBKDK HGAOOAHEKNJ = 6;
+    uint32 GAAPPKJCHMG = 1;
+    repeated BOLIIDNPFLP LBHNBGGJDPJ = 5;
+    uint32 BHGJFKLJMOC = 12;
+    uint32 BNCAJGILFGD = 4;
+    bool NKMBACDACBI = 9;
 }
+

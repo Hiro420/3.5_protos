@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DCIHAMDFDGL
+// CmdId: 4018
 message DCIHAMDFDGL {
-	repeated string FFMJEFNBECD = 9;
+    repeated string MEOOMDJIPLJ = 9;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KDMMAILHMCH.proto";
 
+// Name: FGNFEPLECFC
+// CmdId: 1159
 message FGNFEPLECFC {
-	KDMMAILHMCH MMLFLKIEJHA = 12;
-	uint32 PDFLEGGDOCP = 2;
+    KDMMAILHMCH CDHAFEDFMDI = 12;
+    uint32 GPBLLPDCIFK = 2;
 }
+

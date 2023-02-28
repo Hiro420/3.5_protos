@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MLFOMLGHFIP
+// CmdId: 4714
 message MLFOMLGHFIP {
-	uint32 ICFIJIEKEEJ = 2;
-	int32 IJIABMFLJGH = 6;
-	uint32 BFDKEIGKAFH = 11;
-	bool ADNBNHMDIDH = 3;
+    uint32 PIOGLHEHAAD = 2;
+    int32 KFCODGHIJEH = 6;
+    uint32 PHPJIFLPAKF = 11;
+    bool GJFNDMOCPBK = 3;
 }
+

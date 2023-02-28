@@ -2,12 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MNNNCKCAGLP.proto";
 import "EIPLHBCKIIO.proto";
+import "MNNNCKCAGLP.proto";
 
+// Name: HEJPPOICOAC
+// CmdId: 2140
 message HEJPPOICOAC {
-	repeated uint32 JDKMEGKOJCC = 5;
-	repeated EIPLHBCKIIO MPDOMABCBCD = 9;
-	int32 IJIABMFLJGH = 11;
-	repeated MNNNCKCAGLP NKLNNPIIBGJ = 15;
+    repeated uint32 LOCNJADIALA = 5;
+    repeated EIPLHBCKIIO KJLNFFHGCMO = 9;
+    int32 KFCODGHIJEH = 11;
+    repeated MNNNCKCAGLP HGHELNBJPMH = 15;
 }
+

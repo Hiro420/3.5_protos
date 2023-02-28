@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LBLBKNOBLGL.proto";
 
+// Name: PPLOGNILEPJ
+// CmdId: 494
 message PPLOGNILEPJ {
-	uint32 ALDAHBKPOJE = 8;
-	LBLBKNOBLGL DFFGCIAJBHG = 14;
+    uint32 KJKIMAINLKM = 8;
+    LBLBKNOBLGL CEPLGEEHOLN = 14;
 }
+

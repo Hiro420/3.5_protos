@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EAFPFNAHIOC.proto";
 
+// Name: OOLJECNMFDH
+// CmdId: 882
 message OOLJECNMFDH {
-	uint32 PDFLEGGDOCP = 2;
-	EAFPFNAHIOC HBPOJCPOELJ = 6;
+    uint32 GPBLLPDCIFK = 2;
+    EAFPFNAHIOC CGHGICOIAFG = 6;
 }
+

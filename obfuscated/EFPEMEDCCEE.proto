@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EFPEMEDCCEE
+// CmdId: 8413
 message EFPEMEDCCEE {
-	int32 IJIABMFLJGH = 1;
-	repeated uint32 CLGIPBKIKPN = 5;
+    int32 KFCODGHIJEH = 1;
+    repeated uint32 NHHCBKEMFFI = 5;
 }
+

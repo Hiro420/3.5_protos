@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BHNAKHDCBOL
+// CmdId: 402
 message BHNAKHDCBOL {
-	uint32 BOFBIJGMIGM = 7;
+    uint32 CJMAPJPILIC = 7;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OLPCCONLNBI
+// CmdId: 3965
 message OLPCCONLNBI {
-	uint32 EABOGBAHJKA = 3;
-	uint32 IHMAEEJLCCC = 12;
+    uint32 AENOPOAGBJK = 3;
+    uint32 FMMBJJLEBAF = 12;
 }
+

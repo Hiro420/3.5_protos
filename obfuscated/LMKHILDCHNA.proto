@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OMAOJPAGCGH.proto";
 
+// Name: LMKHILDCHNA
+// CmdId: 4131
 message LMKHILDCHNA {
-	repeated OMAOJPAGCGH CIHHPKMANIF = 13;
-	uint32 GGKKOEBKHNO = 15;
+    repeated OMAOJPAGCGH CCDECNAJGFP = 13;
+    uint32 JHLGHPPBGBO = 15;
 }
+

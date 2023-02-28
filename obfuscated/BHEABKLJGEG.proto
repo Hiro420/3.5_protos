@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IKKNLIMAHOL.proto";
 
+// Name: BHEABKLJGEG
+// CmdId: 8815
 message BHEABKLJGEG {
-	int32 IJIABMFLJGH = 10;
-	repeated IKKNLIMAHOL GIHNGJPAIDN = 14;
+    int32 KFCODGHIJEH = 10;
+    repeated IKKNLIMAHOL LDOPMBHAINP = 14;
 }
+

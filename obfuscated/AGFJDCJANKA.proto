@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CHEEIFOPCKI.proto";
 
+// Name: AGFJDCJANKA
 message AGFJDCJANKA {
-	repeated CHEEIFOPCKI HBMOMAEDJDL = 15;
-	uint32 BEJDBNONODA = 8;
-	bool NHHGCIBBKAP = 11;
+    repeated CHEEIFOPCKI JHIALJBIOFG = 15;
+    uint32 NJIHDDKBBLA = 8;
+    bool LFEIIEEMDOM = 11;
 }
+

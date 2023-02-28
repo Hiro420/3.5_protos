@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GPCKNDGKBBD
 message GPCKNDGKBBD {
-	uint64 PLMDDEEEAAB = 8;
-	uint32 IAIEOLAOPAB = 14;
-	uint64 NPIKBDHNJLH = 9;
+    uint64 JPIGCJLKDGO = 8;
+    uint32 ODPJBCIMOMA = 14;
+    uint64 OAKPHGNDJLO = 9;
 }
+

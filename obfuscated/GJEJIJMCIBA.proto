@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AFGHMMDBPMD.proto";
 
+// Name: GJEJIJMCIBA
+// CmdId: 653
 message GJEJIJMCIBA {
-	AFGHMMDBPMD HCMPEPODKPP = 1;
-	map<uint32, uint32> FOENMLDLHGB = 2;
-	map<uint32, uint32> IBIDIKMALJA = 10;
+    AFGHMMDBPMD IOGCBDAJIJK = 1;
+    map<uint32, uint32> ACNILIGFBNM = 2;
+    map<uint32, uint32> FLHCFEJHFIL = 10;
 }
+

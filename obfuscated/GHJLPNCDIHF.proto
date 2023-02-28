@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IKPBBMJIKDP.proto";
 
+// Name: GHJLPNCDIHF
+// CmdId: 393
 message GHJLPNCDIHF {
-	uint32 KFEMBAPKMFH = 6;
-	repeated IKPBBMJIKDP DHFCLDJGCIL = 5;
+    uint32 NDGLECFHBCJ = 6;
+    repeated IKPBBMJIKDP MPKAAAIBCJM = 5;
 }
+

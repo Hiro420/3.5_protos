@@ -5,12 +5,14 @@ option java_package = "emu.grasscutter.net.proto";
 import "BHKGAINOAON.proto";
 import "OLAHPIKKKOM.proto";
 
+// Name: NBBNIDCNBNJ
 message NBBNIDCNBNJ {
-	repeated uint32 JHOBMGBJMFG = 15;
-	uint32 PDDPIHFNDBO = 5;
-	uint32 OEGEDJPNJAD = 11;
-	uint32 GKKCJKPKDHN = 10;
-	repeated uint32 IANENKKPEDA = 6;
-	repeated OLAHPIKKKOM BHPHIDFHIHP = 12;
-	repeated BHKGAINOAON KEFKAAEHGLK = 14;
+    repeated uint32 OHPPOCHJMHE = 15;
+    uint32 FNAIMAFAIMG = 5;
+    uint32 CEHNBFEIODF = 11;
+    uint32 KIEGLDMDFCJ = 10;
+    repeated uint32 JACIJBCLOMD = 6;
+    repeated OLAHPIKKKOM OKIHACBIMGP = 12;
+    repeated BHKGAINOAON PPJNMMHPAKP = 14;
 }
+

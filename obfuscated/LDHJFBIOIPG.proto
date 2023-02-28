@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DGLAAOENJIH.proto";
 
+// Name: LDHJFBIOIPG
 message LDHJFBIOIPG {
-	repeated DGLAAOENJIH KIADDEMKLEN = 1;
-	string NFGBBEGMFNN = 2;
+    repeated DGLAAOENJIH JJGOFGMNPLE = 1;
+    string FGEDEGFCPDJ = 2;
 }
+

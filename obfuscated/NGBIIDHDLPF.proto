@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NGBIIDHDLPF
 message NGBIIDHDLPF {
-	uint32 NHOCHGBACAE = 11;
-	map<uint32, uint32> EIPFGLIPGBG = 1;
-	uint32 LGLGGMGCBHM = 10;
+    uint32 MFBCGCELJLO = 11;
+    map<uint32, uint32> JGMGJJNFEFB = 1;
+    uint32 HOIPIEEKMPN = 10;
 }
+

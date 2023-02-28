@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CCIIHPEKIPM
 message CCIIHPEKIPM {
-	bool DJKOKFDGKIG = 7;
-	uint32 ECOMIBMMJMK = 5;
-	bool LPGAJJALBDN = 9;
+    bool HKDOCGOMBKP = 7;
+    uint32 OOCIPHHELEH = 5;
+    bool PIHHIOENHPL = 9;
 }
+

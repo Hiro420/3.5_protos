@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: NPDDDIOCDLF
+// CmdId: 259
 message NPDDDIOCDLF {
-	int32 IJIABMFLJGH = 10;
-	DALMLFNANKL LABCKOJLEFP = 14;
-	bool IDMAAKJHDAB = 3;
+    int32 KFCODGHIJEH = 10;
+    DALMLFNANKL AJAMEIHEMEA = 14;
+    bool IDJJEJHCFBP = 3;
 }
+

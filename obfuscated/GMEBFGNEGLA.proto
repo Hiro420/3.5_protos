@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GMEBFGNEGLA
 message GMEBFGNEGLA {
-	uint32 BEJDBNONODA = 7;
-	bool DJKOKFDGKIG = 11;
-	uint32 FPNIJFBLNNE = 4;
+    uint32 NJIHDDKBBLA = 7;
+    bool HKDOCGOMBKP = 11;
+    uint32 MDHELGBPNMP = 4;
 }
+

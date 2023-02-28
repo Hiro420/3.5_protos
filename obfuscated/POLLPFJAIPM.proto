@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MNFJFJANFEH.proto";
 
+// Name: POLLPFJAIPM
 message POLLPFJAIPM {
-	bool DJKOKFDGKIG = 7;
-	uint32 BEJDBNONODA = 10;
-	repeated MNFJFJANFEH KACADLIIPLM = 9;
+    bool HKDOCGOMBKP = 7;
+    uint32 NJIHDDKBBLA = 10;
+    repeated MNFJFJANFEH HGAOOAHEKNJ = 9;
 }
+

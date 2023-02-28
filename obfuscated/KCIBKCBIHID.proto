@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KCIBKCBIHID
+// CmdId: 4422
 message KCIBKCBIHID {
-	bool EIEALMKLEIC = 11;
-	uint32 MBNDPCHNFLH = 4;
+    bool BDLBHOCMALO = 11;
+    uint32 ABMLKJAEEAK = 4;
 }
+

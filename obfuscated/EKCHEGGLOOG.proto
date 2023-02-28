@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EKCHEGGLOOG
+// CmdId: 8941
 message EKCHEGGLOOG {
-	int32 IJIABMFLJGH = 1;
-	uint32 OFKOOHKDFEC = 15;
-	uint32 OEGEDJPNJAD = 2;
+    int32 KFCODGHIJEH = 1;
+    uint32 DIJCEFIKGAK = 15;
+    uint32 CEHNBFEIODF = 2;
 }
+

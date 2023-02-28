@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+
+// Name: AEAIOCLFFDH
+message AEAIOCLFFDH {
+    // Name: DDMMEHCNOMB
+    message DDMMEHCNOMB {
+    }
+
+    // Name: KNKFILHLMBC
+    message KNKFILHLMBC {
+        repeated DALMLFNANKL MONJADBODIM = 3;
+    }
+
+    // Name: LPGDOODMMFB
+    message LPGDOODMMFB {
+        uint32 GPBLLPDCIFK = 2;
+    }
+
+    oneof NBALJOPAKBH {
+        DDMMEHCNOMB DGIGBNIBMJL = 13;
+        KNKFILHLMBC EIOHFBCMPHN = 5;
+        LPGDOODMMFB CFGHHOLKBJI = 4;
+    }
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: NILPIHBMNHG
+enum NILPIHBMNHG {
+    NILPIHBMNHG_LGAMHDDJMEN = 0;
+    NILPIHBMNHG_BKNAIMEPAIN = 1;
+    NILPIHBMNHG_DNPOMDGBDCM = 2;
+    NILPIHBMNHG_FCEIFFGFBCM = 3;
+    NILPIHBMNHG_BIJOHGKEEFG = 4;
+}
+

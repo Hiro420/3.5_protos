@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IDHOHCMCBND
+// CmdId: 919
 message IDHOHCMCBND {
-	uint32 AAEBBDIDMAO = 9;
+    uint32 AKDECIELPLN = 9;
 }
+

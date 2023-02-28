@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DEIIEJODMDG
 message DEIIEJODMDG {
-	uint32 NJAEFGBAJLN = 1;
-	uint32 AAFBPCDELCB = 13;
+    uint32 GKJEDGIJGKL = 1;
+    uint32 LDGDDAMCFKA = 13;
 }
+

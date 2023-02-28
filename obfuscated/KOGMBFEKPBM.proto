@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: KOGMBFEKPBM
+enum KOGMBFEKPBM {
+    KOGMBFEKPBM_KPEPNJHMLND = 0;
+    KOGMBFEKPBM_JNPIPJMDIHE = 1;
+}
+

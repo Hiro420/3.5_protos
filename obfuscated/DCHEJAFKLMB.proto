@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DCHEJAFKLMB
+// CmdId: 5556
 message DCHEJAFKLMB {
-	bool LDPFMKEGGGI = 11;
-	uint32 MHCGANALPFE = 5;
-	uint32 KKMLAEEAHJA = 12;
+    bool MGBGPBJMPBG = 11;
+    uint32 EIODGFHKMFP = 5;
+    uint32 IIBPCMOEENO = 12;
 }
+

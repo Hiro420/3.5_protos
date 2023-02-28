@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EMNAEGOHFGI.proto";
 
+// Name: INJEGNBKGCB
 message INJEGNBKGCB {
-	EMNAEGOHFGI FKAFEDCEKBL = 14;
+    EMNAEGOHFGI NOAJNAPDEMN = 14;
 }
+

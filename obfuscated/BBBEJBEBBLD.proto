@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HNBHEIDALPL.proto";
+import "OCBPLJBJHLF.proto";
+
+// Name: BBBEJBEBBLD
+message BBBEJBEBBLD {
+    uint32 LAMMGIKJMDL = 1;
+    oneof NGKAEIMKBBL {
+        HNBHEIDALPL PFOBMDCOECN = 2;
+        OCBPLJBJHLF OOOOCOPKFNC = 3;
+    }
+}
+

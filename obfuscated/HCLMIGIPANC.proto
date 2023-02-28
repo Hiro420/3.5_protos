@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HCLMIGIPANC
+// CmdId: 1793
 message HCLMIGIPANC {
-	uint32 HKDFCCMIEPL = 9;
+    uint32 FGADOPAJFBH = 9;
 }
+

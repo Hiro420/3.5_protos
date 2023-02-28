@@ -5,8 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "GCJAHMGAAGM.proto";
 import "HGJKEMEBOKC.proto";
 
+// Name: BCHLJPNBBJJ
+// CmdId: 3389
 message BCHLJPNBBJJ {
-	uint32 ICFIJIEKEEJ = 12;
-	repeated HGJKEMEBOKC AMFLFHAJBPC = 9;
-	GCJAHMGAAGM KACCAEMJOHK = 15;
+    uint32 PIOGLHEHAAD = 12;
+    repeated HGJKEMEBOKC MKKPDJIELJA = 9;
+    GCJAHMGAAGM FKICMDAJMDA = 15;
 }
+

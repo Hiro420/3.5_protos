@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LKADODPDEDF
+// CmdId: 5400
 message LKADODPDEDF {
-	uint32 APPJCEKCOBP = 11;
-	repeated uint32 MAMMLOGDKJK = 14;
-	repeated uint32 PALEOCGFEDI = 5;
+    uint32 IPLGACBJJGH = 11;
+    repeated uint32 MPIOONKIKBC = 14;
+    repeated uint32 GEOOLNJEGKD = 5;
 }
+

@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "NPMJFJMFAPP.proto";
 import "LMHJMCBLEMN.proto";
+import "NPMJFJMFAPP.proto";
 
+// Name: MCJJAJKEOAM
 message MCJJAJKEOAM {
-	repeated LMHJMCBLEMN NLCEKDHEJHM = 8;
-	repeated NPMJFJMFAPP PDFHOAILMJO = 6;
-	repeated LMHJMCBLEMN KGPPOFEHMGE = 1;
-	repeated uint32 MFJHDIOGEEA = 11;
+    repeated LMHJMCBLEMN AONMOAFKMLK = 8;
+    repeated NPMJFJMFAPP KAOKIDNOGCB = 6;
+    repeated LMHJMCBLEMN ADGFILCKAMB = 1;
+    repeated uint32 GONHBOGJBPL = 11;
 }
+

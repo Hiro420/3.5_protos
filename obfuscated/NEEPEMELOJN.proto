@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NEEPEMELOJN
+// CmdId: 5085
 message NEEPEMELOJN {
-	uint32 JBPNHOFNGDA = 1;
-	uint32 HHMKLDDMEDH = 7;
+    uint32 BFACGAKGEGP = 1;
+    uint32 CHLBLGGPCHA = 7;
 }
+

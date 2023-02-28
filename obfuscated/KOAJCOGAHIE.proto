@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KOHDDNNKDAG.proto";
 
+// Name: KOAJCOGAHIE
+// CmdId: 136
 message KOAJCOGAHIE {
-	bool JEPNMPDGKFK = 9;
-	KOHDDNNKDAG FJDIGJKCILO = 13;
+    bool KFEJPKPEBHL = 9;
+    KOHDDNNKDAG HMPEACDNKHI = 13;
 }
+

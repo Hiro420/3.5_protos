@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HKALLDBLCCJ.proto";
 
+// Name: KFNFMKJEDPG
+// CmdId: 105
 message KFNFMKJEDPG {
-	repeated HKALLDBLCCJ MJIMOJLHICP = 14;
-	repeated uint32 EMLLJDBFIFK = 13;
-	int32 IJIABMFLJGH = 2;
+    repeated HKALLDBLCCJ GGNLDELBJIK = 14;
+    repeated uint32 GFLBHIOPGLI = 13;
+    int32 KFCODGHIJEH = 2;
 }
+

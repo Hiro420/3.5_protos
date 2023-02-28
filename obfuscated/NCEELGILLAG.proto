@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NCEELGILLAG
+// CmdId: 273
 message NCEELGILLAG {
-	int32 IJIABMFLJGH = 6;
+    int32 KFCODGHIJEH = 6;
 }
+

@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HACCJLNLCBK.proto";
+import "ICNCCLJNHAA.proto";
+import "KCFMFINBJFM.proto";
+
+// Name: GEHDNPMCDAE
+// CmdId: 109
+message GEHDNPMCDAE {
+    uint32 AHMMKMKHHFP = 1;
+    oneof NGKAEIMKBBL {
+        KCFMFINBJFM AMGBHFNFGLJ = 1028;
+        ICNCCLJNHAA PLMEEKMPFLI = 138;
+        HACCJLNLCBK JHECOPDCIMF = 1480;
+    }
+}
+

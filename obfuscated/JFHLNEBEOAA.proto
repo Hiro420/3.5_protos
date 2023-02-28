@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JFHLNEBEOAA
 message JFHLNEBEOAA {
-	bool FHGGJCGHGPP = 1;
-	uint32 OJGJNNDIDGJ = 2;
-	uint32 JCGDEEEEPFD = 3;
-	bool HOMPLOJNGBP = 4;
-	int32 BPCIJGHEGEA = 5;
+    bool ECDMEDCDKIO = 1;
+    uint32 BAEJFEDNCCG = 2;
+    uint32 OEKBIJIGEDO = 3;
+    bool LMOOIJKDBNK = 4;
+    int32 LCGOAKGODAI = 5;
 }
+

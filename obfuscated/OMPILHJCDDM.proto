@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FHPJMFLJECD.proto";
 
+// Name: OMPILHJCDDM
 message OMPILHJCDDM {
-	repeated FHPJMFLJECD NHBHOIPDNPI = 14;
-	bool DJKOKFDGKIG = 3;
+    repeated FHPJMFLJECD JMENNDIACMA = 14;
+    bool HKDOCGOMBKP = 3;
 }
+

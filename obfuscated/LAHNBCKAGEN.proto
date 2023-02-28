@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BJHINJBCGKK.proto";
 
+// Name: LAHNBCKAGEN
+// CmdId: 4895
 message LAHNBCKAGEN {
-	repeated BJHINJBCGKK LOEDDAIKOKI = 10;
+    repeated BJHINJBCGKK NEOJPIGAMAN = 10;
 }
+

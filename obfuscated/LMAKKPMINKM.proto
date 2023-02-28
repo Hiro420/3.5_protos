@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EPHDHFNBIHF.proto";
 
+// Name: LMAKKPMINKM
+// CmdId: 2244
 message LMAKKPMINKM {
-	repeated EPHDHFNBIHF PBGLCPHAFPB = 2;
+    repeated EPHDHFNBIHF GEKHBIAILGL = 2;
 }
+

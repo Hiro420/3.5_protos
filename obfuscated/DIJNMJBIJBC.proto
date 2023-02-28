@@ -2,13 +2,20 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "DIJNMJBIJBC.AIMACHMHMBE.EFGMOEONFKG.proto";
-
+// Name: DIJNMJBIJBC
 message DIJNMJBIJBC {
-	string OAGJAHBDCCO = 1;
-	uint64 ADLDLCCJFPG = 12;
-	uint32 DMJAPNLJFGM = 10;
-	float HKLPLOJDFPJ = 3;
-	repeated DIJNMJBIJBC.AIMACHMHMBE.EFGMOEONFKG AEFDHBJOMIF = 9;
-	uint32 FHDEKGHAHIJ = 13;
+    // Name: EFGMOEONFKG
+    message EFGMOEONFKG {
+        uint32 IJPCJNLNAME = 1;
+        bool ABCENJAFGOF = 9;
+        uint64 PFOGJMDONFL = 7;
+    }
+
+    string OFKDJNIGLLH = 1;
+    uint64 DDOLOPEKIHJ = 12;
+    uint32 FCPEHFBPLAM = 10;
+    float OJBHLEDIPPP = 3;
+    repeated EFGMOEONFKG JFNFOFLDBKC = 9;
+    uint32 NBAIOEKMHJN = 13;
 }
+

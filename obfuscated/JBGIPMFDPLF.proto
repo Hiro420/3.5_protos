@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "OEDJPHACFPH.proto";
 import "GABBGJCLKIK.proto";
+import "OEDJPHACFPH.proto";
 
+// Name: JBGIPMFDPLF
 message JBGIPMFDPLF {
-	GABBGJCLKIK PGIEOBKPKIL = 1;
-	OEDJPHACFPH ENBKNHGCHAB = 2;
+    GABBGJCLKIK EMEPHEOJLJG = 1;
+    OEDJPHACFPH KFHLENMCIEJ = 2;
 }
+

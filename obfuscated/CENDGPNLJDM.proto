@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ALOJMEBGGPM.proto";
 
+// Name: CENDGPNLJDM
+// CmdId: 2193
 message CENDGPNLJDM {
-	int32 IJIABMFLJGH = 3;
-	repeated ALOJMEBGGPM GHJEAGDBMNE = 13;
+    int32 KFCODGHIJEH = 3;
+    repeated ALOJMEBGGPM NBOANMGMHLA = 13;
 }
+

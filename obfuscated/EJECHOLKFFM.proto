@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EJECHOLKFFM
+// CmdId: 276
 message EJECHOLKFFM {
-	bool DJKOKFDGKIG = 14;
+    bool HKDOCGOMBKP = 14;
 }
+

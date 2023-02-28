@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PNGKDIEEMEB
+// CmdId: 2854
 message PNGKDIEEMEB {
-	uint32 JLMLALKOMFN = 12;
-	uint32 ELNNIELNMBO = 1;
+    uint32 OCFEJAGKHBJ = 12;
+    uint32 KFGGNNFODBD = 1;
 }
+

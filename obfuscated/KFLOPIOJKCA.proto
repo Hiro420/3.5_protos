@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KFLOPIOJKCA
+// CmdId: 4284
 message KFLOPIOJKCA {
-	uint32 AAHPGNIAFFG = 5;
-	int32 IJIABMFLJGH = 2;
+    uint32 NGOELONIDLG = 5;
+    int32 KFCODGHIJEH = 2;
 }
+

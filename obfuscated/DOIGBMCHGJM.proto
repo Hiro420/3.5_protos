@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DOIGBMCHGJM
+// CmdId: 1472
 message DOIGBMCHGJM {
-	repeated uint32 ABFPOHLDEEL = 9;
-	int32 IJIABMFLJGH = 11;
+    repeated uint32 APHNAEFILJF = 9;
+    int32 KFCODGHIJEH = 11;
 }
+

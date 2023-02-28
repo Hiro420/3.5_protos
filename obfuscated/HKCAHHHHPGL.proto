@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LDNBDMBELBA.proto";
 
+// Name: HKCAHHHHPGL
 message HKCAHHHHPGL {
-	repeated LDNBDMBELBA LIHEPHPKCOI = 3;
+    repeated LDNBDMBELBA OLCOJNKIDMA = 3;
 }
+

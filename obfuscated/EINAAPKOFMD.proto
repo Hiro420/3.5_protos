@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EINAAPKOFMD
+// CmdId: 20965
 message EINAAPKOFMD {
-	uint32 AIJOKLEENGC = 7;
-	int32 IJIABMFLJGH = 1;
-	bool EOOMPFDDIHN = 9;
+    uint32 OBBPIGOHAJL = 7;
+    int32 KFCODGHIJEH = 1;
+    bool AHOPFGMFDAL = 9;
 }
+

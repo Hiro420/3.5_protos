@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: MIAFPBFKBHC
+enum MIAFPBFKBHC {
+    MIAFPBFKBHC_GPFEJIBCEFP = 0;
+    MIAFPBFKBHC_CLJDPMCDOCJ = 1;
+    MIAFPBFKBHC_EMGCOOMBKKM = 2;
+}
+

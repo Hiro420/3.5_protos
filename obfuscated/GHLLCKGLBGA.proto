@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GHLLCKGLBGA
+// CmdId: 4651
 message GHLLCKGLBGA {
-	uint32 JAOBPKMBOKD = 7;
-	uint32 LMFGKMPGIPD = 15;
+    uint32 AHMMKMKHHFP = 7;
+    uint32 BFELILCAPAD = 15;
 }
+

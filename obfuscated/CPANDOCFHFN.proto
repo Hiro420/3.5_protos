@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CPANDOCFHFN
 message CPANDOCFHFN {
-	string DHPNGKFNOCF = 8;
-	string EJNMMOMKGCO = 3;
+    string FNIODJLHDLL = 8;
+    string APHGPJLNCDD = 3;
 }
+

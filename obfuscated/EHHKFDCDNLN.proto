@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AJKKNJIKCJA.proto";
 
+// Name: EHHKFDCDNLN
 message EHHKFDCDNLN {
-	uint32 MNKBKOIEEJL = 2;
-	uint32 KCENMHMJEOK = 4;
-	uint32 NDEGDDBLMKD = 8;
-	AJKKNJIKCJA PELOIPIEGPA = 5;
-	repeated uint32 NBNALIEKKPA = 13;
+    uint32 NLPMDCHEHPB = 2;
+    uint32 PDMJFKNGIOL = 4;
+    uint32 CDEJEDMAFIH = 8;
+    AJKKNJIKCJA FELJLGEOIBB = 5;
+    repeated uint32 FBBAIPNKDHF = 13;
 }
+

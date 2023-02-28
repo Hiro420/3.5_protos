@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OBGHKPEINLJ
+// CmdId: 5434
 message OBGHKPEINLJ {
-	uint32 IGHODAEJNCH = 12;
-	bool EIEALMKLEIC = 2;
+    uint32 CMIFHNOBAIC = 12;
+    bool BDLBHOCMALO = 2;
 }
+

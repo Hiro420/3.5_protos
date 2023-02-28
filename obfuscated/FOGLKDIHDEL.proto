@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FOGLKDIHDEL
 message FOGLKDIHDEL {
-	bool LIKFNIOIPBO = 6;
-	uint32 JAOBPKMBOKD = 11;
+    bool OJFFPEKONNN = 6;
+    uint32 AHMMKMKHHFP = 11;
 }
+

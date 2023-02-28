@@ -2,20 +2,22 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "JLADMBEDMHP.proto";
-import "FNKNODGIEOH.proto";
 import "DDGEINCPPIK.proto";
+import "FNKNODGIEOH.proto";
+import "JLADMBEDMHP.proto";
 
+// Name: NMIGKDMCKHK
 message NMIGKDMCKHK {
-	bool CIFHMCHNNIC = 1;
-	repeated DDGEINCPPIK HLDJHKMOMMO = 13;
-	repeated int32 PEDCLEEKHCN = 2;
-	repeated FNKNODGIEOH BCEKIIHENHJ = 4;
-	uint32 LMFLFMGHLOK = 5;
-	uint32 PNEGCMJEHLF = 9;
-	uint64 MPCNAGMMHGF = 6;
-	map<uint32, uint32> OEAAIMHPADN = 14;
-	bool IAJEKOIOEAF = 8;
-	uint32 BOFBIJGMIGM = 11;
-	JLADMBEDMHP MHGGFJFLPMN = 3;
+    bool LIKJGOJLHLJ = 1;
+    repeated DDGEINCPPIK AAGHMGIMKJM = 13;
+    repeated int32 OCIHAAAKOPA = 2;
+    repeated FNKNODGIEOH IMBPAOJLFFN = 4;
+    uint32 DOCNJADOIPJ = 5;
+    uint32 FLPFBJMELEB = 9;
+    uint64 HIOBIJJHKDN = 6;
+    map<uint32, uint32> GMOMFCOLLLK = 14;
+    bool MDLKFBKMGEA = 8;
+    uint32 CJMAPJPILIC = 11;
+    JLADMBEDMHP DODJBLHPEAD = 3;
 }
+

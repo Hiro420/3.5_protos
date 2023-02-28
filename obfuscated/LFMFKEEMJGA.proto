@@ -5,9 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "IHFHAKKFMHG.proto";
 import "LNAAJJBMJEM.proto";
 
+// Name: LFMFKEEMJGA
+// CmdId: 316
 message LFMFKEEMJGA {
-	LNAAJJBMJEM DKHKOCFHHAO = 15;
-	uint32 PDFLEGGDOCP = 10;
-	bool DFGNFNKAEMM = 4;
-	IHFHAKKFMHG CBOLHDNGDGC = 7;
+    LNAAJJBMJEM CCIJIFKPHMG = 15;
+    uint32 GPBLLPDCIFK = 10;
+    bool BICLPBOCIMJ = 4;
+    IHFHAKKFMHG KDJAKKPIMGJ = 7;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ABHDPPOLMHE
+// CmdId: 1621
 message ABHDPPOLMHE {
-	repeated uint64 CLJCCHPHHLO = 11;
+    repeated uint64 ICDJJLDJFGN = 11;
 }
+

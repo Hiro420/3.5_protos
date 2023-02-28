@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NIHOOOAICMD.proto";
 
+// Name: AOMHEMBIHNE
+// CmdId: 7271
 message AOMHEMBIHNE {
-	uint32 CEEEAPAKABF = 8;
-	repeated NIHOOOAICMD DHCGMCNJPED = 1;
+    uint32 HCKIILHKKBE = 8;
+    repeated NIHOOOAICMD ABBIFONKPDJ = 1;
 }
+

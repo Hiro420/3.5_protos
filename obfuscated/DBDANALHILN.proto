@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DBDANALHILN
+// CmdId: 1234
 message DBDANALHILN {
-	map<uint32, float> MIBGCBHMOLP = 6;
-	uint64 POGHDEAENAD = 13;
+    map<uint32, float> OAJNBHKCNND = 6;
+    uint64 PKJEEFBMBNM = 13;
 }
+

@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EOHNOGOKPLE
+// CmdId: 1059
 message EOHNOGOKPLE {
-	uint32 DOKELIFOJAB = 3;
-	uint32 PDFLEGGDOCP = 15;
-	uint64 POGHDEAENAD = 6;
-	repeated uint32 GDJCNOKDFEE = 1;
+    uint32 GOEBNBGAKLB = 3;
+    uint32 GPBLLPDCIFK = 15;
+    uint64 PKJEEFBMBNM = 6;
+    repeated uint32 KALMIIIHOGO = 1;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LKHOIDIJEOL
+// CmdId: 1650
 message LKHOIDIJEOL {
-	uint32 JANHAFMHELC = 13;
+    uint32 BOCEFEMIGJK = 13;
 }
+

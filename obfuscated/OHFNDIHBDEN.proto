@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JJOLFAPBPNN.proto";
 
+// Name: OHFNDIHBDEN
+// CmdId: 5015
 message OHFNDIHBDEN {
-	int32 IJIABMFLJGH = 2;
-	repeated JJOLFAPBPNN FKHCMPFAAHJ = 11;
+    int32 KFCODGHIJEH = 2;
+    repeated JJOLFAPBPNN BBMMPANMJOI = 11;
 }
+

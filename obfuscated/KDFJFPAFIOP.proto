@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KDFJFPAFIOP
+// CmdId: 285
 message KDFJFPAFIOP {
-	uint32 AAEBBDIDMAO = 7;
+    uint32 AKDECIELPLN = 7;
 }
+

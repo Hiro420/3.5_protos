@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GNKAPMPOIOE
+// CmdId: 7621
 message GNKAPMPOIOE {
-	repeated uint32 DAGINEBHJBN = 5;
+    repeated uint32 LGEAAOBNMGG = 5;
 }
+

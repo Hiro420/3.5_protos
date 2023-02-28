@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENANJKOACDB.proto";
 
+// Name: CDPOOGDCAEF
 message CDPOOGDCAEF {
-	repeated ENANJKOACDB JNIINEJADNK = 1;
-	uint32 FEBGPCJDBLI = 2;
-	float LKGEDLLHDBG = 3;
+    repeated ENANJKOACDB MMMOKMJKBKH = 1;
+    uint32 IAFBFELIHBK = 2;
+    float BPDMEJIMAGD = 3;
 }
+

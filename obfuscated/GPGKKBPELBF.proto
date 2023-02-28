@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NLIKGMEMIKJ.proto";
 
+// Name: GPGKKBPELBF
 message GPGKKBPELBF {
-	repeated NLIKGMEMIKJ CJKPNPDHKOD = 12;
-	uint32 NFOKBMLBAIA = 13;
+    repeated NLIKGMEMIKJ ONNPKADPPPM = 12;
+    uint32 ECBHFJPGFNI = 13;
 }
+

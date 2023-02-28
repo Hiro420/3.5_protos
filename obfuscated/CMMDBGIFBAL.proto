@@ -4,11 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EJJOHOJFEHC.proto";
 
+// Name: CMMDBGIFBAL
 message CMMDBGIFBAL {
-	uint32 IOIBGNIOJDB = 1;
-	uint32 EAKBFLJFNOM = 2;
-	repeated uint32 CHDJDJPGPJC = 3;
-	repeated uint32 MJMPHLONKMA = 4;
-	repeated uint32 DANLDLPFFND = 5;
-	repeated EJJOHOJFEHC FDLEDOGPAKG = 6;
+    uint32 KOIHDPKIKGE = 1;
+    uint32 HACFKKGEFNI = 2;
+    repeated uint32 IAKJFHHPOJN = 3;
+    repeated uint32 ANHEEFLMOMN = 4;
+    repeated uint32 PKMBALMLHNG = 5;
+    repeated EJJOHOJFEHC DNJJFMJJKJJ = 6;
 }
+

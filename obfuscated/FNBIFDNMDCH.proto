@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: FNBIFDNMDCH
+enum FNBIFDNMDCH {
+    FNBIFDNMDCH_JJIMJJIIEPP = 0;
+    FNBIFDNMDCH_BKMAKAAELDB = 1;
+}
+

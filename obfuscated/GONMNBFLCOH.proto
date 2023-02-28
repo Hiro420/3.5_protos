@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FBEKLANBDNA.proto";
 
+// Name: GONMNBFLCOH
 message GONMNBFLCOH {
-	string CKOGONBLNMM = 12;
-	uint32 EGABCOAEGAN = 6;
-	bool OBIFOLDNHOP = 5;
-	repeated FBEKLANBDNA LALLGCCFAFE = 4;
-	uint32 BKHAKAPFIBD = 2;
+    string OJCBOOEJJFC = 12;
+    uint32 MFIAJEFMBCI = 6;
+    bool HEAFBCFHGIM = 5;
+    repeated FBEKLANBDNA MDDKIHLKOOM = 4;
+    uint32 PMHMONJGIKH = 2;
 }
+

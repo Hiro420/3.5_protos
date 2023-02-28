@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KAPLNKOBMCI
 message KAPLNKOBMCI {
-	float CEBNMGEFKJL = 1;
-	float FEHDKBAABKF = 2;
-	float DKFFAIKLJDE = 3;
-	float HGOOLMHFADK = 4;
+    float AFDFPJJDOHH = 1;
+    float JGHOLPKKJJA = 2;
+    float JAACLFODBJO = 3;
+    float JEIMNCHLAGN = 4;
 }
+

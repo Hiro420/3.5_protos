@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FMNLOMEOFMG
+// CmdId: 2018
 message FMNLOMEOFMG {
-	uint32 HFKNDLGIPML = 12;
-	uint32 PFKDFHHKBFD = 3;
+    uint32 EILEKGBEBLI = 12;
+    uint32 NLBJCAHEJOC = 3;
 }
+

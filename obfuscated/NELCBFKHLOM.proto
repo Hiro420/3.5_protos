@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NELCBFKHLOM
+// CmdId: 213
 message NELCBFKHLOM {
-	uint32 PDFLEGGDOCP = 3;
+    uint32 GPBLLPDCIFK = 3;
 }
+

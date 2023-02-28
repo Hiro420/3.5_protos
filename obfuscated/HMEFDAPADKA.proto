@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HMEFDAPADKA
 message HMEFDAPADKA {
-	bool DJKOKFDGKIG = 12;
-	uint32 BEJDBNONODA = 6;
+    bool HKDOCGOMBKP = 12;
+    uint32 NJIHDDKBBLA = 6;
 }
+

@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MIAFPBFKBHC.proto";
 
+// Name: AOGCMDNFPLJ
+// CmdId: 5584
 message AOGCMDNFPLJ {
-	uint32 NDEGDDBLMKD = 11;
-	bool BBPBDLFBIAF = 7;
-	uint32 KKMLAEEAHJA = 1;
-	MIAFPBFKBHC NJKIMEHDIBO = 10;
+    uint32 CDEJEDMAFIH = 11;
+    bool ELEPEKKGNEB = 7;
+    uint32 IIBPCMOEENO = 1;
+    MIAFPBFKBHC LPMBKNJGLDC = 10;
 }
+

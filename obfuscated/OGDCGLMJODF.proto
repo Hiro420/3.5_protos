@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KDDEEFOPBJB.proto";
 
+// Name: OGDCGLMJODF
+// CmdId: 8388
 message OGDCGLMJODF {
-	repeated KDDEEFOPBJB LFBDEKAGAPO = 13;
-	repeated uint32 JOKKKDGBAIF = 14;
+    repeated KDDEEFOPBJB KEHACGOKBJA = 13;
+    repeated uint32 BKOEFHECBCE = 14;
 }
+

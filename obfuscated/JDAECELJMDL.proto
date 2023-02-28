@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LBLBKNOBLGL.proto";
 
+// Name: JDAECELJMDL
+// CmdId: 470
 message JDAECELJMDL {
-	int32 IJIABMFLJGH = 15;
-	uint32 ALDAHBKPOJE = 4;
-	LBLBKNOBLGL DFFGCIAJBHG = 7;
+    int32 KFCODGHIJEH = 15;
+    uint32 KJKIMAINLKM = 4;
+    LBLBKNOBLGL CEPLGEEHOLN = 7;
 }
+

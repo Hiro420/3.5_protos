@@ -5,8 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "KDMMAILHMCH.proto";
 import "ONHDINIKADE.proto";
 
+// Name: KPLLCJKCHDJ
 message KPLLCJKCHDJ {
-	ONHDINIKADE LGOJIMINMJD = 4;
-	uint32 MPNPEGNOKJJ = 8;
-	KDMMAILHMCH MMLFLKIEJHA = 1;
+    ONHDINIKADE KDCODEABPNI = 4;
+    uint32 PLAPAJJDEOF = 8;
+    KDMMAILHMCH CDHAFEDFMDI = 1;
 }
+

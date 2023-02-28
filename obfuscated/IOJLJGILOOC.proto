@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IOJLJGILOOC
+// CmdId: 2033
 message IOJLJGILOOC {
-	int32 IJIABMFLJGH = 14;
-	bool KJBDEIBLACP = 3;
-	bool DBIKCJCJHFI = 5;
-	uint32 NAEGOGKCCIB = 1;
+    int32 KFCODGHIJEH = 14;
+    bool BGJCLMIADJG = 3;
+    bool AAMENNENDKM = 5;
+    uint32 AAHAACKGAGG = 1;
 }
+

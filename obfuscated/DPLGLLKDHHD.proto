@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GCJAHMGAAGM.proto";
 
+// Name: DPLGLLKDHHD
+// CmdId: 272
 message DPLGLLKDHHD {
-	uint32 ICFIJIEKEEJ = 15;
-	repeated uint32 AMFLFHAJBPC = 14;
-	GCJAHMGAAGM PKKOLPLCEHD = 8;
+    uint32 PIOGLHEHAAD = 15;
+    repeated uint32 MKKPDJIELJA = 14;
+    GCJAHMGAAGM HPCEPAJPONL = 8;
 }
+

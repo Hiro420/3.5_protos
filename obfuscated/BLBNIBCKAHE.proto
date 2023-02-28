@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LDHOOCGFIIP.proto";
 
+// Name: BLBNIBCKAHE
 message BLBNIBCKAHE {
-	map<uint32, LDHOOCGFIIP> AFCIDAJPGAA = 14;
-	uint32 FOPEHAIOFEG = 9;
+    map<uint32, LDHOOCGFIIP> AKGJCHAKLOO = 14;
+    uint32 HPLBNHOMPFO = 9;
 }
+

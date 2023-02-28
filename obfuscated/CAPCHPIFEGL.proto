@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "LHCNFJEHPLP.proto";
 import "FPBAKHENGML.proto";
+import "LHCNFJEHPLP.proto";
 
+// Name: CAPCHPIFEGL
+// CmdId: 4254
 message CAPCHPIFEGL {
-	FPBAKHENGML BAJHMIBJPMG = 7;
-	LHCNFJEHPLP KNEGMCGKFAL = 13;
+    FPBAKHENGML MPNHLGJKOKG = 7;
+    LHCNFJEHPLP PLDBHAGEBDM = 13;
 }
+

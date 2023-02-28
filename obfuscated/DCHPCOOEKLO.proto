@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DCHPCOOEKLO
+// CmdId: 5331
 message DCHPCOOEKLO {
-	uint32 LGGGCABNDFL = 13;
+    uint32 POFADABHHEG = 13;
 }
+

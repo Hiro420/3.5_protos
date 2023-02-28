@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EIPDIAEPMIH
+// CmdId: 8907
 message EIPDIAEPMIH {
-	uint32 EPMNMGEBPLA = 15;
-	uint32 LHCPGMIIDLO = 14;
+    uint32 JDPMCDMBDBO = 15;
+    uint32 CAGAJANMNOP = 14;
 }
+

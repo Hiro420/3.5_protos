@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "INDNLCFGCHO.proto";
 
+// Name: OGJEIFDLMFE
+// CmdId: 349
 message OGJEIFDLMFE {
-	repeated INDNLCFGCHO DGKKKAPNEJB = 6;
+    repeated INDNLCFGCHO KNLIOGKJDDB = 6;
 }
+

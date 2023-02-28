@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KDDEEFOPBJB.proto";
 
+// Name: EILFAEAPPLM
+// CmdId: 8749
 message EILFAEAPPLM {
-	repeated KDDEEFOPBJB LFBDEKAGAPO = 2;
-	repeated uint32 JOKKKDGBAIF = 12;
+    repeated KDDEEFOPBJB KEHACGOKBJA = 2;
+    repeated uint32 BKOEFHECBCE = 12;
 }
+

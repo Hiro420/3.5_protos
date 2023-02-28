@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CHGIPLGANOM
+// CmdId: 7097
 message CHGIPLGANOM {
-	int32 IJIABMFLJGH = 15;
-	uint32 KGHKFNGDPNI = 13;
+    int32 KFCODGHIJEH = 15;
+    uint32 AHAIAIPGFDN = 13;
 }
+

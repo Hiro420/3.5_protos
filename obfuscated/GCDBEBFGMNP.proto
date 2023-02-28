@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GCDBEBFGMNP
+// CmdId: 605
 message GCDBEBFGMNP {
-	uint32 JAOBPKMBOKD = 14;
-	uint32 DNIBKOCOPBJ = 8;
-	uint32 PLELIFDJENA = 1;
+    uint32 AHMMKMKHHFP = 14;
+    uint32 EIBODINCJMC = 8;
+    uint32 PJAGIJPMDJJ = 1;
 }
+

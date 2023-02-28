@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ANJOMJAFKNK.proto";
 
+// Name: IDDOKPGDFOP
+// CmdId: 1646
 message IDDOKPGDFOP {
-	map<uint64, ANJOMJAFKNK> CAIPAJKGJPM = 13;
+    map<uint64, ANJOMJAFKNK> EELJILCEEEN = 13;
 }
+

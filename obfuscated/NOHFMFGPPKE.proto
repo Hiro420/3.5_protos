@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NOHFMFGPPKE
+// CmdId: 2072
 message NOHFMFGPPKE {
-	uint32 AKPPNNCGIEL = 6;
-	uint32 CDAJDJPACIL = 1;
+    uint32 KENCBMFCJDH = 6;
+    uint32 JIIJEJPKLNK = 1;
 }
+

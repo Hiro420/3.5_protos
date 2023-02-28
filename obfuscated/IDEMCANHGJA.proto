@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IDEMCANHGJA
+// CmdId: 21198
 message IDEMCANHGJA {
-	uint32 FEDEOMEFFLO = 5;
-	uint32 AHGGLLMBAAG = 8;
-	int32 IJIABMFLJGH = 10;
+    uint32 PAIAOGFKOKH = 5;
+    uint32 IJPCJNLNAME = 8;
+    int32 KFCODGHIJEH = 10;
 }
+

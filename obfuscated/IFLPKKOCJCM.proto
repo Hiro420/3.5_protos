@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IFLPKKOCJCM
+// CmdId: 1091
 message IFLPKKOCJCM {
-	uint32 LMCGDABJPKB = 12;
-	uint64 POGHDEAENAD = 3;
-	uint32 BBEJEEENLPN = 7;
-	uint32 BFADJKICBNA = 5;
-	int32 IJIABMFLJGH = 15;
+    uint32 MFNMHANCIMP = 12;
+    uint64 PKJEEFBMBNM = 3;
+    uint32 PJNELCLHMOH = 7;
+    uint32 OCEFCGKBPPE = 5;
+    int32 KFCODGHIJEH = 15;
 }
+

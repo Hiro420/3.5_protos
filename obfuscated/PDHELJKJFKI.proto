@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EBNDMMBCPOA.proto";
+import "GKLEOCHANNG.proto";
+
+// Name: PDHELJKJFKI
+// CmdId: 5388
+message PDHELJKJFKI {
+    uint32 FNIAGKNACKP = 7;
+    oneof NGKAEIMKBBL {
+        GKLEOCHANNG LAIHALMIPAG = 13;
+        EBNDMMBCPOA BDCPPFHOPPD = 1;
+    }
+}
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DNGDKBKNELM
+// CmdId: 6235
 message DNGDKBKNELM {
-	uint64 BOPOMJIPJMI = 4;
-	int32 IJIABMFLJGH = 11;
+    uint64 HKLHMEABKCO = 4;
+    int32 KFCODGHIJEH = 11;
 }
+

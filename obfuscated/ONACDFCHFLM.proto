@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GOMJMGELGFB.proto";
 
+// Name: ONACDFCHFLM
+// CmdId: 1951
 message ONACDFCHFLM {
-	GOMJMGELGFB OFDNCFCMENI = 2;
+    GOMJMGELGFB CIIHFDJKEMA = 2;
 }
+

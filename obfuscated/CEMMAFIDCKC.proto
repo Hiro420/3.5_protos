@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FGMHOBKFKJK.proto";
 
+// Name: CEMMAFIDCKC
+// CmdId: 2200
 message CEMMAFIDCKC {
-	uint32 HGNNFDONPCJ = 12;
-	map<uint32, FGMHOBKFKJK> BNEDMJBNGDD = 10;
+    uint32 OKMAODPDMIN = 12;
+    map<uint32, FGMHOBKFKJK> LHBEOANNKFK = 10;
 }
+

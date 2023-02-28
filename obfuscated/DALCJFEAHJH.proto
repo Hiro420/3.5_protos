@@ -2,13 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MPFFOAAAOKO.proto";
 import "CKFOCGGAGBL.proto";
+import "MPFFOAAAOKO.proto";
 
+// Name: DALCJFEAHJH
+// CmdId: 975
 message DALCJFEAHJH {
-	uint32 MGPPCAPHMKF = 13;
-	int32 IJIABMFLJGH = 15;
-	uint32 HBMBODJGAPM = 14;
-	repeated CKFOCGGAGBL PBCAAOJEIDL = 4;
-	repeated MPFFOAAAOKO FGJJMCEAMGH = 9;
+    uint32 HNLFODAHCPP = 13;
+    int32 KFCODGHIJEH = 15;
+    uint32 HNIOMMFIPJP = 14;
+    repeated CKFOCGGAGBL ELBHDFBFLNL = 4;
+    repeated MPFFOAAAOKO FIGKNAMNOEG = 9;
 }
+

@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DDFMGAHMONA
 message DDFMGAHMONA {
-	uint32 ADKPOFEHMIG = 7;
-	repeated uint32 KALGHKBDPPP = 5;
-	uint32 JLEPFDHMLEG = 6;
-	repeated uint32 BKHLBEPIPHG = 2;
-	repeated uint32 NOJPHGJEDCK = 11;
+    uint32 MDMBMNGFALI = 7;
+    repeated uint32 GOAALPLLBOA = 5;
+    uint32 HNNFBGKMNKI = 6;
+    repeated uint32 PMPOGCLAKKP = 2;
+    repeated uint32 FDDLLMEHBHN = 11;
 }
+

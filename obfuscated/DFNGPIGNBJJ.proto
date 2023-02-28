@@ -2,21 +2,23 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "ILGNCKHBGFO.proto";
 import "FEEEMGFIGBG.proto";
+import "ILGNCKHBGFO.proto";
 
+// Name: DFNGPIGNBJJ
 message DFNGPIGNBJJ {
-	uint32 APPJCEKCOBP = 1;
-	string NGFEJANHDBM = 2;
-	uint32 FBPLJFHKEKB = 3;
-	uint32 JAOBPKMBOKD = 4;
-	FEEEMGFIGBG GNLHJLMGDLG = 5;
-	uint32 PMEGEOMGODP = 6;
-	uint32 MKPAIADLFCJ = 7;
-	string MCBJBNBKLOC = 8;
-	uint32 HBGOKHAELLK = 9;
-	repeated uint32 BFLDGLCCCLF = 10;
-	string AMDFPICMLCC = 11;
-	ILGNCKHBGFO GBGBILFNEFB = 12;
-	string IDKNIFNMLNB = 13;
+    uint32 IPLGACBJJGH = 1;
+    string HJKPKILCLFM = 2;
+    uint32 CIDLJCKMOHD = 3;
+    uint32 AHMMKMKHHFP = 4;
+    FEEEMGFIGBG EIFHMBFCDON = 5;
+    uint32 NMHDDIAAFII = 6;
+    uint32 OAKLEOLDOPG = 7;
+    string CJCJMEFFNIG = 8;
+    uint32 ABAIAFNIHBJ = 9;
+    repeated uint32 EIGGDLBHLGH = 10;
+    string GIHJOHOLMBH = 11;
+    ILGNCKHBGFO MOIFBEBLNIF = 12;
+    string HJGOCGGAJNB = 13;
 }
+

@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ELEEFNHCAOL.proto";
 
+// Name: OHKODCEMCAE
 message OHKODCEMCAE {
-	repeated ELEEFNHCAOL LIHEPHPKCOI = 15;
+    repeated ELEEFNHCAOL OLCOJNKIDMA = 15;
 }
+

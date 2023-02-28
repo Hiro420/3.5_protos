@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LHAPHELPIHC
+// CmdId: 1927
 message LHAPHELPIHC {
-	int32 IJIABMFLJGH = 6;
-	uint32 DPJOJFFAOIB = 14;
+    int32 KFCODGHIJEH = 6;
+    uint32 EGFOFPMNMJB = 14;
 }
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IKHCDGKOMNP
+// CmdId: 3387
 message IKHCDGKOMNP {
-	uint64 JDDEJFKJHJN = 2;
-	uint64 OJCCIFIDOIF = 3;
-	uint32 LMFGKMPGIPD = 12;
+    uint64 LECPGEIPAFI = 2;
+    uint64 OEGLFFHMGAD = 3;
+    uint32 BFELILCAPAD = 12;
 }
+

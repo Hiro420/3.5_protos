@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BEINIMOEPND.proto";
 
+// Name: GKHCBIDCMHJ
+// CmdId: 2320
 message GKHCBIDCMHJ {
-	int32 IJIABMFLJGH = 2;
-	repeated BEINIMOEPND IHNFLMLDAHC = 7;
+    int32 KFCODGHIJEH = 2;
+    repeated BEINIMOEPND PLDLDLDKIIJ = 7;
 }
+

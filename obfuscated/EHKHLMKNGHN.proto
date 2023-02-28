@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LBJDDOCNBFN.proto";
 
+// Name: EHKHLMKNGHN
 message EHKHLMKNGHN {
-	uint32 GKHJKEGICOO = 1;
-	repeated LBJDDOCNBFN ODBAPMKGKFC = 10;
+    uint32 FBJHOFHKIIG = 1;
+    repeated LBJDDOCNBFN NOKIAHJPLAO = 10;
 }
+

@@ -5,14 +5,16 @@ option java_package = "emu.grasscutter.net.proto";
 import "LNAAJJBMJEM.proto";
 import "ONHDINIKADE.proto";
 
+// Name: NCCBAHIEMNM
 message NCCBAHIEMNM {
-	uint32 PDFLEGGDOCP = 1;
-	uint32 HIGAIJIHCOC = 2;
-	uint32 AHFGCEDNLHM = 3;
-	uint64 JDDEJFKJHJN = 4;
-	uint32 JLMLALKOMFN = 5;
-	uint32 EEAOHDLJHMP = 6;
-	ONHDINIKADE GCLFCOJPHIJ = 7;
-	map<uint32, uint32> PBLCDDPENJN = 8;
-	LNAAJJBMJEM DKHKOCFHHAO = 9;
+    uint32 GPBLLPDCIFK = 1;
+    uint32 AECPDOLHDKN = 2;
+    uint32 LAMMGIKJMDL = 3;
+    uint64 LECPGEIPAFI = 4;
+    uint32 OCFEJAGKHBJ = 5;
+    uint32 PJLHHGHDOKE = 6;
+    ONHDINIKADE HCIMANAELGD = 7;
+    map<uint32, uint32> NDBFODAJLHM = 8;
+    LNAAJJBMJEM CCIJIFKPHMG = 9;
 }
+

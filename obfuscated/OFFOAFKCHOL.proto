@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OFFOAFKCHOL
+// CmdId: 8336
 message OFFOAFKCHOL {
-	int32 IJIABMFLJGH = 10;
+    int32 KFCODGHIJEH = 10;
 }
+

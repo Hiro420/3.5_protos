@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LAMPLBKECOO.proto";
 
+// Name: NFHIIJNJBGB
 message NFHIIJNJBGB {
-	uint32 BKDHBEFPKIC = 8;
-	LAMPLBKECOO DHOHGCBJLKO = 11;
+    uint32 PFJOPBPLOHD = 8;
+    LAMPLBKECOO MMCOMJMPEFD = 11;
 }
+

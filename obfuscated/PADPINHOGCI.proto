@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PADPINHOGCI
+// CmdId: 482
 message PADPINHOGCI {
-	uint32 BOFBIJGMIGM = 7;
+    uint32 CJMAPJPILIC = 7;
 }
+

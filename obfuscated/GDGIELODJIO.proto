@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GDGIELODJIO
+// CmdId: 5586
 message GDGIELODJIO {
-	bool MFPGHFOFAFP = 9;
+    bool KANHMLPBBHL = 9;
 }
+

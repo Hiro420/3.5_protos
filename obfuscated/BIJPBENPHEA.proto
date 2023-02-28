@@ -2,13 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BIJPBENPHEA
+// CmdId: 8256
 message BIJPBENPHEA {
-	bool MFPGHFOFAFP = 8;
-	uint32 JEEFNCHAJOJ = 14;
-	uint32 MANKLDHPGMA = 2;
-	uint32 DBCEEODIKCO = 3;
-	bool DBIKCJCJHFI = 6;
-	uint32 BMPBBANDEPM = 5;
-	uint32 JMECAMPDNEE = 9;
-	uint32 CNHCBFLHDDD = 4;
+    bool KANHMLPBBHL = 8;
+    uint32 MPLJBMEAIBB = 14;
+    uint32 ECGNDJEFALL = 2;
+    uint32 IBHFHNMMJKH = 3;
+    bool AAMENNENDKM = 6;
+    uint32 DOJCKDMCLJE = 5;
+    uint32 IKLDEPKLIMD = 9;
+    uint32 NJENGLLHPJD = 4;
 }
+

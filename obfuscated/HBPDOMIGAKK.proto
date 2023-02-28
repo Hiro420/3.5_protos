@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HBPDOMIGAKK
+// CmdId: 4537
 message HBPDOMIGAKK {
-	uint32 JDDEJFKJHJN = 1;
-	bool LLANMHMNJBL = 12;
-	bool IPMAMFAMOAA = 8;
+    uint32 LECPGEIPAFI = 1;
+    bool MPAJHMEOAPK = 12;
+    bool NBNNPNAGOEA = 8;
 }
+

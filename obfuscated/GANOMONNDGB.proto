@@ -2,14 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MGMABEOADJL.proto";
 import "MFAFMALBKAP.proto";
+import "MGMABEOADJL.proto";
 
+// Name: GANOMONNDGB
+// CmdId: 7188
 message GANOMONNDGB {
-	repeated uint32 LPNPPCIGHCD = 1;
-	repeated uint32 ILLLMHCOOAB = 14;
-	repeated MFAFMALBKAP DAGINEBHJBN = 13;
-	repeated uint32 IKBPEMOGGDO = 10;
-	repeated MGMABEOADJL EGOFENHIODK = 9;
-	uint32 FHDINICBNIO = 11;
+    repeated uint32 AOPCHLEHOKA = 1;
+    repeated uint32 AADGGKDCBGL = 14;
+    repeated MFAFMALBKAP LGEAAOBNMGG = 13;
+    repeated uint32 DKJNKKKPBAM = 10;
+    repeated MGMABEOADJL FOAANHMGCOK = 9;
+    uint32 GLDIDBNHPKK = 11;
 }
+

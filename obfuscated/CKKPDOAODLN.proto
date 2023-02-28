@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LLDIKKJHCCB.proto";
 
+// Name: CKKPDOAODLN
 message CKKPDOAODLN {
-	int32 IJIABMFLJGH = 1;
-	repeated LLDIKKJHCCB MNOOMENDEFD = 2;
-	bytes IEMFOCFCHNN = 5;
-	bytes MPEIEHOMBHI = 6;
-	bool LFCGLGJOLJB = 7;
+    int32 KFCODGHIJEH = 1;
+    repeated LLDIKKJHCCB BJBMBPIEJPI = 2;
+    bytes ODHGCKGDENJ = 5;
+    bytes DPJIJEEPMDG = 6;
+    bool LFIFNAGHMJC = 7;
 }
+

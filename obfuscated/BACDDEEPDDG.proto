@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IBPHKCENHNF.proto";
 
+// Name: BACDDEEPDDG
+// CmdId: 475
 message BACDDEEPDDG {
-	repeated IBPHKCENHNF DNOGFDADEHP = 11;
+    repeated IBPHKCENHNF HNONDENEHEA = 11;
 }
+

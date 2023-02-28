@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HGOBDHKMDHO.proto";
 
+// Name: KOAPCJOBLKO
+// CmdId: 1475
 message KOAPCJOBLKO {
-	repeated HGOBDHKMDHO CMFPMDOFCFE = 8;
-	repeated uint32 CFFNPOCDLEM = 2;
+    repeated HGOBDHKMDHO PENGALGGMHO = 8;
+    repeated uint32 BKNNPJFGHIK = 2;
 }
+

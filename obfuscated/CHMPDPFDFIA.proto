@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BNEGCDIFHLA.proto";
 
+// Name: CHMPDPFDFIA
+// CmdId: 225
 message CHMPDPFDFIA {
-	uint32 BEKCJPOGBHB = 10;
-	BNEGCDIFHLA EIDIBCFGOKN = 8;
-	int32 IJIABMFLJGH = 1;
-	uint32 PDFLEGGDOCP = 14;
+    uint32 ALHOCCJPIFL = 10;
+    BNEGCDIFHLA NJPNEHDOIJB = 8;
+    int32 KFCODGHIJEH = 1;
+    uint32 GPBLLPDCIFK = 14;
 }
+

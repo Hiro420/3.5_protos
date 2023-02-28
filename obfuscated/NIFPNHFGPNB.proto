@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NIFPNHFGPNB
+// CmdId: 5696
 message NIFPNHFGPNB {
-	uint32 ODKBGHOLKPM = 3;
+    uint32 FFBOAPOFKIK = 3;
 }
+

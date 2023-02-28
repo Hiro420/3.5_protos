@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CPCLNBAOEMO
 message CPCLNBAOEMO {
-	bool EBCBIELEPPK = 10;
-	bool JMAEJDGDIPI = 5;
-	uint32 JAOBPKMBOKD = 3;
+    bool LKHOGMMPCJL = 10;
+    bool ABCENJAFGOF = 5;
+    uint32 AHMMKMKHHFP = 3;
 }
+

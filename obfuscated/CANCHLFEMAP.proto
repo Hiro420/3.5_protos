@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CANCHLFEMAP
 message CANCHLFEMAP {
-	uint32 KKPDIBFCOCK = 9;
+    uint32 IAEHHDCFDEE = 9;
 }
+

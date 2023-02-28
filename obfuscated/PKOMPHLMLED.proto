@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PKOMPHLMLED
+// CmdId: 4146
 message PKOMPHLMLED {
-	uint32 CDCLLLEPBCB = 2;
-	uint32 KCNLAHHKGBN = 6;
-	string EJNMMOMKGCO = 15;
+    uint32 MIBMBPJHBBM = 2;
+    uint32 LLBAKMPCPGI = 6;
+    string APHGPJLNCDD = 15;
 }
+

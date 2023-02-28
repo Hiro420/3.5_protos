@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: DPJENBKKAAG
+enum DPJENBKKAAG {
+    DPJENBKKAAG_LOMGOHPCLLB = 0;
+    DPJENBKKAAG_JAGPHPFDGAH = 1;
+    DPJENBKKAAG_FMHPLCGJALM = 2;
+}
+

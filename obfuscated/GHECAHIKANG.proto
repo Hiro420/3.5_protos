@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GHECAHIKANG
+// CmdId: 1797
 message GHECAHIKANG {
-	uint32 HEDBPNIJDKL = 5;
-	uint32 MIPJHAJBOOK = 9;
-	int32 IJIABMFLJGH = 7;
+    uint32 NOAEFIMLNGP = 5;
+    uint32 PIHMJCILKHB = 9;
+    int32 KFCODGHIJEH = 7;
 }
+

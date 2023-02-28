@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IHFHAKKFMHG.proto";
 
+// Name: GLCFLDFINNO
+// CmdId: 329
 message GLCFLDFINNO {
-	bool BBMCLILNKEO = 1;
-	uint32 PDFLEGGDOCP = 6;
-	IHFHAKKFMHG CBOLHDNGDGC = 5;
-	uint32 EADMPCKCFEJ = 3;
+    bool MGLDCPEOIDM = 1;
+    uint32 GPBLLPDCIFK = 6;
+    IHFHAKKFMHG KDJAKKPIMGJ = 5;
+    uint32 MDKCHOPNLAK = 3;
 }
+

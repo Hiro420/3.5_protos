@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IBJFMGLGGIA.proto";
 
+// Name: BDOLBAAPHNE
+// CmdId: 4892
 message BDOLBAAPHNE {
-	repeated IBJFMGLGGIA DJNALBEDFKB = 7;
+    repeated IBJFMGLGGIA NFNPLJPJELI = 7;
 }
+

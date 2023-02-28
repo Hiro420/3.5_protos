@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HHNOKNHCINE.proto";
 
+// Name: MHAKCHCPHGM
+// CmdId: 23108
 message MHAKCHCPHGM {
-	repeated HHNOKNHCINE LALLGCCFAFE = 14;
+    repeated HHNOKNHCINE MDDKIHLKOOM = 14;
 }
+

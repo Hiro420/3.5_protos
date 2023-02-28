@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DIIIIGIADBO
 message DIIIIGIADBO {
-	float LNCPPBKKPGM = 11;
+    float KNPCMENHBEF = 11;
 }
+

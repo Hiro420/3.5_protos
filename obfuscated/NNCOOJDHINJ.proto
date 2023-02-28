@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KBJIEJFLEPA.proto";
 
+// Name: NNCOOJDHINJ
+// CmdId: 608
 message NNCOOJDHINJ {
-	repeated KBJIEJFLEPA GPPNHDKMIEE = 12;
+    repeated KBJIEJFLEPA PPEJPNCLOKN = 12;
 }
+

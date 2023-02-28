@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: BIFBPKLPFKC
+// CmdId: 170
 message BIFBPKLPFKC {
-	repeated ENOCIMKMJJG GPPNHDKMIEE = 15;
+    repeated ENOCIMKMJJG PPEJPNCLOKN = 15;
 }
+

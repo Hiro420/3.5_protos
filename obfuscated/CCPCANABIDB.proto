@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CCPCANABIDB
+// CmdId: 3934
 message CCPCANABIDB {
-	uint32 IHMAEEJLCCC = 14;
+    uint32 FMMBJJLEBAF = 14;
 }
+

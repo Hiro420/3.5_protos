@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BFLAAJGIKBG.proto";
 
+// Name: DHLMDFOJICF
 message DHLMDFOJICF {
-	repeated BFLAAJGIKBG MAFOCPBCCHM = 1;
-	uint32 NBJGFNOIDPB = 2;
+    repeated BFLAAJGIKBG CHBDFDLIMOF = 1;
+    uint32 OLKBJPMCELG = 2;
 }
+

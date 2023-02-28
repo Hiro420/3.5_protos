@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AEGNPAKEEEJ.proto";
 
+// Name: PAGMOLKHNGC
+// CmdId: 8779
 message PAGMOLKHNGC {
-	uint32 PFKDFHHKBFD = 11;
-	int32 IJIABMFLJGH = 5;
-	repeated AEGNPAKEEEJ BPHOFIELMIG = 10;
+    uint32 NLBJCAHEJOC = 11;
+    int32 KFCODGHIJEH = 5;
+    repeated AEGNPAKEEEJ MAEPGOKMJJM = 10;
 }
+

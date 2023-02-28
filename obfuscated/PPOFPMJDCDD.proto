@@ -2,5 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PPOFPMJDCDD
+// CmdId: 3283
 message PPOFPMJDCDD {
 }
+

@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KGNLJBHLIPC
 message KGNLJBHLIPC {
-	uint32 NFOPOKGDODK = 6;
-	uint32 JIKFEHBKOCO = 3;
+    uint32 PFLGEMLFBLL = 6;
+    uint32 EBDOCHHNJEP = 3;
 }
+

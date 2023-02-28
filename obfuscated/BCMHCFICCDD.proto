@@ -5,11 +5,13 @@ option java_package = "emu.grasscutter.net.proto";
 import "FMOEOCJBOPN.proto";
 import "JIPFDPOBPNH.proto";
 
+// Name: BCMHCFICCDD
 message BCMHCFICCDD {
-	uint32 DIEBKNBCLKN = 5;
-	repeated JIPFDPOBPNH GCCJKNAEBGA = 2;
-	uint32 IIBLLJGKGJI = 9;
-	uint32 LFEIIMBMJLP = 7;
-	FMOEOCJBOPN IHDFFJMPCHJ = 3;
-	uint32 DBPFNJIMHGH = 1;
+    uint32 ALGDJMPAHDO = 5;
+    repeated JIPFDPOBPNH OAKDHABOPJD = 2;
+    uint32 FDHDJHJOIIG = 9;
+    uint32 OEAEACPKCNP = 7;
+    FMOEOCJBOPN AECBJKLBGFK = 3;
+    uint32 DELFEGPPGMK = 1;
 }
+

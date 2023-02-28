@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HNMFNPOGDBP
+// CmdId: 20054
 message HNMFNPOGDBP {
-	uint32 BEJDBNONODA = 11;
-	repeated uint32 CCLAGIJFOJP = 7;
+    uint32 NJIHDDKBBLA = 11;
+    repeated uint32 JHMAENKGIDE = 7;
 }
+

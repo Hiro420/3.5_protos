@@ -4,10 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LANGJAKENPJ.proto";
 
+// Name: LAMFKFNJMDN
+// CmdId: 8131
 message LAMFKFNJMDN {
-	int32 IJIABMFLJGH = 1;
-	uint32 AHEFDMPHAAK = 2;
-	uint32 BEJDBNONODA = 3;
-	uint32 HFKNDLGIPML = 8;
-	repeated LANGJAKENPJ CMPPJDHENIF = 4;
+    int32 KFCODGHIJEH = 1;
+    uint32 NOGMACBJJCL = 2;
+    uint32 NJIHDDKBBLA = 3;
+    uint32 EILEKGBEBLI = 8;
+    repeated LANGJAKENPJ EPBPKJAPAGK = 4;
 }
+

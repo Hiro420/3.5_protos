@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HHACKKBLLHO.proto";
 
+// Name: INEIPAMELIP
+// CmdId: 7287
 message INEIPAMELIP {
-	HHACKKBLLHO LDPJAECIFHI = 4;
-	int32 IJIABMFLJGH = 13;
+    HHACKKBLLHO IEOMECODBLG = 4;
+    int32 KFCODGHIJEH = 13;
 }
+

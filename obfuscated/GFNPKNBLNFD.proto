@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FFEPOPDPELC.proto";
 
+// Name: GFNPKNBLNFD
+// CmdId: 4979
 message GFNPKNBLNFD {
-	FFEPOPDPELC BIKINMNDEMG = 4;
+    FFEPOPDPELC DCCHELOKEGL = 4;
 }
+

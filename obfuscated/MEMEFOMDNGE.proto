@@ -2,10 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MEMEFOMDNGE.LICOHJHLBNA.DAKKMFPGCFN.proto";
-
+// Name: MEMEFOMDNGE
+// CmdId: 101
 message MEMEFOMDNGE {
-	uint32 GKHJKEGICOO = 1;
-	string NFGBBEGMFNN = 2;
-	MEMEFOMDNGE.LICOHJHLBNA.DAKKMFPGCFN IJIABMFLJGH = 3;
+    // Name: DAKKMFPGCFN
+    enum DAKKMFPGCFN {
+        DAKKMFPGCFN_SUCC = 0;
+        DAKKMFPGCFN_FAIL = 1;
+    }
+
+    uint32 FBJHOFHKIIG = 1;
+    string FGEDEGFCPDJ = 2;
+    DAKKMFPGCFN KFCODGHIJEH = 3;
 }
+

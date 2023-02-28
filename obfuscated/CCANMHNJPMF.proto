@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CCANMHNJPMF
+// CmdId: 408
 message CCANMHNJPMF {
-	bool OCPLCADHBIK = 11;
-	uint32 MIPJHAJBOOK = 14;
-	string PFAEKDPKBCG = 12;
-	int32 IJIABMFLJGH = 13;
+    bool ALOCBBLKEFD = 11;
+    uint32 PIHMJCILKHB = 14;
+    string OPEJIFGDMBH = 12;
+    int32 KFCODGHIJEH = 13;
 }
+

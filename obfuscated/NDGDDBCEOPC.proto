@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NDGDDBCEOPC
+// CmdId: 4143
 message NDGDDBCEOPC {
-	string EJNMMOMKGCO = 11;
-	bool MEFCPELJALG = 1;
-	int32 IJIABMFLJGH = 9;
+    string APHGPJLNCDD = 11;
+    bool PJNOHLIIAFB = 1;
+    int32 KFCODGHIJEH = 9;
 }
+

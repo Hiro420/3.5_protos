@@ -2,14 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "LLJAMLLPIIF.proto";
 import "ABMCDDFMBOC.proto";
 import "FCEIDNPGFGK.proto";
+import "LLJAMLLPIIF.proto";
 
+// Name: DLCNMLLCHCI
+// CmdId: 20411
 message DLCNMLLCHCI {
-	uint32 OPBEDPAPGBC = 2;
-	repeated FCEIDNPGFGK KCJDLDNKBOH = 3;
-	repeated ABMCDDFMBOC FADPNNCLMPK = 6;
-	LLJAMLLPIIF GNLDDLIKJDN = 11;
-	bool DBIKCJCJHFI = 7;
+    uint32 NOFNEMFHAAF = 2;
+    repeated FCEIDNPGFGK LGAGGHJDINL = 3;
+    repeated ABMCDDFMBOC KOJALAALAKA = 6;
+    LLJAMLLPIIF BHDBMLOIDGK = 11;
+    bool AAMENNENDKM = 7;
 }
+

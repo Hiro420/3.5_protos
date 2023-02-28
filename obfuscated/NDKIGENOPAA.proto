@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FNABEPABCNG.proto";
 
+// Name: NDKIGENOPAA
+// CmdId: 4840
 message NDKIGENOPAA {
-	FNABEPABCNG DFLIDJEIGPO = 5;
+    FNABEPABCNG JOLNHBKLDHC = 5;
 }
+

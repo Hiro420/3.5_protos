@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FFEPOPDPELC
 message FFEPOPDPELC {
-	uint32 EBJNKJCIPHA = 7;
-	bool GKHGEPEKGKJ = 9;
+    uint32 LKKGIIANNGL = 7;
+    bool KNCKLGOPJEB = 9;
 }
+

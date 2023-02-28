@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "LAGAGLFKNNA.proto";
 import "FKGPKKHNDLC.proto";
+import "LAGAGLFKNNA.proto";
 
+// Name: NNOODBGGBPH
+// CmdId: 59
 message NNOODBGGBPH {
-	FKGPKKHNDLC LGNKOHGFGBK = 12;
-	string OBMOAJEHLFA = 14;
-	LAGAGLFKNNA PPEJKGMPJIE = 1;
+    FKGPKKHNDLC DKIGGOECGIM = 12;
+    string OIAICCOIEPB = 14;
+    LAGAGLFKNNA NFNHENANPAE = 1;
 }
+

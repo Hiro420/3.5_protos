@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KOMPEBHALPK
+// CmdId: 2850
 message KOMPEBHALPK {
-	uint32 HMMMJIIDPKL = 6;
-	uint32 ELNNIELNMBO = 10;
+    uint32 LCMJMIEBHHG = 6;
+    uint32 KFGGNNFODBD = 10;
 }
+

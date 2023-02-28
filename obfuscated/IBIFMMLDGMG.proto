@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "JNBHKNJHCHG.proto";
 
+// Name: IBIFMMLDGMG
 message IBIFMMLDGMG {
-	repeated JNBHKNJHCHG KIJGDIIHGID = 8;
+    repeated JNBHKNJHCHG DEPFNCCIKFA = 8;
 }
+

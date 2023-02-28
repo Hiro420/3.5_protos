@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JGEINEJNJII
+// CmdId: 4041
 message JGEINEJNJII {
-	uint32 AAEBBDIDMAO = 10;
+    uint32 AKDECIELPLN = 10;
 }
+

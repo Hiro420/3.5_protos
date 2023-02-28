@@ -4,10 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MFMLDFBDCLA.proto";
 
+// Name: HHLPGAGCBPI
+// CmdId: 866
 message HHLPGAGCBPI {
-	MFMLDFBDCLA LBHIINLKALB = 12;
-	uint32 NCCDAMEHAMM = 10;
-	int32 IJIABMFLJGH = 14;
-	uint32 NGCLEIEIBBL = 15;
-	uint32 JGAHPOJJDHJ = 6;
+    MFMLDFBDCLA DCJGKIIHHPA = 12;
+    uint32 ODOEMLALIML = 10;
+    int32 KFCODGHIJEH = 14;
+    uint32 AHBIFENKEPF = 15;
+    uint32 LGAHNCLEDCF = 6;
 }
+

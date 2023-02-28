@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: MJCEMFIHNCD
 message MJCEMFIHNCD {
-	DALMLFNANKL GGHBEBAFALA = 1;
+    DALMLFNANKL FOMBBEEAFFJ = 1;
 }
+

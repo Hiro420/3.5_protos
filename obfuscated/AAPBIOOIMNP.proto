@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LPCBJDFPFII.proto";
 
+// Name: AAPBIOOIMNP
 message AAPBIOOIMNP {
-	repeated LPCBJDFPFII AHFBFNGNGHA = 11;
+    repeated LPCBJDFPFII JAIKJDEFHCI = 11;
 }
+

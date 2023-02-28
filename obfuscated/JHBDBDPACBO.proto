@@ -4,11 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CDDKKKCFJAI.proto";
 
+// Name: JHBDBDPACBO
+// CmdId: 2314
 message JHBDBDPACBO {
-	bool DDCNKPKHBCL = 11;
-	uint32 KFEMBAPKMFH = 15;
-	uint32 AFJJCDAMFIK = 1;
-	uint32 AOIPBHNJDHN = 13;
-	uint32 IJBPLIOCOCN = 4;
-	repeated CDDKKKCFJAI EMFGJJJNJKF = 12;
+    bool NDHGMLCPFBO = 11;
+    uint32 NDGLECFHBCJ = 15;
+    uint32 EAKDPMJABDI = 1;
+    uint32 FBHKKDDCOPA = 13;
+    uint32 OOKOOLNLGOD = 4;
+    repeated CDDKKKCFJAI PGBOHKAKFBN = 12;
 }
+

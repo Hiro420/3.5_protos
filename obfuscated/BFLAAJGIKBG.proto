@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+import "KAPLNKOBMCI.proto";
+
+// Name: BFLAAJGIKBG
+message BFLAAJGIKBG {
+    DALMLFNANKL HBMLNLCODNM = 1;
+    float HINDCLHOENG = 2;
+    bool KFJKCGBDBKB = 3;
+    oneof JCFJOJNCGOP {
+        float OEKGMJGDCNC = 11;
+        float BCJEPJFHKIN = 12;
+    }
+    oneof IHAPLBNCBIN {
+        DALMLFNANKL DAMEIBHLJGC = 21;
+        KAPLNKOBMCI ECNAAMDJMIP = 22;
+        KAPLNKOBMCI FLPPLGEOBBN = 23;
+    }
+}
+

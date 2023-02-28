@@ -2,11 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MAAKJIPELDB
 message MAAKJIPELDB {
-	uint32 BNGHDMNKMNB = 12;
-	uint32 OPLEJJBAPMI = 14;
-	uint32 JKDNHDLNHMJ = 15;
-	uint32 DIGHGFNNKGA = 1;
-	uint32 MMECOIGNLDO = 8;
-	uint32 LJCKMKPDNMO = 6;
+    uint32 IFKHJLODEIF = 12;
+    uint32 AGDIFNGNFOK = 14;
+    uint32 LHFGALANHMN = 15;
+    uint32 DIBMGMPIPAH = 1;
+    uint32 MIILNGGNDAH = 8;
+    uint32 PEBMJKKFPAE = 6;
 }
+

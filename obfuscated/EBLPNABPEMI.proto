@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: EBLPNABPEMI
+enum EBLPNABPEMI {
+    EBLPNABPEMI_JCIMCBBPPNJ = 0;
+    EBLPNABPEMI_MIHMKMHDNCG = 1;
+    EBLPNABPEMI_JABHIIGAHBF = 2;
+}
+

@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EAMMPIMBPKH.proto";
 
+// Name: NHFLBOGLALJ
+// CmdId: 8343
 message NHFLBOGLALJ {
-	int32 IJIABMFLJGH = 9;
-	uint32 PFKDFHHKBFD = 12;
-	EAMMPIMBPKH KKAPCPLJCAM = 14;
+    int32 KFCODGHIJEH = 9;
+    uint32 NLBJCAHEJOC = 12;
+    EAMMPIMBPKH GGAGEFLCOGA = 14;
 }
+

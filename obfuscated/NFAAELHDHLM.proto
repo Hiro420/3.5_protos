@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NFAAELHDHLM
 message NFAAELHDHLM {
-	uint32 BNIJIKCPOKJ = 1;
-	repeated uint32 KFBGJODECKD = 2;
-	repeated uint32 EEHPMLIFDLD = 3;
+    uint32 NBFGIIKBIHE = 1;
+    repeated uint32 IGMEOPMEPMC = 2;
+    repeated uint32 NPLGGCKKFFG = 3;
 }
+

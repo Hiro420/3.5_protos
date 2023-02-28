@@ -4,12 +4,15 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: HFFIALPJBJB
+// CmdId: 8327
 message HFFIALPJBJB {
-	repeated uint32 MAPCFDMPPBB = 8;
-	uint32 LICDLKFANAM = 4;
-	bool CLHIECBPNJO = 9;
-	uint32 DPJOJFFAOIB = 10;
-	repeated ENOCIMKMJJG CANCLEDDKEP = 13;
-	uint32 HDDKAPBEACA = 6;
-	uint32 HCELOPFGIPG = 2;
+    repeated uint32 KGJNIOJFDHP = 8;
+    uint32 LGPFMKPDGEO = 4;
+    bool GKFDJKLEKKC = 9;
+    uint32 EGFOFPMNMJB = 10;
+    repeated ENOCIMKMJJG DIGBDDBNBHP = 13;
+    uint32 EAIDPIBKEOH = 6;
+    uint32 DKLPLLBEHGI = 2;
 }
+

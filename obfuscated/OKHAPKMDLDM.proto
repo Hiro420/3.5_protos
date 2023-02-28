@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OKHAPKMDLDM
+// CmdId: 3954
 message OKHAPKMDLDM {
-	uint32 IHMAEEJLCCC = 1;
-	uint32 CDMMMIMHAFN = 11;
+    uint32 FMMBJJLEBAF = 1;
+    uint32 KHMKHIAHCOD = 11;
 }
+

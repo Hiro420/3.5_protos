@@ -4,15 +4,17 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: FPIPPCDFCNG
 message FPIPPCDFCNG {
-	uint32 KFEMBAPKMFH = 3;
-	uint32 MACOPJFGDDI = 12;
-	uint32 JBIFNFKOOIH = 9;
-	bool DJKOKFDGKIG = 8;
-	DALMLFNANKL HHEHFPGFGEL = 5;
-	float KPABLGCHDMN = 4;
-	uint32 IDIKDDDOONN = 7;
-	uint32 MPGJJEALABF = 10;
-	uint32 BGEBCJLNNAJ = 1;
-	bool FMLCKAJLIIP = 6;
+    uint32 NDGLECFHBCJ = 3;
+    uint32 JEMLKKOCEJO = 12;
+    uint32 NMNPKPCBHJM = 9;
+    bool HKDOCGOMBKP = 8;
+    DALMLFNANKL HFJILFLPNHC = 5;
+    float BEFPOPPNALJ = 4;
+    uint32 LDLHMJKLCCC = 7;
+    uint32 GPKPCCJAFAH = 10;
+    uint32 GHDEBMECPPJ = 1;
+    bool IMMHNCGLPOM = 6;
 }
+

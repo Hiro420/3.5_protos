@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HCGCGPICFEA
+// CmdId: 313
 message HCGCGPICFEA {
-	uint32 MIHJLNKENFH = 9;
-	uint32 FGJKMIJDKFF = 14;
-	repeated uint32 KIOFBLKFNCH = 4;
+    uint32 MLHINBDAAPI = 9;
+    uint32 EKADLODILNN = 14;
+    repeated uint32 PNFBBPJCPNM = 4;
 }
+

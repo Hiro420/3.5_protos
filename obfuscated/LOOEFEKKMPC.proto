@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HPAIEMHJBDF.proto";
 
+// Name: LOOEFEKKMPC
+// CmdId: 4732
 message LOOEFEKKMPC {
-	HPAIEMHJBDF ICCBBCMELLL = 5;
+    HPAIEMHJBDF MHGONJCHNMG = 5;
 }
+

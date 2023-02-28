@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GBGELAPCNII.proto";
 
+// Name: NJIPFBKJBLI
+// CmdId: 4298
 message NJIPFBKJBLI {
-	repeated GBGELAPCNII PLNHAKHBNFB = 15;
-	uint32 BGOGOFOCIOP = 7;
+    repeated GBGELAPCNII BFCHPOLCMHE = 15;
+    uint32 OCCAGGGCOMP = 7;
 }
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GLFEGKIJKDD
+// CmdId: 44
 message GLFEGKIJKDD {
-	string FELNMAMJHCP = 9;
-	uint32 PNAEJGOAFCK = 11;
+    string JNJBGLLLHFJ = 9;
+    uint32 HBCGPPPPFEI = 11;
 }
+

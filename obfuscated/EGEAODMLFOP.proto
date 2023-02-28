@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EGEAODMLFOP
+// CmdId: 8260
 message EGEAODMLFOP {
-	repeated uint32 MHBMGEICMDH = 14;
+    repeated uint32 LHFEIMGFLDK = 14;
 }
+

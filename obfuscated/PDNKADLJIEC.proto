@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PDNKADLJIEC
+// CmdId: 606
 message PDNKADLJIEC {
-	uint32 DNIBKOCOPBJ = 12;
-	bool MPLOILHKKMO = 2;
+    uint32 EIBODINCJMC = 12;
+    bool ELPEIGPPDPO = 2;
 }
+

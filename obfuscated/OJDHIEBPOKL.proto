@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: OJDHIEBPOKL
+enum OJDHIEBPOKL {
+    OJDHIEBPOKL_AJHBMPHEDOM = 0;
+    OJDHIEBPOKL_DNAFIGCJDDP = 1;
+    OJDHIEBPOKL_NPIDIOMOCFH = 2;
+}
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GIMHFKKKBMN.proto";
 
+// Name: MBJEENGOMAN
+// CmdId: 338
 message MBJEENGOMAN {
-	map<uint32, GIMHFKKKBMN> DMPNHOAEEMO = 9;
+    map<uint32, GIMHFKKKBMN> AKNBKPEFJGM = 9;
 }
+

@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EGBGOAANIKP
 message EGBGOAANIKP {
-	uint32 BEJDBNONODA = 13;
-	uint32 DBNLJBCCLOC = 4;
-	bool LPGAJJALBDN = 11;
-	bool DJKOKFDGKIG = 7;
+    uint32 NJIHDDKBBLA = 13;
+    uint32 KCKDFMAPOMA = 4;
+    bool PIHHIOENHPL = 11;
+    bool HKDOCGOMBKP = 7;
 }
+

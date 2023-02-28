@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ENOCIMKMJJG.proto";
 
+// Name: FEAPAPEPKLP
+// CmdId: 4139
 message FEAPAPEPKLP {
-	uint32 INDCALDDJKO = 11;
-	repeated ENOCIMKMJJG BCKPMLBFMNI = 9;
-	int32 IJIABMFLJGH = 5;
+    uint32 ALPNFDGPOMC = 11;
+    repeated ENOCIMKMJJG OPKMJCOIFIG = 9;
+    int32 KFCODGHIJEH = 5;
 }
+

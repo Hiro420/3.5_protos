@@ -4,14 +4,16 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: KCCCOHNCOJH
 message KCCCOHNCOJH {
-	int32 IJMNNHDLCDD = 8;
-	uint32 GBPFHMLPMDI = 13;
-	uint32 PDFLEGGDOCP = 14;
-	bool NFJGABNBMJF = 12;
-	uint32 EIBGPCEACGN = 4;
-	bool KKGFGJMEJNN = 5;
-	float DPFBNHGMJON = 2;
-	uint32 BBAPAANNOLJ = 15;
-	DALMLFNANKL AKANNIGGDKH = 3;
+    int32 DDCGFPPKFHP = 8;
+    uint32 ACGBAHPCLJG = 13;
+    uint32 GPBLLPDCIFK = 14;
+    bool BIPOOIBEMGO = 12;
+    uint32 IBAPLLHNGHI = 4;
+    bool MOGDPFGEFBJ = 5;
+    float KDKJAMAPGFI = 2;
+    uint32 GKMEGBPFMHA = 15;
+    DALMLFNANKL GHGPLCNLCDF = 3;
 }
+

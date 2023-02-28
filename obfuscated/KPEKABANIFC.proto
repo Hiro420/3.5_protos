@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KPEKABANIFC
+// CmdId: 4053
 message KPEKABANIFC {
-	uint32 APPJCEKCOBP = 9;
+    uint32 IPLGACBJJGH = 9;
 }
+

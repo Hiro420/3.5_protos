@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NLNMEONBNGB
+// CmdId: 8647
 message NLNMEONBNGB {
-	uint32 GHDDOCMLDMD = 9;
-	uint32 ECHCDODIGAN = 2;
-	uint32 BEJDBNONODA = 5;
+    uint32 NPMHKFKNHEL = 9;
+    uint32 GLOLPGMFPBB = 2;
+    uint32 NJIHDDKBBLA = 5;
 }
+

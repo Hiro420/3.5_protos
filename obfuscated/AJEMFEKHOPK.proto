@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NCJKDBBODAO.proto";
 
+// Name: AJEMFEKHOPK
 message AJEMFEKHOPK {
-	int32 GJDMBBAMIDJ = 6;
-	NCJKDBBODAO HCMPEPODKPP = 5;
+    int32 IHLLNJNJBGO = 6;
+    NCJKDBBODAO IOGCBDAJIJK = 5;
 }
+

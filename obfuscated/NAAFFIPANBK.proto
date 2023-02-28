@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PEBGLHDFPHB.proto";
 
+// Name: NAAFFIPANBK
+// CmdId: 6009
 message NAAFFIPANBK {
-	repeated PEBGLHDFPHB BJHJBCAMFHJ = 4;
+    repeated PEBGLHDFPHB JDFJNNGODOL = 4;
 }
+

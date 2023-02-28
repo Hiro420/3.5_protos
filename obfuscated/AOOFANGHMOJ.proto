@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AOOFANGHMOJ
 message AOOFANGHMOJ {
-	repeated uint32 NFNPGCBEFAB = 8;
-	uint32 BNGHDMNKMNB = 3;
-	uint32 AICOCJJOMDA = 9;
-	uint32 DHNOJEGFDBE = 13;
-	uint32 PPAFHLELCDG = 14;
-	uint32 BFIHPAJILKD = 11;
-	repeated uint32 LDILKKNFIEL = 6;
+    repeated uint32 NEAELGDFMIL = 8;
+    uint32 IFKHJLODEIF = 3;
+    uint32 DMKGFAJADNC = 9;
+    uint32 OBDOEOGAGHH = 13;
+    uint32 CGGCACEMFPB = 14;
+    uint32 OGDCJBFODEB = 11;
+    repeated uint32 IEIFGEDGHLI = 6;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GBKPAIOPIMP
+// CmdId: 5397
 message GBKPAIOPIMP {
-	uint32 JAOBPKMBOKD = 11;
+    uint32 AHMMKMKHHFP = 11;
 }
+

@@ -2,13 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "HPEPNLNMJKM.proto";
 import "ENOCIMKMJJG.proto";
+import "HPEPNLNMJKM.proto";
 
+// Name: PBALBDCFHEM
 message PBALBDCFHEM {
-	repeated ENOCIMKMJJG BLKMKANLIIG = 13;
-	ENOCIMKMJJG LILHMKIAPIG = 15;
-	bool KAHAKOAHABF = 4;
-	repeated HPEPNLNMJKM BDEHJDNILFA = 7;
-	bool DGMMFOKOBJH = 10;
+    repeated ENOCIMKMJJG JDJHLJPPNGC = 13;
+    ENOCIMKMJJG BPGKOCDOKFE = 15;
+    bool ECDEIIANGJN = 4;
+    repeated HPEPNLNMJKM HMLHEGIEOAP = 7;
+    bool HFDPDGIDDLB = 10;
 }
+

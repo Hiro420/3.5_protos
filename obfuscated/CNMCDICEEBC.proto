@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CNMCDICEEBC
+// CmdId: 2155
 message CNMCDICEEBC {
-	uint32 LLOBHFKCOJA = 1;
-	uint32 OKMJACNOJDD = 12;
-	uint32 PFKDFHHKBFD = 14;
+    uint32 PDDEJIGJICI = 1;
+    uint32 GBLFDPBBOMB = 12;
+    uint32 NLBJCAHEJOC = 14;
 }
+

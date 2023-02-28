@@ -2,25 +2,28 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "GBGELAPCNII.proto";
-import "NEOMIACADNF.proto";
-import "LHCNFJEHPLP.proto";
-import "HLACDMPPOAP.proto";
-import "GBLLGEFNPCP.proto";
-import "KMBIKGFKGNP.proto";
 import "DCOJKOKIFOJ.proto";
+import "GBGELAPCNII.proto";
+import "GBLLGEFNPCP.proto";
+import "HLACDMPPOAP.proto";
 import "JPEDGKIPECE.proto";
+import "KMBIKGFKGNP.proto";
+import "LHCNFJEHPLP.proto";
+import "NEOMIACADNF.proto";
 
+// Name: OMFAFJLJDPM
+// CmdId: 4300
 message OMFAFJLJDPM {
-	repeated JPEDGKIPECE CKMEHIMHMKD = 7;
-	DCOJKOKIFOJ ABKAJBJLHGG = 10;
-	repeated KMBIKGFKGNP BLHKPALNNNE = 9;
-	repeated GBLLGEFNPCP JGLFJMFMJGF = 12;
-	HLACDMPPOAP INJONHMCGJC = 15;
-	repeated JPEDGKIPECE BKMDNJJEABK = 13;
-	repeated LHCNFJEHPLP KAEAIOPBBAF = 4;
-	uint32 KLJFOHIIGKO = 8;
-	NEOMIACADNF JBMNMONEFGL = 3;
-	repeated GBGELAPCNII PLNHAKHBNFB = 14;
-	repeated uint32 HIABDLBOLAD = 5;
+    repeated JPEDGKIPECE LCFJGCFMBPH = 7;
+    DCOJKOKIFOJ AGBBNMFEBCC = 10;
+    repeated KMBIKGFKGNP JIPGCODGKLL = 9;
+    repeated GBLLGEFNPCP CBGOLEHIAOC = 12;
+    HLACDMPPOAP PNABAPLCFOB = 15;
+    repeated JPEDGKIPECE PNKCMCMHCPL = 13;
+    repeated LHCNFJEHPLP EMMJGNMAEIF = 4;
+    uint32 JIBDBOOFEPM = 8;
+    NEOMIACADNF MBHKOCILJCN = 3;
+    repeated GBGELAPCNII BFCHPOLCMHE = 14;
+    repeated uint32 KFCKCNMJCFL = 5;
 }
+

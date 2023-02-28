@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FJJOGOJMCOO.proto";
 
+// Name: AJAPPFJJHMF
+// CmdId: 1082
 message AJAPPFJJHMF {
-	uint64 JDDEJFKJHJN = 9;
-	map<uint32, FJJOGOJMCOO> GDHFAHOCDFC = 14;
+    uint64 LECPGEIPAFI = 9;
+    map<uint32, FJJOGOJMCOO> OLKGKPJGCIN = 14;
 }
+

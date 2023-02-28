@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NJDGBCDHEIP
+// CmdId: 1014
 message NJDGBCDHEIP {
-	repeated uint64 MHLBHKGHPFJ = 15;
-	uint64 POGHDEAENAD = 10;
+    repeated uint64 ALGCLHBBMCK = 15;
+    uint64 PKJEEFBMBNM = 10;
 }
+

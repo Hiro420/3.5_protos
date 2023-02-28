@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PJOPDHANLEM.proto";
 
+// Name: COHNKHJHMNA
+// CmdId: 4098
 message COHNKHJHMNA {
-	PJOPDHANLEM NFFPHIIAKJB = 13;
+    PJOPDHANLEM BMJDIHKKKLD = 13;
 }
+

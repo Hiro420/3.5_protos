@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: OCJFHCPFILC
+enum OCJFHCPFILC {
+    OCJFHCPFILC_HPINPOHFIHC = 0;
+    OCJFHCPFILC_DPFHGKEOMJN = 1;
+    OCJFHCPFILC_JBCJJKCJILC = 2;
+    OCJFHCPFILC_JHNJFPFOBDG = 3;
+}
+

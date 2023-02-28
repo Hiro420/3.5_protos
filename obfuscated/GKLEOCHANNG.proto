@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GKLEOCHANNG
 message GKLEOCHANNG {
-	uint32 HEHLPFLKIKP = 14;
-	uint32 GFHIMCLONCN = 6;
-	map<uint32, int32> HAMKAPHCFBL = 9;
-	bool MFPGHFOFAFP = 7;
-	uint32 POLIFBINHIA = 5;
+    uint32 MAOKHBICFDC = 14;
+    uint32 ADDPNJJNODF = 6;
+    map<uint32, int32> FFHFIGIFIIJ = 9;
+    bool KANHMLPBBHL = 7;
+    uint32 JAPOOOOHCEN = 5;
 }
+

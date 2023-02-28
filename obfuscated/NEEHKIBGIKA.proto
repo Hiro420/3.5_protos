@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: NEEHKIBGIKA
+// CmdId: 345
 message NEEHKIBGIKA {
-	uint64 DAKINCEPDIJ = 2;
-	uint32 PDFLEGGDOCP = 8;
-	int32 IJIABMFLJGH = 6;
-	DALMLFNANKL ONPNDEDLPNB = 12;
+    uint64 MEHIMLBGJLN = 2;
+    uint32 GPBLLPDCIFK = 8;
+    int32 KFCODGHIJEH = 6;
+    DALMLFNANKL HBMLNLCODNM = 12;
 }
+

@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LPGOCDCNECC.proto";
 
+// Name: MIJDNNJJBEK
 message MIJDNNJJBEK {
-	uint32 APPJCEKCOBP = 1;
-	repeated uint64 NPFHFCLADNE = 2;
-	repeated uint64 CCIBBFGJGHO = 3;
-	repeated LPGOCDCNECC PKHCFOIMHCG = 4;
+    uint32 IPLGACBJJGH = 1;
+    repeated uint64 JGEAGEDMGMK = 2;
+    repeated uint64 KFOCIHGPOBM = 3;
+    repeated LPGOCDCNECC CKELOGNLNJM = 4;
 }
+

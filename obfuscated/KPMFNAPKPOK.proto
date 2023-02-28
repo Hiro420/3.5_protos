@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BOIBNONOGBF.proto";
 
+// Name: KPMFNAPKPOK
 message KPMFNAPKPOK {
-	repeated BOIBNONOGBF KBJKNDGIPKM = 14;
-	bool IAJEKOIOEAF = 1;
-	uint32 BEJDBNONODA = 3;
-	uint32 HDHFDDKANOF = 11;
+    repeated BOIBNONOGBF NFFJHHGCLLF = 14;
+    bool MDLKFBKMGEA = 1;
+    uint32 NJIHDDKBBLA = 3;
+    uint32 EHPPNPOKAGI = 11;
 }
+

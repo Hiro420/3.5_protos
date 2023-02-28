@@ -2,10 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ANDLNOABFII
+// CmdId: 8542
 message ANDLNOABFII {
-	uint64 DHJBPPJOKNK = 9;
-	bool KJBDEIBLACP = 5;
-	uint32 NAEGOGKCCIB = 14;
-	bool DBIKCJCJHFI = 7;
-	int32 IJIABMFLJGH = 15;
+    uint64 GDABHBPIGIP = 9;
+    bool BGJCLMIADJG = 5;
+    uint32 AAHAACKGAGG = 14;
+    bool AAMENNENDKM = 7;
+    int32 KFCODGHIJEH = 15;
 }
+

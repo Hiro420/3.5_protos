@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IEIGALKDMAA
+// CmdId: 104
 message IEIGALKDMAA {
-	uint32 CEKDLLLCMKI = 5;
-	int32 IJIABMFLJGH = 9;
-	uint32 JLMLALKOMFN = 4;
+    uint32 LKBMPEACAEJ = 5;
+    int32 KFCODGHIJEH = 9;
+    uint32 OCFEJAGKHBJ = 4;
 }
+

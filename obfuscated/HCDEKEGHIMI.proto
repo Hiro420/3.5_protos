@@ -2,13 +2,15 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MGPEPCFDPGE.proto";
 import "IAIKHNIKNHG.proto";
+import "MGPEPCFDPGE.proto";
 
+// Name: HCDEKEGHIMI
 message HCDEKEGHIMI {
-	repeated uint32 LHILNNNBEME = 6;
-	IAIKHNIKNHG GNLDDLIKJDN = 13;
-	uint32 IAIEOLAOPAB = 9;
-	MGPEPCFDPGE HCNCFDDMKIK = 2;
-	uint32 AKANNIGGDKH = 5;
+    repeated uint32 HFKLNAKAJIK = 6;
+    IAIKHNIKNHG BHDBMLOIDGK = 13;
+    uint32 ODPJBCIMOMA = 9;
+    MGPEPCFDPGE NNBFNCJPOOL = 2;
+    uint32 GHGPLCNLCDF = 5;
 }
+

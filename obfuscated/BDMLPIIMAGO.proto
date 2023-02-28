@@ -4,11 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PDPKPDBANCA.proto";
 
+// Name: BDMLPIIMAGO
+// CmdId: 459
 message BDMLPIIMAGO {
-	uint32 DPJOJFFAOIB = 5;
-	PDPKPDBANCA DPDNKOIFCPO = 3;
-	uint32 PDFLEGGDOCP = 14;
-	bool GBNLEOFCKIG = 13;
-	int32 IJIABMFLJGH = 8;
-	uint32 BOFBIJGMIGM = 1;
+    uint32 EGFOFPMNMJB = 5;
+    PDPKPDBANCA GDHAFBJCLAD = 3;
+    uint32 GPBLLPDCIFK = 14;
+    bool CEICMGJHLCO = 13;
+    int32 KFCODGHIJEH = 8;
+    uint32 CJMAPJPILIC = 1;
 }
+

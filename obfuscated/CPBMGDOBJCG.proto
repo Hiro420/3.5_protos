@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CPBMGDOBJCG
+// CmdId: 645
 message CPBMGDOBJCG {
-	bool MPLOILHKKMO = 10;
-	uint64 CODICMCGMPM = 13;
+    bool ELPEIGPPDPO = 10;
+    uint64 GHOADCGDKCI = 13;
 }
+

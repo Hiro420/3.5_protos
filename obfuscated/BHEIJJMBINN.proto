@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NKAECBFOIGF.proto";
 
+// Name: BHEIJJMBINN
 message BHEIJJMBINN {
-	NKAECBFOIGF AEBGOFAHGKL = 1;
-	repeated uint32 FMPCLKCKAMD = 2;
-	uint32 JPMFLOJNDAH = 3;
-	uint32 IBANNEGHMDA = 4;
+    NKAECBFOIGF JFCEBFEEJFL = 1;
+    repeated uint32 OJIHOCHJDEK = 2;
+    uint32 DKEOKCPHCNF = 3;
+    uint32 ADOAGIFDGIN = 4;
 }
+

@@ -4,11 +4,14 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MBPAKAMJPFM.proto";
 
+// Name: NLPAFOEDIFO
+// CmdId: 5342
 message NLPAFOEDIFO {
-	map<uint32, uint32> LFOMGHBMGKA = 8;
-	uint32 MODGFBJMMHC = 2;
-	uint32 JEEFNCHAJOJ = 6;
-	uint32 CBBBPNMKCIH = 15;
-	repeated MBPAKAMJPFM DAGINEBHJBN = 9;
-	uint64 GDJNONMGFJI = 7;
+    map<uint32, uint32> HENBGJHAMGN = 8;
+    uint32 JJJDABMAPJG = 2;
+    uint32 MPLJBMEAIBB = 6;
+    uint32 DPEMBLHJKLA = 15;
+    repeated MBPAKAMJPFM LGEAAOBNMGG = 9;
+    uint64 GOKKPEFBACN = 7;
 }
+

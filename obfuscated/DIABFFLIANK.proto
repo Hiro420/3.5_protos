@@ -2,9 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DIABFFLIANK
 message DIABFFLIANK {
-	uint32 JIKFEHBKOCO = 10;
-	bool DJKOKFDGKIG = 15;
-	uint32 MPGJJEALABF = 6;
-	uint32 BEJDBNONODA = 14;
+    uint32 EBDOCHHNJEP = 10;
+    bool HKDOCGOMBKP = 15;
+    uint32 GPKPCCJAFAH = 6;
+    uint32 NJIHDDKBBLA = 14;
 }
+

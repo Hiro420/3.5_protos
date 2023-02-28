@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DFNGPIGNBJJ.proto";
 
+// Name: PHLBANPNLLI
+// CmdId: 4757
 message PHLBANPNLLI {
-	DFNGPIGNBJJ KDGDLKGKCDI = 11;
-	uint32 AHOJAOIHIEB = 8;
+    DFNGPIGNBJJ EEOEBNBCJBA = 11;
+    uint32 FBCAPFHNIEJ = 8;
 }
+

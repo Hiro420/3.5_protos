@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ANJOMJAFKNK.proto";
 
+// Name: OJPKEJLHHMN
+// CmdId: 1671
 message OJPKEJLHHMN {
-	map<uint64, ANJOMJAFKNK> CAIPAJKGJPM = 7;
-	uint32 OCNBIAILGBP = 2;
-	int32 IJIABMFLJGH = 15;
-	repeated uint32 AAPNILCDCPK = 12;
+    map<uint64, ANJOMJAFKNK> EELJILCEEEN = 7;
+    uint32 JLFGPGGKGJP = 2;
+    int32 KFCODGHIJEH = 15;
+    repeated uint32 CKMEJOOOMII = 12;
 }
+

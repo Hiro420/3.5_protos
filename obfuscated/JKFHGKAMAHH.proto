@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FBDKBKEHACB.proto";
 
+// Name: JKFHGKAMAHH
+// CmdId: 1756
 message JKFHGKAMAHH {
-	bool ECGDBMEGHFC = 1;
-	FBDKBKEHACB BMLIBIHBACF = 6;
+    bool FMFOJHFHNIO = 1;
+    FBDKBKEHACB BKEAKBDBPCJ = 6;
 }
+

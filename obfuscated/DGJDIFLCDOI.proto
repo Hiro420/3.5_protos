@@ -2,14 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "PGKMKCDIPCM.proto";
 import "ENOCIMKMJJG.proto";
+import "PGKMKCDIPCM.proto";
 
+// Name: DGJDIFLCDOI
+// CmdId: 141
 message DGJDIFLCDOI {
-	repeated ENOCIMKMJJG JNMBMNIMCFI = 12;
-	repeated ENOCIMKMJJG CANCLEDDKEP = 9;
-	uint32 FDFJFBMJGFO = 10;
-	PGKMKCDIPCM BPJKKPPNJPO = 11;
-	int32 IJIABMFLJGH = 15;
-	uint32 OFANFCGIFPA = 6;
+    repeated ENOCIMKMJJG LNNHNCKJPCK = 12;
+    repeated ENOCIMKMJJG DIGBDDBNBHP = 9;
+    uint32 HHKAPMHMHFI = 10;
+    PGKMKCDIPCM JENDHPMJKLG = 11;
+    int32 KFCODGHIJEH = 15;
+    uint32 IFLJGHHBGMP = 6;
 }
+

@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CANJOFHONKD.proto";
 
+// Name: NNFHPDEKDGK
+// CmdId: 7332
 message NNFHPDEKDGK {
-	uint32 PEPLGLLHHMI = 11;
-	repeated CANJOFHONKD KACADLIIPLM = 9;
-	bool DIDPOIFPCEJ = 13;
+    uint32 IBHCLHKHGMG = 11;
+    repeated CANJOFHONKD HGAOOAHEKNJ = 9;
+    bool EOKOEHJNONA = 13;
 }
+

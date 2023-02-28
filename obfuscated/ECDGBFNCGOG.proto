@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ECDGBFNCGOG
+// CmdId: 321
 message ECDGBFNCGOG {
-	uint32 AAIGOLEADBN = 5;
-	uint32 AEEEALFPPFH = 9;
+    uint32 LPNNGAJFGDA = 5;
+    uint32 HAIGMMJJDNC = 9;
 }
+

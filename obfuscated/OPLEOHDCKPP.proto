@@ -4,10 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: OPLEOHDCKPP
 message OPLEOHDCKPP {
-	float BHEKIBBLMLB = 2;
-	float NOCCECFFIFI = 3;
-	uint32 PDFLEGGDOCP = 14;
-	DALMLFNANKL DJPBOLNGGKC = 1;
-	float ECLOHCNFOLI = 4;
+    float OBEAEOBLJML = 2;
+    float BBEBFCMEOPN = 3;
+    uint32 GPBLLPDCIFK = 14;
+    DALMLFNANKL HOHCJADGKFD = 1;
+    float HCNMAJKLKEP = 4;
 }
+

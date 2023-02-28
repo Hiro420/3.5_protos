@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: IILHKHMLOIA
+enum IILHKHMLOIA {
+    IILHKHMLOIA_KFIOMLLHIJB = 0;
+    IILHKHMLOIA_DKINDPMGEDD = 1;
+    IILHKHMLOIA_KEHPGMCEKHM = 2;
+    IILHKHMLOIA_APHAPKAGMPI = 3;
+}
+

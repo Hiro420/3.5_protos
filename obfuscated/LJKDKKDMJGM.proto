@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EIFBDKLAMCG.proto";
 
+// Name: LJKDKKDMJGM
+// CmdId: 2118
 message LJKDKKDMJGM {
-	EIFBDKLAMCG OMDCAKPEKJL = 11;
+    EIFBDKLAMCG LEMKAPOPFEJ = 11;
 }
+

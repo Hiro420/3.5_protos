@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IKCAPLALLPO.proto";
 
+// Name: KJNHKMHCOCG
+// CmdId: 8746
 message KJNHKMHCOCG {
-	uint32 PDFLEGGDOCP = 2;
-	IKCAPLALLPO ABCACACAHNG = 7;
+    uint32 GPBLLPDCIFK = 2;
+    IKCAPLALLPO ELNMHDIIEIE = 7;
 }
+

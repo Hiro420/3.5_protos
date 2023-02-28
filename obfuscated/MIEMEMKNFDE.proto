@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MIEMEMKNFDE
+// CmdId: 1641
 message MIEMEMKNFDE {
-	uint64 POGHDEAENAD = 14;
+    uint64 PKJEEFBMBNM = 14;
 }
+

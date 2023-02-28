@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: IPPCCDNLHEN
+// CmdId: 8668
 message IPPCCDNLHEN {
-	bool LJJMALDPOOL = 13;
-	uint32 DAIBJCNPOJG = 2;
-	uint32 MHCGANALPFE = 4;
-	int32 IJIABMFLJGH = 14;
+    bool DFOEIIPGGOO = 13;
+    uint32 FGCOFILIGGJ = 2;
+    uint32 EIODGFHKMFP = 4;
+    int32 KFCODGHIJEH = 14;
 }
+

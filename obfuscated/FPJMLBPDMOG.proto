@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FPJMLBPDMOG
+// CmdId: 619
 message FPJMLBPDMOG {
-	uint64 CINOIJEALEF = 6;
+    uint64 CPPBHGBJFEH = 6;
 }
+

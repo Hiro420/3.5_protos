@@ -5,7 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "FOPGOIJCICK.proto";
 import "GGCMGFLFFPB.proto";
 
+// Name: JLFKGLMLFHC
+// CmdId: 654
 message JLFKGLMLFHC {
-	GGCMGFLFFPB OGLAJOOKPKD = 1;
-	repeated FOPGOIJCICK CANCLEDDKEP = 3;
+    GGCMGFLFFPB DHMHAEJALOG = 1;
+    repeated FOPGOIJCICK DIGBDDBNBHP = 3;
 }
+

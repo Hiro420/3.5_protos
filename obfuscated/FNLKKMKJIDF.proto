@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NICMKPJLHMI.proto";
 
+// Name: FNLKKMKJIDF
 message FNLKKMKJIDF {
-	repeated NICMKPJLHMI KGCLHFILLHP = 5;
-	uint32 GMGOHPFCELB = 9;
+    repeated NICMKPJLHMI GOBAMHBPKEL = 5;
+    uint32 FPIKCGDHADF = 9;
 }
+

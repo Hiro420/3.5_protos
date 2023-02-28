@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BANCBBMHEKO
+// CmdId: 8770
 message BANCBBMHEKO {
-	uint64 LHFBBMDLIHF = 5;
-	repeated uint64 FDMHLNFONME = 2;
-	uint32 OFKOOHKDFEC = 1;
-	uint32 OEGEDJPNJAD = 12;
+    uint64 MFJLBDJGMKC = 5;
+    repeated uint64 JAFLIFFCFKB = 2;
+    uint32 DIJCEFIKGAK = 1;
+    uint32 CEHNBFEIODF = 12;
 }
+

@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EDNCOEJLGBG.proto";
 
+// Name: BHKGAINOAON
 message BHKGAINOAON {
-	repeated EDNCOEJLGBG MFJBGPAPBHB = 12;
-	uint32 JHPIFFCABCH = 7;
+    repeated EDNCOEJLGBG DAHEHDGKEHO = 12;
+    uint32 MHEBOPBJPGP = 7;
 }
+

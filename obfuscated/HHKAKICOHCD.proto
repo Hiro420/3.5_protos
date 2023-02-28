@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "JPINHMNKDDF.proto";
 import "FPBAKHENGML.proto";
+import "JPINHMNKDDF.proto";
 
+// Name: HHKAKICOHCD
+// CmdId: 4297
 message HHKAKICOHCD {
-	FPBAKHENGML BAJHMIBJPMG = 13;
-	uint32 AAHPGNIAFFG = 2;
-	repeated JPINHMNKDDF LPOIBGEEFPH = 12;
+    FPBAKHENGML MPNHLGJKOKG = 13;
+    uint32 NGOELONIDLG = 2;
+    repeated JPINHMNKDDF HHPMILMICBI = 12;
 }
+

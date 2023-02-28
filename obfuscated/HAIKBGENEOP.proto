@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HAIKBGENEOP
+// CmdId: 8794
 message HAIKBGENEOP {
-	int32 IJIABMFLJGH = 6;
-	uint32 EPODNOIKDEM = 4;
-	uint32 AHEFDMPHAAK = 5;
-	repeated uint32 BIGKKHKAGNF = 9;
+    int32 KFCODGHIJEH = 6;
+    uint32 PJFOLMPAJKP = 4;
+    uint32 NOGMACBJJCL = 5;
+    repeated uint32 KELHCDAGMEP = 9;
 }
+

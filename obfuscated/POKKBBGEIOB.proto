@@ -2,11 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MAAHGJJPDKG.proto";
 import "HMCHIEMDGNP.proto";
+import "MAAHGJJPDKG.proto";
 
+// Name: POKKBBGEIOB
 message POKKBBGEIOB {
-	HMCHIEMDGNP LBHIINLKALB = 6;
-	MAAHGJJPDKG MCMOOAMAHPB = 11;
-	uint32 PDFLEGGDOCP = 7;
+    HMCHIEMDGNP DCJGKIIHHPA = 6;
+    MAAHGJJPDKG CJEBOCLDHHC = 11;
+    uint32 GPBLLPDCIFK = 7;
 }
+

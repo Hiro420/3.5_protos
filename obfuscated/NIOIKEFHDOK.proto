@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: NIOIKEFHDOK
+enum NIOIKEFHDOK {
+    NIOIKEFHDOK_NLHGCMMJGBB = 0;
+    NIOIKEFHDOK_DJDOOONJOOH = 1;
+    NIOIKEFHDOK_DCFIOBPPBHK = 2;
+    NIOIKEFHDOK_IKAABIGKADE = 3;
+}
+

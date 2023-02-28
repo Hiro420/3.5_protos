@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CPPKIIBAODF
 message CPPKIIBAODF {
-	uint32 PEOGCNKMKBC = 1;
+    uint32 LEMDGCIMHFP = 1;
 }
+

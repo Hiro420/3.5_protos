@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LMPDFNFNKKI.proto";
 
+// Name: IEMOLLDEMBH
 message IEMOLLDEMBH {
-	uint32 CEKDLLLCMKI = 6;
-	uint32 JLMLALKOMFN = 15;
-	LMPDFNFNKKI MAIFFLDLMOK = 9;
+    uint32 LKBMPEACAEJ = 6;
+    uint32 OCFEJAGKHBJ = 15;
+    LMPDFNFNKKI FBMHMHMDMCP = 9;
 }
+

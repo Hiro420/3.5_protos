@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NHLAOHAJOFN.proto";
 
+// Name: PPCDGJDJBCM
+// CmdId: 20080
 message PPCDGJDJBCM {
-	repeated NHLAOHAJOFN KBJKNDGIPKM = 6;
-	uint32 MEGEPCAJCKE = 11;
-	uint32 BEJDBNONODA = 5;
+    repeated NHLAOHAJOFN NFFJHHGCLLF = 6;
+    uint32 ONOCGGDGHIP = 11;
+    uint32 NJIHDDKBBLA = 5;
 }
+

@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NEIOEGLNCBC
+// CmdId: 2109
 message NEIOEGLNCBC {
-	uint32 OKPFLEMFIAL = 6;
+    uint32 MBIJNDHCADL = 6;
 }
+

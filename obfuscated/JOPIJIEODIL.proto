@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JOPIJIEODIL
 message JOPIJIEODIL {
-	uint32 CJMCIOJABIJ = 1;
-	uint32 GGDMGDJLKCO = 9;
+    uint32 DMOGBMIPNFM = 1;
+    uint32 GNAPPNPBOGK = 9;
 }
+

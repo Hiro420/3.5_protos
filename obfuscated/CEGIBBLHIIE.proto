@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CEGIBBLHIIE
+// CmdId: 20935
 message CEGIBBLHIIE {
-	uint32 JJALFIOBOEB = 9;
-	int32 IJIABMFLJGH = 3;
+    uint32 MFEILFMANEL = 9;
+    int32 KFCODGHIJEH = 3;
 }
+

@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NEOMIACADNF.proto";
 
+// Name: JFMBHEPEIKA
 message JFMBHEPEIKA {
-	NEOMIACADNF JBMNMONEFGL = 14;
-	int32 IJIABMFLJGH = 11;
+    NEOMIACADNF MBHKOCILJCN = 14;
+    int32 KFCODGHIJEH = 11;
 }
+

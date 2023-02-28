@@ -2,15 +2,18 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MOCGOKGHGNG.proto";
 import "BAOPAIMJBJG.proto";
+import "MOCGOKGHGNG.proto";
 import "NILPIHBMNHG.proto";
 
+// Name: JFMPDHBPLII
+// CmdId: 6348
 message JFMPDHBPLII {
-	NILPIHBMNHG DOIJKPOBFEE = 2;
-	BAOPAIMJBJG ODGGIECAJLA = 3;
-	bool HBOCKPOHDBN = 13;
-	MOCGOKGHGNG MHFBFPNJJDL = 7;
-	uint32 PFKDFHHKBFD = 12;
-	uint64 DHJBPPJOKNK = 14;
+    NILPIHBMNHG GKCBNHLBPOK = 2;
+    BAOPAIMJBJG NFEJNNJEAFK = 3;
+    bool CHMBOMEKILC = 13;
+    MOCGOKGHGNG FLBOLNLJOPM = 7;
+    uint32 NLBJCAHEJOC = 12;
+    uint64 GDABHBPIGIP = 14;
 }
+

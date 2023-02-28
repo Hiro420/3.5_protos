@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ALGGELGLCLJ.proto";
 
+// Name: PMHNJMLGONF
 message PMHNJMLGONF {
-	uint32 OBKEMDKPLAO = 9;
-	ALGGELGLCLJ CPFEFKMJNGE = 6;
-	uint32 CBDHGIHAMOJ = 11;
-	ALGGELGLCLJ FELPPLOLMAB = 15;
+    uint32 MJFMPLIAOFL = 9;
+    ALGGELGLCLJ LCDEEPNJINE = 6;
+    uint32 OEEOHALHBMM = 11;
+    ALGGELGLCLJ AJMFMEAKOMN = 15;
 }
+

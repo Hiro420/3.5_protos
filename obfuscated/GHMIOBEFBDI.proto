@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GHMIOBEFBDI
 message GHMIOBEFBDI {
-	uint32 IJKGKPFBECP = 1;
-	uint32 FJGLNNHJKIB = 2;
+    uint32 CFKAOAKEBNE = 1;
+    uint32 GNNMLIMOPNJ = 2;
 }
+

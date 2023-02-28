@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MGEECBMFJFJ.proto";
 
+// Name: MGLPPJOEGOF
+// CmdId: 1982
 message MGLPPJOEGOF {
-	repeated MGEECBMFJFJ EPIAMPJGAKM = 10;
+    repeated MGEECBMFJFJ NFNMEECANOC = 10;
 }
+

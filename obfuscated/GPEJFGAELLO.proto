@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
 
+// Name: GPEJFGAELLO
+// CmdId: 874
 message GPEJFGAELLO {
-	DALMLFNANKL AKANNIGGDKH = 1;
-	uint32 DPMCLMEHGEG = 9;
-	uint32 CBJGJJOPBEF = 15;
-	DALMLFNANKL LABCKOJLEFP = 3;
+    DALMLFNANKL GHGPLCNLCDF = 1;
+    uint32 AMNKPKELGEP = 9;
+    uint32 MKLBFKEEKHM = 15;
+    DALMLFNANKL AJAMEIHEMEA = 3;
 }
+

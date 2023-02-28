@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MOCGOKGHGNG.proto";
 
+// Name: DPBNMIFDCJH
+// CmdId: 6309
 message DPBNMIFDCJH {
-	MOCGOKGHGNG MHFBFPNJJDL = 1;
-	uint64 DHJBPPJOKNK = 12;
+    MOCGOKGHGNG FLBOLNLJOPM = 1;
+    uint64 GDABHBPIGIP = 12;
 }
+

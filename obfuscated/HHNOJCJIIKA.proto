@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "ODOHCAKBFJC.proto";
 
+// Name: HHNOJCJIIKA
+// CmdId: 5648
 message HHNOJCJIIKA {
-	repeated ODOHCAKBFJC OECABILILIJ = 11;
-	uint32 APPJCEKCOBP = 10;
+    repeated ODOHCAKBFJC GIFJDKINPKF = 11;
+    uint32 IPLGACBJJGH = 10;
 }
+

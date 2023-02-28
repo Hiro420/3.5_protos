@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: HPAIEMHJBDF
+enum HPAIEMHJBDF {
+    HPAIEMHJBDF_KGKHANJOICG = 0;
+    HPAIEMHJBDF_JOHDHJMPAOJ = 1;
+    HPAIEMHJBDF_INDHIGMIMMK = 2;
+}
+

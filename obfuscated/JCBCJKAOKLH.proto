@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IKDIHODFNDP.proto";
 
+// Name: JCBCJKAOKLH
+// CmdId: 2006
 message JCBCJKAOKLH {
-	IKDIHODFNDP OMDCAKPEKJL = 10;
+    IKDIHODFNDP LEMKAPOPFEJ = 10;
 }
+

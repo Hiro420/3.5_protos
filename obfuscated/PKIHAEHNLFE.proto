@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: PKIHAEHNLFE
+message PKIHAEHNLFE {
+    int64 HJMBDKFDIPK = 1;
+    int32 IFDGKPONJHJ = 2;
+}
+

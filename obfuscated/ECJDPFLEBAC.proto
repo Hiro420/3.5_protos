@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ECJDPFLEBAC
+// CmdId: 8852
 message ECJDPFLEBAC {
-	uint32 EDDAOBIMJJB = 5;
-	int32 IJIABMFLJGH = 6;
-	uint32 HFKNDLGIPML = 14;
+    uint32 MMCKIDOJIFE = 5;
+    int32 KFCODGHIJEH = 6;
+    uint32 EILEKGBEBLI = 14;
 }
+

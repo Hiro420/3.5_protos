@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "POEDHGCCCEC.proto";
 
+// Name: FMEFPPMPJIA
+// CmdId: 8269
 message FMEFPPMPJIA {
-	repeated POEDHGCCCEC IFNOGNBCCNI = 2;
-	int32 IJIABMFLJGH = 6;
+    repeated POEDHGCCCEC CPFBELINKKA = 2;
+    int32 KFCODGHIJEH = 6;
 }
+

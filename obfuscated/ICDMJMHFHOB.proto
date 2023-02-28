@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ICDMJMHFHOB
+// CmdId: 4087
 message ICDMJMHFHOB {
-	int32 IJIABMFLJGH = 7;
-	repeated uint32 KEOENBCOLHC = 10;
+    int32 KFCODGHIJEH = 7;
+    repeated uint32 DNOGPONNMIM = 10;
 }
+

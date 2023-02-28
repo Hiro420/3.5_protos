@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "LGAFMFIJKIE.proto";
 
+// Name: HBLOJLPHJCD
+// CmdId: 3457
 message HBLOJLPHJCD {
-	LGAFMFIJKIE NHOAHOMJLNK = 14;
-	uint32 PDFLEGGDOCP = 7;
+    LGAFMFIJKIE CCJLKANIBMD = 14;
+    uint32 GPBLLPDCIFK = 7;
 }
+

@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JOHLMDHNHAL
+// CmdId: 20581
 message JOHLMDHNHAL {
-	repeated uint32 GNLLECKDGAA = 9;
-	uint32 AIJOKLEENGC = 14;
-	repeated uint32 LFBDEKAGAPO = 12;
-	bool EOOMPFDDIHN = 8;
+    repeated uint32 JBGDHJHOGMA = 9;
+    uint32 OBBPIGOHAJL = 14;
+    repeated uint32 KEHACGOKBJA = 12;
+    bool AHOPFGMFDAL = 8;
 }
+

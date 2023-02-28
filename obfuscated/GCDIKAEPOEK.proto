@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GCDIKAEPOEK
+// CmdId: 2214
 message GCDIKAEPOEK {
-	uint32 HJFHICFFFLL = 3;
-	uint32 HHMKLDDMEDH = 12;
-	uint32 OOGLJJNLEGM = 7;
+    uint32 CHHELOIIOFA = 3;
+    uint32 CHLBLGGPCHA = 12;
+    uint32 HBHEEENAIMM = 7;
 }
+

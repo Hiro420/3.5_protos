@@ -4,11 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DFNGPIGNBJJ.proto";
 
+// Name: OMMENNJPOHG
 message OMMENNJPOHG {
-	uint32 APPJCEKCOBP = 1;
-	DFNGPIGNBJJ LLDNNJFNIPJ = 10;
-	string NFGBBEGMFNN = 11;
-	uint32 KFEMBAPKMFH = 9;
-	uint32 IKNCEKPKPOL = 13;
-	bool CIFNMAJKOFM = 14;
+    uint32 IPLGACBJJGH = 1;
+    DFNGPIGNBJJ ELKAACJOMBF = 10;
+    string FGEDEGFCPDJ = 11;
+    uint32 NDGLECFHBCJ = 9;
+    uint32 DJHBGNNLBLA = 13;
+    bool NLEHAIPCFHN = 14;
 }
+

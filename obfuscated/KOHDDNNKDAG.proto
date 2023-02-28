@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KOHDDNNKDAG
 message KOHDDNNKDAG {
-	uint32 AMJLLOEKGMD = 13;
-	bool IAJEKOIOEAF = 5;
-	bool GGJACGHPNCN = 7;
-	uint32 FNPODILONDD = 14;
-	map<uint32, uint32> FGJONOMFNHN = 10;
-	uint32 JEEFNCHAJOJ = 4;
-	uint32 BKNIBJEIIHB = 9;
+    uint32 CEGEDDOGGAD = 13;
+    bool MDLKFBKMGEA = 5;
+    bool DDIOEPIAOAI = 7;
+    uint32 KPKPJNJIGIN = 14;
+    map<uint32, uint32> HGIHMNNHBFJ = 10;
+    uint32 MPLJBMEAIBB = 4;
+    uint32 MCAHDACKCIP = 9;
 }
+

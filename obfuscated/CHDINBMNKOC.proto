@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CHDINBMNKOC
+// CmdId: 8053
 message CHDINBMNKOC {
-	uint32 NMPOCJIMPGK = 6;
+    uint32 MNAHMILAJEM = 6;
 }
+

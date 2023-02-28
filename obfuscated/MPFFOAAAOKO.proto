@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CKFOCGGAGBL.proto";
 
+// Name: MPFFOAAAOKO
 message MPFFOAAAOKO {
-	uint32 KFEMBAPKMFH = 10;
-	repeated CKFOCGGAGBL PBCAAOJEIDL = 13;
-	uint32 HBMBODJGAPM = 3;
-	uint32 MGPPCAPHMKF = 2;
+    uint32 NDGLECFHBCJ = 10;
+    repeated CKFOCGGAGBL ELBHDFBFLNL = 13;
+    uint32 HNIOMMFIPJP = 3;
+    uint32 HNLFODAHCPP = 2;
 }
+

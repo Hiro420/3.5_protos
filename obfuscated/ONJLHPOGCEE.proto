@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ONJLHPOGCEE
+// CmdId: 8765
 message ONJLHPOGCEE {
-	int32 OEGEDJPNJAD = 1;
+    int32 CEHNBFEIODF = 1;
 }
+

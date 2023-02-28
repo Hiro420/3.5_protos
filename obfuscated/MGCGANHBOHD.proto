@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FBKBALODAED.proto";
 
+// Name: MGCGANHBOHD
+// CmdId: 4379
 message MGCGANHBOHD {
-	repeated FBKBALODAED IBEPGEANHFI = 10;
+    repeated FBKBALODAED EJBEANOMPHA = 10;
 }
+

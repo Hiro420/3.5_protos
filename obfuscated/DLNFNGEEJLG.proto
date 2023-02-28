@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DLNFNGEEJLG
 message DLNFNGEEJLG {
-	uint32 JFLKDDMEFIN = 3;
-	uint32 APPJCEKCOBP = 2;
+    uint32 CHMDDEGKOIE = 3;
+    uint32 IPLGACBJJGH = 2;
 }
+

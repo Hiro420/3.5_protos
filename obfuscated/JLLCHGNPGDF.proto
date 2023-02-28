@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KOJOFGNALFB.proto";
 
+// Name: JLLCHGNPGDF
+// CmdId: 4273
 message JLLCHGNPGDF {
-	KOJOFGNALFB HAHFHIFNPAA = 5;
+    KOJOFGNALFB APMDHJNLAGN = 5;
 }
+

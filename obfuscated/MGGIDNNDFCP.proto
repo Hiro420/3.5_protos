@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MGGIDNNDFCP
+// CmdId: 1465
 message MGGIDNNDFCP {
-	uint32 JIOOAPBLNEF = 1;
-	int32 IJIABMFLJGH = 7;
-	string GHBDFPDGBFE = 2;
-	string OJGBNCHMBED = 15;
-	string LMHKFJHLEPJ = 3;
-	uint32 GCOJPCHCBMB = 13;
+    uint32 BILPDHGPPPO = 1;
+    int32 KFCODGHIJEH = 7;
+    string MCDHEAPMLLF = 2;
+    string NBHDHNKKNLJ = 15;
+    string BCGAGDLBIMO = 3;
+    uint32 FHPGCOBFIOE = 13;
 }
+

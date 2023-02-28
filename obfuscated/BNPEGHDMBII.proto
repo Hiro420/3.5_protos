@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BNPEGHDMBII
+// CmdId: 8405
 message BNPEGHDMBII {
-	repeated uint32 NMCIEBDAMNE = 6;
+    repeated uint32 BIABOFKAJMI = 6;
 }
+

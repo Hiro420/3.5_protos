@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ENGCDOBPPFC
 message ENGCDOBPPFC {
-	uint32 PDFLEGGDOCP = 1;
-	uint32 AKANNIGGDKH = 2;
+    uint32 GPBLLPDCIFK = 1;
+    uint32 GHGPLCNLCDF = 2;
 }
+

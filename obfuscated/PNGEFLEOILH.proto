@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PNGEFLEOILH
+// CmdId: 5330
 message PNGEFLEOILH {
-	repeated uint32 FMPCLKCKAMD = 1;
+    repeated uint32 OJIHOCHJDEK = 1;
 }
+

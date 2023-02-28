@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: HILFJKMBAOA
+enum HILFJKMBAOA {
+    HILFJKMBAOA_ILANNLOPKHK = 0;
+    HILFJKMBAOA_NPPCKEPLPIA = 1;
+    HILFJKMBAOA_COEHGCNMPLM = 2;
+    HILFJKMBAOA_LDOAGKCCBGO = 3;
+}
+

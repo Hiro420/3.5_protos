@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AIFFCHGENAF.proto";
 
+// Name: EIFBDKLAMCG
 message EIFBDKLAMCG {
-	uint32 DFNMDECBDAF = 11;
-	repeated AIFFCHGENAF DEKCFKPIBGG = 10;
-	bool DJKOKFDGKIG = 12;
-	uint32 PLMDDEEEAAB = 13;
+    uint32 IGBHPBBLEIF = 11;
+    repeated AIFFCHGENAF FMFPKKFDMLN = 10;
+    bool HKDOCGOMBKP = 12;
+    uint32 JPIGCJLKDGO = 13;
 }
+

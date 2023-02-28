@@ -2,9 +2,17 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "FFAADPONCMG.GPDPJKELDEA.LCFCMAGCDAJ.proto";
-
+// Name: FFAADPONCMG
+// CmdId: 4771
 message FFAADPONCMG {
-	string NGFEJANHDBM = 15;
-	FFAADPONCMG.GPDPJKELDEA.LCFCMAGCDAJ GNLDDLIKJDN = 8;
+    // Name: LCFCMAGCDAJ
+    enum LCFCMAGCDAJ {
+        LCFCMAGCDAJ_MLBFMJIBJEP = 0;
+        LCFCMAGCDAJ_BBGMIMFFDBM = 1;
+        LCFCMAGCDAJ_BDNKCNAEIDE = 2;
+    }
+
+    string HJKPKILCLFM = 15;
+    LCFCMAGCDAJ BHDBMLOIDGK = 8;
 }
+

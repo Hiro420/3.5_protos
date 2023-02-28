@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: BODNCMMJHFA
+// CmdId: 2084
 message BODNCMMJHFA {
-	uint32 BNPJJOACINH = 15;
-	uint32 HFKNDLGIPML = 7;
-	uint32 OKPFLEMFIAL = 13;
+    uint32 IEHKDKDEMAK = 15;
+    uint32 EILEKGBEBLI = 7;
+    uint32 MBIJNDHCADL = 13;
 }
+

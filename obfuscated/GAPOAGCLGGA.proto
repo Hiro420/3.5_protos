@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: GAPOAGCLGGA
 message GAPOAGCLGGA {
-	bool MFPGHFOFAFP = 5;
-	uint32 JMECAMPDNEE = 9;
+    bool KANHMLPBBHL = 5;
+    uint32 IKLDEPKLIMD = 9;
 }
+

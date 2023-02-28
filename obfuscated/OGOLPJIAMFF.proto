@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OGOLPJIAMFF
 message OGOLPJIAMFF {
-	uint32 MPGJJEALABF = 5;
-	uint32 LLOBHFKCOJA = 7;
-	uint32 JIKFEHBKOCO = 12;
+    uint32 GPKPCCJAFAH = 5;
+    uint32 PDDEJIGJICI = 7;
+    uint32 EBDOCHHNJEP = 12;
 }
+

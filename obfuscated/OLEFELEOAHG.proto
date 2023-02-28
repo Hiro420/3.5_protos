@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CNMOCADLDKL.proto";
 
+// Name: OLEFELEOAHG
+// CmdId: 20628
 message OLEFELEOAHG {
-	repeated CNMOCADLDKL ADOCOJHGCNJ = 9;
-	uint32 JLEPFDHMLEG = 8;
-	repeated uint32 NOJPHGJEDCK = 3;
+    repeated CNMOCADLDKL NFEJPMGNGKO = 9;
+    uint32 HNNFBGKMNKI = 8;
+    repeated uint32 FDDLLMEHBHN = 3;
 }
+

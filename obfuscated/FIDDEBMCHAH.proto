@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FIDDEBMCHAH
+// CmdId: 1807
 message FIDDEBMCHAH {
-	uint32 DMAFBHJJMIF = 9;
-	uint32 LGLGGMGCBHM = 12;
+    uint32 CENMFOBJLJC = 9;
+    uint32 HOIPIEEKMPN = 12;
 }
+

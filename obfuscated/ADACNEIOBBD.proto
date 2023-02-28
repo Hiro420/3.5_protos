@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ADACNEIOBBD
+// CmdId: 4708
 message ADACNEIOBBD {
-	uint32 LBJLOCDCBAG = 7;
-	uint32 JDDEJFKJHJN = 8;
-	uint32 JAOBPKMBOKD = 6;
+    uint32 FMAEEIDMGNL = 7;
+    uint32 LECPGEIPAFI = 8;
+    uint32 AHMMKMKHHFP = 6;
 }
+

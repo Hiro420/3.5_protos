@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FLHBFICFCCM.proto";
 
+// Name: DBLKKPIOGGG
+// CmdId: 8067
 message DBLKKPIOGGG {
-	int32 IJIABMFLJGH = 9;
-	uint32 AHEFDMPHAAK = 1;
-	repeated FLHBFICFCCM KBJKNDGIPKM = 12;
-	uint32 AIJOKLEENGC = 5;
+    int32 KFCODGHIJEH = 9;
+    uint32 NOGMACBJJCL = 1;
+    repeated FLHBFICFCCM NFFJHHGCLLF = 12;
+    uint32 OBBPIGOHAJL = 5;
 }
+

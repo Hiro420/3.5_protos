@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KDDKDKOAGIK
 message KDDKDKOAGIK {
-	repeated uint32 EPCJGOBBNAE = 3;
-	bool NANELPHBMCF = 12;
-	repeated uint32 JAOBPKMBOKD = 8;
-	uint32 APPJCEKCOBP = 6;
-	repeated uint32 LMFGKMPGIPD = 2;
-	string NGFEJANHDBM = 10;
-	bool KEMCGEKPJFE = 4;
+    repeated uint32 FGENHCHGIFI = 3;
+    bool GCEENOBHLCG = 12;
+    repeated uint32 AHMMKMKHHFP = 8;
+    uint32 IPLGACBJJGH = 6;
+    repeated uint32 BFELILCAPAD = 2;
+    string HJKPKILCLFM = 10;
+    bool IOOOPBMDPNK = 4;
 }
+

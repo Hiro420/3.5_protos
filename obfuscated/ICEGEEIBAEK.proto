@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MNNNCKCAGLP.proto";
 
+// Name: ICEGEEIBAEK
+// CmdId: 967
 message ICEGEEIBAEK {
-	repeated MNNNCKCAGLP PNFOLOOLMMA = 3;
-	uint32 HBMBODJGAPM = 11;
-	uint32 KFEMBAPKMFH = 6;
+    repeated MNNNCKCAGLP BPHCPGCMJIP = 3;
+    uint32 HNIOMMFIPJP = 11;
+    uint32 NDGLECFHBCJ = 6;
 }
+

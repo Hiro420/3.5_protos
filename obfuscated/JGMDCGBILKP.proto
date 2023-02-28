@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "OMMENNJPOHG.proto";
 
+// Name: JGMDCGBILKP
+// CmdId: 240
 message JGMDCGBILKP {
-	repeated OMMENNJPOHG GJLNDPMMIPG = 9;
+    repeated OMMENNJPOHG MLKOODGPINM = 9;
 }
+

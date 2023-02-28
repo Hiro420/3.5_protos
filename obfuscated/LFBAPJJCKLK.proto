@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GGCMGFLFFPB.proto";
 
+// Name: LFBAPJJCKLK
+// CmdId: 664
 message LFBAPJJCKLK {
-	GGCMGFLFFPB OGLAJOOKPKD = 1;
-	repeated uint64 NKBDOKHHKEB = 15;
+    GGCMGFLFFPB DHMHAEJALOG = 1;
+    repeated uint64 JLHDCBNMAON = 15;
 }
+

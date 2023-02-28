@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DBGHDOAFABF.proto";
 
+// Name: JCEBLBKONGF
+// CmdId: 8375
 message JCEBLBKONGF {
-	repeated DBGHDOAFABF IFNANBNFDAI = 11;
-	int32 IJIABMFLJGH = 14;
-	uint32 PFKDFHHKBFD = 9;
+    repeated DBGHDOAFABF IBPKFEHGJHB = 11;
+    int32 KFCODGHIJEH = 14;
+    uint32 NLBJCAHEJOC = 9;
 }
+

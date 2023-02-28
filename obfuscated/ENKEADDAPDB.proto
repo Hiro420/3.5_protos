@@ -4,10 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EFLDHGLFIDD.proto";
 
+// Name: ENKEADDAPDB
+// CmdId: 764
 message ENKEADDAPDB {
-	uint32 FLGDHAHGOGD = 11;
-	uint32 ODJPCGIMADI = 9;
-	repeated EFLDHGLFIDD MKHDNPHAJDN = 5;
-	int32 IJIABMFLJGH = 3;
-	EFLDHGLFIDD PLCGHLEONOA = 2;
+    uint32 FBCMJLAKGHF = 11;
+    uint32 DCBMADGBDEL = 9;
+    repeated EFLDHGLFIDD IBOINAIOJIM = 5;
+    int32 KFCODGHIJEH = 3;
+    EFLDHGLFIDD JOCOFDOGDPG = 2;
 }
+

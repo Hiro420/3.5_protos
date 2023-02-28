@@ -4,8 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CBEGBPBBDMB.proto";
 
+// Name: ANKBGAFHFKI
+// CmdId: 8419
 message ANKBGAFHFKI {
-	repeated CBEGBPBBDMB CJMFOACHGHC = 10;
-	uint32 HFKNDLGIPML = 7;
-	uint32 PFKDFHHKBFD = 1;
+    repeated CBEGBPBBDMB EBGOBOJDBJK = 10;
+    uint32 EILEKGBEBLI = 7;
+    uint32 NLBJCAHEJOC = 1;
 }
+

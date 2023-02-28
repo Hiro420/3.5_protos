@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HEJFJALGCON.proto";
 
+// Name: HDILGEFEHEL
 message HDILGEFEHEL {
-	uint32 DBCEEODIKCO = 10;
-	uint32 CGBDEINMJBN = 15;
-	HEJFJALGCON AFKLENIEKMJ = 5;
-	uint32 JODNCINCMIF = 3;
+    uint32 IBHFHNMMJKH = 10;
+    uint32 KLIJLAAJCIE = 15;
+    HEJFJALGCON CCDLABDHHEH = 5;
+    uint32 BKNCDDAAGLJ = 3;
 }
+

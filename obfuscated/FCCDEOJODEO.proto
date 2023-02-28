@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: FCCDEOJODEO
+// CmdId: 23471
 message FCCDEOJODEO {
-	repeated uint32 BPHOKCBOKGP = 12;
-	uint32 AIJOKLEENGC = 2;
+    repeated uint32 CPNDLAFAHCI = 12;
+    uint32 OBBPIGOHAJL = 2;
 }
+

@@ -2,8 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: POEDHGCCCEC
 message POEDHGCCCEC {
-	uint32 APPJCEKCOBP = 12;
-	uint32 PEIBKLBFOJA = 7;
-	uint32 JAOBPKMBOKD = 11;
+    uint32 IPLGACBJJGH = 12;
+    uint32 OECALDJLGAG = 7;
+    uint32 AHMMKMKHHFP = 11;
 }
+

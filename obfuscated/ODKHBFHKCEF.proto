@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BNEGCDIFHLA.proto";
 
+// Name: ODKHBFHKCEF
+// CmdId: 207
 message ODKHBFHKCEF {
-	uint32 PDFLEGGDOCP = 15;
-	uint32 AEPAKCBPNEH = 1;
-	BNEGCDIFHLA EINPEHFFEAI = 6;
-	uint32 BEKCJPOGBHB = 10;
+    uint32 GPBLLPDCIFK = 15;
+    uint32 HPONOGFDPBP = 1;
+    BNEGCDIFHLA GENELNCGPHP = 6;
+    uint32 ALHOCCJPIFL = 10;
 }
+

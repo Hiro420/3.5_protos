@@ -4,14 +4,16 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KKEHCHJODDD.proto";
 
+// Name: FPJLKJADJAC
 message FPJLKJADJAC {
-	repeated KKEHCHJODDD HANAOFPFLLE = 8;
-	uint32 OLBELHAHAIJ = 9;
-	uint32 IHMAEEJLCCC = 11;
-	bool IKKLIHAICCA = 7;
-	uint32 FGGCOCMKODE = 6;
-	bool CKMCPIOKFFE = 15;
-	uint32 NBKMNLGLAGM = 13;
-	bool GDHEMIMKLBN = 14;
-	uint32 DMOIFFGBNAG = 4;
+    repeated KKEHCHJODDD HJCELEPIFHN = 8;
+    uint32 EEPEHNMENMD = 9;
+    uint32 FMMBJJLEBAF = 11;
+    bool IAIGGMMDBIH = 7;
+    uint32 CBDEPGIGFHK = 6;
+    bool NKMBACDACBI = 15;
+    uint32 BDFFCIIGFOL = 13;
+    bool KHJFGGCODAG = 14;
+    uint32 KDDMBIGGGKD = 4;
 }
+

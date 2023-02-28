@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GKKDFKJAIAN.proto";
 
+// Name: BEHGMOHIKOM
+// CmdId: 200
 message BEHGMOHIKOM {
-	GKKDFKJAIAN OMDCAKPEKJL = 9;
+    GKKDFKJAIAN LEMKAPOPFEJ = 9;
 }
+

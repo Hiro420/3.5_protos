@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: PMKCNFHPECF
+enum PMKCNFHPECF {
+    PMKCNFHPECF_FHBDKPBNFDA = 0;
+    PMKCNFHPECF_LFGAPDEFDHC = 1;
+    PMKCNFHPECF_GDAINKABDON = 2;
+}
+

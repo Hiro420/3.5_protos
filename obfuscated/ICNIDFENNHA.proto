@@ -4,10 +4,13 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DHDKCGCJDGH.proto";
 
+// Name: ICNIDFENNHA
+// CmdId: 4204
 message ICNIDFENNHA {
-	int32 IJIABMFLJGH = 12;
-	repeated uint32 EIOHAPOAAAB = 9;
-	repeated uint32 DANOIDCGOBC = 5;
-	repeated DHDKCGCJDGH AAINHPLMEPE = 13;
-	repeated uint32 BOOCHPGDCJB = 14;
+    int32 KFCODGHIJEH = 12;
+    repeated uint32 PPIGADCABAK = 9;
+    repeated uint32 EPPGKJJINJN = 5;
+    repeated DHDKCGCJDGH LIGONOPCHIK = 13;
+    repeated uint32 MNEEADAADAL = 14;
 }
+

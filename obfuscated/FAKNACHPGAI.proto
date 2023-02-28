@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+
+// Name: FAKNACHPGAI
+// CmdId: 1150
+message FAKNACHPGAI {
+    // Name: ANMFOJDBIBG
+    message ANMFOJDBIBG {
+        uint32 GNFDOHFAGLJ = 8;
+    }
+
+    // Name: LHKKBIBDMCK
+    message LHKKBIBDMCK {
+        uint32 ICPHHBKENBN = 12;
+        uint32 EAIILHENDGN = 13;
+        DALMLFNANKL LIBJDDFGNHM = 7;
+    }
+
+    // Name: BOKCJDAIEHG
+    message BOKCJDAIEHG {
+        uint32 GIKJPLBMPNH = 12;
+        uint32 BAIFDDFGGEL = 9;
+        bytes EJNMGDOCHOC = 2;
+    }
+
+    oneof NOJJODEAMDL {
+        ANMFOJDBIBG KNIBGJPCOLK = 13;
+        LHKKBIBDMCK HFHKJGADFBG = 4;
+        BOKCJDAIEHG DPBCIFHKHED = 12;
+    }
+}
+

@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: CKHHPKMCPGO
+// CmdId: 5554
 message CKHHPKMCPGO {
-	map<uint32, uint32> BMADHCPNMOD = 13;
-	uint32 KKMLAEEAHJA = 6;
+    map<uint32, uint32> AOJHBCBGHDK = 13;
+    uint32 IIBPCMOEENO = 6;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FLBIIPBHFOE.proto";
 
+// Name: ADNMKLEFIBJ
+// CmdId: 970
 message ADNMKLEFIBJ {
-	uint32 EGABCOAEGAN = 6;
-	FLBIIPBHFOE GNLDDLIKJDN = 10;
+    uint32 MFIAJEFMBCI = 6;
+    FLBIIPBHFOE BHDBMLOIDGK = 10;
 }
+

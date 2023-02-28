@@ -2,14 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "ILGNCKHBGFO.proto";
 import "ABMCDDFMBOC.proto";
+import "ILGNCKHBGFO.proto";
 
+// Name: KDECJEOGKOO
 message KDECJEOGKOO {
-	uint32 APPJCEKCOBP = 5;
-	uint32 CBCHDEFKFIJ = 14;
-	repeated ABMCDDFMBOC DAGINEBHJBN = 10;
-	ILGNCKHBGFO GBGBILFNEFB = 1;
-	string NGFEJANHDBM = 6;
-	string MCBJBNBKLOC = 12;
+    uint32 IPLGACBJJGH = 5;
+    uint32 MIBMAGFKCCI = 14;
+    repeated ABMCDDFMBOC LGEAAOBNMGG = 10;
+    ILGNCKHBGFO MOIFBEBLNIF = 1;
+    string HJKPKILCLFM = 6;
+    string CJCJMEFFNIG = 12;
 }
+

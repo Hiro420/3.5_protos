@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EJDCILANJNL
+// CmdId: 23897
 message EJDCILANJNL {
-	uint32 DBNLJBCCLOC = 15;
+    uint32 KCKDFMAPOMA = 15;
 }
+

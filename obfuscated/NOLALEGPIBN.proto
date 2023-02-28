@@ -4,15 +4,17 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HILFJKMBAOA.proto";
 
+// Name: NOLALEGPIBN
 message NOLALEGPIBN {
-	uint32 OPPHFKLOKIA = 4;
-	uint32 EDMHPIFGLJD = 2;
-	HILFJKMBAOA AEBGOFAHGKL = 9;
-	uint32 FGGCOCMKODE = 5;
-	uint32 KNJGPLMHPIK = 1;
-	bool CJIOJFBBJGB = 7;
-	bool OEHFMPHOLOJ = 3;
-	uint32 HCLIPPCDIEO = 15;
-	uint32 DKLKABONJFC = 8;
-	map<uint32, uint32> EOKDIOIFLIH = 11;
+    uint32 ENPGJNKBLLL = 4;
+    uint32 AAJPJDCHEMM = 2;
+    HILFJKMBAOA JFCEBFEEJFL = 9;
+    uint32 CBDEPGIGFHK = 5;
+    uint32 EEGDAGGILEP = 1;
+    bool PHHBLKPLJCE = 7;
+    bool EJIPGFIDOKK = 3;
+    uint32 CNHCACHFFPM = 15;
+    uint32 OEANKGFDJPB = 8;
+    map<uint32, uint32> FAIKCABKFBJ = 11;
 }
+

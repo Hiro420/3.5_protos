@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OODONDJKIEL
+// CmdId: 7245
 message OODONDJKIEL {
-	uint32 KGHKFNGDPNI = 2;
-	int32 IJIABMFLJGH = 3;
-	uint32 PJCEOGOEJBK = 7;
+    uint32 AHAIAIPGFDN = 2;
+    int32 KFCODGHIJEH = 3;
+    uint32 LKFDEJMGHMP = 7;
 }
+

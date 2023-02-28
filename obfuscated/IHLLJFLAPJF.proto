@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PNLPMLCGLPB.proto";
 
+// Name: IHLLJFLAPJF
+// CmdId: 147
 message IHLLJFLAPJF {
-	repeated PNLPMLCGLPB HEACCOACMGG = 4;
+    repeated PNLPMLCGLPB DHJMILOCCDN = 4;
 }
+

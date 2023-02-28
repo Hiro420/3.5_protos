@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FMBKDAFFEFG.proto";
 
+// Name: CGHDILJKIGP
+// CmdId: 4530
 message CGHDILJKIGP {
-	repeated FMBKDAFFEFG BMLCIANJGPJ = 7;
+    repeated FMBKDAFFEFG EMLGFIJNPAO = 7;
 }
+

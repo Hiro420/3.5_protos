@@ -4,6 +4,8 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "FNNHNPCGJIM.proto";
 
+// Name: PGCOGOHENKC
 message PGCOGOHENKC {
-	map<uint32, FNNHNPCGJIM> EDEEOLCEPDI = 7;
+    map<uint32, FNNHNPCGJIM> MEODPNIDLCO = 7;
 }
+

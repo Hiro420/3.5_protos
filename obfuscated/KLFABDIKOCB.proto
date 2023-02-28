@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KLFABDIKOCB
+// CmdId: 4684
 message KLFABDIKOCB {
-	repeated uint32 MDNODDLLNFL = 15;
-	bool OHKBKFDLAPP = 1;
+    repeated uint32 MOCCDBGNKCC = 15;
+    bool PGKGHIKLAAH = 1;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "COEAABHEACL.proto";
 
+// Name: FHBLFIAFHCA
+// CmdId: 202
 message FHBLFIAFHCA {
-	COEAABHEACL GNLDDLIKJDN = 10;
-	int32 IJIABMFLJGH = 5;
+    COEAABHEACL BHDBMLOIDGK = 10;
+    int32 KFCODGHIJEH = 5;
 }
+

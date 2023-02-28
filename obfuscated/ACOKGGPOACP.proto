@@ -5,10 +5,13 @@ option java_package = "emu.grasscutter.net.proto";
 import "DIIKFAIPKGG.proto";
 import "ENOCIMKMJJG.proto";
 
+// Name: ACOKGGPOACP
+// CmdId: 4630
 message ACOKGGPOACP {
-	repeated ENOCIMKMJJG MFJKCCOFHII = 11;
-	repeated ENOCIMKMJJG INEKIGIFDDA = 14;
-	DIIKFAIPKGG PKNGPHJNNJH = 12;
-	uint32 FAICIMDLBMF = 10;
-	int32 IJIABMFLJGH = 8;
+    repeated ENOCIMKMJJG PODPGGGOFGP = 11;
+    repeated ENOCIMKMJJG CBLILOJFLPO = 14;
+    DIIKFAIPKGG LFKMDOMNNIO = 12;
+    uint32 KFKLCBBKMNC = 10;
+    int32 KFCODGHIJEH = 8;
 }
+

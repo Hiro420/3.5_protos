@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ADMIOIMGPLK
 message ADMIOIMGPLK {
-	uint32 MEGEPCAJCKE = 12;
+    uint32 ONOCGGDGHIP = 12;
 }
+

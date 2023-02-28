@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: MFGFCNFLPGB
+// CmdId: 4030
 message MFGFCNFLPGB {
-	repeated uint32 KEOENBCOLHC = 6;
+    repeated uint32 DNOGPONNMIM = 6;
 }
+

@@ -2,11 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: EGKNAIKCCFF
+// CmdId: 684
 message EGKNAIKCCFF {
-	int32 IJIABMFLJGH = 13;
-	uint32 KDEMCNMEFNJ = 9;
-	uint32 IDEEKAMBCDB = 8;
-	repeated uint32 HCHJLBKGOHD = 14;
-	repeated uint32 DDPFNJLFNMF = 11;
-	uint64 PEDAJBJPCML = 2;
+    int32 KFCODGHIJEH = 13;
+    uint32 ONKINPFPNPJ = 9;
+    uint32 PJGFEEMIPBL = 8;
+    repeated uint32 CHKOMADPLAO = 14;
+    repeated uint32 PBPLNHFCKIO = 11;
+    uint64 NNHJFHOEMDO = 2;
 }
+

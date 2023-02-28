@@ -4,9 +4,11 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "MIAFPBFKBHC.proto";
 
+// Name: CCABBNBIMHF
 message CCABBNBIMHF {
-	uint32 NAIPFFHNDOH = 4;
-	uint32 AFDJLKOFMHC = 12;
-	MIAFPBFKBHC NJKIMEHDIBO = 2;
-	uint32 BPFNDBDKELH = 1;
+    uint32 AEKMHMJGJJO = 4;
+    uint32 JHOFNMMGGJD = 12;
+    MIAFPBFKBHC LPMBKNJGLDC = 2;
+    uint32 HMFLJGGHHAF = 1;
 }
+

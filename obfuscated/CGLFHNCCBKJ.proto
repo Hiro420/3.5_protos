@@ -2,16 +2,19 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "ILEGGBKJDDK.proto";
-import "GFDBMHNEOFL.proto";
 import "CPBMIAMDLPE.proto";
+import "GFDBMHNEOFL.proto";
+import "ILEGGBKJDDK.proto";
 
+// Name: CGLFHNCCBKJ
+// CmdId: 1272
 message CGLFHNCCBKJ {
-	repeated uint32 JMJFJOBDLNG = 12;
-	uint32 BKCFIMBKPND = 9;
-	CPBMIAMDLPE FLMANEPEOFB = 14;
-	GFDBMHNEOFL BFEKJPHMGHL = 10;
-	ILEGGBKJDDK GNLDDLIKJDN = 11;
-	float EPDMPHHMPIO = 15;
-	uint32 PDFLEGGDOCP = 6;
+    repeated uint32 NLNPKIPAKNE = 12;
+    uint32 DFOMFPLPHAM = 9;
+    CPBMIAMDLPE FHLNGJNGPNN = 14;
+    GFDBMHNEOFL KAKKINHPKPN = 10;
+    ILEGGBKJDDK BHDBMLOIDGK = 11;
+    float IJEPDLMPLNO = 15;
+    uint32 GPBLLPDCIFK = 6;
 }
+

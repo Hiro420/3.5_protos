@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JEFJPINLMON
+// CmdId: 23524
 message JEFJPINLMON {
-	int32 IJIABMFLJGH = 13;
-	uint32 BEJDBNONODA = 9;
-	uint32 KKMLAEEAHJA = 8;
-	uint32 HOCNICOJJIN = 6;
+    int32 KFCODGHIJEH = 13;
+    uint32 NJIHDDKBBLA = 9;
+    uint32 IIBPCMOEENO = 8;
+    uint32 LEDKDCJIDNE = 6;
 }
+

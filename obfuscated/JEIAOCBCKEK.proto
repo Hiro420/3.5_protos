@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DIEEDAKFLAJ.proto";
 
+// Name: JEIAOCBCKEK
+// CmdId: 8895
 message JEIAOCBCKEK {
-	DIEEDAKFLAJ LNFKELDOBON = 10;
-	uint32 KKMLAEEAHJA = 4;
+    DIEEDAKFLAJ OMHIFLNBFCC = 10;
+    uint32 IIBPCMOEENO = 4;
 }
+

@@ -5,7 +5,10 @@ option java_package = "emu.grasscutter.net.proto";
 import "EJKIKKJCFKL.proto";
 import "NFAGLBHALKL.proto";
 
+// Name: HCPEEIEKMCL
+// CmdId: 1911
 message HCPEEIEKMCL {
-	repeated NFAGLBHALKL KIDKPLPCPHB = 10;
-	repeated EJKIKKJCFKL NPMFEENKMLF = 12;
+    repeated NFAGLBHALKL CHLANCGCOED = 10;
+    repeated EJKIKKJCFKL FFBMOAKDFPC = 12;
 }
+

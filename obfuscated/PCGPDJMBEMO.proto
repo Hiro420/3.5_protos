@@ -2,7 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PCGPDJMBEMO
 message PCGPDJMBEMO {
-	uint32 CIKNDHADBIO = 9;
-	uint32 JKDNHDLNHMJ = 15;
+    uint32 MFEPJCODFEB = 9;
+    uint32 LHFGALANHMN = 15;
 }
+

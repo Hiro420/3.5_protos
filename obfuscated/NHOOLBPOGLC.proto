@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NHOOLBPOGLC
+// CmdId: 4490
 message NHOOLBPOGLC {
-	bool LCPHMIBOFGO = 14;
+    bool AJGBNKBDGME = 14;
 }
+

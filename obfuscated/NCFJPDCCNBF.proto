@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: NCFJPDCCNBF
+// CmdId: 456
 message NCFJPDCCNBF {
-	int32 IJIABMFLJGH = 2;
-	uint32 DPJOJFFAOIB = 13;
-	uint32 BOFBIJGMIGM = 14;
-	uint32 ADGLGMPEFLK = 10;
+    int32 KFCODGHIJEH = 2;
+    uint32 EGFOFPMNMJB = 13;
+    uint32 CJMAPJPILIC = 14;
+    uint32 MNLJFDPCBOM = 10;
 }
+

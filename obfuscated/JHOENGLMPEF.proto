@@ -2,7 +2,10 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JHOENGLMPEF
+// CmdId: 1836
 message JHOENGLMPEF {
-	uint32 BFDKEIGKAFH = 2;
-	bool ADNBNHMDIDH = 4;
+    uint32 PHPJIFLPAKF = 2;
+    bool GJFNDMOCPBK = 4;
 }
+

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DNPIGFAKHOM.proto";
+
+// Name: IIODPLPFGPP
+// CmdId: 8868
+message IIODPLPFGPP {
+    int32 KFCODGHIJEH = 14;
+    uint32 NJIHDDKBBLA = 5;
+    oneof OMDCAKPEKJL {
+        DNPIGFAKHOM OMHIFLNBFCC = 3;
+    }
+}
+

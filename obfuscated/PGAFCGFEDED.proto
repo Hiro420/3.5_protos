@@ -3,17 +3,19 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "CEEAFEMNGPJ.proto";
-import "PODDCPLMFHG.proto";
 import "DEIIEJODMDG.proto";
+import "PODDCPLMFHG.proto";
 
+// Name: PGAFCGFEDED
 message PGAFCGFEDED {
-	uint32 DECPLDAFLGB = 8;
-	uint32 OPLEJJBAPMI = 14;
-	uint32 NFHAOILEMFA = 11;
-	repeated uint32 OJNGHMBCNHJ = 1;
-	repeated DEIIEJODMDG NOMIMDOOFLA = 15;
-	uint32 LGGGCABNDFL = 4;
-	PODDCPLMFHG FICNBGHCEDF = 7;
-	map<uint32, CEEAFEMNGPJ> OJOIEKAJDHC = 2;
-	uint32 DCEKINKBLDI = 9;
+    uint32 MHNBCGLCKFG = 8;
+    uint32 AGDIFNGNFOK = 14;
+    uint32 GGIBOGJKOMF = 11;
+    repeated uint32 JOBMIGGGLBJ = 1;
+    repeated DEIIEJODMDG EDLFJHLFCFL = 15;
+    uint32 POFADABHHEG = 4;
+    PODDCPLMFHG LMJMAEFMIMP = 7;
+    map<uint32, CEEAFEMNGPJ> OIMMLBCLLIO = 2;
+    uint32 PCJFLHLDDOF = 9;
 }
+

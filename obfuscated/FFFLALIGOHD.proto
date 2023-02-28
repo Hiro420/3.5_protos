@@ -3,13 +3,22 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "DALMLFNANKL.proto";
-import "FFFLALIGOHD.MKJLBEENGMI.LENHOCLEKHC.proto";
 
+// Name: FFFLALIGOHD
+// CmdId: 6175
 message FFFLALIGOHD {
-	FFFLALIGOHD.MKJLBEENGMI.LENHOCLEKHC IBEOKOHGCOE = 6;
-	int32 IJIABMFLJGH = 13;
-	repeated int64 HHEPIOBIFPG = 5;
-	int32 ABPJCCJHPJG = 9;
-	repeated DALMLFNANKL NDHHLICDKKI = 3;
-	repeated int32 JLMLALKOMFN = 7;
+    // Name: LENHOCLEKHC
+    enum LENHOCLEKHC {
+        LENHOCLEKHC_OENDBFENCDF = 0;
+        LENHOCLEKHC_JOPJLKCFOAI = 1;
+        LENHOCLEKHC_OOMGGNEKCFL = 2;
+    }
+
+    LENHOCLEKHC JMMGJJKHEBO = 6;
+    int32 KFCODGHIJEH = 13;
+    repeated int64 ADEFNBHFFOK = 5;
+    int32 IGKHHPEADAN = 9;
+    repeated DALMLFNANKL ABKHLFMENON = 3;
+    repeated int32 OCFEJAGKHBJ = 7;
 }
+

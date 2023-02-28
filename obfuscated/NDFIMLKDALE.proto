@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "CPHEBIHPPJC.proto";
 
+// Name: NDFIMLKDALE
+// CmdId: 5582
 message NDFIMLKDALE {
-	repeated CPHEBIHPPJC HKOKCHLPCAJ = 6;
-	int32 IJIABMFLJGH = 9;
+    repeated CPHEBIHPPJC JHLDPDNOJPJ = 6;
+    int32 KFCODGHIJEH = 9;
 }
+

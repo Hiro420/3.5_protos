@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: POKOFBAJMFO
+enum POKOFBAJMFO {
+    POKOFBAJMFO_JJIMJJIIEPP = 0;
+    POKOFBAJMFO_BFAPANLILED = 1;
+    POKOFBAJMFO_HCNEHAEKDLI = 2;
+}
+

@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: LIMEMDMOOCJ
+// CmdId: 2009
 message LIMEMDMOOCJ {
-	uint32 HFKNDLGIPML = 12;
-	uint32 OKPFLEMFIAL = 15;
-	int32 IJIABMFLJGH = 5;
+    uint32 EILEKGBEBLI = 12;
+    uint32 MBIJNDHCADL = 15;
+    int32 KFCODGHIJEH = 5;
 }
+

@@ -2,9 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "FGFHDCEEKIH.GMINEAJLAEK.MNCLPFLPPFD.proto";
-
+// Name: FGFHDCEEKIH
+// CmdId: 343
 message FGFHDCEEKIH {
-	FGFHDCEEKIH.GMINEAJLAEK.MNCLPFLPPFD KPADLDCELLO = 3;
-	string HGGDOJGOMID = 9;
+    // Name: MNCLPFLPPFD
+    enum MNCLPFLPPFD {
+        MNCLPFLPPFD_HIGECBGLOOA = 0;
+        MNCLPFLPPFD_GIHBPBCHPJB = 1;
+    }
+
+    MNCLPFLPPFD MJIBEOPNACJ = 3;
+    string KGPPGAPEFKB = 9;
 }
+

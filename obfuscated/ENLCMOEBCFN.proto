@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// Name: ENLCMOEBCFN
+enum ENLCMOEBCFN {
+    ENLCMOEBCFN_MKPJGBBFHCC = 0;
+    ENLCMOEBCFN_OMBBMAHAGJM = 1;
+}
+

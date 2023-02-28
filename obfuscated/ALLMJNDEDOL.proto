@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "HEJFJALGCON.proto";
 
+// Name: ALLMJNDEDOL
 message ALLMJNDEDOL {
-	repeated HEJFJALGCON ALDHCLEEDGF = 8;
-	uint32 JODNCINCMIF = 1;
+    repeated HEJFJALGCON OFCGAHIKNKJ = 8;
+    uint32 BKNCDDAAGLJ = 1;
 }
+

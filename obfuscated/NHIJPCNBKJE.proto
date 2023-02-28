@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "PGOGBMABKIF.proto";
 
+// Name: NHIJPCNBKJE
 message NHIJPCNBKJE {
-	string NFGBBEGMFNN = 1;
-	PGOGBMABKIF GJDMBBAMIDJ = 2;
+    string FGEDEGFCPDJ = 1;
+    PGOGBMABKIF IHLLNJNJBGO = 2;
 }
+

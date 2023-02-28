@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KFALPHIPJOK.proto";
 
+// Name: ACJPHFFIIAF
+// CmdId: 4335
 message ACJPHFFIIAF {
-	KFALPHIPJOK KAOBAJAEIPN = 8;
+    KFALPHIPJOK IMDPDHPGDLC = 8;
 }
+

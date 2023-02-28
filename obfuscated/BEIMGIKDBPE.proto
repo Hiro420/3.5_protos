@@ -4,9 +4,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "BNEGCDIFHLA.proto";
 
+// Name: BEIMGIKDBPE
+// CmdId: 237
 message BEIMGIKDBPE {
-	uint32 BEKCJPOGBHB = 14;
-	uint32 PDFLEGGDOCP = 5;
-	BNEGCDIFHLA EINPEHFFEAI = 8;
-	uint32 NFOKBMLBAIA = 9;
+    uint32 ALHOCCJPIFL = 14;
+    uint32 GPBLLPDCIFK = 5;
+    BNEGCDIFHLA GENELNCGPHP = 8;
+    uint32 ECBHFJPGFNI = 9;
 }
+

@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: COHFJIOFAGA
+// CmdId: 2057
 message COHFJIOFAGA {
-	uint32 FALKHJGHBOD = 4;
-	uint32 JGAHPOJJDHJ = 6;
-	uint32 DEPLICDLIHN = 8;
-	int32 IJIABMFLJGH = 14;
+    uint32 BCHEDLFFNKC = 4;
+    uint32 LGAHNCLEDCF = 6;
+    uint32 NEFKFHIPLHG = 8;
+    int32 KFCODGHIJEH = 14;
 }
+

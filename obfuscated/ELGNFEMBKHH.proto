@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DCOJKOKIFOJ.proto";
 
+// Name: ELGNFEMBKHH
+// CmdId: 4282
 message ELGNFEMBKHH {
-	DCOJKOKIFOJ ABKAJBJLHGG = 3;
+    DCOJKOKIFOJ AGBBNMFEBCC = 3;
 }
+

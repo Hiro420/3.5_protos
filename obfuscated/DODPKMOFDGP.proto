@@ -2,6 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DODPKMOFDGP
 message DODPKMOFDGP {
-	repeated uint32 FAKJFKCIJFF = 8;
+    repeated uint32 LIOBJBIJFCF = 8;
 }
+

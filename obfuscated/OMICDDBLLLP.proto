@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: OMICDDBLLLP
+// CmdId: 1054
 message OMICDDBLLLP {
-	uint32 DOKELIFOJAB = 9;
-	uint64 POGHDEAENAD = 6;
-	uint32 NOKDGNIHLGF = 4;
-	uint32 PDFLEGGDOCP = 12;
+    uint32 GOEBNBGAKLB = 9;
+    uint64 PKJEEFBMBNM = 6;
+    uint32 IOOIAKJCPPH = 4;
+    uint32 GPBLLPDCIFK = 12;
 }
+

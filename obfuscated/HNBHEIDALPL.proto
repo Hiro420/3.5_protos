@@ -2,10 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: HNBHEIDALPL
 message HNBHEIDALPL {
-	uint32 JLMLALKOMFN = 1;
-	uint32 PGEOOGFMOGG = 2;
-	uint32 EEAOHDLJHMP = 3;
-	uint32 BPPNFJKALCF = 4;
-	repeated uint32 CLFEJIMDAHF = 5;
+    uint32 OCFEJAGKHBJ = 1;
+    uint32 EBOOCJPFBNK = 2;
+    uint32 PJLHHGHDOKE = 3;
+    uint32 MIFLJBENBAH = 4;
+    repeated uint32 ICEHBKKDFOO = 5;
 }
+

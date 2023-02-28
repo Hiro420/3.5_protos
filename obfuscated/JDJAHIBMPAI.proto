@@ -2,12 +2,14 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: JDJAHIBMPAI
 message JDJAHIBMPAI {
-	uint32 KBEADMBMBMO = 15;
-	uint32 LPDMPPKMPNI = 10;
-	uint32 HMKBJHNEIDD = 7;
-	repeated uint32 PNMJNKMDGBL = 14;
-	bool LAMICHCMOMM = 8;
-	uint32 OBDCMKJJLBL = 11;
-	bool HLNAOIHOIIB = 2;
+    uint32 OBKCNFIJONH = 15;
+    uint32 DEMDMOEEHHK = 10;
+    uint32 BHJCHIDPEHD = 7;
+    repeated uint32 JFDEBABKPMM = 14;
+    bool FPAPPKDEIEM = 8;
+    uint32 KBIBEPBHDKC = 11;
+    bool GDHPKFKBHFK = 2;
 }
+

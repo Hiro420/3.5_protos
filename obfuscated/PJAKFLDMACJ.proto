@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: PJAKFLDMACJ
+// CmdId: 1050
 message PJAKFLDMACJ {
-	uint32 DJGFPDOGEBI = 1;
-	int32 IJIABMFLJGH = 11;
-	uint64 POGHDEAENAD = 8;
+    uint32 PKLELKAJBEN = 1;
+    int32 KFCODGHIJEH = 11;
+    uint64 PKJEEFBMBNM = 8;
 }
+

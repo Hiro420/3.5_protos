@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "DFNGPIGNBJJ.proto";
 
+// Name: EKDHNBAJHBA
+// CmdId: 4642
 message EKDHNBAJHBA {
-	repeated DFNGPIGNBJJ GJLNDPMMIPG = 2;
-	int32 IJIABMFLJGH = 13;
+    repeated DFNGPIGNBJJ MLKOODGPINM = 2;
+    int32 KFCODGHIJEH = 13;
 }
+

@@ -4,6 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "KEJMEHAPBOJ.proto";
 
+// Name: DEBHBDNMDAA
+// CmdId: 5332
 message DEBHBDNMDAA {
-	KEJMEHAPBOJ AFKLENIEKMJ = 3;
+    KEJMEHAPBOJ CCDLABDHHEH = 3;
 }
+

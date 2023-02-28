@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: AEMAPIINBLO
+// CmdId: 1694
 message AEMAPIINBLO {
-	uint32 KFMCIFELJEF = 1;
-	uint64 POGHDEAENAD = 11;
-	int32 IJIABMFLJGH = 8;
+    uint32 MGGFLCGOMLL = 1;
+    uint64 PKJEEFBMBNM = 11;
+    int32 KFCODGHIJEH = 8;
 }
+

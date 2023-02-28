@@ -4,7 +4,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "EACNABDMBBF.proto";
 
+// Name: KLGFAAAPHPO
 message KLGFAAAPHPO {
-	uint32 HCMPEPODKPP = 1;
-	EACNABDMBBF IFBADCPIFMI = 2;
+    uint32 IOGCBDAJIJK = 1;
+    EACNABDMBBF IDEHGGPANFI = 2;
 }
+

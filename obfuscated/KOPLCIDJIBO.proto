@@ -2,8 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: KOPLCIDJIBO
+// CmdId: 4607
 message KOPLCIDJIBO {
-	uint32 HHEPIOBIFPG = 14;
-	repeated uint32 NIPOENMKLAN = 7;
-	uint32 HLHGOGKGBDF = 2;
+    uint32 ADEFNBHFFOK = 14;
+    repeated uint32 MODNAMELPMB = 7;
+    uint32 BFDAKOBOBDN = 2;
 }
+

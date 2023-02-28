@@ -2,9 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: DDHCNHKMEDI
+// CmdId: 248
 message DDHCNHKMEDI {
-	uint32 GKPECAOMNJN = 14;
-	uint32 NNHMDOIEEEK = 9;
-	repeated int32 JMJFJOBDLNG = 7;
-	uint32 KKPDIBFCOCK = 5;
+    uint32 OICHLICGHOM = 14;
+    uint32 MNENEMOLGID = 9;
+    repeated int32 NLNPKIPAKNE = 7;
+    uint32 IAEHHDCFDEE = 5;
 }
+

@@ -4,7 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "NICDJJJMPJJ.proto";
 
+// Name: ODOAFPFGDPA
+// CmdId: 5303
 message ODOAFPFGDPA {
-	NICDJJJMPJJ CDINIDINICE = 11;
-	uint32 DCOFMENLNEE = 5;
+    NICDJJJMPJJ MCHABEBJEOA = 11;
+    uint32 FKOCHOAJJIK = 5;
 }
+

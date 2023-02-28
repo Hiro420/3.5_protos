@@ -5,11 +5,13 @@ option java_package = "emu.grasscutter.net.proto";
 import "EHGNPLKIBNP.proto";
 import "GEEMGFBPEGC.proto";
 
+// Name: IHPHFDDEJPE
 message IHPHFDDEJPE {
-	repeated uint32 DDGGENEENJA = 14;
-	map<uint32, GEEMGFBPEGC> EKEJJDJGGMF = 6;
-	EHGNPLKIBNP ODLPNAIPIFJ = 4;
-	bool EEBLKDLIMPB = 11;
-	uint32 FJMDNHPNMAM = 15;
-	uint32 GNJMIICGMJM = 7;
+    repeated uint32 IFNJOAEKGJN = 14;
+    map<uint32, GEEMGFBPEGC> COFNEAJAHJI = 6;
+    EHGNPLKIBNP FNIAGKNACKP = 4;
+    bool IKDJCHKKJJB = 11;
+    uint32 KJAMCNJCIDF = 15;
+    uint32 PHKLAGLHFFM = 7;
 }
+

@@ -4,8 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "IJNIEHMAAMD.proto";
 
+// Name: BEAKEGBMAJD
 message BEAKEGBMAJD {
-	repeated IJNIEHMAAMD KACADLIIPLM = 15;
-	uint32 BEJDBNONODA = 7;
-	bool DJKOKFDGKIG = 2;
+    repeated IJNIEHMAAMD HGAOOAHEKNJ = 15;
+    uint32 NJIHDDKBBLA = 7;
+    bool HKDOCGOMBKP = 2;
 }
+

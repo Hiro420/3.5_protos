@@ -2,6 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
+// Name: ICNBAPCCAKO
+// CmdId: 180
 message ICNBAPCCAKO {
-	repeated uint32 LDINHNCFFOK = 7;
+    repeated uint32 JHDDMPICIIM = 7;
 }
+
