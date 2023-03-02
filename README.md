@@ -1,6 +1,6 @@
 # 3.5_protos
 3.5.0 protos for some anime game 
 
-ty kyoko for some fixes
+ty kyoko and ayame for some fixes
 
-# I WILL UPLOAD FIXED PROTOS FOR GRASSCUTTER ONCE I FINISH FIXING THEM
+# IT CAN RUN ON GRASSCUTTER WITH A BIT MODIFICATIONS TO THE PS
