@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NLCHECAHEJL
+// CmdId: 4016
+message SocialDataNotify {
+    bool is_have_first_share = 12;
+}
+

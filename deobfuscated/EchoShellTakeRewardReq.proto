@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HGJBMPDPJLK
+// CmdId: 8078
+message EchoShellTakeRewardReq {
+    uint32 reward_id = 8;
+}
+

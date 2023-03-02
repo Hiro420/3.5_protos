@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BCGADBEENDB
+// CmdId: 2554
+message SignInInfoReq {
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GGEHPHNJAJB
+// CmdId: 916
+message DungeonCandidateTeamKickReq {
+    uint32 player_uid = 6;
+}
+

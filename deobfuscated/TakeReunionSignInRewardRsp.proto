@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ReunionSignInInfo.proto";
+
+// Name: IOCHGLCGMFD
+// CmdId: 5082
+message TakeReunionSignInRewardRsp {
+    int32 retcode = 6;
+    ReunionSignInInfo sign_in_info = 1;
+}
+

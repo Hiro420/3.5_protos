@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PANFMHCBCOM
+// CmdId: 4049
+message SetFriendRemarkNameReq {
+    string remark_name = 6;
+    uint32 uid = 7;
+}
+

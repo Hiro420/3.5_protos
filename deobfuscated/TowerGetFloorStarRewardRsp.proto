@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LNBHJMJDPGC
+// CmdId: 2474
+message TowerGetFloorStarRewardRsp {
+    uint32 floor_id = 5;
+    int32 retcode = 13;
+}
+

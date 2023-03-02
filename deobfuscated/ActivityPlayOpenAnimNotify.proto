@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MEAKCDAMKNJ
+// CmdId: 2136
+message ActivityPlayOpenAnimNotify {
+    uint32 activity_id = 6;
+}
+

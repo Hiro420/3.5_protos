@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KMJEHNCBPFA
+// CmdId: 1034
+message BigTalentPointConvertRsp {
+    int32 retcode = 6;
+    uint64 avatar_guid = 10;
+}
+

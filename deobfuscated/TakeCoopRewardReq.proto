@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BKDDBLPBIHN
+// CmdId: 1975
+message TakeCoopRewardReq {
+    uint32 reward_config_id = 13;
+}
+

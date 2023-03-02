@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NHOJHEBAMEC
+// CmdId: 8747
+message BartenderStartLevelRsp {
+    repeated uint32 order_list = 8;
+    int32 retcode = 4;
+    uint32 time = 5;
+    uint32 level_id = 10;
+}
+

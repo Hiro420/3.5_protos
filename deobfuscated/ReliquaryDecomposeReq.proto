@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BPIDHOFHENA
+// CmdId: 631
+message ReliquaryDecomposeReq {
+    uint32 target_count = 10;
+    repeated uint64 guid_list = 12;
+    uint32 config_id = 14;
+}
+

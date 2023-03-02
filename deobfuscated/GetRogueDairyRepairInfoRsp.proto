@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IMINFFCCHKJ
+// CmdId: 8433
+message GetRogueDairyRepairInfoRsp {
+    int32 retcode = 11;
+}
+

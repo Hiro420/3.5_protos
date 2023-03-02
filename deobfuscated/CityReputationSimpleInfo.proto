@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MBIPNDBGKFI
+message CityReputationSimpleInfo {
+    uint32 city_id = 9;
+    uint32 level = 11;
+}
+

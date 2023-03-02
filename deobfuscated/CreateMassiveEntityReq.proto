@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ClientMassiveEntity.proto";
+
+// Name: OGJEIFDLMFE
+// CmdId: 349
+message CreateMassiveEntityReq {
+    repeated ClientMassiveEntity massive_entity_list = 6;
+}
+

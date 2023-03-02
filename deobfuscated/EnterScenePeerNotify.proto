@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BEPKDPLOLPA
+// CmdId: 215
+message EnterScenePeerNotify {
+    uint32 dest_scene_id = 11;
+    uint32 host_peer_id = 15;
+    uint32 peer_id = 3;
+    uint32 enter_scene_token = 13;
+}
+

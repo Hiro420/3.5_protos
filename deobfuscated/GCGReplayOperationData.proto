@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGOperation.proto";
+
+// Name: EJBPKIGPFIG
+message GCGReplayOperationData {
+    GCGOperation op = 11;
+    uint32 controller_id = 8;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: LEIIEGJMBBL
+// CmdId: 4292
+message UseWidgetCreateGadgetReq {
+    uint32 material_id = 2;
+    Vector rot = 15;
+    Vector pos = 6;
+}
+

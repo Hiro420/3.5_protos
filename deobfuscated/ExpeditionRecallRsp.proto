@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JANPFEIFJLH
+// CmdId: 2015
+message ExpeditionRecallRsp {
+    uint32 path_id = 7;
+    int32 retcode = 2;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IOJEHDJBEDE
+// CmdId: 6317
+message CheckUgcStateRsp {
+    int32 retcode = 9;
+}
+

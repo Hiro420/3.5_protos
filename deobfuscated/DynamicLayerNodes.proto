@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DynamicSVONode.proto";
+
+// Name: LPCBJDFPFII
+message DynamicLayerNodes {
+    int32 level = 15;
+    repeated DynamicSVONode nodes = 10;
+}
+

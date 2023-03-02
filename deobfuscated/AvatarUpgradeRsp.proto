@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FDBHCBMNCAI
+// CmdId: 1741
+message AvatarUpgradeRsp {
+    uint32 old_level = 3;
+    uint32 cur_level = 15;
+    int32 retcode = 1;
+    uint64 avatar_guid = 13;
+    map<uint32, float> GEKBLKPMJCG = 7;
+    map<uint32, float> AFEDLAOGFOC = 12;
+}
+

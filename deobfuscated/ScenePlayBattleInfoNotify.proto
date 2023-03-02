@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ScenePlayBattleInfo.proto";
+
+// Name: GANMGHEFDNP
+// CmdId: 4417
+message ScenePlayBattleInfoNotify {
+    ScenePlayBattleInfo battle_info = 2;
+}
+

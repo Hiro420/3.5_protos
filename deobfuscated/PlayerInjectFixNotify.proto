@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EPILEBMPDEP
+// CmdId: 192
+message PlayerInjectFixNotify {
+    bytes inject_fix = 2;
+    uint32 id = 5;
+}
+

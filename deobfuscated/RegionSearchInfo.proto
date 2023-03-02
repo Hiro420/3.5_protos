@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RegionSearch.proto";
+
+// Name: ODOHCAKBFJC
+message RegionSearchInfo {
+    bool is_entered = 2;
+    uint32 id = 14;
+    repeated RegionSearch region_search_list = 10;
+}
+

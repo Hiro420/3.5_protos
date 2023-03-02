@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GHAPMIGCIAM
+// CmdId: 1254
+message EntityFightPropNotify {
+    map<uint32, float> fight_prop_map = 3;
+    uint32 entity_id = 7;
+}
+

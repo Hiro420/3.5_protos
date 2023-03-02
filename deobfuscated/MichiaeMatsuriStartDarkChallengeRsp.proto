@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IENKIEMHLCA
+// CmdId: 8160
+message MichiaeMatsuriStartDarkChallengeRsp {
+    int32 retcode = 12;
+}
+

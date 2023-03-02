@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NFFIAAOHAAO
+enum ModifierAction {
+    ADDED = 0;
+    REMOVED = 1;
+}
+

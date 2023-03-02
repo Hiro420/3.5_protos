@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CustomGadgetTreeInfo.proto";
+
+// Name: DOKILHABPNG
+// CmdId: 24190
+message GravenInnocenceEditCarveCombinationReq {
+    CustomGadgetTreeInfo combination_info = 14;
+    uint32 entity_id = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "UgcMusicTrack.proto";
+
+// Name: AMAEJCFDLLP
+message UgcMusicRecord {
+    uint32 music_id = 6;
+    repeated UgcMusicTrack music_track_list = 2;
+}
+

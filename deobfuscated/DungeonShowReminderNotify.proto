@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LLJDBLJEGNP
+// CmdId: 942
+message DungeonShowReminderNotify {
+    uint32 reminder_id = 2;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KPJLLNILBKN
+// CmdId: 133
+message PlayerCompoundMaterialReq {
+    uint32 compound_id = 1;
+    uint32 count = 7;
+}
+

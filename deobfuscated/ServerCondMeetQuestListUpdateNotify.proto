@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NKEFJLKJCIP
+// CmdId: 486
+message ServerCondMeetQuestListUpdateNotify {
+    repeated uint32 add_quest_id_list = 15; // ENOCFBCHAMO
+    repeated uint32 del_quest_id_list = 5; // PJLFACFIEAA
+}
+

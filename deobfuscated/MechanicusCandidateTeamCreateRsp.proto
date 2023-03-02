@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DJDIOACDGEA
+// CmdId: 3927
+message MechanicusCandidateTeamCreateRsp {
+    uint32 difficult_level = 15;
+    uint32 dungeon_id = 5;
+    int32 retcode = 6;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FBPFOPMOOIM
+// CmdId: 7422
+message FBPFOPMOOIM {
+    bool NKAEGAJGMIK = 2;
+    string name = 9;
+    uint32 AHAIAIPGFDN = 8;
+}
+

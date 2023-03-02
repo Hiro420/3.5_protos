@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KLEPHMMFBPB
+// CmdId: 1987
+message MainCoopFailNotify {
+    string textmap_id = 15;
+    uint32 chapter_id = 6;
+}
+

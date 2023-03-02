@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KPCPHKEHBDO
+// CmdId: 4181
+message PlayerAllowEnterMpAfterAgreeMatchNotify {
+    uint32 target_uid = 11;
+}
+

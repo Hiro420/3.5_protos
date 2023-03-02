@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IFIIKECOADA
+// CmdId: 184
+message PlayerCookReq {
+    uint32 cook_count = 9; // HHKAPMHMHFI
+    uint32 recipe_id = 5; // DIIJPMJFNOL
+    uint32 qte_quality = 15; // IFLJGHHBGMP
+    uint32 assist_avatar = 3; // OMPOMKPPLEH
+}
+

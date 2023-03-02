@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FEELMGNAEIF
+// CmdId: 8567
+message DoRoguelikeDungeonCardGachaRsp {
+    repeated uint32 card_list = 11;
+    int32 retcode = 9;
+    bool is_can_refresh = 8;
+}
+

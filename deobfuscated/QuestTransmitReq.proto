@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DJDELBCNIKJ
+// CmdId: 433
+message QuestTransmitReq {
+    uint32 point_id = 13;
+    uint32 quest_id = 2;
+}
+

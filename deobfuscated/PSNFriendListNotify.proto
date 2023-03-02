@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FriendBrief.proto";
+
+// Name: HBKIPDFCPEM
+// CmdId: 4036
+message PSNFriendListNotify {
+    repeated FriendBrief psn_friend_list = 12;
+}
+

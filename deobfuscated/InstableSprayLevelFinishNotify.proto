@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JOLHGHEOENL
+// CmdId: 23121
+message InstableSprayLevelFinishNotify {
+    uint32 stage_id = 13;
+    uint32 level_id = 9;
+    bool OMMDIFHOGIA = 15;
+    uint32 round = 6;
+    bool CHFPHPBILMC = 12;
+}
+

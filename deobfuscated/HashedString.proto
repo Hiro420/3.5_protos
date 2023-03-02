@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IHKILPECFBJ
+message HashedString {
+    uint32 hash = 1;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ANPIFECAIGP
+// CmdId: 5982
+message ReformFireworksRsp {
+    int32 retcode = 10;
+}
+

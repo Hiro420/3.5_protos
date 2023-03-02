@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DOIGBMCHGJM
+// CmdId: 1472
+message DelMailRsp {
+    repeated uint32 mail_id_list = 9;
+    int32 retcode = 11;
+}
+

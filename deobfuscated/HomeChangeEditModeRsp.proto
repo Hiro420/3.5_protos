@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HKFKCOODNHH
+// CmdId: 4862
+message HomeChangeEditModeRsp {
+    int32 retcode = 14;
+    bool is_enter_edit_mode = 11;
+}
+

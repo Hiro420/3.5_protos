@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MKAPCIPKDFB
+// CmdId: 198
+message ServerDisconnectClientNotify {
+    uint32 data = 4;
+}
+

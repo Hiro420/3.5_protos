@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SummerTimeSprintBoatRecord.proto";
+
+// Name: EBKOLPHCCKJ
+message SummerTimeSprintBoatInfo {
+    repeated SummerTimeSprintBoatRecord record_list = 14;
+}
+

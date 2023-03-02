@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OEBAGLDBNCO
+message OEBAGLDBNCO {
+    oneof AJGBLKAAKJD {
+        uint32 DGHNIPJNJFO = 3;
+        float GONGPCHIPEN = 5;
+        string CBGKCJJOMKN = 14;
+    }
+}
+

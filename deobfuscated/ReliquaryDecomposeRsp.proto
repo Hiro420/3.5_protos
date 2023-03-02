@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IMECAGCPFHP
+// CmdId: 699
+message ReliquaryDecomposeRsp {
+    int32 retcode = 7;
+    repeated uint64 guid_list = 9;
+}
+

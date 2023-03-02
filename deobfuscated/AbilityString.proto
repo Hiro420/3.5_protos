@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ALGGELGLCLJ
+message AbilityString {
+    oneof type {
+        string str = 1;
+        uint32 hash = 2;
+    }
+}
+

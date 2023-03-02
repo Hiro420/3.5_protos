@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "UgcType.proto";
+
+// Name: DPBNMIFDCJH
+// CmdId: 6309
+message GetUgcBriefInfoReq {
+    UgcType ugc_type = 1;
+    uint64 ugc_guid = 12;
+}
+

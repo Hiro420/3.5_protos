@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KIOIKHFLJPE
+// CmdId: 1454
+message ReadMailNotify {
+    repeated uint32 mail_id_list = 2;
+}
+

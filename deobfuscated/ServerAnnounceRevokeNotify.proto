@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BPDFEOJAHNK
+// CmdId: 2103
+message ServerAnnounceRevokeNotify {
+    repeated uint32 config_id_list = 6;
+}
+

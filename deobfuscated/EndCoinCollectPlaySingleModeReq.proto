@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GKLCMJNGJME
+// CmdId: 21430
+message EndCoinCollectPlaySingleModeReq {
+    uint32 multistage_play_index = 8;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HLDDAIOAHPB
+enum ChapterState {
+    CHAPTER_STATE_NONE = 0;
+    CHAPTER_STATE_UNABLE_TO_BEGIN = 1;
+    CHAPTER_STATE_BEGIN = 2;
+    CHAPTER_STATE_END = 3;
+}
+

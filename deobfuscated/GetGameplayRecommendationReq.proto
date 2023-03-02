@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GameplayRecommendationElementReliquaryRequest.proto";
+import "GameplayRecommendationReliquaryRequest.proto";
+import "GameplayRecommendationSkillRequest.proto";
+
+// Name: GEHDNPMCDAE
+// CmdId: 109
+message GetGameplayRecommendationReq {
+    uint32 avatar_id = 1;
+    oneof detail {
+        GameplayRecommendationSkillRequest skill_request = 1028;
+        GameplayRecommendationReliquaryRequest reliquary_request = 138;
+        GameplayRecommendationElementReliquaryRequest element_reliquary_request = 1480;
+    }
+}
+

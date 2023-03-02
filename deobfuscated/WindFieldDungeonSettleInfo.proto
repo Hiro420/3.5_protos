@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "WindFieldDungeonFailReason.proto";
+
+// Name: DKPIGJECCHK
+message WindFieldDungeonSettleInfo {
+    WindFieldDungeonFailReason fail_reason = 3;
+    repeated uint32 OCAANIJGLBH = 6;
+    repeated uint32 MFIDCJGMDKF = 4;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NOOLMPKGMDG
+// CmdId: 565
+message FinishedTalkIdListNotify {
+    repeated uint32 finished_talk_id_list = 5;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IrodoriChessPlayerInfo.proto";
+
+// Name: DEBHBDNMDAA
+// CmdId: 5332
+message IrodoriChessPlayerInfoNotify {
+    IrodoriChessPlayerInfo player_info = 3;
+}
+

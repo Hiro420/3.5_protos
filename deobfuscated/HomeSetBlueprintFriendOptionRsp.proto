@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DCLKDPAJLHG
+// CmdId: 4496
+message HomeSetBlueprintFriendOptionRsp {
+    int32 retcode = 9;
+    bool is_allow_friend_copy = 12;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: FCOELCNJHFD
+// CmdId: 3299
+message HitTreeNotify {
+    Vector drop_pos = 6;
+    Vector tree_pos = 2;
+    uint32 tree_type = 11;
+}
+

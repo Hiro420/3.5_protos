@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GICBNMDGAEN
+// CmdId: 251
+message JoinPlayerFailNotify {
+    int32 retcode = 1;
+}
+

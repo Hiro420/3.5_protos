@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CPNHPCICHID
+// CmdId: 281
+message EnterSceneDoneRsp {
+    uint32 enter_scene_token = 12;
+    int32 retcode = 2;
+}
+

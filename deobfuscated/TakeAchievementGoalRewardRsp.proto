@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ItemParam.proto";
+
+// Name: DEFBEKOMALM
+// CmdId: 2665
+message TakeAchievementGoalRewardRsp {
+    repeated ItemParam item_list = 10;
+    int32 retcode = 6;
+    repeated uint32 id_list = 14;
+}
+

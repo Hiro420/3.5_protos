@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BIILPLIEGPD
+// CmdId: 1902
+message InvestigationQuestDailyNotify {
+}
+

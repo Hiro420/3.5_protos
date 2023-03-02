@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OJNIKMNCLJO
+// CmdId: 23659
+message EnterFungusFighterPlotDungeonRsp {
+    int32 retcode = 8;
+    repeated uint32 fungus_id_list = 4;
+    uint32 dungeon_id = 9;
+}
+

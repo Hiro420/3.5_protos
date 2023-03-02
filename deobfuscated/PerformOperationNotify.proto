@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: PJEPKPGNFNF
+// CmdId: 1161
+message PerformOperationNotify {
+    // Name: PAALNOEKAHO
+    enum OperateType {
+        OPERATE_TYPE_NONE = 0;
+        OPERATE_TYPE_EFFECT = 1;
+    }
+
+    Vector pos = 11;
+    OperateType operate_type = 3;
+    Vector rot = 6;
+    uint32 index = 2;
+    uint32 entity_id = 15;
+}
+

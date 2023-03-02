@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OKBDDMCNOLE
+// CmdId: 4668
+message PlayerApplyEnterHomeResultReq {
+    bool is_agreed = 9;
+    uint32 apply_uid = 13;
+}
+

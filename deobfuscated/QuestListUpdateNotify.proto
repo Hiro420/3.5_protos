@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Quest.proto";
+
+// Name: BACDDEEPDDG
+// CmdId: 475
+message QuestListUpdateNotify {
+    repeated Quest quest_list = 11;
+}
+

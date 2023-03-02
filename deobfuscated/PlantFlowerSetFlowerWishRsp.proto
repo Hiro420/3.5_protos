@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EKJOMLPBNOA
+// CmdId: 8034
+message PlantFlowerSetFlowerWishRsp {
+    uint32 schedule_id = 9;
+    int32 retcode = 15;
+}
+

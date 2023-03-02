@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ClientReconnectReason.proto";
+
+// Name: COHPOPIPCKO
+// CmdId: 7
+message ClientReconnectNotify {
+    ClientReconnectReason reason = 14;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PBNEDENDCGG
+// CmdId: 8808
+message GachaActivityCreateRobotRsp {
+    int32 retcode = 3;
+    uint32 robot_id = 14;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RogueDiaryAvatar.proto";
+
+// Name: OGDCGLMJODF
+// CmdId: 8388
+message EnterRogueDiaryDungeonReq {
+    repeated RogueDiaryAvatar chosen_avatar_list = 13;
+    repeated uint32 chosen_card_list = 14;
+}
+

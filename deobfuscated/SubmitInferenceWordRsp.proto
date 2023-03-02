@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KDHCJEKJOCB
+// CmdId: 443
+message SubmitInferenceWordRsp {
+    uint32 word_id = 3;
+    int32 retcode = 14;
+    uint32 conclusion_id = 11;
+    uint32 page_id = 12;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ICPLHBCLEHA
+// CmdId: 8002
+message MistTrialGetChallengeMissionReq {
+    uint32 trial_id = 1;
+}
+

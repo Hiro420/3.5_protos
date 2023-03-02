@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OMOBLJGICAI
+message VintageHuntingFirstStageInfo {
+    uint32 FHICAKKCBPF = 15;
+    uint32 MEJPBKFHFNH = 9;
+    uint32 MKAMDEJJPAO = 14;
+    uint32 score = 5;
+}
+

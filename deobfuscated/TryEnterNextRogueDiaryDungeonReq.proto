@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GNGOIJDLMKK
+// CmdId: 8832
+message TryEnterNextRogueDiaryDungeonReq {
+}
+

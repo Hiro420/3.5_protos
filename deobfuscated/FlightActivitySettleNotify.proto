@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MKOCGKJGDEN
+// CmdId: 2115
+message FlightActivitySettleNotify {
+    uint32 ECGNDJEFALL = 7;
+    uint32 DOJCKDMCLJE = 14;
+    uint32 score = 5;
+    bool is_new_record = 15;
+    uint32 group_id = 3;
+    uint32 left_time = 9;
+    bool is_success = 4;
+    uint32 NJENGLLHPJD = 10;
+}
+

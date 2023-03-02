@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KCEHIDGIEEF
+enum MapMarkPointType {
+    NPC = 0;
+    QUEST = 1;
+    SPECIAL = 2;
+    MINE = 3;
+    COLLECTION = 4;
+    MONSTER = 5;
+    FISH_POOL = 6;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HBOAACEFDIO
+// CmdId: 864
+message WorktopOptionNotify {
+    repeated uint32 option_list = 5;
+    uint32 gadget_entity_id = 14;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SalvagePreventGallerySettleInfo.proto";
+
+// Name: AKIMCMDLPEK
+message SalvagePreventSettleInfo {
+    SalvagePreventGallerySettleInfo settle_info = 12;
+    bool is_new_record = 2;
+}
+

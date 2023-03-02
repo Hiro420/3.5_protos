@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ChessMonsterInfo.proto";
+
+// Name: LKLACPPMNLD
+message ChessEntranceInfo {
+    uint32 entrance_index = 11;
+    repeated ChessMonsterInfo monster_info_list = 4;
+    uint32 entrance_point_id = 5;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ForgeQueueData.proto";
+
+// Name: BBHOPHBCLAE
+// CmdId: 658
+message ForgeGetQueueDataRsp {
+    uint32 max_queue_num = 2;
+    int32 retcode = 1;
+    map<uint32, ForgeQueueData> forge_queue_map = 9;
+}
+

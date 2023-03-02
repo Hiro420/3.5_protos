@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FMKMCEAPNJA
+// CmdId: 8020
+message SalvageEscortRestartReq {
+    uint32 gallery_id = 10;
+}
+

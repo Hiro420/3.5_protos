@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KECNEMONJDE
+message StatueGadgetInfo {
+    repeated uint32 opened_statue_uid_list = 1;
+}
+

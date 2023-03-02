@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: COLNADOLNFO
+message COLNADOLNFO {
+    uint32 apply_entity_id = 14;
+}
+

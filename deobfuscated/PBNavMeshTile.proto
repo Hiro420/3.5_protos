@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PBNavMeshPoly.proto";
+import "Vector.proto";
+
+// Name: BEINIMOEPND
+message PBNavMeshTile {
+    repeated Vector vecs = 7;
+    repeated PBNavMeshPoly polys = 15;
+}
+

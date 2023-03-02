@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGCard.proto";
+
+// Name: EJDJOJANKDF
+message GCGMsgCardUpdate {
+    GCGCard card = 15;
+}
+

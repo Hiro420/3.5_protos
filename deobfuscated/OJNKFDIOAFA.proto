@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OJNKFDIOAFA
+message OJNKFDIOAFA {
+    repeated uint32 PHDCPPEPGGB = 3;
+    uint32 id = 4;
+}
+

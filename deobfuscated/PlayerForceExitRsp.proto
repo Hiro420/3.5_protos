@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MGJOAEHDAIC
+// CmdId: 190
+message PlayerForceExitRsp {
+    int32 retcode = 12;
+}
+

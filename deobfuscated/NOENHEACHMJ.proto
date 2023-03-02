@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NOENHEACHMJ
+// CmdId: 4190
+message NOENHEACHMJ {
+    uint32 match_id = 11;
+}
+

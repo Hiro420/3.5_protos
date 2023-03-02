@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DBHAMANNKJM
+// CmdId: 209
+message SeeMonsterRsp {
+    int32 retcode = 13;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: LGCNHKIIMLL
+message HomeBlockSubFieldData {
+    Vector pos = 14;
+    Vector rot = 3;
+}
+

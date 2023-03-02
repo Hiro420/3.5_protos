@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DNBCFAELCOC
+// CmdId: 8744
+message HideAndSeekChooseMapReq {
+    repeated uint32 map_list = 13;
+}
+

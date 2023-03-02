@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RegionSearchState.proto";
+
+// Name: AIOFHFPBCHH
+message RegionSearch {
+    bool is_entered = 8;
+    RegionSearchState state = 9;
+    uint32 progress = 2;
+    uint32 region_search_id = 3;
+}
+

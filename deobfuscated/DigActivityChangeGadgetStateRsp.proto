@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CBGAOFJDFCG
+// CmdId: 8656
+message DigActivityChangeGadgetStateRsp {
+    uint32 entity_id = 8;
+    int32 retcode = 15;
+}
+

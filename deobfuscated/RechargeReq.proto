@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FIMJMLPLPAC.proto";
+import "FINEJDCEECI.proto";
+import "LIJKGGFCHOB.proto";
+import "PlayProduct.proto";
+
+// Name: OAMGPILLNIL
+// CmdId: 4148
+message RechargeReq {
+    FINEJDCEECI CJGLNOGNEJM = 5;
+    PlayProduct play_product = 10;
+    LIJKGGFCHOB DEJCOPDFAJK = 14;
+    FIMJMLPLPAC CEANLHMPPAB = 6;
+}
+

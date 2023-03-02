@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CrucibleBattleUidInfo.proto";
+import "Vector.proto";
+
+// Name: LABHAGGGDAP
+message CrucibleActivityDetailInfo {
+    uint32 battle_world_level = 14;
+    repeated CrucibleBattleUidInfo uid_info_list = 10;
+    uint32 cost_time = 6;
+    Vector pos = 13;
+}
+

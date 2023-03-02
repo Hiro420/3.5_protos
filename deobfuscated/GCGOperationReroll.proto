@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DODPKMOFDGP
+message GCGOperationReroll {
+    repeated uint32 dice_index_list = 8;
+}
+

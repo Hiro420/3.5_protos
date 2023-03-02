@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AEMAPIINBLO
+// CmdId: 1694
+message AvatarChangeAnimHashRsp {
+    uint32 anim_hash = 1;
+    uint64 avatar_guid = 11;
+    int32 retcode = 8;
+}
+

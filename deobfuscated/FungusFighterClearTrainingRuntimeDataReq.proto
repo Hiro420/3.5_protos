@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NJCOEAKDFOE
+// CmdId: 22416
+message FungusFighterClearTrainingRuntimeDataReq {
+    uint32 dungeon_id = 5;
+}
+

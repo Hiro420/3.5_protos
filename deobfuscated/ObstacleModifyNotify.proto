@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ObstacleInfo.proto";
+
+// Name: BMCJDFCFMBO
+// CmdId: 2354
+message ObstacleModifyNotify {
+    repeated ObstacleInfo add_obstacles = 5;
+    uint32 scene_id = 8;
+    repeated int32 remove_obstacle_ids = 2;
+}
+

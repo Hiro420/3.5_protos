@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BKPFCDEFAGD
+// CmdId: 8060
+message MistTrialSelectAvatarAndEnterDungeonRsp {
+    int32 retcode = 5;
+    uint32 trial_id = 3;
+}
+

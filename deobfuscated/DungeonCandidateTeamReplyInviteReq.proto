@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CMNFHHGFKMM
+// CmdId: 958
+message DungeonCandidateTeamReplyInviteReq {
+    bool is_accept = 7;
+}
+

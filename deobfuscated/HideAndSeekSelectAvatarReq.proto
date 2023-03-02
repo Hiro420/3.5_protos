@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GBKPAIOPIMP
+// CmdId: 5397
+message HideAndSeekSelectAvatarReq {
+    uint32 avatar_id = 11;
+}
+

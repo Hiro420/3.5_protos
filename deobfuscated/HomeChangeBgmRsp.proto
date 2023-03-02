@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PONBLFJIIDN
+// CmdId: 4815
+message HomeChangeBgmRsp {
+    int32 retcode = 10;
+}
+

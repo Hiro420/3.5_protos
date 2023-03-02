@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EJECHOLKFFM
+// CmdId: 276
+message ClientPauseNotify {
+    bool is_open = 14;
+}
+

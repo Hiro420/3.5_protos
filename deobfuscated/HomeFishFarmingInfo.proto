@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OPEFMKHJAIN
+message HomeFishFarmingInfo {
+    repeated uint32 fish_id_list = 11;
+    uint32 fishpond_guid = 5;
+}
+

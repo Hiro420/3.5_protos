@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EKJGPBNNMCJ
+// CmdId: 23407
+message FungusFighterClearTrainingRuntimeDataRsp {
+    int32 retcode = 8;
+}
+

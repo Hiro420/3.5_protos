@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GOOCOODBHLP
+// CmdId: 436
+message QuestRenameAvatarReq {
+    uint32 rename_id = 12;
+    bool is_check = 2;
+    string avatar_name = 14;
+}
+

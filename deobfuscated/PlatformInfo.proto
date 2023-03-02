@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MathQuaternion.proto";
+import "MovingPlatformType.proto";
+import "Route.proto";
+import "Vector.proto";
+
+// Name: COPHAEDKHOK
+message PlatformInfo {
+    uint32 route_id = 1;
+    int32 start_index = 2;
+    uint32 start_route_time = 3; // MGFMDFCMKDH
+    uint32 start_scene_time = 4; // COKDLJOELIL
+    Vector start_pos = 7; // PMCHNNEAMCO
+    bool is_started = 8;
+    MathQuaternion start_rot = 9; // PFJLOCMMIDO
+    uint32 stop_scene_time = 10; // LJKOGHEMFPA
+    Vector pos_offset = 11; // PGNBBMEBGIO
+    MathQuaternion rot_offset = 12; // DFEPLBHBKHG
+    MovingPlatformType moving_platform_type = 13;
+    bool is_active = 14;
+    Route route = 15;
+    uint32 point_id = 16;
+}
+

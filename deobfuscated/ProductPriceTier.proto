@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CPANDOCFHFN
+message ProductPriceTier {
+    string price_tier = 8;
+    string product_id = 3;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MAABOGBOJFC
+message ForceUpdateInfo {
+    string force_update_url = 1; //AGLGNFAKDMP
+}
+

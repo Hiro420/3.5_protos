@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DJMGMEPCFHC
+// CmdId: 4835
+message SetFriendEnterHomeOptionRsp {
+    int32 retcode = 5;
+}
+

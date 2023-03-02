@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CCPCANABIDB
+// CmdId: 3934
+message MechanicusCloseNotify {
+    uint32 mechanicus_id = 14;
+}
+

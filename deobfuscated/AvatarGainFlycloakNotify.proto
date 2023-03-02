@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HCLMIGIPANC
+// CmdId: 1793
+message AvatarGainFlycloakNotify {
+    uint32 flycloak_id = 9;
+}
+

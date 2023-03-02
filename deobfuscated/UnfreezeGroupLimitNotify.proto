@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DKKFAHNICLE
+// CmdId: 3464
+message UnfreezeGroupLimitNotify {
+    uint32 point_id = 14;
+    uint32 scene_id = 4;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DIPLFLKIDJN
+// CmdId: 7269
+message DIPLFLKIDJN {
+    string FFBNANJHIEH = 15;
+}
+

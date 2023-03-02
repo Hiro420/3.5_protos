@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GKLODALBJDF.proto";
+import "HEIHACODPGK.proto";
+import "HOPFOECLFLA.proto";
+import "KINEAIJCOHJ.proto";
+import "VintageBoothUsedItemData.proto";
+
+// Name: HPIGPCKEFDL
+message VintageActivityDetailInfo {
+    map<uint32, GKLODALBJDF> NDLDNIILLHF = 14;
+    VintageBoothUsedItemData booth_data = 5;
+    HEIHACODPGK MINNOOOGPKD = 10;
+    map<uint32, KINEAIJCOHJ> KOPJCBGBNJD = 2;
+    map<uint32, HOPFOECLFLA> NEFCCGDCBOK = 4;
+    bool is_content_closed = 9;
+}
+

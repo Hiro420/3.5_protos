@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EIKPABMOCEM
+// CmdId: 497
+message NpcTalkStateNotify {
+    bool is_ban = 10;
+}
+

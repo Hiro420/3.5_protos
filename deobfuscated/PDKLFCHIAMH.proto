@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PDKLFCHIAMH
+message PDKLFCHIAMH {
+    uint32 GGEAGIMMEDP = 8;
+    uint32 AFFMMDODAGK = 7;
+}
+

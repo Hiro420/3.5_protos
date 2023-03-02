@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CodexType.proto";
+
+// Name: MKIEDBEHAHC
+// CmdId: 4207
+message CodexDataUpdateNotify {
+    CodexType type = 10;
+    uint32 weapon_max_promote_level = 15;
+    uint32 id = 5;
+}
+

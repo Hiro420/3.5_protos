@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PPGOICBCPFP
+// CmdId: 4817
+message HomeGetBasicInfoReq {
+}
+

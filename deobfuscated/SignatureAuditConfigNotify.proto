@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GHCJIDMBNGK
+// CmdId: 4085
+message SignatureAuditConfigNotify {
+    uint32 submit_limit = 1;
+    bool is_open = 11;
+}
+

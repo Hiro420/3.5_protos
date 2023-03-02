@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DFDJKOLMOHG
+// CmdId: 1828
+message MpPlayInviteResultNotify {
+    uint32 mp_play_id = 15;
+    bool all_argee = 8;
+}
+

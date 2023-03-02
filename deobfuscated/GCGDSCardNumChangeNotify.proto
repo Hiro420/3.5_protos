@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PCIGDBDDFKD
+// CmdId: 7509
+message GCGDSCardNumChangeNotify {
+    uint32 card_id = 13;
+    uint32 num = 11;
+}
+

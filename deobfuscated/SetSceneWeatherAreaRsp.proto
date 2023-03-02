@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NFOOGPICGLE
+// CmdId: 263
+message SetSceneWeatherAreaRsp {
+    int32 retcode = 13;
+}
+

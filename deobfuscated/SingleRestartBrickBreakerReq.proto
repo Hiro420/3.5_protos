@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IINNLEJKOBH
+// CmdId: 21486
+message SingleRestartBrickBreakerReq {
+    bool is_dungeon = 1;
+    uint32 level_id = 5;
+}
+

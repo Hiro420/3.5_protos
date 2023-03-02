@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PDKLGLACPKN
+// CmdId: 4736
+message HomeChooseModuleRsp {
+    int32 retcode = 6;
+    uint32 module_id = 5;
+}
+

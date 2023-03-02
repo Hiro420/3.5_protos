@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SegmentCRCInfo.proto";
+
+// Name: HIHMHAENBGE
+// CmdId: 23
+message CheckSegmentCRCReq {
+    repeated SegmentCRCInfo info_list = 12;
+}
+

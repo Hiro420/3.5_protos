@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OFAJEECKBCP
+// CmdId: 411
+message GetQuestLackingResourceRsp {
+    map<uint32, uint32> lacked_npc_map = 6;
+    repeated uint32 KPIKFCDPMMM = 15;
+    uint32 quest_id = 8;
+    int32 retcode = 14;
+    map<uint32, uint32> lacked_place_map = 5;
+    repeated uint32 DMLOPDKLBMF = 4;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HEEOPFJGOKN
+// CmdId: 1514
+message GachaWishReq {
+    uint32 NMKGGDOKHLF = 9;
+    uint32 item_id = 11;
+    uint32 DGIFMDIADJF = 5;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "WorldRoutineTypeInfo.proto";
+
+// Name: KEHJMHEMANF
+// CmdId: 3509
+message WorldRoutineTypeRefreshNotify {
+    WorldRoutineTypeInfo world_routine_type = 13;
+}
+

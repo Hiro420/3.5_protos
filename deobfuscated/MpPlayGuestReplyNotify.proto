@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DFPGBOBGOKE
+// CmdId: 1810
+message MpPlayGuestReplyNotify {
+    uint32 uid = 2;
+    uint32 mp_play_id = 14;
+    bool is_agree = 10;
+}
+

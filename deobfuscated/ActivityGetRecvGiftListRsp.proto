@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ActivityRecvGiftData.proto";
+
+// Name: BLNBFKLGKJA
+// CmdId: 8791
+message ActivityGetRecvGiftListRsp {
+    repeated ActivityRecvGiftData recv_gift_list = 8;
+    uint32 schedule_id = 1;
+    int32 retcode = 9;
+}
+

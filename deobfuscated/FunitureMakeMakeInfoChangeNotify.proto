@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FurnitureMakeMakeInfo.proto";
+
+// Name: EADLIDOKAOH
+// CmdId: 4588
+message FunitureMakeMakeInfoChangeNotify {
+    FurnitureMakeMakeInfo make_info = 6;
+}
+

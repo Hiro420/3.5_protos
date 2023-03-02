@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FBHBPDCNIBK
+// CmdId: 288
+message EnterSceneWeatherAreaNotify {
+    uint32 weather_gadget_id = 14;
+}
+

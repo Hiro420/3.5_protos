@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KNBJIEBJOML
+// CmdId: 2150
+message FleurFairMusicGameStartReq {
+    uint32 music_basic_id = 5;
+}
+

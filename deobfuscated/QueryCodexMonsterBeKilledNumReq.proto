@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JNDHCGKOCNI
+// CmdId: 4208
+message QueryCodexMonsterBeKilledNumReq {
+    repeated uint32 codex_id_list = 13;
+}
+

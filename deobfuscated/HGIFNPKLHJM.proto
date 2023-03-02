@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HGIFNPKLHJM
+// CmdId: 7776
+message HGIFNPKLHJM {
+    uint32 FMEICLMBOBF = 1;
+    uint32 level_id = 11;
+}
+

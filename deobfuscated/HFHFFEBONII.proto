@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AbilityString.proto";
+
+// Name: HFHFFEBONII
+message HFHFFEBONII {
+    float OIBFNDDDIMH = 12;
+    AbilityString ability_name = 15;
+    AbilityString ability_override = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AsterProgressDetailInfo.proto";
+
+// Name: LMNNPFFMONB
+// CmdId: 2173
+message AsterProgressInfoNotify {
+    AsterProgressDetailInfo info = 12;
+}
+

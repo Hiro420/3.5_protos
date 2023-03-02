@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LPGOCDCNECC
+message LPGOCDCNECC {
+    uint64 dungeon_guid = 1;
+    uint32 min_cost_time = 2;
+}
+

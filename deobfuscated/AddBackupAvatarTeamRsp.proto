@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FPILCNDJKNF
+// CmdId: 1777
+message AddBackupAvatarTeamRsp {
+    int32 retcode = 14;
+}
+

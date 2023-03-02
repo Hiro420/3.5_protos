@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KLOOLKBOAKM
+// CmdId: 5546
+message BackRebornGalleryRsp {
+    int32 retcode = 5;
+    uint32 gallery_id = 11;
+}
+

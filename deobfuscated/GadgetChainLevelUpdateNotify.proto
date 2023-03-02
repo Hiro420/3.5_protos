@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KBDFNIEAMPO
+// CmdId: 823
+message GadgetChainLevelUpdateNotify {
+    map<uint32, uint32> gadget_chain_level_map = 1;
+}
+

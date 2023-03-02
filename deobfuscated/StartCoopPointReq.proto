@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LBEAKNAOFIL
+// CmdId: 1952
+message StartCoopPointReq {
+    uint32 coop_point = 9;
+}
+

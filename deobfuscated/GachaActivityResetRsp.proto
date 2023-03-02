@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FGAMGEDPHEK
+// CmdId: 8296
+message GachaActivityResetRsp {
+    uint32 stage_id = 13;
+    int32 retcode = 15;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LJEMOBEDBMB
+// CmdId: 20017
+message GearActivityFinishPlayGearRsp {
+    uint32 level_id = 13;
+    int32 retcode = 8;
+    bool is_success = 10;
+}
+

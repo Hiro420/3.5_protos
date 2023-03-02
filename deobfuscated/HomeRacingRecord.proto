@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeRacingGalleryRecord.proto";
+
+// Name: ICPGKGIADBI
+message HomeRacingRecord {
+    repeated HomeRacingGalleryRecord record_list = 10;
+}
+

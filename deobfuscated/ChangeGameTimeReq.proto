@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IMMJMBKDKNO
+// CmdId: 165
+message ChangeGameTimeReq {
+    uint32 game_time = 11;
+    bool is_force_set = 13;
+    uint32 extra_days = 6;
+}
+

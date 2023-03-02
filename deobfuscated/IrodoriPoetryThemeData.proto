@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AOOFANGHMOJ
+message IrodoriPoetryThemeData {
+    repeated uint32 NEAELGDFMIL = 8;
+    uint32 progress = 3;
+    uint32 DMKGFAJADNC = 9;
+    uint32 OBDOEOGAGHH = 13;
+    uint32 CGGCACEMFPB = 14;
+    uint32 OGDCJBFODEB = 11;
+    repeated uint32 IEIFGEDGHLI = 6;
+}
+

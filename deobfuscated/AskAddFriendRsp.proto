@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PJFHJCNBAFB
+// CmdId: 4034
+message AskAddFriendRsp {
+    int32 retcode = 15;
+    uint32 param = 1;
+    uint32 target_uid = 3;
+}
+

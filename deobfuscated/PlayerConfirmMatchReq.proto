@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MatchType.proto";
+
+// Name: IGJPKACFAKC
+// CmdId: 4182
+message PlayerConfirmMatchReq {
+    bool is_agreed = 7;
+    MatchType match_type = 11;
+}
+

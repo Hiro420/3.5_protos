@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeLimitedShop.proto";
+
+// Name: KEEIJEODNBH
+// CmdId: 4451
+message HomeLimitedShopGoodsListRsp {
+    int32 retcode = 11;
+    HomeLimitedShop shop = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LLOKNKLJFHI.proto";
+
+// Name: GGBMIADMOHH
+message GGBMIADMOHH {
+    repeated LLOKNKLJFHI stage_data_list = 12;
+    uint32 IHCMMNBKCFH = 15;
+}
+

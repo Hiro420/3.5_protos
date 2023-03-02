@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IHJMLCFKOMH
+// CmdId: 1656
+message PersistentDungeonSwitchAvatarRsp {
+    int32 retcode = 8;
+    repeated uint64 avatar_team_guid_list = 4;
+    uint64 cur_avatar_guid = 6;
+}
+

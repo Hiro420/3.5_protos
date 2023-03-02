@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NHDGJCKLJGC
+// CmdId: 5844
+message FishChosenNotify {
+    uint32 fish_id = 9;
+}
+

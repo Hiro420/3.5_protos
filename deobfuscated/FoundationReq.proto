@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FoundationOpType.proto";
+
+// Name: AEFAJIBPOCE
+// CmdId: 827
+message FoundationReq {
+    FoundationOpType op_type = 4;
+    uint32 ODOEMLALIML = 13;
+    uint32 gadget_entity_id = 6;
+    uint32 AHBIFENKEPF = 1;
+}
+

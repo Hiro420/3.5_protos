@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeFishFarmingInfo.proto";
+
+// Name: OFNIBAHINGO
+// CmdId: 4746
+message HomeUpdateFishFarmingInfoReq {
+    HomeFishFarmingInfo fish_farming_info = 1;
+}
+

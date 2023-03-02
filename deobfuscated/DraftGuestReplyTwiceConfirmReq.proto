@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GKFHDHMLBDN
+// CmdId: 5459
+message DraftGuestReplyTwiceConfirmReq {
+    uint32 draft_id = 9;
+    bool is_agree = 11;
+}
+

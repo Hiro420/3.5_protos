@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CHNDCGKFGLD
+message SceneGallerySumoInfo {
+    uint32 score = 14;
+    uint32 DNCGDPEOCHL = 13;
+    uint32 ACLMNJDOGKP = 2;
+}
+

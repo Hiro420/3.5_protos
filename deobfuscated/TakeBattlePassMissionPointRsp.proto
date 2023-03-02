@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KABHDLGHLMD
+// CmdId: 2632
+message TakeBattlePassMissionPointRsp {
+    int32 retcode = 1;
+    repeated uint32 mission_id_list = 3;
+}
+

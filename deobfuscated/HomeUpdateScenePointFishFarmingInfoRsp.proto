@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PKGDBEFCEOD
+// CmdId: 4894
+message HomeUpdateScenePointFishFarmingInfoRsp {
+    int32 retcode = 1;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OFFOAFKCHOL
+// CmdId: 8336
+message ResetRogueDiaryPlayRsp {
+    int32 retcode = 10;
+}
+

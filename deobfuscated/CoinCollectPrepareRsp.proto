@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NAGPFLFFPEA
+// CmdId: 22764
+message CoinCollectPrepareRsp {
+    int32 retcode = 6;
+}
+

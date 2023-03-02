@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JONHAPLJANI.proto";
+
+// Name: ONGFFNHKKIA
+message ONGFFNHKKIA {
+    uint32 level_id = 13;
+    repeated JONHAPLJANI LCBIEAMEBPF = 4;
+}
+

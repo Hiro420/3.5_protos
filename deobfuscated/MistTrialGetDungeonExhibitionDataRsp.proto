@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MHNKLABAELD
+// CmdId: 8058
+message MistTrialGetDungeonExhibitionDataRsp {
+    int32 retcode = 8;
+    uint32 trial_id = 7;
+}
+

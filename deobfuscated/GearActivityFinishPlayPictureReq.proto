@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BGCJIPNGAHK
+// CmdId: 21009
+message GearActivityFinishPlayPictureReq {
+    bool is_success = 3;
+}
+

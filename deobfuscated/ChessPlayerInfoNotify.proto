@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ChessPlayerInfo.proto";
+
+// Name: JBGMDJCBNJL
+// CmdId: 5392
+message ChessPlayerInfoNotify {
+    ChessPlayerInfo player_info = 2;
+}
+

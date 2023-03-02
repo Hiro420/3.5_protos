@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EvtSetAttackTargetInfo.proto";
+import "ForwardType.proto";
+
+// Name: DBADNLBCPIE
+// CmdId: 350
+message EvtSetAttackTargetNotify {
+    EvtSetAttackTargetInfo evt_set_attack_target_info = 5;
+    ForwardType forward_type = 1;
+}
+

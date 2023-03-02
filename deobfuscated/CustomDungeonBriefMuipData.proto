@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CustomDungeonAbstractMuipData.proto";
+import "CustomDungeonSettingMuipData.proto";
+import "CustomDungeonSocialMuipData.proto";
+
+// Name: JNKPHHGMPDL
+message CustomDungeonBriefMuipData {
+    uint64 dungeon_guid = 1;
+    uint32 dungeon_id = 2;
+    string creator_nickname = 3;
+    repeated uint32 tag_list = 4;
+    CustomDungeonSettingMuipData setting = 5;
+    CustomDungeonAbstractMuipData abstract = 6;
+    CustomDungeonSocialMuipData social = 7;
+}
+

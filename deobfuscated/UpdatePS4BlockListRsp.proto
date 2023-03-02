@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GDKFLDKCKHF
+// CmdId: 4058
+message UpdatePS4BlockListRsp {
+    int32 retcode = 3;
+}
+

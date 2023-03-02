@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HLAGMEPBLFH
+message EvtSetAttackTargetInfo {
+    uint32 select_point_index = 11;
+    uint32 attack_target_id = 14;
+    uint32 entity_id = 12;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JFDMLAGALDN
+// CmdId: 4011
+message UpdatePlayerShowAvatarListRsp {
+    bool is_show_avatar = 10;
+    repeated uint32 show_avatar_id_list = 3;
+    int32 retcode = 12;
+}
+

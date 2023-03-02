@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CANJOFHONKD
+message CANJOFHONKD {
+    uint32 OKEIPKBLLMC = 2;
+    uint32 npc_id = 10;
+    bool is_finished = 7;
+}
+

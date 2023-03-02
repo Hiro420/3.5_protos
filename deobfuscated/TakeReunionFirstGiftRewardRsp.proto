@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ONKHHJIIPDL
+// CmdId: 5096
+message TakeReunionFirstGiftRewardRsp {
+    int32 reward_id = 6;
+    int32 retcode = 4;
+}
+

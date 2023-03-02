@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FJOBAJGGBCO
+// CmdId: 1821
+message PlayerSetOnlyMPWithPSPlayerRsp {
+    bool is_only = 4;
+    int32 retcode = 13;
+}
+

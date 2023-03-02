@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NMPDEBMEIDN
+// CmdId: 5843
+message EnterFishingRsp {
+    uint32 fish_pool_id = 9;
+    int32 retcode = 10;
+}
+

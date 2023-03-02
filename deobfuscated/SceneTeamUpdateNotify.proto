@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SceneTeamAvatar.proto";
+
+// Name: LMBIEIJIEMO
+// CmdId: 1762
+message SceneTeamUpdateNotify {
+    bool is_in_mp = 13;
+    repeated SceneTeamAvatar scene_team_avatar_list = 7;
+}
+

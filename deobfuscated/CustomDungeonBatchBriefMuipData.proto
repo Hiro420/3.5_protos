@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CustomDungeonBriefMuipData.proto";
+
+// Name: OKBDIGDJGIN
+message CustomDungeonBatchBriefMuipData {
+    repeated CustomDungeonBriefMuipData brief_list = 1;
+}
+

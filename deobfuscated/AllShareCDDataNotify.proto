@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ShareCDInfo.proto";
+
+// Name: BJEKDEGDNEM
+// CmdId: 9067
+message AllShareCDDataNotify {
+    map<uint32, ShareCDInfo> share_cd_info_map = 10;
+}
+

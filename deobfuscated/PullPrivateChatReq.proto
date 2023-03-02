@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PDOKMDBACPA
+// CmdId: 4984
+message PullPrivateChatReq {
+    uint32 target_uid = 9;
+    uint32 JBKDCKFOAGH = 11;
+    uint32 JJDCBKLFOGK = 7;
+}
+

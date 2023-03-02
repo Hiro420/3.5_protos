@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AALPIPNOICA
+// CmdId: 493
+message GetParentQuestVideoKeyRsp {
+    uint32 parent_quest_id = 11;
+    uint64 video_key = 9;
+    int32 retcode = 1;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IJOMIPEHIMO
+// CmdId: 2061
+message TakeAsterSpecialRewardReq {
+    uint32 schedule_id = 15;
+}
+

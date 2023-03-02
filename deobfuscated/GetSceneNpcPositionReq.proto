@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AHKMDECHIIG
+// CmdId: 564
+message GetSceneNpcPositionReq {
+    uint32 scene_id = 5;
+    repeated uint32 npc_id_list = 15;
+}
+

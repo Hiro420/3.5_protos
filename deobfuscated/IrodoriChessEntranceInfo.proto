@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IrodoriChessMonsterInfo.proto";
+
+// Name: NBGICJDBGIO
+message IrodoriChessEntranceInfo {
+    repeated IrodoriChessMonsterInfo monster_info_list = 4;
+    uint32 entrance_point_id = 2;
+}
+

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PotionAvatarInfo.proto";
+
+// Name: DFLDHLOHEEI
+// CmdId: 8630
+message PotionEnterDungeonReq {
+    repeated PotionAvatarInfo avatar_info_list = 5;
+    uint32 level_id = 8;
+    repeated uint32 buff_id_list = 12;
+    uint32 stage_id = 6;
+    uint32 mode_id = 14;
+}
+

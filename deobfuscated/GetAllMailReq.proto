@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KHEEFEIBONK
+// CmdId: 1459
+message GetAllMailReq {
+    bool is_collected = 12;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MIJHDKPDCPP
+enum GalleryStageType {
+    GALLERY_NONE = 0;
+    GALLERY_PRESTART = 1;
+    GALLERY_START = 2;
+}
+

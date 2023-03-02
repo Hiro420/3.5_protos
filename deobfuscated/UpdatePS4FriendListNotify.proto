@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CFLMLFLEPBM
+// CmdId: 4056
+message UpdatePS4FriendListNotify {
+    repeated string psn_id_list = 2;
+}
+

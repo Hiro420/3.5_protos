@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SpiceStageData.proto";
+
+// Name: OIEINOHMODG
+message SpiceActivityDetailInfo {
+    uint32 OFGCHEAEEAG = 10;
+    repeated SpiceStageData spice_stage_data_list = 14;
+    uint32 OCLAPMEFLPK = 3;
+}
+

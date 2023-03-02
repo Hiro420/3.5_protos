@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DailyTaskInfo.proto";
+
+// Name: CAMFJNGDAOP
+// CmdId: 160
+message DailyTaskProgressNotify {
+    DailyTaskInfo info = 15;
+}
+

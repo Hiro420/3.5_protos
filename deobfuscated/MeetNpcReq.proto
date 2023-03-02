@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ANDOJPOAAPC
+// CmdId: 572
+message MeetNpcReq {
+    uint32 npc_id = 8;
+}
+

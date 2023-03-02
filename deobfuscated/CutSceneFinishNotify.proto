@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JJDGJPGALJM
+// CmdId: 228
+message CutSceneFinishNotify {
+    uint32 cutscene_id = 7;
+}
+

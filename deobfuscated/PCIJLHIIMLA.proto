@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PCIJLHIIMLA
+// CmdId: 7827
+message PCIJLHIIMLA {
+}
+

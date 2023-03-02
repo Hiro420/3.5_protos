@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CNGHODHBILL
+// CmdId: 4806
+message HomeChangeBgmReq {
+    uint32 bgm_id = 8;
+}
+

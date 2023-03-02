@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MIGCAFCNLJD
+message GravenInnocencePhotoStageInfo {
+    uint32 stage_id = 1;
+    bool is_open = 6;
+    bool is_finished = 4;
+}
+

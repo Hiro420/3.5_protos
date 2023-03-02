@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DONIIMFNGAE
+// CmdId: 2026
+message TakeAsterSpecialRewardRsp {
+    int32 retcode = 6;
+    uint32 schedule_id = 4;
+}
+

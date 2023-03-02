@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "WidgetSlotData.proto";
+import "WidgetSlotOp.proto";
+
+// Name: CAPCHPIFEGL
+// CmdId: 4254
+message WidgetSlotChangeNotify {
+    WidgetSlotOp op = 7;
+    WidgetSlotData slot = 13;
+}
+

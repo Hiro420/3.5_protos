@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DNGDKBKNELM
+// CmdId: 6235
+message RemoveCustomDungeonRsp {
+    uint64 dungeon_guid = 4;
+    int32 retcode = 11;
+}
+

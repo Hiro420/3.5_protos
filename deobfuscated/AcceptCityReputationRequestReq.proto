@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AEBBMJFFLPD
+// CmdId: 2882
+message AcceptCityReputationRequestReq {
+    uint32 city_id = 1;
+    uint32 request_id = 3;
+}
+

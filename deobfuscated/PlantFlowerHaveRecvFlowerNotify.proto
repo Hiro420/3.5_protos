@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CLABNPLNACA
+// CmdId: 8729
+message PlantFlowerHaveRecvFlowerNotify {
+    uint32 schedule_id = 2;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OJOJGKOHKLL
+// CmdId: 22453
+message FungusFighterTrainingSelectFungusRsp {
+    int32 retcode = 14;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NHKDAKLHLMH
+// CmdId: 169
+message ReadNicknameAuditReq {
+}
+

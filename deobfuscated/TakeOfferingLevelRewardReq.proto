@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PPLPNEAGDGB
+// CmdId: 2921
+message TakeOfferingLevelRewardReq {
+    uint32 offering_id = 5;
+    uint32 level = 10;
+}
+

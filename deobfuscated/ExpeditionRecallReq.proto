@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HLGKPJOLHFH
+// CmdId: 2008
+message ExpeditionRecallReq {
+    uint32 path_id = 14;
+}
+

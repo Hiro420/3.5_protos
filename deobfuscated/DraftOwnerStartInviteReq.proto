@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DEFBPEKDIKP
+// CmdId: 5454
+message DraftOwnerStartInviteReq {
+    uint32 draft_id = 14;
+}
+

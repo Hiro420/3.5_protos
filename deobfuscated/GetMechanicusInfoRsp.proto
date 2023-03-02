@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MechanicusInfo.proto";
+
+// Name: FGNKBHOCEPG
+// CmdId: 3975
+message GetMechanicusInfoRsp {
+    int32 retcode = 12;
+    MechanicusInfo mechanicus_info = 1;
+}
+

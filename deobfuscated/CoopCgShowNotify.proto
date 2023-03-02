@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OONJICOIJEJ
+// CmdId: 1957
+message CoopCgShowNotify {
+    repeated uint32 cg_list = 14;
+}
+

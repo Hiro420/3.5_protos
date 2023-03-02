@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MainCoop.proto";
+
+// Name: OEEBFHGFMOD
+// CmdId: 1993
+message MainCoopUpdateNotify {
+    repeated MainCoop main_coop_list = 6;
+}
+

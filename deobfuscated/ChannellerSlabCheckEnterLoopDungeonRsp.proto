@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EFOPJPGBHNM
+// CmdId: 8430
+message ChannellerSlabCheckEnterLoopDungeonRsp {
+    int32 retcode = 10;
+}
+

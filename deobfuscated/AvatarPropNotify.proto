@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HNCPDLLBKJK
+// CmdId: 1259
+message AvatarPropNotify {
+    map<uint32, int64> prop_map = 4;
+    uint64 avatar_guid = 11;
+}
+

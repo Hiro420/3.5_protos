@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeLimitedShopGoods.proto";
+
+// Name: MNNLKHNFEJK
+message HomeLimitedShop {
+    repeated HomeLimitedShopGoods goods_list = 2;
+}
+

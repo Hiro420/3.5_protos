@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CrystalLinkTeamInfo.proto";
+
+// Name: FFLLNNCGFPA
+// CmdId: 8861
+message CrystalLinkEnterDungeonReq {
+    uint32 difficulty_id = 15;
+    uint32 level_id = 8;
+    repeated CrystalLinkTeamInfo team_info_list = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MPEOFJMNPFI
+// CmdId: 1971
+message UnlockCoopChapterRsp {
+    uint32 chapter_id = 2;
+    int32 retcode = 6;
+}
+

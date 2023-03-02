@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PENJFODAGGI.proto";
+
+// Name: ABAMJKJOMHJ
+// CmdId: 7765
+message ABAMJKJOMHJ {
+    repeated uint32 MFJPHFOJKEF = 8;
+    repeated PENJFODAGGI GGGHONFOAKP = 13;
+}
+

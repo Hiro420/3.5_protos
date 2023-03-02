@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MPOHNPIMAAJ
+message GCGLimitsInfo {
+    uint32 HPPJEEIHHEG = 11;
+    uint32 LNDNPPAMIIN = 8;
+}
+

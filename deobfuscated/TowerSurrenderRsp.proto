@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NEDMLPPMHOC
+// CmdId: 2444
+message TowerSurrenderRsp {
+    int32 retcode = 15;
+}
+

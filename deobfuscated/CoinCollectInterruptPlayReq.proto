@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ABAMPBHOKFF
+// CmdId: 20221
+message CoinCollectInterruptPlayReq {
+    uint32 gallery_id = 9;
+}
+

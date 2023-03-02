@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BAEHNMNEKLG
+// CmdId: 2734
+message BlossomChestCreateNotify {
+    uint32 refresh_id = 1;
+    uint32 circle_camp_id = 9;
+}
+

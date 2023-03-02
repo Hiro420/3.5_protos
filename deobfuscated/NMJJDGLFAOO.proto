@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IrodoriPoetryThemeData.proto";
+
+// Name: NMJJDGLFAOO
+message NMJJDGLFAOO {
+    repeated IrodoriPoetryThemeData ENCFNJCMFFK = 13;
+    uint32 INPNIFNEDDL = 1;
+}
+

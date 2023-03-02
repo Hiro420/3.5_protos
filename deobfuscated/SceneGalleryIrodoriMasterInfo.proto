@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FMELCLIBKLD
+message SceneGalleryIrodoriMasterInfo {
+    bool is_cg_viewed = 3;
+    uint32 level_id = 14;
+    uint32 difficulty = 8;
+}
+

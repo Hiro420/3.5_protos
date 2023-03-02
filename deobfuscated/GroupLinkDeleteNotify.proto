@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MOKEDLCHLMH
+// CmdId: 5759
+message GroupLinkDeleteNotify {
+    uint32 bundle_id = 8;
+}
+

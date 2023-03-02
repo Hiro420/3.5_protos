@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NpcPositionInfo.proto";
+
+// Name: NKEJFLLAFDC
+// CmdId: 514
+message GetSceneNpcPositionRsp {
+    int32 retcode = 14;
+    repeated NpcPositionInfo npc_info_list = 2;
+    uint32 scene_id = 6;
+}
+

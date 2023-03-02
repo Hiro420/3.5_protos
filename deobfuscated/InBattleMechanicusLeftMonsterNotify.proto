@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OHPBKOBFIPH
+// CmdId: 5334
+message InBattleMechanicusLeftMonsterNotify {
+    uint32 left_monster = 13;
+}
+

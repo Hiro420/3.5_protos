@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FOKKOAKANJI
+// CmdId: 8916
+message StartBuoyantCombatGalleryRsp {
+    uint32 gallery_level = 4;
+    int32 retcode = 1;
+    uint32 gallery_id = 13;
+}
+

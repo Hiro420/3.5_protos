@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LJKPHEIEJNN
+// CmdId: 7479
+message LJKPHEIEJNN {
+    uint32 level = 14;
+}
+

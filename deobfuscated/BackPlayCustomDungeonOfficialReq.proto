@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EEEDHINNFDL
+// CmdId: 6205
+message BackPlayCustomDungeonOfficialReq {
+    uint32 room_id = 12;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ReunionSignInInfo.proto";
+
+// Name: JGPECFNNFJP
+// CmdId: 5065
+message GetReunionSignInInfoRsp {
+    ReunionSignInInfo sign_in_info = 8;
+    int32 retcode = 10;
+}
+

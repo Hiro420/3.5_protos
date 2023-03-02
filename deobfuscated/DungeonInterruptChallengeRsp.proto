@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JMFBBJAAPHM
+// CmdId: 930
+message DungeonInterruptChallengeRsp {
+    uint32 group_id = 6;
+    uint32 challenge_index = 7;
+    uint32 challenge_id = 11;
+    int32 retcode = 8;
+}
+

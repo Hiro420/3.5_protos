@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OCHBNHHHGEC
+// CmdId: 2609
+message BattlePassMissionDelNotify {
+    repeated uint32 del_mission_id_list = 14;
+}
+

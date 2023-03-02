@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OOJBKGIAGLL
+// CmdId: 1604
+message FocusAvatarRsp {
+    uint64 avatar_guid = 5;
+    bool is_focus = 13;
+    int32 retcode = 14;
+}
+

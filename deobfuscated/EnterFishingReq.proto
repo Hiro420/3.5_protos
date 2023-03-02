@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LAMICFCLBFO
+// CmdId: 5848
+message EnterFishingReq {
+    uint32 fish_pool_id = 1;
+}
+

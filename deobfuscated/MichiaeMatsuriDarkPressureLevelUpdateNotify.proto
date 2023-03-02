@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ILOEELJDPFD
+// CmdId: 8135
+message MichiaeMatsuriDarkPressureLevelUpdateNotify {
+    uint32 dark_pressure_level = 5;
+}
+

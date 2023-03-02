@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BHEIFLAOFKA
+// CmdId: 886
+message LiveEndNotify {
+    uint32 live_id = 14;
+}
+

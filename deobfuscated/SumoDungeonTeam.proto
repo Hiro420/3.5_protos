@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SumoDungeonAvatar.proto";
+
+// Name: KKCFBPFKGKM
+message SumoDungeonTeam {
+    repeated SumoDungeonAvatar dungeon_avatar_list = 12;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BMOHJCEIHCK
+// CmdId: 2050
+message TakeEffigyFirstPassRewardReq {
+    uint32 challenge_id = 7;
+}
+

@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PropValue.proto";
+
+// Name: DHGGDMHKKBO
+// CmdId: 3357
+message WorldDataNotify {
+    // Name: EHJNPOBJKHF
+    enum EHJNPOBJKHF {
+        EHJNPOBJKHF_HOKCOAJJKKL = 0;
+        EHJNPOBJKHF_OAKLEOLDOPG = 1;
+        EHJNPOBJKHF_DEHLKIAJEMF = 2;
+    }
+
+    map<uint32, PropValue> world_prop_map = 1;
+}
+

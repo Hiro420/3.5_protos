@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ProfilePicture.proto";
+
+// Name: OIHMHBIFJEC
+message CrucibleBattleUidInfo {
+    string online_id = 11;
+    uint32 uid = 3;
+    ProfilePicture profile_picture = 9;
+    string nickname = 12;
+    uint32 icon = 7;
+}
+

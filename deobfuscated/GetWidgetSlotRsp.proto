@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "WidgetSlotData.proto";
+
+// Name: AHNDODKDGHO
+// CmdId: 4266
+message GetWidgetSlotRsp {
+    repeated WidgetSlotData slot_list = 11;
+    int32 retcode = 12;
+}
+

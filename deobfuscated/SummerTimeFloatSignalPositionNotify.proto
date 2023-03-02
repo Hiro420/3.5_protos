@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: FDKHNLLDKDL
+// CmdId: 8639
+message SummerTimeFloatSignalPositionNotify {
+    uint32 float_signal_id = 7;
+    Vector position = 5;
+    bool is_transfer_anchor = 1;
+}
+

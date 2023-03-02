@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NGHMEIDKIMD
+// CmdId: 4614
+message HomePlantWeedReq {
+    uint32 index = 3;
+    uint32 field_guid = 10;
+}
+

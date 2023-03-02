@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HDNOGHLJFHJ
+// CmdId: 1007
+message AvatarSkillUpgradeReq {
+    uint32 OCEFCGKBPPE = 8;
+    uint32 old_level = 4;
+    uint64 avatar_guid = 9;
+}
+

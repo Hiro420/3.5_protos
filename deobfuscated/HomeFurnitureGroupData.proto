@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeFurnitureData.proto";
+
+// Name: FNLKKMKJIDF
+message HomeFurnitureGroupData {
+    repeated HomeFurnitureData virtualFurnitureList = 5;
+    uint32 groupFurnitureIndex = 9;
+}
+

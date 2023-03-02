@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ICNCCLJNHAA
+message GameplayRecommendationReliquaryRequest {
+    uint32 equip_type = 13;
+}
+

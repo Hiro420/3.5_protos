@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GJNHFOFKIEN
+message GJNHFOFKIEN {
+    uint64 OHCCNLKALAJ = 10;
+    uint32 CBBEFENEKFI = 4;
+}
+

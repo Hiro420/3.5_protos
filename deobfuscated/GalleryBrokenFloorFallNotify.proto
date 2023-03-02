@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PAHAALHGGIK
+// CmdId: 5507
+message GalleryBrokenFloorFallNotify {
+    uint32 gallery_id = 12;
+    uint32 fall_count = 11;
+}
+

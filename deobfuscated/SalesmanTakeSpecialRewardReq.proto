@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MEPPHLDFBBM
+// CmdId: 2166
+message SalesmanTakeSpecialRewardReq {
+    uint32 schedule_id = 4;
+}
+

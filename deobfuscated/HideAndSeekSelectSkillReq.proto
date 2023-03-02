@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EKFMJMNHNGB
+// CmdId: 8896
+message HideAndSeekSelectSkillReq {
+    repeated uint32 skill_list = 13;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ADBLPFJICML
+// CmdId: 484
+message BargainTerminateNotify {
+    uint32 bargain_id = 5;
+}
+

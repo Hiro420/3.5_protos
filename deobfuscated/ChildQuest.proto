@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DDGEINCPPIK
+message ChildQuest {
+    uint32 state = 1;
+    uint32 quest_config_id = 14;
+    uint32 quest_id = 8;
+}
+

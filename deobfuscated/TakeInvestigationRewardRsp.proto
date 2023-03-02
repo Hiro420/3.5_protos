@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MADHMGMOJPM
+// CmdId: 1910
+message TakeInvestigationRewardRsp {
+    uint32 id = 10;
+    int32 retcode = 6;
+}
+

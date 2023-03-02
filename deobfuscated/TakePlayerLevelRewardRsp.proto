@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IEIGALKDMAA
+// CmdId: 104
+message TakePlayerLevelRewardRsp {
+    uint32 reward_id = 5;
+    int32 retcode = 9;
+    uint32 level = 4;
+}
+

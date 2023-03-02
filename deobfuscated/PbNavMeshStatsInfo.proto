@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GDFLMPCLCBL
+message PbNavMeshStatsInfo {
+    int32 MAOOGHCELLP = 5;
+    int32 GALFOGDNJEJ = 2;
+    int32 NPOCPIALJKN = 15;
+    int32 KAGMCFMCNMM = 11;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CBHNFOKCIKG
+message UnionCmd {
+    bytes body = 1;
+    uint32 message_id = 5;
+}
+

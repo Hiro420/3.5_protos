@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NLNHDOFDJAB
+// CmdId: 2159
+message BlessingAcceptAllGivePicRsp {
+    int32 retcode = 12;
+    map<uint32, uint32> accept_pic_num_map = 6;
+    repeated uint32 accept_index_list = 7;
+}
+

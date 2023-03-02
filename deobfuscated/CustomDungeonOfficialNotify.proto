@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EnterCustomDungeonType.proto";
+import "TryCustomDungeonType.proto";
+
+// Name: CAJOCNPLLEH
+// CmdId: 6250
+message CustomDungeonOfficialNotify {
+    repeated uint32 official_black_coin_list = 1;
+    TryCustomDungeonType try_type = 13;
+    EnterCustomDungeonType enter_type = 10;
+}
+

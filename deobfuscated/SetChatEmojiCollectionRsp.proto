@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NJAEDIKJNDL
+// CmdId: 4003
+message SetChatEmojiCollectionRsp {
+    int32 retcode = 7;
+}
+

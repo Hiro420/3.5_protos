@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OCAFBJKINKE
+// CmdId: 8171
+message QuickOpenActivityReq {
+    uint32 activity_id = 12;
+}
+

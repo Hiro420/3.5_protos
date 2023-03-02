@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HFCMJDMPDKL
+// CmdId: 8796
+message GachaActivityTakeRewardReq {
+    map<uint32, uint32> robot_num_map = 10;
+}
+

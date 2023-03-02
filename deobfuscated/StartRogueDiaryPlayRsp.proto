@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RogueDiaryAvatar.proto";
+
+// Name: DGEHJJJHAHA
+// CmdId: 8169
+message StartRogueDiaryPlayRsp {
+    repeated RogueDiaryAvatar trial_avatar_list = 10;
+    repeated RogueDiaryAvatar avatar_list = 3;
+    int32 retcode = 11;
+    repeated uint32 rand_card_list = 8;
+}
+

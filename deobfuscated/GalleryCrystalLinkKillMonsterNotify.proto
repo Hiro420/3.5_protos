@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AICJMMLGCAJ
+// CmdId: 5561
+message GalleryCrystalLinkKillMonsterNotify {
+    uint32 gallery_id = 1;
+    uint32 score = 8;
+}
+

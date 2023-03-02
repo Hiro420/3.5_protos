@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PENJFODAGGI.proto";
+
+// Name: HAOLLNONCFH
+message GCGMsgDiceRoll {
+    uint32 dice_num = 15;
+    uint32 controller_id = 2;
+    repeated PENJFODAGGI GGGHONFOAKP = 14;
+}
+

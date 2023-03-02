@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NBMNMAAOFAN
+// CmdId: 636
+message McoinExchangeHcoinRsp {
+    uint32 MIBMBPJHBBM = 2;
+    int32 retcode = 15;
+    uint32 CALAJIHCLCF = 4;
+}
+

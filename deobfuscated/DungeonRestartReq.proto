@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NKGBLOJIDDG
+// CmdId: 953
+message DungeonRestartReq {
+}
+

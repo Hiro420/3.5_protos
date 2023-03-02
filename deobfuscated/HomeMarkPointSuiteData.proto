@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AJBIHJGCCPM
+message HomeMarkPointSuiteData {
+    uint32 suite_id = 1;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CHDINBMNKOC
+// CmdId: 8053
+message TriggerRoguelikeRuneReq {
+    uint32 rune_id = 6;
+}
+

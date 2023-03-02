@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "WidgetCoolDownData.proto";
+
+// Name: ILBKGJILLKB
+// CmdId: 4271
+message WidgetCoolDownNotify {
+    repeated WidgetCoolDownData normal_cool_down_data_list = 2; // PFCBOBOCPPJ
+    repeated WidgetCoolDownData group_cool_down_data_list = 6; // PNKCMCMHCPL
+}
+

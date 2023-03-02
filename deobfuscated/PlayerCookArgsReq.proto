@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FIEHOAOBLHN
+// CmdId: 145
+message PlayerCookArgsReq {
+    uint32 OMPOMKPPLEH = 14;
+    uint32 DIIJPMJFNOL = 10;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FHCMHOPJELB.proto";
+
+// Name: IIGPCKJGACD
+// CmdId: 4808
+message HomeResourceTakeFetterExpRsp {
+    int32 retcode = 2;
+    FHCMHOPJELB DPCGMOMFNCD = 9;
+}
+

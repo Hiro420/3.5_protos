@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KLIGCBPPNKI
+// CmdId: 4857
+message HomeBlockNotify {
+    uint32 end_time = 6;
+}
+

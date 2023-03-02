@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MCOPOAMEGCP.proto";
+
+// Name: FHPJMFLJECD
+message IrodoriChessLevelData {
+    MCOPOAMEGCP PMIDHJGPANG = 15;
+    uint32 open_time = 6;
+    MCOPOAMEGCP PLIOEJLDHLF = 14;
+    uint32 level_id = 2;
+}
+

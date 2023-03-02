@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: COBFGJPINMG
+// CmdId: 2055
+message BlessingScanRsp {
+    uint32 DCGGOOJOEPB = 15;
+    int32 retcode = 4;
+    uint32 EHJJNMKIPEF = 1;
+}
+

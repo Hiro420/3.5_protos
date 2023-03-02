@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DMJMJIBJKHF
+// CmdId: 3271
+message ChangeWorldToSingleModeRsp {
+    int32 retcode = 11;
+    uint32 quit_mp_valid_time = 3;
+}
+

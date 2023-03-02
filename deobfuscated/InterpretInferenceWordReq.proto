@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OIOIOFJMHFO
+// CmdId: 487
+message InterpretInferenceWordReq {
+    uint32 page_id = 1;
+    uint32 word_id = 6;
+}
+

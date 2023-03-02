@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ELIICPEDJIM
+// CmdId: 870
+message LiveStartNotify {
+    uint32 live_id = 5;
+}
+

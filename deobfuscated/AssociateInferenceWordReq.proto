@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GJKELGFMJPG
+// CmdId: 438
+message AssociateInferenceWordReq {
+    uint32 page_id = 9;
+    uint32 PCGFIGLNLLD = 7;
+    uint32 FLFHEDBHLPH = 3;
+}
+

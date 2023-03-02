@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AIIPGDHMKLE
+// CmdId: 21498
+message EffigyChallengeV2EnterDungeonReq {
+    uint32 challenge_mode_difficulty = 3;
+    uint32 level_id = 10;
+    uint32 challenge_mode_skill_no = 11;
+}
+

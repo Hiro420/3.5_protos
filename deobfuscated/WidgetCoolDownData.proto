@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JPEDGKIPECE
+message WidgetCoolDownData {
+    uint64 cool_down_time = 2;
+    uint32 id = 3;
+    bool is_success = 10;
+}
+

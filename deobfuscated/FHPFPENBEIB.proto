@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AGFJDCJANKA.proto";
+
+// Name: FHPFPENBEIB
+message FHPFPENBEIB {
+    bool GHMGBHANDLN = 5;
+    repeated AGFJDCJANKA stage_info_list = 12;
+}
+

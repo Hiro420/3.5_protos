@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LKMHAANNAGN
+// CmdId: 1843
+message PlayerApplyEnterMpReq {
+    uint32 target_uid = 4;
+}
+

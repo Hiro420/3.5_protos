@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BrickBreakerActivityStageInfo.proto";
+import "BrickBreakerLevelInfo.proto";
+
+// Name: LDLBBCPMMKK
+message BrickBreakerDetailInfo {
+    repeated BrickBreakerLevelInfo FEPJHGGDGPB = 2;
+    map<uint32, uint32> skill_info_map = 1;
+    repeated BrickBreakerActivityStageInfo stage_info_list = 11;
+    repeated BrickBreakerLevelInfo HEEIHFIIKFB = 13;
+}
+

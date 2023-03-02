@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DIGLBMAEMML
+message DIGLBMAEMML {
+    repeated uint32 card_list = 9;
+}
+

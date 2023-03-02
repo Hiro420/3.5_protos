@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AJMJAPMALHO
+// CmdId: 5570
+message WindFieldGalleryInfoNotify {
+    uint32 BPFKPEOHJHO = 7;
+    uint32 LFGKBLLGBBO = 1;
+    uint32 IFCFDJKPPEJ = 14;
+    uint32 PBABFGGNMDF = 2;
+    uint32 LMICEFBKOID = 11;
+    uint32 NACBICBMNFJ = 15;
+    uint32 DPLICOODJLA = 12;
+    uint32 JPIIACAHIFE = 4;
+}
+

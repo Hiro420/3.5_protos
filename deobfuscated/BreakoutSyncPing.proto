@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KCLGMMEOPAE
+message BreakoutSyncPing {
+    uint64 client_game_time = 8;
+    uint64 server_game_time = 9;
+}
+

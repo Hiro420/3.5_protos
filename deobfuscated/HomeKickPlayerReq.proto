@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LJJPPMGMILK
+// CmdId: 4610
+message HomeKickPlayerReq {
+    uint32 target_uid = 6;
+    bool is_kick_all = 1;
+}
+

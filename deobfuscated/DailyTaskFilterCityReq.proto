@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NMHFKMALINE
+// CmdId: 199
+message DailyTaskFilterCityReq {
+    uint32 city_id = 7;
+}
+

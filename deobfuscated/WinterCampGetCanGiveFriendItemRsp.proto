@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ItemParam.proto";
+
+// Name: MAAKFHBKMPN
+// CmdId: 8147
+message WinterCampGetCanGiveFriendItemRsp {
+    repeated ItemParam item_list = 1;
+    int32 retcode = 3;
+}
+

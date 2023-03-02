@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BABNNLEIHGJ
+// CmdId: 2028
+message EffigyChallengeResultNotify {
+    uint32 challenge_max_score = 3;
+    uint32 challenge_score = 8;
+    bool is_success = 1;
+    uint32 challenge_id = 15;
+}
+

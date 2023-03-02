@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NIOKEKNBBPN
+// CmdId: 46
+message ChangeServerGlobalValueNotify {
+    uint32 entity_id = 15;
+}
+

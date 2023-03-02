@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GMOMLDPAJEJ
+// CmdId: 2254
+message WatcherEventNotify {
+    uint32 add_progress = 6;
+    uint32 watcher_id = 4;
+}
+

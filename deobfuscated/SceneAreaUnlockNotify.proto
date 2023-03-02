@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BAMMPAGNAFG
+// CmdId: 274
+message SceneAreaUnlockNotify {
+    repeated uint32 area_list = 8;
+    uint32 scene_id = 1;
+}
+

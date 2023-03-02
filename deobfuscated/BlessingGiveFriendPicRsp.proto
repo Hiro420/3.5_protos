@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HPIAGOCCCCA
+// CmdId: 2053
+message BlessingGiveFriendPicRsp {
+    uint32 uid = 6;
+    uint32 pic_id = 8;
+    int32 retcode = 2;
+}
+

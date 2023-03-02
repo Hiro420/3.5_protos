@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ODKNHPHCDCG
+message RoguelikeShikigamiRecord {
+    uint32 level = 4;
+    uint32 id = 13;
+}
+

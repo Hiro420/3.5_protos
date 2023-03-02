@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JKAFMICKEMF
+// CmdId: 8161
+message BartenderCancelLevelReq {
+    uint32 level_id = 5;
+}
+

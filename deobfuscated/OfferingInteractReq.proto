@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GJAILLBBAON
+// CmdId: 2901
+message OfferingInteractReq {
+    uint32 offering_id = 13;
+}
+

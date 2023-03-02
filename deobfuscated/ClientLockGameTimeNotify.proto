@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DGNIFIFMMCP
+// CmdId: 189
+message ClientLockGameTimeNotify {
+    bool is_lock = 4;
+}
+

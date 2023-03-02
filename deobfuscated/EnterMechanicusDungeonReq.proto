@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AFGBFGAFILO
+// CmdId: 3959
+message EnterMechanicusDungeonReq {
+    uint32 difficult_level = 10;
+}
+

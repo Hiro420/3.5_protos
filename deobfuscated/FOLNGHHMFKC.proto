@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OJNKFDIOAFA.proto";
+
+// Name: FOLNGHHMFKC
+// CmdId: 7577
+message FOLNGHHMFKC {
+    OJNKFDIOAFA BHBNFMDDKOF = 9;
+}
+

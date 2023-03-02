@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BEBIONDAIJE
+message TrialAvatarActivityRewardDetailInfo {
+    bool received_reward = 12; // MCCAEONNHPH
+    uint32 reward_id = 8;
+    bool passed_dungeon = 14; // JNEMHMEMNEB
+    uint32 trial_avatar_index_id = 13;
+}
+

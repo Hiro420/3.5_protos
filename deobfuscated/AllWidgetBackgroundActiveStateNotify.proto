@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NCNAGFNCBKE
+// CmdId: 6034
+message AllWidgetBackgroundActiveStateNotify {
+    repeated uint32 background_active_widget_list = 12;
+}
+

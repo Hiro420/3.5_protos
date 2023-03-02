@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AHFIMIOOLNJ
+// CmdId: 3263
+message GroupSuiteNotify {
+    map<uint32, uint32> group_map = 4;
+}
+

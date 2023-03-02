@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GMGIEHFGOKN
+message GMGIEHFGOKN {
+    float BNJHFOKEHJM = 9;
+    bool LFOEOBPGJGK = 2;
+}
+

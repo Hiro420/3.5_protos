@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HNCBEECNMEG
+// CmdId: 20204
+message VintageCampStageFinishNotify {
+    uint32 stage_id = 12;
+}
+

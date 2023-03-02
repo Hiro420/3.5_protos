@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LOAPMNFOJBM
+// CmdId: 2168
+message SetCurExpeditionChallengeIdReq {
+    uint32 id = 9;
+}
+

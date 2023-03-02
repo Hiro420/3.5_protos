@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KKEHCHJODDD
+message SeaLampSectionInfo {
+    uint32 section_id = 14;
+}
+

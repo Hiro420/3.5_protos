@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GCIHJGNCKFP
+// CmdId: 8223
+message TryEnterNextRogueDiaryDungeonRsp {
+    int32 retcode = 12;
+}
+

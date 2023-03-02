@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LCPPGEABFMN
+// CmdId: 491
+message QuestDestroyEntityRsp {
+    uint32 quest_id = 5;
+    uint32 entity_id = 3;
+    uint32 scene_id = 8;
+    int32 retcode = 7;
+}
+

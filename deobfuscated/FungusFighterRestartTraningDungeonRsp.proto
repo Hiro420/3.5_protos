@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KFPCPMNNILM
+// CmdId: 22118
+message FungusFighterRestartTraningDungeonRsp {
+    int32 retcode = 13;
+}
+

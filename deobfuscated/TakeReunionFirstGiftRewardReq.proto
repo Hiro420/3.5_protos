@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HGKBOMGJCID
+// CmdId: 5059
+message TakeReunionFirstGiftRewardReq {
+}
+

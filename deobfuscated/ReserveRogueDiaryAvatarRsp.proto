@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OPICKCNIEAC
+// CmdId: 8457
+message ReserveRogueDiaryAvatarRsp {
+    int32 retcode = 5;
+}
+

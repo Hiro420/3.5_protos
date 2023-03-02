@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CustomCommonNodeInfo.proto";
+
+// Name: IKCAPLALLPO
+message CustomGadgetTreeInfo {
+    repeated CustomCommonNodeInfo node_list = 1;
+}
+

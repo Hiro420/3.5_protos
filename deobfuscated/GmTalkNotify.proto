@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DFPAJAOALOG
+// CmdId: 84
+message GmTalkNotify {
+    string msg = 2;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GHECAHIKANG
+// CmdId: 1797
+message ItemRenameAvatarRsp {
+    uint32 cd_time = 5;
+    uint32 rename_id = 9;
+    int32 retcode = 7;
+}
+

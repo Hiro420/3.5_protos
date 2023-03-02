@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KIOEHGLHJJG
+// CmdId: 4681
+message FurnitureMakeReq {
+}
+

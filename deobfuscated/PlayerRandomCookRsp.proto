@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BDILFGMDPBJ
+// CmdId: 113
+message PlayerRandomCookRsp {
+    int32 retcode = 1;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DALFKONOPGL
+// CmdId: 341
+message AvatarBuffAddNotify {
+    uint64 avatar_guid = 9;
+    uint32 buff_id = 10;
+}
+

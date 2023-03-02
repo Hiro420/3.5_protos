@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LEAMJFGPJOI
+// CmdId: 29
+message ClientReportNotify {
+    string EAPMOECPEPG = 7;
+    string EMODEICADOO = 15;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ICLHPLBGGMM
+// CmdId: 1434
+message DelMailReq {
+    repeated uint32 mail_id_list = 15;
+}
+

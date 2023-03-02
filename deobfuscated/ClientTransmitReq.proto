@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "TransmitReason.proto";
+import "Vector.proto";
+
+// Name: KDMEFEEKOEP
+// CmdId: 271
+message ClientTransmitReq {
+    Vector pos = 2;
+    uint32 scene_id = 6;
+    TransmitReason reason = 7;
+    Vector rot = 3;
+}
+

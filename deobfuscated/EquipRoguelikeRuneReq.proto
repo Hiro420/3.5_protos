@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GIIEHGKMAEO
+// CmdId: 8526
+message EquipRoguelikeRuneReq {
+    repeated uint32 rune_list = 14;
+}
+

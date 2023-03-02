@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AEOIBNLCGGD
+// CmdId: 8851
+message PlantFlowerTakeSeedRewardReq {
+    uint32 schedule_id = 14;
+}
+

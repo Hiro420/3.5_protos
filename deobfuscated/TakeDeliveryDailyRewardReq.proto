@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CNLADFBELDG
+// CmdId: 2054
+message TakeDeliveryDailyRewardReq {
+    uint32 schedule_id = 11;
+}
+

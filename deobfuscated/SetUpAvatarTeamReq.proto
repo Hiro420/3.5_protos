@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IOACHNLALKO
+// CmdId: 1638
+message SetUpAvatarTeamReq {
+    repeated uint64 avatar_team_guid_list = 13;
+    uint32 team_id = 8;
+    uint64 cur_avatar_guid = 11;
+}
+

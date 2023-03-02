@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HLJEHBEBFMD
+message ScreenInfo {
+    uint32 live_id = 1;
+    uint32 projector_entity_id = 2;
+}
+

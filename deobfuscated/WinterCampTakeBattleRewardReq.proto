@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AGHFKDMOEHG
+// CmdId: 8495
+message WinterCampTakeBattleRewardReq {
+    uint32 id = 13;
+}
+

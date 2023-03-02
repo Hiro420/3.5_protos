@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DCHPCOOEKLO
+// CmdId: 5331
+message IrodoriChessLeftMonsterNotify {
+    uint32 left_monsters = 13;
+}
+

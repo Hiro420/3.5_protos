@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MBNENOIDIDO
+message PlayProduct {
+    string product_id = 1;
+    string price_tier = 2;
+    uint32 schedule_id = 3;
+}
+

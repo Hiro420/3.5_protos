@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PFINALGKHEB
+// CmdId: 8494
+message RoguelikeCardGachaNotify {
+    bool is_can_refresh = 6;
+    repeated uint32 card_list = 14;
+}
+

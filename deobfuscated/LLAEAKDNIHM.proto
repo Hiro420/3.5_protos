@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LLAEAKDNIHM
+// CmdId: 7206
+message LLAEAKDNIHM {
+    uint32 card_id = 10;
+    uint32 face_type = 15;
+}
+

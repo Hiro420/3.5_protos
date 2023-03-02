@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CNMCDICEEBC
+// CmdId: 2155
+message DragonSpineChapterProgressChangeNotify {
+    uint32 chapter_id = 1;
+    uint32 cur_progress = 12;
+    uint32 schedule_id = 14;
+}
+

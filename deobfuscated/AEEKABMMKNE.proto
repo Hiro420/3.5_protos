@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AEEKABMMKNE
+message AEEKABMMKNE {
+    uint32 PAPGIKKLGJH = 10;
+    uint32 card_id = 5;
+}
+

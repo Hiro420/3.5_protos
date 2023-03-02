@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MFPONPBCFND
+// CmdId: 1978
+message SetCoopChapterViewedReq {
+    uint32 chapter_id = 14;
+}
+

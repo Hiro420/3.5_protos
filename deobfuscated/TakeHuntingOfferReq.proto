@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HuntingPair.proto";
+
+// Name: LLCNMBFHCNP
+// CmdId: 4348
+message TakeHuntingOfferReq {
+    uint32 city_id = 7;
+    HuntingPair hunting_pair = 4;
+}
+

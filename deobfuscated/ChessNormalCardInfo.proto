@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NICDJJJMPJJ
+message ChessNormalCardInfo {
+    uint32 cost_points = 6;
+    bool is_attach_curse = 2;
+    uint32 card_id = 11;
+}
+

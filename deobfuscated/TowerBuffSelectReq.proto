@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IMCCMLOGCKM
+// CmdId: 2491
+message TowerBuffSelectReq {
+    uint32 tower_buff_id = 4;
+}
+

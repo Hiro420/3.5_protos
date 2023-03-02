@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ILGNCKHBGFO
+message ProfilePicture {
+    uint32 avatar_id = 1;
+    uint32 costume_id = 2;
+}
+

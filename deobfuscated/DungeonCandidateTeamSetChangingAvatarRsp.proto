@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PHICHGBBCAP
+// CmdId: 945
+message DungeonCandidateTeamSetChangingAvatarRsp {
+    int32 retcode = 10;
+}
+

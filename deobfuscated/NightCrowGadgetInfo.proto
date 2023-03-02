@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NCIMBEDOIIL
+message NightCrowGadgetInfo {
+    repeated uint32 argument_list = 1;
+}
+

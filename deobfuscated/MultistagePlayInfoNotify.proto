@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MultistagePlayInfo.proto";
+
+// Name: EEELINAIEOJ
+// CmdId: 5367
+message MultistagePlayInfoNotify {
+    MultistagePlayInfo info = 7;
+}
+

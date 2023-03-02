@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DGLAAOENJIH.proto";
+
+// Name: LDHJFBIOIPG
+message LDHJFBIOIPG {
+    repeated DGLAAOENJIH JJGOFGMNPLE = 1;
+    string name = 2;
+}
+

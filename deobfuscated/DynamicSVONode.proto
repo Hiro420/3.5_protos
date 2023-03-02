@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: LPOPNCBABHN
+message DynamicSVONode {
+    int64 index = 15;
+    int32 area = 7;
+    Vector refer_pos = 8;
+}
+

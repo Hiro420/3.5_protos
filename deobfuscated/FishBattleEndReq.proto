@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FishBattleResult.proto";
+
+// Name: MKMIMCMAPPP
+// CmdId: 5801
+message FishBattleEndReq {
+    bool is_always_bonus = 2;
+    FishBattleResult battle_result = 6;
+    uint32 max_bonus_time = 14;
+}
+

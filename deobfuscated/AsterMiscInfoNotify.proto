@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NOHFMFGPPKE
+// CmdId: 2072
+message AsterMiscInfoNotify {
+    uint32 KENCBMFCJDH = 6;
+    uint32 JIIJEJPKLNK = 1;
+}
+

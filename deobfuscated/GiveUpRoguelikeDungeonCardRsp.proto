@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LDIIKCCOBPG
+// CmdId: 8752
+message GiveUpRoguelikeDungeonCardRsp {
+    int32 retcode = 15;
+}
+

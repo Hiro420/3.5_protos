@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FJCOCKFODEK
+// CmdId: 5376
+message ChessLeftMonstersNotify {
+    uint32 left_monsters = 13;
+}
+

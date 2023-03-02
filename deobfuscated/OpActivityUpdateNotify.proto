@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OpActivityInfo.proto";
+
+// Name: NHMNKHNKNFK
+// CmdId: 5164
+message OpActivityUpdateNotify {
+    OpActivityInfo op_activity_info = 6;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NIFPNHFGPNB
+// CmdId: 5696
+message SetH5ActivityRedDotTimestampReq {
+    uint32 client_red_dot_timestamp = 3;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NEIOEGLNCBC
+// CmdId: 2109
+message TrialAvatarInDungeonIndexNotify {
+    uint32 trial_avatar_index_id = 6;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PNLHILHHFHK
+// CmdId: 2426
+message TowerMiddleLevelChangeTeamNotify {
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PushTipsData.proto";
+
+// Name: JPABLNLAMOA
+// CmdId: 2219
+message PushTipsAllDataNotify {
+    repeated PushTipsData push_tips_list = 4;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KDGBNKKPMGJ
+// CmdId: 4855
+message HomeSetBlueprintSlotOptionRsp {
+    bool is_allow_copy = 4;
+    uint32 slot_id = 12;
+    int32 retcode = 1;
+}
+

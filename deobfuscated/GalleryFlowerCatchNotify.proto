@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MDACBIMHMJF
+// CmdId: 5565
+message GalleryFlowerCatchNotify {
+    uint32 cur_score = 12;
+    uint32 gallery_id = 4;
+    uint32 add_score = 9;
+}
+

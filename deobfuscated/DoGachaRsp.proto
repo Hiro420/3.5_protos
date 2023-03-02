@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GachaItem.proto";
+
+// Name: LEFDKOLFJKL
+// CmdId: 1564
+message DoGachaRsp {
+    uint32 gachaType = 4; // DNGKJJJHNEN
+    uint32 dailyGachaTimes = 1898; //OPHLINLNOEA
+    uint32 leftGachaTimes = 13; // HKJAAPBGNEI
+    uint32 gachaTimesLimit = 2;  //NMKGGDOKHLF
+    bool HNAFDALMKFN = 312;
+    uint32 wishProgress = 1; // BCKMNIBIPHO
+    uint32 tenCostItemId = 11; // KJHBJPGBOFP
+    uint32 tenCostItemNum = 9; //DGIFMDIADJF
+    uint32 gachaScheduleId = 15; //LMLCPMOOKKA
+    repeated GachaItem gacha_item_list = 10;
+    uint32 wishItemId = 7; //LJJKNKCHHFM
+    uint32 newGachaRandom = 5; //EAMKGBGKNMO
+    uint32 gachaTimes = 12; //AINLBCOKANA
+    uint32 curScheduleDailyGachaTimes = 1918; //NOKMFFEIDNH
+    int32 retcode = 14;
+    uint32 costItemNum = 3; //MGFKNHHNMAE
+    bool HCCENOGKOOG = 1938;
+    uint32 costItemId = 6; //GNIDAANOBDP
+    uint32 wishMaxProgress = 8; //FLDFHFNHNFC
+}
+

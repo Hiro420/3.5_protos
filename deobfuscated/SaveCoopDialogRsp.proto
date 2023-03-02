@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FJLMLLOEOAP
+// CmdId: 1960
+message SaveCoopDialogRsp {
+    uint32 JNIMIKPMODP = 10;
+    uint32 EFLHLGADIOL = 8;
+    int32 retcode = 9;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EKOOJGMMAGB
+// CmdId: 8056
+message ResumeRogueDiaryDungeonReq {
+    uint32 stage_id = 4;
+}
+

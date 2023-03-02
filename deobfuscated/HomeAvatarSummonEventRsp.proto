@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MFMKAJHKJPK
+// CmdId: 4633
+message HomeAvatarSummonEventRsp {
+    uint32 event_id = 4;
+    int32 retcode = 6;
+}
+

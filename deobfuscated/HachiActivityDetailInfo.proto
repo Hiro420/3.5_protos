@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HachiStageInfo.proto";
+
+// Name: MBJOHGHHELK
+message HachiActivityDetailInfo {
+    map<uint32, HachiStageInfo> stage_map = 13;
+}
+

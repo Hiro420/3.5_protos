@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ONDFFNHEBHF
+// CmdId: 2089
+message TakeEffigyRewardRsp {
+    int32 retcode = 5;
+    uint32 reward_index = 2;
+}
+

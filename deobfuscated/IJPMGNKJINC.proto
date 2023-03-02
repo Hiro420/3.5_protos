@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OJGKLIEIMFL.proto";
+
+// Name: IJPMGNKJINC
+message IJPMGNKJINC {
+    string name = 1;
+    OJGKLIEIMFL PNFIHGPGNKD = 2;
+}
+

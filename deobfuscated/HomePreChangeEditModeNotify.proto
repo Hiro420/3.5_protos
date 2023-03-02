@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HJHOPDKGOHA
+// CmdId: 4670
+message HomePreChangeEditModeNotify {
+    bool is_enter_edit_mode = 10;
+}
+

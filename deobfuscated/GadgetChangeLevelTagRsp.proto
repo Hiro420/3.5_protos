@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FBMGKBHHOEH
+// CmdId: 837
+message GadgetChangeLevelTagRsp {
+    int32 retcode = 7;
+}
+

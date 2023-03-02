@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HKGFBIHCDHH
+// CmdId: 7677
+message HKGFBIHCDHH {
+    uint32 AHAIAIPGFDN = 10;
+}
+

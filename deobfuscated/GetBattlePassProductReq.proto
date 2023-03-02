@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JPBCPEIFDOM
+// CmdId: 2639
+message GetBattlePassProductReq {
+    uint32 battle_pass_product_play_type = 4;
+}
+

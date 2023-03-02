@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EntityRendererChangedInfo.proto";
+import "ForwardType.proto";
+
+// Name: LFMFKEEMJGA
+// CmdId: 316
+message EvtEntityRenderersChangedNotify {
+    EntityRendererChangedInfo renderer_changed_info = 15;
+    uint32 entity_id = 10;
+    bool is_server_cache = 4;
+    ForwardType forward_type = 7;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DCBAGINNPCD
+// CmdId: 2364
+message PathfindingPingNotify {
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PIEEAMNHHJH
+// CmdId: 3037
+message SceneWeatherForcastReq {
+    uint32 weather_area_id = 3;
+}
+

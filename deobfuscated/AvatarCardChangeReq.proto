@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HBBCPGLFEBN
+// CmdId: 641
+message AvatarCardChangeReq {
+    uint32 count = 10;
+    uint64 avatar_guid = 9;
+    uint32 item_id = 4;
+}
+

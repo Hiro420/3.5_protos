@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FLOHCLGELKM
+// CmdId: 1996
+message SaveMainCoopRsp {
+    repeated uint32 save_point_id_list = 6;
+    uint32 id = 15;
+    int32 retcode = 8;
+}
+

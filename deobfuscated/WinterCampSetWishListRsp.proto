@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GAHFFOEKAAF
+// CmdId: 8985
+message WinterCampSetWishListRsp {
+    repeated uint32 item_id_list = 2;
+    int32 retcode = 13;
+}
+

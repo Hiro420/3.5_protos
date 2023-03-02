@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: OHILLFINBBI
+message HomeFurnitureCustomSuiteData {
+    uint32 guid = 2;
+    repeated int32 includedFurnitureIndexList = 4;
+    Vector spawn_pos = 10;
+}
+

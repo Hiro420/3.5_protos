@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KIECLHFBINF
+// CmdId: 8103
+message MusicGameStartReq {
+    uint64 ugc_guid = 13;
+    bool is_save_score = 7;
+    uint32 music_basic_id = 4;
+}
+

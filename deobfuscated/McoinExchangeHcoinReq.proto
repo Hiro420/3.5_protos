@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LIOGDEJCPAJ
+// CmdId: 643
+message McoinExchangeHcoinReq {
+    uint32 CALAJIHCLCF = 8;
+    uint32 MIBMBPJHBBM = 6;
+}
+

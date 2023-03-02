@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ReportReasonType.proto";
+
+// Name: HBKODGGFEBJ
+// CmdId: 4002
+message PlayerReportReq {
+    uint32 target_home_module_id = 7;
+    ReportReasonType reason = 10;
+    string content = 4;
+    string target_home_module_name = 15;
+    uint32 target_uid = 9;
+}
+

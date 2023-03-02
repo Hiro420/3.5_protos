@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HAFIBFIFCMD
+// CmdId: 4415
+message ScenePlayGuestReplyNotify {
+    bool is_agree = 8;
+    uint32 guest_uid = 11;
+    uint32 play_id = 7;
+}
+

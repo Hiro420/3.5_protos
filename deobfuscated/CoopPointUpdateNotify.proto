@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CoopPoint.proto";
+
+// Name: ONACDFCHFLM
+// CmdId: 1951
+message CoopPointUpdateNotify {
+    CoopPoint coop_point = 2;
+}
+

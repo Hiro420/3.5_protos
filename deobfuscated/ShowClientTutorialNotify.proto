@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HNIEJMPFIBA
+// CmdId: 3120
+message ShowClientTutorialNotify {
+    uint32 tutorial_id = 6;
+}
+

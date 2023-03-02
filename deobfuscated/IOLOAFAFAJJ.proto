@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IOLOAFAFAJJ
+// CmdId: 3079
+message IOLOAFAFAJJ {
+    uint32 BLAKMJNEEJD = 15;
+    repeated uint32 scene_tag_id_list = 9;
+}
+

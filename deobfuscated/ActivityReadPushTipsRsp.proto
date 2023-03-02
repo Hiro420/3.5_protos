@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LEILOFMJCIF
+// CmdId: 8119
+message ActivityReadPushTipsRsp {
+    int32 retcode = 8;
+}
+

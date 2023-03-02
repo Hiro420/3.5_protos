@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KCFMFINBJFM
+message GameplayRecommendationSkillRequest {
+    uint32 skill_depot_id = 13;
+}
+

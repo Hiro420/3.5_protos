@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JOILKACLLNE
+// CmdId: 904
+message DungeonRestartInviteNotify {
+    uint32 point_id = 6;
+    uint32 player_uid = 13;
+    uint32 cd = 15;
+    uint32 dungeon_id = 8;
+}
+

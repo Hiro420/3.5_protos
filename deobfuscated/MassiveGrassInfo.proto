@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: KKNKJADICBH
+message MassiveGrassInfo {
+    uint32 id = 1;
+    Vector center = 2;
+    Vector size = 3;
+}
+

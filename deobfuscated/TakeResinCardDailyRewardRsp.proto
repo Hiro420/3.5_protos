@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ItemParam.proto";
+
+// Name: FEAPAPEPKLP
+// CmdId: 4139
+message TakeResinCardDailyRewardRsp {
+    uint32 product_config_id = 11;
+    repeated ItemParam item_vec = 9;
+    int32 retcode = 5;
+}
+

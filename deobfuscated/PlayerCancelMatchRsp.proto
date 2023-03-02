@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MatchType.proto";
+
+// Name: IEILBIFCLAL
+// CmdId: 4186
+message PlayerCancelMatchRsp {
+    int32 retcode = 14;
+    MatchType match_type = 11;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KNGIGBNKGCN
+// CmdId: 4057
+message RemoveBlacklistRsp {
+    uint32 target_uid = 15;
+    int32 retcode = 11;
+}
+

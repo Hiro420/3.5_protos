@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BonusActivityInfo.proto";
+
+// Name: DBMPNJMGEEB
+// CmdId: 2507
+message BonusActivityUpdateNotify {
+    repeated BonusActivityInfo bonus_activity_info_list = 5;
+}
+

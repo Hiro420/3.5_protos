@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GAFLEDAHGAG
+// CmdId: 2139
+message GetAuthSalesmanInfoReq {
+    uint32 schedule_id = 2;
+}
+

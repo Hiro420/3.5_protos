@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LNDNFCAMOFE
+// CmdId: 20383
+message BrickBreakerTwiceStartReq {
+}
+

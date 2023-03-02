@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KCKKEDMBCFL
+// CmdId: 233
+message EnterWorldAreaReq {
+    uint32 area_type = 9;
+    uint32 area_id = 15;
+}
+

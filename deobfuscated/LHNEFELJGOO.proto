@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LHNEFELJGOO
+// CmdId: 6159
+message LHNEFELJGOO {
+    bool GPDMAGPFCDC = 9;
+}
+

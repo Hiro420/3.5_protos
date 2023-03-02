@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NELCBFKHLOM
+// CmdId: 213
+message SceneDestroyEntityReq {
+    uint32 entity_id = 3;
+}
+

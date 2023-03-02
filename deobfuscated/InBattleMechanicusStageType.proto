@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NIOIKEFHDOK
+enum InBattleMechanicusStageType {
+    IN_BATTLE_MECHANICUS_STAGE_NONE = 0;
+    IN_BATTLE_MECHANICUS_STAGE_BUILD = 1;
+    IN_BATTLE_MECHANICUS_STAGE_CARD_FLIP = 2;
+    IN_BATTLE_MECHANICUS_STAGE_KILL = 3;
+}
+

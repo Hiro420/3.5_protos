@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CMCPKAGBJIO
+// CmdId: 6230
+message OutStuckCustomDungeonRsp {
+    int32 retcode = 10;
+}
+

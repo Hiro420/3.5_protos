@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JCEIBJKIGIB
+// CmdId: 8182
+message LunaRiteSacrificeReq {
+    uint32 area_id = 12;
+    uint32 index = 10;
+}
+

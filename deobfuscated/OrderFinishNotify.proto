@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ItemParam.proto";
+
+// Name: AHKIPJDGOLE
+// CmdId: 4109
+message OrderFinishNotify {
+    uint32 add_mcoin = 2;
+    uint32 card_product_remain_days = 6;
+    string product_id = 8;
+    uint32 order_id = 15;
+    repeated ItemParam item_list = 5;
+}
+

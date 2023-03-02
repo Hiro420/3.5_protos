@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PILANJHDLNP
+// CmdId: 8949
+message MichiaeMatsuriUnlockCrystalSkillReq {
+    uint32 crystal_skill_id = 10;
+}
+

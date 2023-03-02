@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JCOFPPDEDON
+// CmdId: 151
+message PlayerIpRegionNotify {
+    string ip_code = 9;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PFOGILNNCHE
+// CmdId: 21333
+message EndCoinCollectPlaySingleModeRsp {
+    int32 retcode = 7;
+}
+

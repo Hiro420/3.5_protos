@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KLMMNLLNNIC
+// CmdId: 22301
+message GearActivityStartPlayGearRsp {
+    int32 retcode = 6;
+    uint32 level_id = 13;
+}
+

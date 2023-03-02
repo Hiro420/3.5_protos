@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GKKMJBDDEIP
+// CmdId: 2865
+message AcceptCityReputationRequestRsp {
+    uint32 city_id = 6;
+    uint32 request_id = 1;
+    int32 retcode = 5;
+}
+

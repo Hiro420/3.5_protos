@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AsterMidCampInfo.proto";
+
+// Name: NJEGIIGFNNA
+// CmdId: 2142
+message AsterMidCampInfoNotify {
+    repeated AsterMidCampInfo camp_list = 11;
+}
+

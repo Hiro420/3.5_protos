@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "TreasureMapDetectorData.proto";
+
+// Name: FOHJKJKEKAJ
+// CmdId: 4272
+message TreasureMapDetectorDataNotify {
+    TreasureMapDetectorData data = 13;
+}
+

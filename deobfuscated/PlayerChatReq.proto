@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ChatInfo.proto";
+
+// Name: NFIKNDINCMM
+// CmdId: 3125
+message PlayerChatReq {
+    ChatInfo chat_info = 5;
+    uint32 channel_id = 15;
+}
+

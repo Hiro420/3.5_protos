@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GearColumnInfo.proto";
+
+// Name: MHAFPLJHPLJ
+// CmdId: 24069
+message GearActivityFinishPlayGearReq {
+    repeated GearColumnInfo gear_column_info_list = 7;
+    bool use_clue = 13;
+    bool is_success = 6;
+    uint32 level_id = 10;
+}
+

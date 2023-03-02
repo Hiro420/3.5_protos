@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HOCJLNIALNO
+// CmdId: 994
+message DungeonGetStatueDropRsp {
+    int32 retcode = 7;
+}
+

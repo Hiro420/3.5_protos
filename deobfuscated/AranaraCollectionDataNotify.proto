@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AranaraCollectionSuite.proto";
+
+// Name: KPDCOFIBKFD
+// CmdId: 6398
+message AranaraCollectionDataNotify {
+    repeated AranaraCollectionSuite collection_suite_list = 6;
+}
+

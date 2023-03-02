@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FMMLKJJDCDF
+// CmdId: 5825
+message FishBaitGoneNotify {
+    uint32 uid = 3;
+}
+

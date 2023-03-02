@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CJLGEAEIMBI
+// CmdId: 941
+message DungeonCandidateTeamRefuseNotify {
+    uint32 player_uid = 12;
+}
+

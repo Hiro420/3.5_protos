@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OCKLLDMFEME
+// CmdId: 2601
+message SetBattlePassViewedReq {
+    uint32 schedule_id = 14;
+}
+

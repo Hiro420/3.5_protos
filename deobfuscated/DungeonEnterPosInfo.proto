@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EDDGOJAGIOH
+message DungeonEnterPosInfo {
+    uint32 point_id = 5;
+    uint32 quest_id = 10;
+}
+

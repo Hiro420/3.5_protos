@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "TreasureMapBonusChallengeInfo.proto";
+
+// Name: MCJFPFPHMDG
+// CmdId: 2163
+message TreasureMapBonusChallengeNotify {
+    TreasureMapBonusChallengeInfo info = 5;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "WidgetSlotOp.proto";
+import "WidgetSlotTag.proto";
+
+// Name: HHKAKICOHCD
+// CmdId: 4297
+message SetWidgetSlotReq {
+    WidgetSlotOp op = 13;
+    uint32 material_id = 2;
+    repeated WidgetSlotTag tag_list = 12;
+}
+

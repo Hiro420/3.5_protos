@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OJGHKIIHLIG
+// CmdId: 50
+message ServerTimeNotify {
+    uint64 server_time = 8;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PHLPMOGFMDN
+message InBattleMechanicusBuildingInfo {
+    uint32 cost_points = 8;
+    uint32 KEOEDNKONHH = 4;
+    uint32 AHBIFENKEPF = 9;
+    uint32 level = 13;
+}
+

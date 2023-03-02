@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: APABLKFKLJN
+// CmdId: 4608
+message HomeSearchBlueprintReq {
+    string share_code = 3;
+}
+

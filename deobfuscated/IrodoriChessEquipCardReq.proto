@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OCHFJBOGAOP
+// CmdId: 8511
+message IrodoriChessEquipCardReq {
+    bool is_hard_map = 13;
+    uint32 level_id = 7;
+    uint32 card_id = 14;
+}
+

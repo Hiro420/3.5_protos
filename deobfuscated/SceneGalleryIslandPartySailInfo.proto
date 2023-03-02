@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GalleryStartSource.proto";
+import "IslandPartySailStage.proto";
+
+// Name: JDBICBHIFLJ
+message SceneGalleryIslandPartySailInfo {
+    uint32 coin = 1;
+    GalleryStartSource start_source = 11;
+    uint32 PCDHDGNHKIH = 7;
+    uint32 HGHNCOGIFOB = 9;
+    uint32 CBJLPHIDMMA = 10;
+    IslandPartySailStage stage = 6;
+    uint32 BPMNGFDGLGL = 14;
+}
+

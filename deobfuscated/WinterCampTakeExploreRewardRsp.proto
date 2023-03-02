@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EEGFCLLFHBH
+// CmdId: 8707
+message WinterCampTakeExploreRewardRsp {
+    int32 retcode = 12;
+    uint32 id = 9;
+}
+

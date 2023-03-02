@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MLFOMLGHFIP
+// CmdId: 4714
+message PlayerApplyEnterHomeResultRsp {
+    uint32 param = 2;
+    int32 retcode = 6;
+    uint32 apply_uid = 11;
+    bool is_agreed = 3;
+}
+

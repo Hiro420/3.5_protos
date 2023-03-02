@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "TransmitReason.proto";
+
+// Name: FHBLFIAFHCA
+// CmdId: 202
+message ClientTransmitRsp {
+    TransmitReason reason = 10;
+    int32 retcode = 5;
+}
+

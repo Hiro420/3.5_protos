@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FOBOBPGPPCF
+// CmdId: 2137
+message RestartEffigyChallengeRsp {
+    int32 retcode = 15;
+}
+

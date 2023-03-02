@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FJPAJCOJACO
+// CmdId: 2077
+message ExpeditionChallengeEnterRegionNotify {
+    bool is_puzzle_finished = 10;
+    uint32 id = 8;
+}
+

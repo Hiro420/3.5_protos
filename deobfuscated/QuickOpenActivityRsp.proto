@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NLHJEEEECNB
+// CmdId: 8670
+message QuickOpenActivityRsp {
+    int32 retcode = 7;
+    uint32 activity_id = 14;
+}
+

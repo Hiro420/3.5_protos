@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ABPMJIGIDKD
+// CmdId: 20130
+message VintageHuntingStartGalleryReq {
+    uint32 stage_id = 11;
+}
+

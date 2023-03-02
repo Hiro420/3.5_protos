@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ELEEFNHCAOL.proto";
+
+// Name: OHKODCEMCAE
+message OHKODCEMCAE {
+    repeated ELEEFNHCAOL stage_info_list = 15;
+}
+

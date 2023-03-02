@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: COBGEPBLGFF
+// CmdId: 646
+message ReliquaryPromoteReq {
+    uint64 target_guid = 12;
+    uint64 item_guid = 7;
+}
+

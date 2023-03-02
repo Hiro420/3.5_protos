@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RegionSearchInfo.proto";
+
+// Name: HHNOJCJIIKA
+// CmdId: 5648
+message RegionSearchNotify {
+    repeated RegionSearchInfo region_search_list = 11;
+    uint32 uid = 10;
+}
+

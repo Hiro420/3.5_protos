@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NDGDDBCEOPC
+// CmdId: 4143
+message RechargeRsp {
+    string product_id = 11;
+    bool is_show_minors_hint = 1;
+    int32 retcode = 9;
+}
+

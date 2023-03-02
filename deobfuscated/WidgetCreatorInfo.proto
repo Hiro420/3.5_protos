@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "WidgetCreateLocationInfo.proto";
+import "WidgetCreatorOpType.proto";
+
+// Name: POKKBBGEIOB
+message WidgetCreatorInfo {
+    WidgetCreatorOpType op_type = 6;
+    WidgetCreateLocationInfo location_info = 11;
+    uint32 entity_id = 7;
+}
+

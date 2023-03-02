@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GEKHCHPNDHB
+// CmdId: 8828
+message PlantFlowerGetFriendFlowerWishListReq {
+    uint32 schedule_id = 6;
+}
+

@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KHPANMIGJGL
+message BattlePassMission {
+    // Name: MLHPECMMCJI
+    enum MissionStatus {
+        MISSION_INVALID = 0;
+        MISSION_UNFINISHED = 1;
+        MISSION_FINISHED = 2;
+        MISSION_POINT_TAKEN = 3;
+    }
+
+    uint32 reward_battle_pass_point = 11; // CGCJJAMPFME
+    uint32 cur_progress = 1;
+    uint32 mission_type = 10; // INNGDEGBMHO
+    uint32 total_progress = 5;
+    uint32 mission_id = 12;
+    MissionStatus mission_status = 3;
+}
+

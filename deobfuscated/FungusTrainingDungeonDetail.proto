@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BLAPHKFLNJB
+message FungusTrainingDungeonDetail {
+    uint32 best_score = 9;
+    bool is_open = 8;
+    uint32 dungeon_id = 2;
+}
+

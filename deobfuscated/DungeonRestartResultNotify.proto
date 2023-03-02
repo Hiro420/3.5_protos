@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MDNIBPEGOCK
+// CmdId: 908
+message DungeonRestartResultNotify {
+    bool is_add_accpet = 5;
+}
+

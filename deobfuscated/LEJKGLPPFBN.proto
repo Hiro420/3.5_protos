@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LEJKGLPPFBN
+// CmdId: 7769
+message LEJKGLPPFBN {
+    bool MHHGOEKPOGM = 10;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ECIDMELIJDF
+// CmdId: 4843
+message HomeChooseModuleReq {
+    uint32 module_id = 2;
+}
+

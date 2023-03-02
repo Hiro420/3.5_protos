@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PotionLevelData.proto";
+
+// Name: NICOCIKJHBL
+message PotionStageData {
+    bool is_open = 11;
+    repeated uint32 ENEFLMCICBB = 8;
+    repeated PotionLevelData level_list = 10;
+    uint32 stage_id = 6;
+    repeated uint32 NJEEPCAOMNI = 1;
+}
+

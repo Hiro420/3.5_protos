@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HDBPDLJICCD
+// CmdId: 6231
+message RemoveCustomDungeonReq {
+    uint64 dungeon_guid = 6;
+}
+

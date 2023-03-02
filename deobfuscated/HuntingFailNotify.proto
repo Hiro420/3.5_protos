@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HuntingPair.proto";
+
+// Name: ACJPHFFIIAF
+// CmdId: 4335
+message HuntingFailNotify {
+    HuntingPair hunting_pair = 8;
+}
+

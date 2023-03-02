@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ECGFEMHHFPM
+// CmdId: 6216
+message BackPlayCustomDungeonOfficialRsp {
+    int32 retcode = 11;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GDGIELODJIO
+// CmdId: 5586
+message FungusCaptureSettleNotify {
+    bool is_success = 9;
+}
+

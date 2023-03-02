@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ElectroherculesBattleLevelInfo.proto";
+
+// Name: AGFJDCJANKA
+message AGFJDCJANKA {
+    repeated ElectroherculesBattleLevelInfo level_info_list = 15;
+    uint32 stage_id = 8;
+    bool LFEIIEEMDOM = 11;
+}
+

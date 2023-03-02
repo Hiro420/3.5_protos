@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DIKCPEHKCCP
+// CmdId: 8610
+message RogueHealAvatarsReq {
+    uint32 dungeon_id = 10;
+    uint32 cell_id = 8;
+}
+

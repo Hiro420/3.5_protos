@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FleurFairFallSettleInfo.proto";
+
+// Name: JJHDGPCHPHD
+// CmdId: 2027
+message FleurFairFallSettleNotify {
+    map<uint32, FleurFairFallSettleInfo> settle_info_map = 8;
+    uint32 minigame_id = 7;
+}
+

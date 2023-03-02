@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DLNOJLIAACE
+// CmdId: 266
+message ExitTransPointRegionNotify {
+    uint32 point_id = 3;
+    uint32 scene_id = 10;
+}
+

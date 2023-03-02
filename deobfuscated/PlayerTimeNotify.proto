@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NACABFGKHCO
+// CmdId: 171
+message PlayerTimeNotify {
+    bool is_paused = 6;
+    uint64 server_time = 8;
+    uint64 player_time = 10;
+}
+

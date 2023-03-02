@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FAONDBOEDMA
+// CmdId: 5659
+message H5ActivityIdsNotify {
+    uint32 client_red_dot_timestamp = 12;
+    map<uint32, uint32> h5_activity_map = 1;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CustomGadgetTreeInfo.proto";
+
+// Name: HBDOMIEAIIL
+// CmdId: 20541
+message VintageDecorateBoothReq {
+    CustomGadgetTreeInfo combination_info = 7;
+    uint32 entity_id = 2;
+}
+

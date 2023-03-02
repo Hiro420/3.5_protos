@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EDGJBMLJMCD
+message PlayerRoutineInfo {
+    uint32 finished_num = 2;
+    uint32 routine_type = 13;
+}
+

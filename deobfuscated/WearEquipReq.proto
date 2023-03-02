@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PMPHBHJCAMP
+// CmdId: 642
+message WearEquipReq {
+    uint64 equip_guid = 3;
+    uint64 avatar_guid = 12;
+}
+

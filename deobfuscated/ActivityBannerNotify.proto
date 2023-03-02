@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FMNLOMEOFMG
+// CmdId: 2018
+message ActivityBannerNotify {
+    uint32 activity_id = 12;
+    uint32 schedule_id = 3;
+}
+

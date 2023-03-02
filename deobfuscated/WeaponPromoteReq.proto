@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FPJMLBPDMOG
+// CmdId: 619
+message WeaponPromoteReq {
+    uint64 target_weapon_guid = 6;
+}
+

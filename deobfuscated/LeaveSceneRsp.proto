@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HKDEEOLMDJA
+// CmdId: 254
+message LeaveSceneRsp {
+    int32 retcode = 12;
+}
+

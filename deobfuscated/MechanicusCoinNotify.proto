@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KHJMCOBIELE
+// CmdId: 3964
+message MechanicusCoinNotify {
+    uint32 mechanicus_id = 12;
+    uint32 coin = 1;
+}
+

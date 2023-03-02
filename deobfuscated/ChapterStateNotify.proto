@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HLDDAIOAHPB.proto";
+
+// Name: EGGHDNJDFIM
+// CmdId: 427
+message ChapterStateNotify {
+    // Name: POAIPEHKEHE
+    message POAIPEHKEHE {
+        bool is_limit = 12;
+        uint32 PJDJCBIINIC = 11;
+    }
+
+    // Name: OKNHDJOIJFI
+    message OKNHDJOIJFI {
+        bool is_limit = 10;
+        uint32 LENAHOJKKFP = 3;
+    }
+
+    OKNHDJOIJFI JFOHACAIDHE = 14;
+    uint32 chapter_id = 7;
+    ChapterState chapter_state = 10;
+    POAIPEHKEHE HIJBMEKPPKJ = 8;
+}

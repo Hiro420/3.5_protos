@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HPDLLEKEJEF
+message ShareCDInfo {
+    uint32 index = 10;
+    uint64 cd_start_time = 6;
+    uint32 share_cd_id = 1;
+}
+

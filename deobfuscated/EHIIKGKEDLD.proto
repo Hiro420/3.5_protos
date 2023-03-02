@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EHIIKGKEDLD
+message EHIIKGKEDLD {
+    uint32 LDFHLKGLBEE = 1;
+    uint32 PLGLKDOKFOO = 15;
+}
+

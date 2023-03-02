@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DynamicLayerNodes.proto";
+
+// Name: AAPBIOOIMNP
+message DynamicNodes {
+    repeated DynamicLayerNodes nodes = 11;
+}
+

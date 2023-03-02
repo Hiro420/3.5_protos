@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KAGPDLCBOHD
+message BuildingInfo {
+    uint32 AHBIFENKEPF = 1;
+    uint32 ODOEMLALIML = 2;
+    uint32 ICGOGHKFMAP = 3;
+    uint32 NDOKKOHPEMN = 5;
+    uint32 owner_uid = 6;
+    uint32 LJDMMCIKHLC = 7;
+    uint32 IHNHBADFLKJ = 8;
+}
+

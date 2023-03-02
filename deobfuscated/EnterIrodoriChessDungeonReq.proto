@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FEGEKLPBFCP
+// CmdId: 8933
+message EnterIrodoriChessDungeonReq {
+    bool is_hard_map = 15;
+    uint32 level_id = 10;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KMPFIBHBALL
+message Furniture {
+    uint32 count = 1;
+}
+

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ProfilePicture.proto";
+
+// Name: LFBMJINBKHB
+message GadgetPlayUidInfo {
+    uint32 uid = 3;
+    ProfilePicture profile_picture = 1;
+    uint32 score = 13;
+    string nickname = 14;
+    uint32 icon = 2;
+    string online_id = 11;
+    uint32 battle_watcher_id = 12;
+}
+

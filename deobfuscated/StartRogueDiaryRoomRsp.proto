@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MIBHEDBOLOA
+// CmdId: 8755
+message StartRogueDiaryRoomRsp {
+    int32 retcode = 9;
+}
+

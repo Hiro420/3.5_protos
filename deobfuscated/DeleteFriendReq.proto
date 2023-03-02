@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JCECBJCIMGA
+// CmdId: 4059
+message DeleteFriendReq {
+    uint32 target_uid = 2;
+}
+

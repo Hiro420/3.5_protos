@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EPHDHFNBIHF
+message PushTipsData {
+    uint32 push_tips_id = 1;
+    uint32 state = 13;
+}
+

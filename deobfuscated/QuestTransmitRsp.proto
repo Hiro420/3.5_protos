@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AFHDNLJELMP
+// CmdId: 416
+message QuestTransmitRsp {
+    int32 retcode = 5;
+    uint32 point_id = 4;
+    uint32 quest_id = 3;
+}
+

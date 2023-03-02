@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BalloonGallerySettleInfo.proto";
+
+// Name: NPJBOMHDFDP
+// CmdId: 4618
+message HomeBalloonGallerySettleNotify {
+    BalloonGallerySettleInfo settle_info = 15;
+    uint32 rank = 6;
+    bool is_new_record = 2;
+    uint32 gallery_id = 3;
+}
+

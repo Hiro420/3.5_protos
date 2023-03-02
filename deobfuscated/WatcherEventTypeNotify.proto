@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JEDIONJMILH
+// CmdId: 2264
+message WatcherEventTypeNotify {
+    uint32 watcher_trigger_type = 8;
+    repeated uint32 param_list = 1;
+    uint32 add_progress = 5;
+}
+

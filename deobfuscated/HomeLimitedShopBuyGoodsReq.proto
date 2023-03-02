@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeLimitedShopGoods.proto";
+
+// Name: KIJPELEMEPN
+// CmdId: 4471
+message HomeLimitedShopBuyGoodsReq {
+    uint32 buy_count = 14;
+    HomeLimitedShopGoods goods = 13;
+}
+

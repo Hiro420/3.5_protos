@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PDPNFELAOKO
+// CmdId: 8128
+message WinterCampEditSnowmanCombinationRsp {
+    int32 retcode = 11;
+}
+

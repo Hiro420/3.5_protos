@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PHFOGHDLLBB
+// CmdId: 24055
+message TreasureSeelieCollectOrbsNotify {
+    uint32 LJDMMCIKHLC = 3;
+    uint32 NJENGLLHPJD = 10;
+}
+

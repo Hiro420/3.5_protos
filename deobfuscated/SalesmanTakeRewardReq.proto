@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CCEGKOHOHIH
+// CmdId: 2062
+message SalesmanTakeRewardReq {
+    uint32 position = 12;
+    uint32 schedule_id = 11;
+}
+

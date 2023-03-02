@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IAEMJBPANGC
+// CmdId: 2353
+message GMShowObstacleReq {
+}
+

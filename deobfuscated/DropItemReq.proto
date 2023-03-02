@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "StoreType.proto";
+import "Vector.proto";
+
+// Name: PDAMDHFOIIL
+// CmdId: 650
+message DropItemReq {
+    uint32 count = 5;
+    uint64 guid = 1;
+    StoreType store_type = 4;
+    Vector pos = 12;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GMGJPJCDPEM
+message SceneGalleryEffigyChallengeV2Info {
+    uint32 ACPFEHKCGGB = 11;
+    uint32 FCDILAKFBIJ = 8;
+    uint32 NLLDKGABJMC = 9;
+    uint32 HGJABDBDDMP = 15;
+    uint32 MEGPGIHPIMJ = 14;
+}
+

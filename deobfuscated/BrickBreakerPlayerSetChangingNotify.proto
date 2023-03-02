@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IGLFMBGPMPN
+// CmdId: 5363
+message BrickBreakerPlayerSetChangingNotify {
+    bool is_changing = 15;
+    uint32 uid = 14;
+}
+

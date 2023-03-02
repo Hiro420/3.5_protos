@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeLimitedShopGoods.proto";
+
+// Name: KGAMPMDIHMH
+// CmdId: 4883
+message HomeLimitedShopBuyGoodsRsp {
+    repeated HomeLimitedShopGoods goods_list = 3;
+    int32 retcode = 5;
+    uint32 buy_count = 13;
+    HomeLimitedShopGoods goods = 7;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PlayerRTTInfo.proto";
+
+// Name: DIGOHGCDENF
+// CmdId: 19
+message WorldPlayerRTTNotify {
+    repeated PlayerRTTInfo player_rtt_list = 14;
+}
+

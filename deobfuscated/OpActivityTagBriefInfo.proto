@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IKGLOHMLBPA
+message OpActivityTagBriefInfo {
+    uint32 op_activity_type = 15;
+    uint32 config_id = 9;
+    bool has_reward = 3;
+}
+

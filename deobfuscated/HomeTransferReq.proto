@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HBPDOMIGAKK
+// CmdId: 4537
+message HomeTransferReq {
+    uint32 guid = 1;
+    bool MPAJHMEOAPK = 12;
+    bool NBNNPNAGOEA = 8;
+}
+

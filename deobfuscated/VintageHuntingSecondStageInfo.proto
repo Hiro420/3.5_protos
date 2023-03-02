@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PLHEFJJMNBM
+message VintageHuntingSecondStageInfo {
+    uint32 DGJGEHECILB = 11;
+    uint32 NJENGLLHPJD = 5;
+    uint32 AGHLEPMGGPH = 1;
+}
+

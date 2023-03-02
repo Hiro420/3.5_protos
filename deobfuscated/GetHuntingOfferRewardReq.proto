@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HuntingPair.proto";
+
+// Name: BAHOPKINBPC
+// CmdId: 4336
+message GetHuntingOfferRewardReq {
+    HuntingPair hunting_pair = 1;
+    uint32 city_id = 8;
+}
+

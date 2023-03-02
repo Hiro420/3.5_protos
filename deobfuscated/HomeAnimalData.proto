@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: FCEGEHJMIMC
+message HomeAnimalData {
+    uint32 furniture_id = 12;
+    Vector spawnRot = 7;
+    Vector spawn_pos = 1;
+}
+

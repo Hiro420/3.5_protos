@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PAMGLOGHDEA
+// CmdId: 8229
+message SelectRoguelikeDungeonCardReq {
+    uint32 card_id = 3;
+}
+

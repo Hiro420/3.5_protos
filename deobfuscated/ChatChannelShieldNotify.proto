@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BKPPKNEHIIC
+// CmdId: 4992
+message ChatChannelShieldNotify {
+    uint32 channel_id = 13;
+    bool is_shield = 1;
+}
+

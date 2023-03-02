@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FIKFNEBEPOB
+// CmdId: 3257
+message SceneWeatherForcastRsp {
+    int32 retcode = 6;
+    repeated uint32 forcast_climate_list = 15;
+    uint64 next_climate_time = 1;
+}
+

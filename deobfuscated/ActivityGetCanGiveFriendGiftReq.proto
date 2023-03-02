@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PLOKAKEIEFA
+// CmdId: 8934
+message ActivityGetCanGiveFriendGiftReq {
+    uint32 schedule_id = 8;
+}
+

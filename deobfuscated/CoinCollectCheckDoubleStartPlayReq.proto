@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FLPHIGJIGGJ
+// CmdId: 23353
+message CoinCollectCheckDoubleStartPlayReq {
+    uint32 level_id = 3;
+}
+

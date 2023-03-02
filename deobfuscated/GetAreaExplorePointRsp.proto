@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EFFPDFDNBKF
+// CmdId: 205
+message GetAreaExplorePointRsp {
+    repeated uint32 explore_point_list = 14;
+    int32 retcode = 3;
+    repeated uint32 area_id_list = 9;
+}
+

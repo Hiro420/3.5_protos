@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NOFFEEDPAEB
+// CmdId: 5564
+message GalleryStopNotify {
+    uint32 gallery_id = 10;
+}
+

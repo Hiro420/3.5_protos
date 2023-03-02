@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BKDGFCKCJNG
+// CmdId: 398
+message EvtLocalGadgetOwnerLeaveSceneNotify {
+    uint32 entity_id = 4;
+}
+

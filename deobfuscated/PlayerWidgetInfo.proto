@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "WidgetSlotData.proto";
+
+// Name: PEBGLHDFPHB
+message PlayerWidgetInfo {
+    uint32 uid = 4;
+    repeated WidgetSlotData slot_list = 9;
+}
+

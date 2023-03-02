@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AFJADNKECLB
+// CmdId: 2135
+message SeaLampTakePhaseRewardReq {
+    uint32 activity_id = 15;
+    uint32 phase_id = 3;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PGEONFDOELE
+message SceneGallerySalvageEscortInfo {
+    uint32 MKKAIDDJNIJ = 13;
+    uint32 NDNKENCFHPK = 6;
+    uint32 DPIPHICOICA = 7;
+    uint32 monster_count = 9;
+}
+

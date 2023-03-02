@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EFPKBNLHIBC
+// CmdId: 2482
+message TowerAllDataReq {
+    bool is_interact = 1;
+}
+

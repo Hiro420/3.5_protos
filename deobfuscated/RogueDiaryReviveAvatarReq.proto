@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RogueDiaryAvatar.proto";
+
+// Name: IFLEHJCJGEM
+// CmdId: 8575
+message RogueDiaryReviveAvatarReq {
+    RogueDiaryAvatar revive_avatar = 14;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DADMACPEACJ
+// CmdId: 8797
+message PlantFlowerGetSeedInfoRsp {
+    uint32 seed_reward_id = 5;
+    uint32 schedule_id = 8;
+    int32 retcode = 2;
+}
+

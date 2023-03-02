@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGSettleOption.proto";
+
+// Name: MJDIPKANHDE
+// CmdId: 7883
+message GCGSettleOptionRsp {
+    GCGSettleOption option = 9;
+    int32 retcode = 5;
+}
+

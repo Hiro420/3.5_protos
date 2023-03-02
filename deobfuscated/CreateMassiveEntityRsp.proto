@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ACHCCCKDALM
+// CmdId: 397
+message CreateMassiveEntityRsp {
+    int32 retcode = 2;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PFHGJKIABCF
+// CmdId: 24083
+message VintageMarketStartStorePlayReq {
+    uint32 store_round = 5;
+}
+

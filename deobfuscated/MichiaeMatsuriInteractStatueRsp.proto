@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LJDDPHPGHEE
+// CmdId: 8216
+message MichiaeMatsuriInteractStatueRsp {
+    int32 retcode = 6;
+}
+

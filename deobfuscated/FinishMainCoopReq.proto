@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DGHACBNAMDF
+// CmdId: 1986
+message FinishMainCoopReq {
+    uint32 id = 2;
+    uint32 ending_save_point_id = 15;
+}
+

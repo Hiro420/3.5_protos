@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IEJDHFBPKOP
+// CmdId: 2052
+message SetCurExpeditionChallengeIdRsp {
+    int32 retcode = 4;
+    uint32 id = 12;
+}
+

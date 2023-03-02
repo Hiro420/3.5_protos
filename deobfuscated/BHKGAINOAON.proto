@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EDNCOEJLGBG.proto";
+
+// Name: BHKGAINOAON
+message BHKGAINOAON {
+    repeated EDNCOEJLGBG DAHEHDGKEHO = 12;
+    uint32 pool_id = 7;
+}
+

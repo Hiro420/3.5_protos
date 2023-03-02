@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CoinCollectLevelData.proto";
+
+// Name: JFJCLNKCKOE
+message CoinCollectDetailInfo {
+    repeated CoinCollectLevelData level_data_list = 6;
+}
+

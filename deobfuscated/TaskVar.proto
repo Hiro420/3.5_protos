@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OHOPHOBAPIL
+message TaskVar {
+    repeated int32 value_list = 10;
+    uint32 key = 5;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OCMOMLIJGLM
+// CmdId: 8783
+message IrodoriChessUnequipCardReq {
+    uint32 level_id = 9;
+    uint32 card_id = 15;
+    bool is_hard_map = 3;
+}
+

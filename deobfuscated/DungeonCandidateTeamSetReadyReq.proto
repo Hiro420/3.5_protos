@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MEEIDNFFFIM
+// CmdId: 971
+message DungeonCandidateTeamSetReadyReq {
+    bool is_ready = 14;
+}
+

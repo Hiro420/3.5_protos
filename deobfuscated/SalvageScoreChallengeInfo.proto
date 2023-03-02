@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BPKGHIEIGHK
+message SalvageScoreChallengeInfo {
+    uint32 max_score = 1;
+    uint32 salvage_challenge_id = 9;
+}
+

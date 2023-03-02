@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KNOKLJBFHCE
+enum EnterCustomDungeonType {
+    ENTER_CUSTOM_DUNGEON_NONE = 0;
+    ENTER_CUSTOM_DUNGEON_EDIT = 1;
+    ENTER_CUSTOM_DUNGEON_PLAY = 2;
+    ENTER_CUSTOM_DUNGEON_OFFICIAL = 3;
+}
+

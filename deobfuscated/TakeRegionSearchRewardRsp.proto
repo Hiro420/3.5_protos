@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MBABLBGHNJJ
+// CmdId: 5646
+message TakeRegionSearchRewardRsp {
+    uint32 id = 6;
+    int32 retcode = 2;
+    uint32 search_id = 4;
+}
+

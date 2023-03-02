@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KBMLDGNEKHA
+// CmdId: 1554
+message DoGachaReq {
+    uint32 PKCLGOCJPLN = 3;
+    uint32 DGIFMDIADJF = 6;
+    uint32 NMKGGDOKHLF = 12;
+    uint32 HKJAAPBGNEI = 5;
+    string gacha_tag = 14;
+}
+

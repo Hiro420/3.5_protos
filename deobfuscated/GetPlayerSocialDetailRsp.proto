@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SocialDetail.proto";
+
+// Name: LOFIPDAGNJA
+// CmdId: 4050
+message GetPlayerSocialDetailRsp {
+    SocialDetail detail_data = 11;
+    int32 retcode = 1;
+}
+

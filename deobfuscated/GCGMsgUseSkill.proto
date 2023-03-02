@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MLMNLCCHDMD
+message GCGMsgUseSkill {
+    uint32 card_guid = 4;
+    uint32 skill_id = 15;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CILEPHLIFNG
+// CmdId: 5815
+message FishCastRodRsp {
+    int32 retcode = 10;
+}
+

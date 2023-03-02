@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MJEEKCIBOJI
+// CmdId: 5360
+message HideAndSeekSetReadyRsp {
+    int32 retcode = 6;
+}
+

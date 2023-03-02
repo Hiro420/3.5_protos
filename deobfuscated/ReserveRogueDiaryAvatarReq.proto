@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RogueDiaryAvatar.proto";
+
+// Name: DNADNPFNICC
+// CmdId: 8416
+message ReserveRogueDiaryAvatarReq {
+    repeated RogueDiaryAvatar reserve_avatar_list = 4;
+}
+

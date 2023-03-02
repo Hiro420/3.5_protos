@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HICIHFIECAH
+// CmdId: 4006
+message UpdatePS4FriendListReq {
+    repeated string psn_id_list = 7;
+}
+

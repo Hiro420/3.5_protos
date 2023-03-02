@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KCMKBMLANBF
+// CmdId: 5541
+message InstableSprayGalleryInfoNotify {
+    uint32 score = 6;
+}
+

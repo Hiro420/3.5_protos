@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PGOGBMABKIF.proto";
+
+// Name: NHIJPCNBKJE
+message NHIJPCNBKJE {
+    string name = 1;
+    PGOGBMABKIF value = 2;
+}
+

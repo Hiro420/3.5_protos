@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CMILNMPDBEB
+// CmdId: 4552
+message FurnitureMakeStartReq {
+    uint32 avatar_id = 15;
+    uint32 make_id = 11;
+}
+

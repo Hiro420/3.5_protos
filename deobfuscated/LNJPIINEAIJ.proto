@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LNJPIINEAIJ
+// CmdId: 7813
+message LNJPIINEAIJ {
+    uint32 AHAIAIPGFDN = 7;
+}
+

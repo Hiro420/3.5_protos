@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GKGJFJGEPNE
+// CmdId: 4546
+message HomePlantSeedRsp {
+    int32 retcode = 9;
+}
+

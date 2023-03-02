@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OAMHLICHGHF
+// CmdId: 884
+message RequestLiveInfoReq {
+    uint32 live_id = 1;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CPPKIIBAODF
+message WeatherInfo {
+    uint32 weather_area_id = 1;
+}
+

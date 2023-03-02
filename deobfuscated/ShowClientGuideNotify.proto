@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LAJJKMLLJEB
+// CmdId: 3384
+message ShowClientGuideNotify {
+    string guide_name = 11;
+}
+

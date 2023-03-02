@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IMNNAGKKCEL
+// CmdId: 2187
+message BlessingAcceptGivePicRsp {
+    uint32 uid = 9;
+    uint32 pic_id = 8;
+    int32 retcode = 3;
+    uint32 index = 4;
+}
+

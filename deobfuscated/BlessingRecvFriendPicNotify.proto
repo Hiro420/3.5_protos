@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GCCCOKAGGON
+// CmdId: 2011
+message BlessingRecvFriendPicNotify {
+    uint32 pic_id = 15;
+    uint32 uid = 8;
+}
+

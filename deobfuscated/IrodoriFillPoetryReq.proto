@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AHHOICDJKLJ
+// CmdId: 8228
+message IrodoriFillPoetryReq {
+    uint32 CGGCACEMFPB = 15;
+    uint32 GLFNJNPENKJ = 5;
+}
+

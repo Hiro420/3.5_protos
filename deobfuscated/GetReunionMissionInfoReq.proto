@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ECIHKMHMAMH
+// CmdId: 5089
+message GetReunionMissionInfoReq {
+    uint32 mission_id = 4;
+}
+

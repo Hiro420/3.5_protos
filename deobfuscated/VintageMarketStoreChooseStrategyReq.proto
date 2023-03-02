@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "VintageMarketStoreOpInfo.proto";
+
+// Name: OLEFELEOAHG
+// CmdId: 20628
+message VintageMarketStoreChooseStrategyReq {
+    repeated VintageMarketStoreOpInfo store_op_list = 9;
+    uint32 store_id = 8;
+    repeated uint32 strategy_list = 3;
+}
+

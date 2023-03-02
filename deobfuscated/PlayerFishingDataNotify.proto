@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FBLEAFGKFJG
+// CmdId: 5838
+message PlayerFishingDataNotify {
+    uint32 last_fish_rod_id = 15;
+}
+

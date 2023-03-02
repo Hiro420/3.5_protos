@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PGINCJNIBPI
+// CmdId: 8059
+message RogueDiaryCoinAddNotify {
+    uint32 num = 9;
+}
+

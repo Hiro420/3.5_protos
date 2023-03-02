@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NGEFPAINAHE
+// CmdId: 172
+message PlayerLogoutNotify {
+    int32 retcode = 13;
+}
+

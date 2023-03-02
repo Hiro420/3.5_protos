@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CABODJPEHAN
+message BrickBreakerLevelInfo {
+    uint32 max_score = 14;
+    bool is_can_start = 1;
+    uint32 level_id = 11;
+    repeated uint32 chosen_avatar_list = 9;
+    repeated uint32 chosen_skill_list = 15;
+    bool is_finish = 6;
+}
+

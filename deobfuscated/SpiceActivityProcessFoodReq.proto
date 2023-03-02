@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ItemParam.proto";
+
+// Name: CMDPMFNGLDJ
+// CmdId: 8697
+message SpiceActivityProcessFoodReq {
+    repeated ItemParam normal_food_list = 9;
+}
+

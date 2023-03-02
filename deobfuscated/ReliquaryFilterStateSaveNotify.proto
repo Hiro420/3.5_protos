@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AEFFGGNGFCL
+// CmdId: 678
+message ReliquaryFilterStateSaveNotify {
+    map<uint32, uint32> reliquary_filter_state_map = 15;
+}
+

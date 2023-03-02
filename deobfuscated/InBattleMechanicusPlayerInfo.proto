@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "InBattleMechanicusBuildingInfo.proto";
+
+// Name: LJPNPOFMLPJ
+message InBattleMechanicusPlayerInfo {
+    uint32 GKBILFJMMAO = 7;
+    uint32 uid = 3;
+    repeated InBattleMechanicusBuildingInfo building_list = 6;
+    bool is_card_confirmed = 12;
+    uint32 GOPICJPNFKM = 9;
+}
+

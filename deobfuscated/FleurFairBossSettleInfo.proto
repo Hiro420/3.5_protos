@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FleurFairPlayerStatInfo.proto";
+
+// Name: EBNDMMBCPOA
+message FleurFairBossSettleInfo {
+    repeated FleurFairPlayerStatInfo stat_info_list = 2;
+    uint32 energy = 11;
+    uint32 reward_token_num = 6;
+    uint32 cost_time = 4;
+    bool is_success = 13;
+}
+

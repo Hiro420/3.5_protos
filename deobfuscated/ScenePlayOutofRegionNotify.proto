@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FKKHKPOLBBB
+// CmdId: 4377
+message ScenePlayOutofRegionNotify {
+    uint32 play_id = 11;
+}
+

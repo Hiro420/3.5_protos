@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NLHNJLOAAGE
+message NLHNJLOAAGE {
+    uint64 value = 1;
+}
+

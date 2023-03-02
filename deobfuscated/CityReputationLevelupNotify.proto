@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FEJKJMLPOLC
+// CmdId: 2814
+message CityReputationLevelupNotify {
+    uint32 city_id = 1;
+    uint32 level = 4;
+}
+

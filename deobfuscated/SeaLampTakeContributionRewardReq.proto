@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PHMMOBKJDAC
+// CmdId: 2149
+message SeaLampTakeContributionRewardReq {
+    uint32 config_id = 14;
+    uint32 activity_id = 7;
+}
+

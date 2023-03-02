@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CPIDFBGHCEJ
+// CmdId: 123
+message SetPlayerNameReq {
+    string nick_name = 6;
+}
+

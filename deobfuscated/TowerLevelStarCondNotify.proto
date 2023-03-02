@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "TowerLevelStarCondData.proto";
+
+// Name: MCBOPCGNLCL
+// CmdId: 2486
+message TowerLevelStarCondNotify {
+    uint32 level_index = 9;
+    repeated TowerLevelStarCondData cond_data_list = 8;
+    uint32 floor_id = 13;
+}
+

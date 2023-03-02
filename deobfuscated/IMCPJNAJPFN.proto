@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IMCPJNAJPFN
+// CmdId: 7083
+message IMCPJNAJPFN {
+    repeated uint32 JGMCHBNMPEO = 4;
+}
+

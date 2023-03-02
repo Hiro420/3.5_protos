@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IHBIHEBCNDJ
+// CmdId: 6484
+message IHBIHEBCNDJ {
+    uint32 end_time = 10;
+}
+

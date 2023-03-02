@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CCDPDGGPKMD
+// CmdId: 4090
+message UpdatePS4FriendListRsp {
+    repeated string psn_id_list = 10;
+    int32 retcode = 13;
+}
+

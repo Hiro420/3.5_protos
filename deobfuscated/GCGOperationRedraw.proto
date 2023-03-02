@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CBBFEJJDBNO
+message GCGOperationRedraw {
+    repeated uint32 card_list = 7;
+}
+

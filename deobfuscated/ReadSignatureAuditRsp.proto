@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BKMMCHPEHFD
+// CmdId: 4032
+message ReadSignatureAuditRsp {
+    int32 retcode = 14;
+}
+

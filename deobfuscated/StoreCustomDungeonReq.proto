@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EDHEGJAFOFG
+// CmdId: 6218
+message StoreCustomDungeonReq {
+    bool is_cancel_store = 7;
+    uint64 dungeon_guid = 5;
+}
+

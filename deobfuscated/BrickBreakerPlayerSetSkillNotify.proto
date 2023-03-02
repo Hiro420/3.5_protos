@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OBOHFDDHPCE
+// CmdId: 5339
+message BrickBreakerPlayerSetSkillNotify {
+    repeated uint32 skill_id_list = 1;
+    uint32 uid = 9;
+}
+

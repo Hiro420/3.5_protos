@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BFAPCMPPLFE
+message GCGMsgWaitingListChange {
+    uint32 cur_index = 4;
+    uint32 controller_id = 7;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PropValue.proto";
+
+// Name: MLANEGFDFME
+// CmdId: 107
+message PlayerPropNotify {
+    map<uint32, PropValue> prop_map = 6;
+}
+

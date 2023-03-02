@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: INNMBACLEMO
+message GCGDuelChallenge {
+    uint32 total_progress = 11;
+    uint32 challenge_id = 13;
+    uint32 cur_progress = 12;
+}
+

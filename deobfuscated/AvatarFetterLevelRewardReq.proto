@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OGJNGMANPOH
+// CmdId: 1653
+message AvatarFetterLevelRewardReq {
+    uint64 avatar_guid = 15;
+    uint32 fetter_level = 13;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EvtBeingHitInfo.proto";
+import "ForwardType.proto";
+
+// Name: OGDEAJNCGKB
+// CmdId: 367
+message EvtBeingHitNotify {
+    EvtBeingHitInfo being_hit_info = 11;
+    ForwardType forward_type = 4;
+}
+

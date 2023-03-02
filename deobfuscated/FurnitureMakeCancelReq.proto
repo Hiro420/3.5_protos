@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OFDKCMBFMBP
+// CmdId: 4619
+message FurnitureMakeCancelReq {
+    uint32 index = 11;
+    uint32 make_id = 8;
+}
+

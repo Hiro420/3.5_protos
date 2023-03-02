@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AbilityInvokeEntry.proto";
+
+// Name: NDELNMOBIJO
+// CmdId: 1167
+message AbilityInvocationFixedNotify {
+    AbilityInvokeEntry JHGOOOAKDKF = 10;
+    AbilityInvokeEntry IPKLDHAPACC = 8;
+    AbilityInvokeEntry LFJKNMKCNMP = 4;
+    AbilityInvokeEntry HLNLPLLLAKN = 13;
+    AbilityInvokeEntry MDFGHEGMPMF = 1;
+    AbilityInvokeEntry MLOIJCEODAD = 12;
+}
+

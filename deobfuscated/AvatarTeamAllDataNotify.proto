@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AvatarTeam.proto";
+
+// Name: IKLIDEBOGPM
+// CmdId: 1729
+message AvatarTeamAllDataNotify {
+    repeated uint32 backup_avatar_team_order_list = 8;
+    map<uint32, AvatarTeam> avatar_team_map = 3;
+    repeated uint64 temp_avatar_guid_list = 6;
+}
+

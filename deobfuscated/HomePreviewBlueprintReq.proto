@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: APCEABAFGNL
+// CmdId: 4650
+message HomePreviewBlueprintReq {
+    string share_code = 12;
+}
+

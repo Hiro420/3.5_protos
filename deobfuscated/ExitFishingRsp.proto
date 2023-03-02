@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ILDJIKECIKM
+// CmdId: 5826
+message ExitFishingRsp {
+    int32 retcode = 1;
+}
+

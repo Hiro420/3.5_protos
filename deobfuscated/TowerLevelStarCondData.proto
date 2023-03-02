@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KMPDADDDNCP
+message TowerLevelStarCondData {
+    bool EOJOAHGECCE = 13;
+    uint32 NLNHJFLCGHB = 4;
+    uint32 KOPBLHONCEF = 7;
+    bool MFPMLIGPNIJ = 2;
+}
+

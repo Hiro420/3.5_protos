@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HNABHDDNPBM
+message SceneGalleryBulletInfo {
+    map<uint32, uint32> hit_count_map = 1;
+    uint32 end_time = 14;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: COEAABHEACL
+enum TransmitReason {
+    TRANSMIT_NONE = 0;
+    TRANSMIT_QUEST = 1;
+}
+

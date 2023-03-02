@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomePlantFieldData.proto";
+
+// Name: COLEPMPNKPG
+// CmdId: 4710
+message HomePlantFieldNotify {
+    HomePlantFieldData field = 3;
+}
+

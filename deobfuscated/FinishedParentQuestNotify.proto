@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ParentQuest.proto";
+
+// Name: BCPKKPKIOIG
+// CmdId: 464
+message FinishedParentQuestNotify {
+    repeated ParentQuest parent_quest_list = 13;
+}
+

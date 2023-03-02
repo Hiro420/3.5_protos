@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FireworksReformParamType.proto";
+
+// Name: LBJDDOCNBFN
+message FireworksReformParam {
+    int32 value = 7;
+    FireworksReformParamType type = 11;
+}
+

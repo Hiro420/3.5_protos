@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NPDAFCBIDCJ
+// CmdId: 23962
+message BrickBreakerQuitReq {
+}
+

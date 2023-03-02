@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OKIEBJIHCGI
+// CmdId: 8055
+message PlantFlowerGetSeedInfoReq {
+    uint32 schedule_id = 12;
+}
+

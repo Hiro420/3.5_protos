@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MaterialDeleteReturnType.proto";
+
+// Name: IDAIPDMLAOP
+// CmdId: 638
+message TakeMaterialDeleteReturnReq {
+    MaterialDeleteReturnType type = 12;
+}
+

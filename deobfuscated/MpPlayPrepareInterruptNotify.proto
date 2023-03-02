@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CIDANFONHIN
+// CmdId: 1818
+message MpPlayPrepareInterruptNotify {
+    uint32 mp_play_id = 11;
+}
+

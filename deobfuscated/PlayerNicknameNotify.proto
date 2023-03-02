@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FJLHELDHDHO
+// CmdId: 139
+message PlayerNicknameNotify {
+    string nickname = 6;
+}
+

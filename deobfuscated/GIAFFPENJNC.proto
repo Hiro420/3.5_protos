@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GIAFFPENJNC
+// CmdId: 7387
+message GIAFFPENJNC {
+    uint32 AHAIAIPGFDN = 6;
+    bool BBNOFLCPEBA = 2;
+}
+

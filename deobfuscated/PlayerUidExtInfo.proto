@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LFBHGAJPGLG
+message PlayerUidExtInfo {
+    uint32 reg_platform = 1;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IAEHMPOMFMB
+message DeliveryActivityDetailInfo {
+    bool is_taken_reward = 5;
+    repeated uint32 finished_delivery_quest_index = 1;
+    uint32 day_index = 10;
+}
+

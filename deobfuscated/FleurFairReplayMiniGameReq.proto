@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ICOCCCIKBNM
+// CmdId: 2165
+message FleurFairReplayMiniGameReq {
+    uint32 minigame_id = 13;
+}
+

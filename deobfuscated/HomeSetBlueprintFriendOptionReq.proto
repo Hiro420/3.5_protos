@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NHOOLBPOGLC
+// CmdId: 4490
+message HomeSetBlueprintFriendOptionReq {
+    bool is_allow_friend_copy = 14;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EvtAnimatorParameterInfo.proto";
+import "ForwardType.proto";
+
+// Name: ADAGOODIPNE
+// CmdId: 375
+message EvtAnimatorParameterNotify {
+    EvtAnimatorParameterInfo animator_param_info = 4;
+    ForwardType forward_type = 14;
+}
+

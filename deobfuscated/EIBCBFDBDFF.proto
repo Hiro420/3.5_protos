@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EIBCBFDBDFF
+// CmdId: 24705
+message EIBCBFDBDFF {
+    int32 retcode = 4;
+}
+

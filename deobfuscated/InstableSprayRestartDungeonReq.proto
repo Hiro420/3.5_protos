@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "InstableSprayAvatarInfo.proto";
+
+// Name: MHAKCHCPHGM
+// CmdId: 23108
+message InstableSprayRestartDungeonReq {
+    repeated InstableSprayAvatarInfo avatar_info_list = 14;
+}
+

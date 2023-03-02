@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BCHCJGKHLAH
+// CmdId: 936
+message DungeonRestartInviteReplyNotify {
+    bool is_accept = 2;
+    uint32 player_uid = 6;
+}
+

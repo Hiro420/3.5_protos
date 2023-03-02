@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GLAFOKOICGN
+// CmdId: 1799
+message AvatarPromoteReq {
+    uint64 guid = 8;
+}
+

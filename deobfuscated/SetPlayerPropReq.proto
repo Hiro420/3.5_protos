@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PropValue.proto";
+
+// Name: KOEIKPHNEHA
+// CmdId: 142
+message SetPlayerPropReq {
+    repeated PropValue prop_list = 10;
+}
+

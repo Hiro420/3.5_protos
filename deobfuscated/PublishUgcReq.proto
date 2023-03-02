@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "UgcType.proto";
+
+// Name: PMAPPANGOHF
+// CmdId: 6339
+message PublishUgcReq {
+    UgcType ugc_type = 4;
+    uint64 ugc_guid = 8;
+}
+

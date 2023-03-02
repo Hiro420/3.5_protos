@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BKKCOCNANDN
+// CmdId: 4900
+message HomeSceneInitFinishReq {
+}
+

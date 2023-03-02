@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JKKGNIAKIEM
+// CmdId: 5686
+message SetH5ActivityRedDotTimestampRsp {
+    int32 retcode = 6;
+}
+

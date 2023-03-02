@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: DJBLPMPKGKO
+message HomeFurnitureSuiteData {
+    Vector spawn_pos = 15;
+    repeated int32 includedFurnitureIndexList = 4;
+    uint32 guid = 5;
+    uint32 suite_id = 6;
+    bool isAllowSummon = 1;
+}
+

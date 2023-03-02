@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EBJECAINEDK
+// CmdId: 210
+message SceneTimeNotify {
+    uint64 scene_time = 2;
+    uint32 scene_id = 13;
+    bool is_paused = 7;
+}
+

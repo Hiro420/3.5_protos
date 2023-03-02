@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OCLKBDJILAF
+message SceneGalleryHideAndSeekInfo {
+    repeated uint32 DJOKECOIPFF = 13;
+    repeated uint32 BCBIGMMKEJH = 12;
+}
+

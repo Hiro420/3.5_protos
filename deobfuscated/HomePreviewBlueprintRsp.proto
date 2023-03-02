@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeSceneArrangementInfo.proto";
+
+// Name: DACJJCPINAB
+// CmdId: 4600
+message HomePreviewBlueprintRsp {
+    string share_code = 12;
+    HomeSceneArrangementInfo scene_arrangement_info = 3;
+    int32 retcode = 13;
+}
+

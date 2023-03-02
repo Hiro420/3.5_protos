@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GKIJDMOCNDH
+message GKIJDMOCNDH {
+    uint32 PMAHGIMLNFD = 1;
+}
+

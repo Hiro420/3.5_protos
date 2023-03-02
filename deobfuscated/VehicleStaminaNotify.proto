@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DEFEKFDPJCK
+// CmdId: 826
+message VehicleStaminaNotify {
+    uint32 entity_id = 14;
+    float cur_stamina = 12;
+}
+

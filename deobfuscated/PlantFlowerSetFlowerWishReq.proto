@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GAHOGELCJBE
+// CmdId: 8997
+message PlantFlowerSetFlowerWishReq {
+    uint32 schedule_id = 5;
+    map<uint32, uint32> flower_num_map = 4;
+}
+

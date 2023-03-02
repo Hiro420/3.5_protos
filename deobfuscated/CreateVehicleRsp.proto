@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BFLHGAMMHOJ
+// CmdId: 846
+message CreateVehicleRsp {
+    int32 retcode = 13;
+    uint32 vehicle_id = 9;
+    uint32 entity_id = 8;
+}
+

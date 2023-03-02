@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CDNEAPKKHHL
+// CmdId: 4079
+message GetPlayerAskFriendListReq {
+}
+

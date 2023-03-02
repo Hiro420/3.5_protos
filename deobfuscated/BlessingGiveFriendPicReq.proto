@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IIGEMLEFEGJ
+// CmdId: 2066
+message BlessingGiveFriendPicReq {
+    uint32 pic_id = 2;
+    uint32 uid = 6;
+}
+

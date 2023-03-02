@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EKCHEGGLOOG
+// CmdId: 8941
+message RogueHealAvatarsRsp {
+    int32 retcode = 1;
+    uint32 cell_id = 15;
+    uint32 dungeon_id = 2;
+}
+

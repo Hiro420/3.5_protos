@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NJDGBCDHEIP
+// CmdId: 1014
+message BigTalentPointConvertReq {
+    repeated uint64 item_guid_list = 15;
+    uint64 avatar_guid = 10;
+}
+

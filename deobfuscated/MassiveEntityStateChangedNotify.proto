@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MassiveEntityState.proto";
+
+// Name: MDLLNBKPGMK
+// CmdId: 360
+message MassiveEntityStateChangedNotify {
+    repeated MassiveEntityState massive_entity_state_list = 15;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KIMICJIEGDD
+enum KIMICJIEGDD {
+    KIMICJIEGDD_LMDBDNDIJJL = 0;
+    KIMICJIEGDD_MPCLKLBEAPK = 1;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BOAINCLDMBC
+// CmdId: 8937
+message ViewLanternProjectionLevelTipsReq {
+    uint32 level_id = 3;
+}
+

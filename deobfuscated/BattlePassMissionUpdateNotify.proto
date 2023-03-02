@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BattlePassMission.proto";
+
+// Name: MBEPHADCLEE
+// CmdId: 2643
+message BattlePassMissionUpdateNotify {
+    repeated BattlePassMission mission_list = 13;
+}
+

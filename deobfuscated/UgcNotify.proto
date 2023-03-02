@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PCFGKBLLAEF
+// CmdId: 6301
+message UgcNotify {
+    bool FNFJAIOGDIL = 6;
+    bool OLEDANJLOEI = 5;
+    bool NFBPGNCIKPD = 8;
+    bool EBONPFLOCKN = 3;
+}
+

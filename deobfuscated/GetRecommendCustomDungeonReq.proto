@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BKNEEMDBCHG
+// CmdId: 6238
+message GetRecommendCustomDungeonReq {
+    bool is_refresh = 12;
+}
+

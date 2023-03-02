@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IGCNJKHEEOA
+message IGCNJKHEEOA {
+    uint32 level_id = 15;
+    repeated uint32 EJMHNAHNPOB = 5;
+}
+

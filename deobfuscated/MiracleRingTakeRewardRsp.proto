@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JMJOKICHGFP
+// CmdId: 5236
+message MiracleRingTakeRewardRsp {
+    int32 retcode = 6;
+}
+

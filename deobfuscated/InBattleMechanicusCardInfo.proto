@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "InBattleMechanicusCardChallengeState.proto";
+
+// Name: MBPAKAMJPFM
+message InBattleMechanicusCardInfo {
+    uint32 MDBEPJAMPBA = 1;
+    uint32 LHLHKNLIKLK = 2;
+    InBattleMechanicusCardChallengeState challenge_state = 13;
+    uint32 LJHINGOMPDC = 12;
+    uint32 cost_points = 7;
+    uint32 card_id = 10;
+}
+

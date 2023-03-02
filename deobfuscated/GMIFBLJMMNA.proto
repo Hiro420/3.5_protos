@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GMIFBLJMMNA
+message GMIFBLJMMNA {
+    uint32 NLDGLBHBNJE = 4;
+    bool is_new_record = 15;
+}
+

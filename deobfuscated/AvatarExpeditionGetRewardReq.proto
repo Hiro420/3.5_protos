@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MIEMEMKNFDE
+// CmdId: 1641
+message AvatarExpeditionGetRewardReq {
+    uint64 avatar_guid = 14;
+}
+

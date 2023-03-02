@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PNNFJJNIILI
+// CmdId: 5396
+message BrickBreakerSetChangingRsp {
+    int32 retcode = 12;
+}
+

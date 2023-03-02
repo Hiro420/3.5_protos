@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SalvagePreventStopReason.proto";
+
+// Name: GFEOHCLAHME
+message SalvagePreventGallerySettleInfo {
+    uint32 time_remain = 11;
+    uint32 final_score = 6;
+    SalvagePreventStopReason reason = 2;
+    uint32 monster_count = 7;
+}
+

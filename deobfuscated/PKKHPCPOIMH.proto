@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BCMHCFICCDD.proto";
+
+// Name: PKKHPCPOIMH
+// CmdId: 7247
+message PKKHPCPOIMH {
+    bool OGJINPOEFOH = 10;
+    BCMHCFICCDD FOANFANMCHL = 11;
+}
+

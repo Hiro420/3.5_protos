@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ILJBCDKOGDA
+// CmdId: 441
+message GetBargainDataReq {
+    uint32 bargain_id = 3;
+}
+

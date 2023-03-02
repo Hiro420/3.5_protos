@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CELEJBNIOID
+// CmdId: 23473
+message CELEJBNIOID {
+    int32 retcode = 11;
+}
+

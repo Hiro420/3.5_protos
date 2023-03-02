@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HLFIAFHOBAD
+// CmdId: 4065
+message GetPlayerSocialDetailReq {
+    uint32 uid = 2;
+}
+

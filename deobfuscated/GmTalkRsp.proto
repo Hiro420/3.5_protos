@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OPANAMLOKOK
+// CmdId: 54
+message GmTalkRsp {
+    string retmsg = 6;
+    string msg = 13;
+    int32 retcode = 12;
+}
+

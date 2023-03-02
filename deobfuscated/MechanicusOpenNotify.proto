@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CHGPLODIFEO
+// CmdId: 3914
+message MechanicusOpenNotify {
+    uint32 mechanicus_id = 1;
+}
+

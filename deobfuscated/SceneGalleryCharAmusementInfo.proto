@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KIHHHDNHBIE
+message SceneGalleryCharAmusementInfo {
+    bool is_last_level = 9;
+    uint32 cur_score = 1;
+    uint32 max_score = 4;
+    bool is_success = 15;
+    bool is_finish = 5;
+}
+

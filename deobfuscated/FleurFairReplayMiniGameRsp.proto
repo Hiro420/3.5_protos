@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JKNPHCFOKLA
+// CmdId: 2192
+message FleurFairReplayMiniGameRsp {
+    uint32 minigame_id = 15;
+    int32 retcode = 4;
+}
+

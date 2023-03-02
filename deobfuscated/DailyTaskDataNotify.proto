@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MEBMDKGNFIP
+// CmdId: 111
+message DailyTaskDataNotify {
+    uint32 score_reward_id = 10;
+    bool is_taken_score_reward = 6;
+    uint32 finished_num = 4;
+}
+

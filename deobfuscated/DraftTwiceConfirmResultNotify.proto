@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DBJGJNGNNEK
+// CmdId: 5491
+message DraftTwiceConfirmResultNotify {
+    bool is_all_argee = 11;
+    uint32 draft_id = 8;
+}
+

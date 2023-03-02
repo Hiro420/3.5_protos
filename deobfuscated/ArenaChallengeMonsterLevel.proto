@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MOOPCKFOLNC
+message ArenaChallengeMonsterLevel {
+    uint32 BCHEDLFFNKC = 11;
+    uint32 NEFKFHIPLHG = 1;
+}
+

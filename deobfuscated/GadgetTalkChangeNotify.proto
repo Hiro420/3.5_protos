@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LCEEDFGLJMI
+// CmdId: 856
+message GadgetTalkChangeNotify {
+    uint32 gadget_entity_id = 5;
+    uint32 cur_gadget_talk_state = 8;
+}
+

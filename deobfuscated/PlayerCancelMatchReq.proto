@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MatchType.proto";
+
+// Name: KAONIMBCNLI
+// CmdId: 4196
+message PlayerCancelMatchReq {
+    MatchType match_type = 1;
+}
+

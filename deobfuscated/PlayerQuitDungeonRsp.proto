@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HPNPOAEEEFL
+// CmdId: 934
+message PlayerQuitDungeonRsp {
+    int32 retcode = 8;
+    uint32 point_id = 15;
+}
+

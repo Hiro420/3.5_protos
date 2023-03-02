@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FireworksLaunchSchemeData.proto";
+
+// Name: HCPFFHAHOEI
+// CmdId: 6053
+message LaunchFireworksReq {
+    FireworksLaunchSchemeData scheme_data = 12;
+}
+

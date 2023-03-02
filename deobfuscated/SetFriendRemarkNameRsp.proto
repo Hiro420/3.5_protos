@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FDEANIDKEID
+// CmdId: 4097
+message SetFriendRemarkNameRsp {
+    bool is_clear_remark = 7;
+    int32 retcode = 10;
+    string remark_name = 14;
+    uint32 uid = 1;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DFMIGMBANII
+// CmdId: 2459
+message TowerEnterLevelReq {
+    uint32 enter_point_id = 3;
+}
+

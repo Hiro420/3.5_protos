@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MKIGENIAOAL
+// CmdId: 290
+message SealBattleEndNotify {
+    bool is_win = 13;
+    uint32 seal_entity_id = 1;
+}
+

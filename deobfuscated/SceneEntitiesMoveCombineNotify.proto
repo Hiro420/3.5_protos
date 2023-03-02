@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EntityMoveInfo.proto";
+
+// Name: NEIKDDNJBOM
+// CmdId: 3188
+message SceneEntitiesMoveCombineNotify {
+    repeated EntityMoveInfo entity_move_info_list = 12;
+}
+

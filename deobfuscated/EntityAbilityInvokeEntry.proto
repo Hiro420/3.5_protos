@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AbilityInvokeEntry.proto";
+
+// Name: LFJEGCDDKCK
+message EntityAbilityInvokeEntry {
+    uint32 entity_id = 7;
+    repeated AbilityInvokeEntry invokes = 11;
+}
+

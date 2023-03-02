@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SalvageChallengeInfo.proto";
+
+// Name: BEAKEGBMAJD
+message SalvageStageInfo {
+    repeated SalvageChallengeInfo challenge_info_list = 15;
+    uint32 stage_id = 7;
+    bool is_open = 2;
+}
+

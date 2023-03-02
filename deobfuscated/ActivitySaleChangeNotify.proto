@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MMCKMPPBHND
+// CmdId: 2034
+message ActivitySaleChangeNotify {
+    bool is_close = 6;
+    uint32 sale_id = 9;
+}
+

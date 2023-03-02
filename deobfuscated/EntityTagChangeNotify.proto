@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HAJOOIPKGMA
+// CmdId: 3428
+message EntityTagChangeNotify {
+    uint32 entity_id = 10;
+    string tag = 6;
+    bool is_add = 9;
+}
+

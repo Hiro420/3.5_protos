@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CharAmusementAvatarInfo.proto";
+
+// Name: DKAJENPELLD
+message CharAmusementInfo {
+    repeated CharAmusementAvatarInfo avatar_info_list = 9;
+    uint32 JNLHFFKMCNM = 5;
+    uint32 stage_id = 7;
+    uint32 OEHEMHPFFBO = 14;
+    uint32 level_id = 1;
+}
+

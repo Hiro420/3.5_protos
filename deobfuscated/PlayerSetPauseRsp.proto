@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LKBGOHAPNME
+// CmdId: 188
+message PlayerSetPauseRsp {
+    int32 retcode = 4;
+}
+

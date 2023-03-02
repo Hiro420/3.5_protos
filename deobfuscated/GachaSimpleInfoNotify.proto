@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NAAMPFPNPLM
+// CmdId: 1582
+message GachaSimpleInfoNotify {
+    bool is_new = 15;
+}
+

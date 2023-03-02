@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: BNEDOJNHOBO
+// CmdId: 203
+message PersonalSceneJumpRsp {
+    uint32 dest_scene_id = 10;
+    Vector dest_pos = 2;
+    int32 retcode = 7;
+}
+

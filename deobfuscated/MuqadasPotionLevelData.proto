@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PLDBEIPDMFA
+message MuqadasPotionLevelData {
+    bool is_open = 12;
+    uint32 max_score = 11;
+    uint32 level_id = 10;
+}
+

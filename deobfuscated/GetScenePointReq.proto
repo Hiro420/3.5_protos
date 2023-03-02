@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NGFIIOEAKAD
+// CmdId: 242
+message GetScenePointReq {
+    uint32 scene_id = 9;
+    bool PGBKOMBKBKG = 1;
+    uint32 belong_uid = 3;
+}
+

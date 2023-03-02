@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BEBOPIDLJCN
+// CmdId: 23970
+message MuqadasPotionCaptureWeaknessReq {
+    uint32 capture_weakness_count = 14;
+    uint32 level_id = 2;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MuqadasPotionLevelData.proto";
+
+// Name: MLIOFGMAFPP
+message MuqadasPotionActivityDetailInfo {
+    repeated MuqadasPotionLevelData muqadas_potion_level_data_list = 5;
+}
+

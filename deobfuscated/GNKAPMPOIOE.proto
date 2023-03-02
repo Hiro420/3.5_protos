@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GNKAPMPOIOE
+// CmdId: 7621
+message GNKAPMPOIOE {
+    repeated uint32 card_list = 5;
+}
+

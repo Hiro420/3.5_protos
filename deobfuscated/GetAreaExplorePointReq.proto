@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EPLOBIPMGNK
+// CmdId: 258
+message GetAreaExplorePointReq {
+    repeated uint32 area_id_list = 14;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BOLIJBHHIAA
+// CmdId: 4029
+message SetPlayerSignatureReq {
+    string signature = 15;
+}
+

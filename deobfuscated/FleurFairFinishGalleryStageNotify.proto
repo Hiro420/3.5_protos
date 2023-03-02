@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LGIHEIKKJMG
+// CmdId: 5349
+message FleurFairFinishGalleryStageNotify {
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KHLLMKJHPCI
+// CmdId: 8862
+message RoguelikeEffectViewRsp {
+    int32 retcode = 13;
+}
+

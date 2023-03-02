@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IBGECIOMNCL
+// CmdId: 24364
+message VintageDecorateBoothRsp {
+    int32 retcode = 2;
+}
+

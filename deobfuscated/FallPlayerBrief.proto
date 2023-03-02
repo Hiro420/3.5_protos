@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IPCIFFJCJLL
+message FallPlayerBrief {
+    uint32 score = 8;
+    uint32 uid = 9;
+    bool is_ground = 15;
+}
+

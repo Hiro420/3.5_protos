@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeBalloonRecord.proto";
+import "HomeRacingRecord.proto";
+import "HomeSeekFurnitureAllRecord.proto";
+import "HomeStakeRecord.proto";
+
+// Name: NIMPOFILFMP
+message HomeGroupRecord {
+    uint32 group_id = 4;
+    oneof detail {
+        HomeRacingRecord racing_gallery_info = 559;
+        HomeBalloonRecord balloon_gallery_info = 1437;
+        HomeStakeRecord stake_play_info = 1356;
+        HomeSeekFurnitureAllRecord seek_furniture_gallery_info = 1603;
+    }
+}
+

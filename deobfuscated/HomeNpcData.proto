@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: BACEMJKBMHN
+message HomeNpcData {
+    uint32 costume_id = 6;
+    Vector spawn_pos = 8;
+    Vector spawn_rot = 12;
+    uint32 avatar_id = 13;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CAHLHGDPIOF
+// CmdId: 6473
+message CAHLHGDPIOF {
+    uint32 play_index = 15;
+}
+

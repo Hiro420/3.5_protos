@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KKIOCEJCODN
+// CmdId: 5482
+message DraftGuestReplyInviteNotify {
+    uint32 guest_uid = 14;
+    bool is_agree = 6;
+    uint32 draft_id = 9;
+}
+

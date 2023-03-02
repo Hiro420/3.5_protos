@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CityReputationSimpleInfo.proto";
+
+// Name: BGIMDCKHDHN
+// CmdId: 2827
+message CityReputationDataNotify {
+    repeated CityReputationSimpleInfo simple_info_list = 10;
+}
+

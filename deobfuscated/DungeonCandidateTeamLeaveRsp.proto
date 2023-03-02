@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JCEAEGINIEE
+// CmdId: 918
+message DungeonCandidateTeamLeaveRsp {
+    int32 retcode = 15;
+}
+

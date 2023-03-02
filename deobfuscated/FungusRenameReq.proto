@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DLDCPBMJOPO
+// CmdId: 20295
+message FungusRenameReq {
+    uint32 name_id = 9;
+    uint32 fungus_id = 4;
+}
+

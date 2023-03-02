@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OIEENDGMEIG
+// CmdId: 4716
+message HomeExchangeWoodReq {
+    map<uint32, uint32> material_count_map = 2;
+    uint32 wood_id = 12;
+}
+

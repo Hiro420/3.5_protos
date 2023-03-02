@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HMCHIEMDGNP
+enum WidgetCreatorOpType {
+    WIDGET_CREATOR_TYPE_NONE = 0;
+    WIDGET_CREATOR_TYPE_RETRACT = 1;
+    WIDGET_CREATOR_TYPE_RETRACT_AND_CREATE = 2;
+}
+

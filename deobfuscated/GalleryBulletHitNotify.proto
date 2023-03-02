@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DICLNBCEGHA
+// CmdId: 5559
+message GalleryBulletHitNotify {
+    uint32 gallery_id = 15;
+    uint32 hit_count = 8;
+}
+

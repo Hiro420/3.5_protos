@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BDEPGMGHKBF
+// CmdId: 20949
+message EffigyChallengeV2RestartDungeonReq {
+}
+

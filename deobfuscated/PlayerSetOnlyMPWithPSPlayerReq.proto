@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FAMNNOAEKLJ
+// CmdId: 1835
+message PlayerSetOnlyMPWithPSPlayerReq {
+    bool is_only = 11;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FBEKLANBDNA
+message CoinCollectTeamAvatarInfo {
+    uint32 costume_id = 4;
+    uint32 avatar_id = 5;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HNNLFEIANCA
+// CmdId: 4425
+message ScenePlayOwnerCheckReq {
+    bool is_skip_match = 7;
+    uint32 play_id = 10;
+}
+

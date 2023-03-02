@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PEPDKKBCLIL
+// CmdId: 22612
+message EffigyChallengeV2DungeonInfoNotify {
+    uint32 challenge_mode_difficulty = 1;
+    uint32 level_id = 6;
+    uint32 skill_no = 3;
+}
+

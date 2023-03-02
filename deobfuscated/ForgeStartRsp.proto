@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: INIMIDEBPCP
+// CmdId: 671
+message ForgeStartRsp {
+    int32 retcode = 11;
+}
+

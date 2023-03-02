@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FOGLKDIHDEL
+message TeamChainChooseAvatarInfo {
+    bool is_trial_avatar = 6;
+    uint32 avatar_id = 11;
+}
+

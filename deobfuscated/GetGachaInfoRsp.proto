@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GachaInfo.proto";
+
+// Name: JAKIOIAMJIJ
+// CmdId: 1575
+message GetGachaInfoRsp {
+    repeated GachaInfo gacha_info_list = 6;
+    int32 retcode = 13;
+    bool HNAFDALMKFN = 11;
+    bool HCCENOGKOOG = 1; 
+    uint32 dailyGachaTimes = 14; // PKCLGOCJPLN
+    uint32 gachaRandom  = 8; // OPHLINLNOEA
+}
+

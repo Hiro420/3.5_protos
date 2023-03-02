@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EIGKEEFPCKB
+// CmdId: 8947
+message EnterChessDungeonRsp {
+    int32 retcode = 7;
+    uint32 map_id = 6;
+}
+

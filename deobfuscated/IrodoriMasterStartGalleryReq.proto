@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IGENANOLEOL
+// CmdId: 8344
+message IrodoriMasterStartGalleryReq {
+    uint32 level_id = 11;
+    uint32 difficulty = 14;
+}
+

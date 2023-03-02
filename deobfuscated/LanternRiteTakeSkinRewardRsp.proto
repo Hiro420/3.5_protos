@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DKMOABMELAK
+// CmdId: 8356
+message LanternRiteTakeSkinRewardRsp {
+    int32 retcode = 1;
+}
+

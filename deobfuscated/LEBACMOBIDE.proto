@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KJMKJAIFNEC.proto";
+
+// Name: LEBACMOBIDE
+message LEBACMOBIDE {
+    repeated KJMKJAIFNEC FIAKFNFDPFP = 999;
+}
+

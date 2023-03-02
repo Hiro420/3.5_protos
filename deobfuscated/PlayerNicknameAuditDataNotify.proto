@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ContentAuditInfo.proto";
+
+// Name: BEHGMOHIKOM
+// CmdId: 200
+message PlayerNicknameAuditDataNotify {
+    ContentAuditInfo info = 9;
+}
+

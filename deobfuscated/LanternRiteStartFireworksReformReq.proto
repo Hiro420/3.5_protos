@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JGMPKEFCLBL
+// CmdId: 8865
+message LanternRiteStartFireworksReformReq {
+    uint32 challenge_id = 6;
+    uint32 stage_id = 8;
+}
+

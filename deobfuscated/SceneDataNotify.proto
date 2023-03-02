@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HGPFLODNOJD
+// CmdId: 3210
+message SceneDataNotify {
+    repeated string level_config_name_list = 11;
+    repeated uint32 scene_tag_id_list = 5;
+}
+

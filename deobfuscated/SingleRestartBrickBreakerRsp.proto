@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EINAAPKOFMD
+// CmdId: 20965
+message SingleRestartBrickBreakerRsp {
+    uint32 level_id = 7;
+    int32 retcode = 1;
+    bool is_dungeon = 9;
+}
+

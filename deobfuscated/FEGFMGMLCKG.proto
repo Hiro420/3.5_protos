@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "UgcMusicBriefInfo.proto";
+
+// Name: FEGFMGMLCKG
+// CmdId: 6326
+message FEGFMGMLCKG {
+    repeated UgcMusicBriefInfo JJMBELIDNLN = 1;
+    repeated UgcMusicBriefInfo OMGGIPLOILH = 12;
+}
+

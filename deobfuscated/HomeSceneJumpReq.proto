@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DGGGGCPKFNL
+// CmdId: 4665
+message HomeSceneJumpReq {
+    bool is_enter_room_scene = 9;
+}
+

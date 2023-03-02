@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ItemParam.proto";
+
+// Name: IKKNLIMAHOL
+message WinterCampAcceptItemResultInfo {
+    repeated ItemParam MGGPAJLJMDB = 14;
+    repeated ItemParam NIOHABCNACL = 8;
+    uint32 uid = 10;
+}
+

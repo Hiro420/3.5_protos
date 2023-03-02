@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FoundationOpType.proto";
+
+// Name: HHLPGAGCBPI
+// CmdId: 866
+message FoundationRsp {
+    FoundationOpType op_type = 12;
+    uint32 ODOEMLALIML = 10;
+    int32 retcode = 14;
+    uint32 AHBIFENKEPF = 15;
+    uint32 gadget_entity_id = 6;
+}
+

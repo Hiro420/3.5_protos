@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BMPGLNBONJG
+// CmdId: 8017
+message IrodoriMasterStartGalleryRsp {
+    int32 retcode = 15;
+}
+

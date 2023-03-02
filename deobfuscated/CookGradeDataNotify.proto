@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OBOFAJMJMGL
+// CmdId: 126
+message CookGradeDataNotify {
+    uint32 grade = 3;
+}
+

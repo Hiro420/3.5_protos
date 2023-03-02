@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GAPOAGCLGGA
+message VintageHuntingThirdStageSettleInfo {
+    bool is_success = 5;
+    uint32 left_time = 9;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OIHHOPPOEJA
+// CmdId: 21011
+message EnterFungusFighterTrainingDungeonReq {
+    uint32 dungeon_id = 4;
+}
+

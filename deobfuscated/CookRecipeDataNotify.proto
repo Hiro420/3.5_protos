@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CookRecipeData.proto";
+
+// Name: GAKFBBPCPHD
+// CmdId: 186
+message CookRecipeDataNotify {
+    CookRecipeData recipe_data = 6;
+}
+

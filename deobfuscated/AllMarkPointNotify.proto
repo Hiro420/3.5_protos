@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MapMarkPoint.proto";
+
+// Name: DLOIBNACJAM
+// CmdId: 3156
+message AllMarkPointNotify {
+    repeated MapMarkPoint mark_list = 14;
+}
+

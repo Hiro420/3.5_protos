@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CGJDJJLIADJ.proto";
+
+// Name: BHHECJHBCKK
+// CmdId: 7226
+message BHHECJHBCKK {
+    CGJDJJLIADJ JBBBNFLJCIH = 4;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PENJFODAGGI.proto";
+
+// Name: EMAGMDBBEJB
+message GCGMsgDiceReroll {
+    repeated PENJFODAGGI GGGHONFOAKP = 1;
+    repeated uint32 select_dice_index_list = 2;
+    uint32 controller_id = 13;
+}
+

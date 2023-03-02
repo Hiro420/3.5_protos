@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CBCLNFEFLAH
+// CmdId: 5381
+message BrickBreakerSelectAvatarReq {
+    repeated uint32 avatar_id = 15;
+}
+

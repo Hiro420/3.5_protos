@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PGINEKANCNG
+message HomeVerifyFurnitureData {
+    repeated uint32 type = 6;
+    uint32 num = 13;
+    uint32 id = 5;
+}
+

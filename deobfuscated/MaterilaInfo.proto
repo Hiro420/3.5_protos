@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KBJIEJFLEPA
+message MaterilaInfo {
+    uint32 count = 5;
+    uint64 guid = 7;
+}
+

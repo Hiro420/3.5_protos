@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MatchPlayerInfo.proto";
+
+// Name: GLNFLNCDLJD
+message GCGMatchInfo {
+    repeated MatchPlayerInfo player_list = 6;
+}
+

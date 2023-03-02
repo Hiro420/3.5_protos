@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EOBLLKBABJA
+// CmdId: 4870
+message HomeClearGroupRecordReq {
+    uint32 group_id = 15;
+}
+

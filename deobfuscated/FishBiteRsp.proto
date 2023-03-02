@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JOCPDFNKEHO
+// CmdId: 5831
+message FishBiteRsp {
+    int32 retcode = 11;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AGPDCOJBBGB
+// CmdId: 8338
+message GachaActivityUpdateElemNotify {
+    uint32 elem_type = 10;
+}
+

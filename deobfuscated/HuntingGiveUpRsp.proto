@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HuntingPair.proto";
+
+// Name: LLHELHHOCEJ
+// CmdId: 4302
+message HuntingGiveUpRsp {
+    int32 retcode = 12;
+    HuntingPair hunting_pair = 9;
+}
+

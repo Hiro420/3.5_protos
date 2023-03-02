@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FBDFLEFGHGN
+// CmdId: 8024
+message RogueFinishRepairRsp {
+    int32 retcode = 3;
+}
+

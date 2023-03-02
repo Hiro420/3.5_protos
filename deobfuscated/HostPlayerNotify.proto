@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PMNCOOCIDBM
+// CmdId: 354
+message HostPlayerNotify {
+    uint32 host_peer_id = 14;
+    uint32 host_uid = 2;
+}
+

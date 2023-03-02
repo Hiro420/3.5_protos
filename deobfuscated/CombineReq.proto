@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JGIODDMALOF
+// CmdId: 616
+message CombineReq {
+    uint64 avatar_guid = 13;
+    uint32 combine_id = 14;
+    uint32 combine_count = 10;
+}
+

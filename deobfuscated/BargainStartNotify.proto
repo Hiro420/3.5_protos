@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BargainSnapshot.proto";
+
+// Name: PPLOGNILEPJ
+// CmdId: 494
+message BargainStartNotify {
+    uint32 bargain_id = 8;
+    BargainSnapshot snapshot = 14;
+}
+

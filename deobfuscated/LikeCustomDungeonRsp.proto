@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LBEPLDOPIEN
+// CmdId: 6203
+message LikeCustomDungeonRsp {
+    int32 retcode = 9;
+}
+

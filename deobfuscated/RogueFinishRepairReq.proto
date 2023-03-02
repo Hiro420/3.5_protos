@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RogueDiaryAvatar.proto";
+
+// Name: EILFAEAPPLM
+// CmdId: 8749
+message RogueFinishRepairReq {
+    repeated RogueDiaryAvatar chosen_avatar_list = 2;
+    repeated uint32 chosen_card_list = 12;
+}
+

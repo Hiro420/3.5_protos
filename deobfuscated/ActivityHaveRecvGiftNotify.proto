@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EDENPNNADMI
+// CmdId: 8350
+message ActivityHaveRecvGiftNotify {
+    uint32 schedule_id = 7;
+}
+

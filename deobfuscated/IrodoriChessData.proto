@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IrodoriChessLevelData.proto";
+
+// Name: OMPILHJCDDM
+message IrodoriChessData {
+    repeated IrodoriChessLevelData level_data_list = 14;
+    bool is_open = 3;
+}
+

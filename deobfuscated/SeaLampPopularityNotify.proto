@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PPMLILPAMKP
+// CmdId: 2087
+message SeaLampPopularityNotify {
+    uint32 popularity = 10;
+}
+

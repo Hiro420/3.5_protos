@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MHJENPDPMMP
+message HomeBlueprintSearchInfo {
+    uint32 module_id = 6;
+    uint32 block_id = 9;
+    uint32 scene_id = 2;
+    string share_code = 15;
+}
+

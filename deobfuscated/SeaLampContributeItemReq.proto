@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ItemParam.proto";
+
+// Name: BLGLCOLCEPL
+// CmdId: 2119
+message SeaLampContributeItemReq {
+    repeated ItemParam item_list = 1;
+    uint32 activity_id = 3;
+}
+

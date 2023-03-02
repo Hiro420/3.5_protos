@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JEAMOBGHLEL
+// CmdId: 2146
+message LoadActivityTerrainNotify {
+    uint32 activity_id = 13;
+}
+

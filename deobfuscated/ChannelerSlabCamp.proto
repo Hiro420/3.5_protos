@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: KIAFPEPPCEL
+message ChannelerSlabCamp {
+    uint32 reward_id = 6;
+    uint32 buff_num = 14;
+    uint32 group_id = 11;
+    Vector pos = 4;
+}
+

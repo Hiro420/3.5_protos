@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JCDONBNMJNG
+// CmdId: 23249
+message CoinCollectCheckDoubleStartPlayRsp {
+    int32 retcode = 5;
+    uint32 level_id = 3;
+}
+

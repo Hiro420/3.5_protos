@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KAGKJLIIEME
+// CmdId: 6011
+message LaunchFireworksRsp {
+    int32 retcode = 15;
+}
+

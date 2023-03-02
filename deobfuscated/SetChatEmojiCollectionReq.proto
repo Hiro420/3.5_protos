@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ChatEmojiCollectionData.proto";
+
+// Name: COHNKHJHMNA
+// CmdId: 4098
+message SetChatEmojiCollectionReq {
+    ChatEmojiCollectionData chat_emoji_collection_data = 13;
+}
+

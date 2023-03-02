@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JJOOJEHEFDC.proto";
+
+// Name: EJDDAFOGCEF
+message EJDDAFOGCEF {
+    repeated JJOOJEHEFDC level_info_list = 8;
+}
+

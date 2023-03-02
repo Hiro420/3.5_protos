@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JJGODOPCBHD
+// CmdId: 8493
+message UpgradeRoguelikeShikigamiRsp {
+    uint32 CAGAJANMNOP = 15;
+    uint32 cur_level = 14;
+    int32 retcode = 1;
+}
+

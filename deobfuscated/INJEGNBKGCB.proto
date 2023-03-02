@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BreakoutAction.proto";
+
+// Name: INJEGNBKGCB
+message INJEGNBKGCB {
+    BreakoutAction NOAJNAPDEMN = 14;
+}
+

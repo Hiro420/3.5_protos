@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AJKKNJIKCJA
+enum AJKKNJIKCJA {
+    AJKKNJIKCJA_LDHDOKHDOEK = 0;
+    AJKKNJIKCJA_CFPKGKDFOFK = 1;
+    AJKKNJIKCJA_GJEHMJNAFAN = 2;
+    AJKKNJIKCJA_EKPDPBFLHOD = 3;
+}
+

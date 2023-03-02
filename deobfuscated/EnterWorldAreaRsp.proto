@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: APCIFCLECNJ
+// CmdId: 216
+message EnterWorldAreaRsp {
+    uint32 area_type = 1;
+    int32 retcode = 2;
+    uint32 area_id = 7;
+}
+

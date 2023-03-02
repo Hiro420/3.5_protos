@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EFPEMEDCCEE
+// CmdId: 8413
+message HideAndSeekChooseMapRsp {
+    int32 retcode = 1;
+    repeated uint32 map_list = 5;
+}
+

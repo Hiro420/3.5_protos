@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PGNCAPGIGEI
+// CmdId: 21442
+message DuelHeartEnterDungeonRsp {
+    int32 retcode = 11;
+}
+

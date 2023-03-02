@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGClientPerformType.proto";
+
+// Name: DIGAEAGCDDK
+message GCGMsgClientPerform {
+    GCGClientPerformType perform_type = 3;
+    repeated uint32 param_list = 5;
+}
+

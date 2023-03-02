@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FurnitureMakeSlot.proto";
+import "ItemParam.proto";
+
+// Name: ACOKGGPOACP
+// CmdId: 4630
+message TakeFurnitureMakeRsp {
+    repeated ItemParam OutputItemList = 11; // PODPGGGOFGP
+    repeated ItemParam CBLILOJFLPO = 14; // CBLILOJFLPO
+    FurnitureMakeSlot furniture_make_slot = 12;
+    uint32 make_id = 10;
+    int32 retcode = 8;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GNNGDDLNMPK
+// CmdId: 21212
+message RestartCoinCollectPlaySingleModeRsp {
+    uint32 level_id = 8;
+    int32 retcode = 4;
+}
+

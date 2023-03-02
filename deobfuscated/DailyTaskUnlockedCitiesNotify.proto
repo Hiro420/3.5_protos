@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ICNBAPCCAKO
+// CmdId: 180
+message DailyTaskUnlockedCitiesNotify {
+    repeated uint32 unlocked_city_list = 7;
+}
+

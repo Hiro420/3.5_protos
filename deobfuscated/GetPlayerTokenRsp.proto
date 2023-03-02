@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "StopServerInfo.proto";
+
+// Name: IDKFAIPPJEI
+// CmdId: 175
+message GetPlayerTokenRsp {
+    uint32 uid = 15;
+    bool BMOLHAGDMHP = 1113;
+    uint32 tag = 1419;
+    bytes security_cmd_buffer = 9;
+    string token = 1;
+    string client_version_random_key = 185;
+    string country_code = 1406;
+    uint32 gm_uid = 14;
+    uint32 key_id = 687;
+    repeated uint32 finish_collection_id_list = 184;
+    uint64 secret_key_seed = 8;
+    uint32 sub_channel_id = 11;
+    uint32 channel_id = 1757;
+    bool is_guest = 2;
+    uint32 account_type = 207;
+    string sign = 531;
+    bool IPMOMIJILHF = 723;
+    string psn_id = 445;
+    uint32 platform_type = 6;
+    string server_rand_key = 1937;
+    bytes extra_bin_data = 4;
+    string msg = 13;
+    bool is_proficient_player = 10;
+    int32 retcode = 5;
+    string secret_key = 7;
+    string account_uid = 3;
+    uint32 cloudClientIp = 1043; //BGELCCHCJDG
+    uint32 blackUidEndTime = 12; // LBCGKJHALNG
+    string client_ip_str = 1563;
+    uint32 reg_platform = 751;
+    string birthday = 1398;
+    StopServerInfo stop_server = 628;
+}
+
