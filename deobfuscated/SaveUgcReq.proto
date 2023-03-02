@@ -11,7 +11,7 @@ import "UgcType.proto";
 message SaveUgcReq {
     UgcType ugc_type = 13;
     uint32 schedule_id = 2;
-    oneof HIKDHNPCMFD {
+    oneof record {
         UgcMusicRecord music_record = 11;
     }
     oneof brief {

@@ -10,7 +10,7 @@ message AvatarSkillChangeNotify {
     uint64 avatar_guid = 9;
     uint32 entity_id = 8;
     uint32 old_level = 3;
-    uint32 OCEFCGKBPPE = 14;
+    uint32 avatar_skill_id = 14;
     uint32 skill_depot_id = 4;
 }
 

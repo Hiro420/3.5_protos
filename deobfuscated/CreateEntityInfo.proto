@@ -19,7 +19,7 @@ message CreateEntityInfo {
         uint32 gadget_id = 3;
         uint32 item_id = 4;
     }
-    oneof MGPBKHBAPPH {
+    oneof entity_create_info {
         CreateGadgetInfo gadget = 13;
     }
 }
