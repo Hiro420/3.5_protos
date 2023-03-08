@@ -6,10 +6,9 @@ option java_package = "emu.grasscutter.net.proto";
 // Name: KBMLDGNEKHA
 // CmdId: 1554
 message DoGachaReq {
-    uint32 PKCLGOCJPLN = 3;
-    uint32 DGIFMDIADJF = 6;
-    uint32 NMKGGDOKHLF = 12;
-    uint32 HKJAAPBGNEI = 5;
+    uint32 gachaRandom = 3; //PKCLGOCJPLN ++ CORRECT
+    uint32 gachaType = 6; //DGIFMDIADJF ++ CORRECT
+    uint32 gachaScheduleId = 12; //NMKGGDOKHLF
+    uint32 gachaTimes = 5; //HKJAAPBGNEI ++ CORRECT
     string gacha_tag = 14;
 }
-

@@ -2,7 +2,7 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "HLDDAIOAHPB.proto";
+import "ChapterState.proto";
 
 // Name: EGGHDNJDFIM
 // CmdId: 427

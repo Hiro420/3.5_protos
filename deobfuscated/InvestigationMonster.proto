@@ -14,9 +14,9 @@ message InvestigationMonster {
     }
 
     uint32 max_boss_chest_num = 13; //HFEFHDCOMLB
-    bool is_alive = 14; // MFGIMDGKDHH
+    bool is_area_locked = 14; // MFGIMDGKDHH
     uint32 NKADJMFOMGB = 3;
-    bool is_area_locked = 11; // ABCENJAFGOF
+    bool is_alive = 11; // ABCENJAFGOF
     WeeklyBossResinDiscountInfo weekly_boss_resin_discount_info = 9;
     uint32 next_refresh_time = 8;
     uint32 group_id = 1206;

@@ -2,8 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "CPBMIAMDLPE.proto";
-import "GFDBMHNEOFL.proto";
+import "ChangeEnergyReason.proto";
+import "ChangeHpReason.proto";
 import "PropChangeReason.proto";
 
 // Name: CGLFHNCCBKJ
@@ -11,8 +11,8 @@ import "PropChangeReason.proto";
 message EntityFightPropChangeReasonNotify {
     repeated uint32 param_list = 12;
     uint32 prop_type = 9;
-    CPBMIAMDLPE FHLNGJNGPNN = 14;
-    GFDBMHNEOFL KAKKINHPKPN = 10;
+    ChangeEnergyReason changeEnergyReason = 14;
+    ChangeHpReason changeHpReason = 10;
     PropChangeReason reason = 11;
     float prop_delta = 15;
     uint32 entity_id = 6;

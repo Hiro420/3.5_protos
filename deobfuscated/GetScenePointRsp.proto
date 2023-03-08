@@ -10,12 +10,12 @@ message GetScenePointRsp {
     repeated uint32 toBeExploreDungeonEntryList = 13; //FKDLJELPPOJ
     int32 retcode = 2;
     repeated uint32 hide_point_list = 12;
-    repeated uint32 unhide_point_list = 7; //LLLIACPHNEH
+    repeated uint32 locked_point_list = 7; //LLLIACPHNEH
     uint32 belong_uid = 8;
-    repeated uint32 unlockAreaList = 11; //KBGDANIJLFK
-    repeated uint32 notExploredDungeonEntryList = 14; //LEAMLBEEBMN
+    repeated uint32 notExploredDungeonEntryList = 11; //KBGDANIJLFK
+    repeated uint32 unlockAreaList = 14; //LEAMLBEEBMN
     bool PGBKOMBKBKG = 5; // new field
-    repeated uint32 locked_point_list = 10; //JOMDNANCHND
+    repeated uint32 unhide_point_list = 10; //JOMDNANCHND
     repeated uint32 groupUnlimitPointList = 15; //HJLALADBFAC
     uint32 scene_id = 6;
     repeated uint32 unlocked_point_list = 4;

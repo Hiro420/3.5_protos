@@ -11,7 +11,7 @@ message GetGachaInfoRsp {
     int32 retcode = 13;
     bool HNAFDALMKFN = 11;
     bool HCCENOGKOOG = 1; 
-    uint32 dailyGachaTimes = 14; // PKCLGOCJPLN
-    uint32 gachaRandom  = 8; // OPHLINLNOEA
+    uint32 gachaRandom = 14; // PKCLGOCJPLN
+    uint32 dailyGachaTimes  = 8; // OPHLINLNOEA
 }
 
