@@ -2,7 +2,7 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "AOHEFFCPELI.proto";
+import "GCGMsgOpTimer.proto";
 import "GCGMsgAddCards.proto";
 import "GCGMsgAddDice.proto";
 import "GCGMsgCardUpdate.proto";
@@ -34,14 +34,14 @@ import "GCGMsgTokenChange.proto";
 import "GCGMsgUseSkill.proto";
 import "GCGMsgUseSkillEnd.proto";
 import "GCGMsgWaitingListChange.proto";
-import "GIHCLFFDKLE.proto";
-import "LNDLOPKJALI.proto";
+import "GCGMsgUpdateController.proto";
+import "GCGMsgPhaseChange.proto";
 
 // Name: NDDAOOGOECF
 message GCGMessage {
     oneof message {
         GCGMsgTokenChange token_change = 6;
-        LNDLOPKJALI phase_change = 2;
+        GCGMsgPhaseChange phase_change = 2;
         GCGMsgAddCards add_cards = 14;
         GCGMsgRemoveCards remove_cards = 10;
         GCGMsgSelectOnStage select_on_stage = 8;
@@ -55,14 +55,14 @@ message GCGMessage {
         GCGMsgMoveCard move_card = 12;
         GCGMsgUseSkill use_skill = 7;
         GCGMsgNewCard new_card = 1698;
-        GIHCLFFDKLE update_controller = 2016;
+        GCGMsgUpdateController update_controller = 2016;
         GCGMsgModifyAdd modify_add = 555;
         GCGMsgModifyRemove modify_remove = 1901;
         GCGMsgUseSkillEnd use_skill_end = 1067;
         GCGMsgDuelDataChange duel_data_change = 686;
         GCGMsgClientPerform client_perform = 1743;
         GCGMsgGameOver game_over = 1766;
-        AOHEFFCPELI op_timer = 167;
+        GCGMsgOpTimer op_timer = 167;
         GCGMsgWaitingListChange waiting_list_change = 891;
         GCGMsgCardUpdate card_update = 1549;
         GCGMsgSelectOnStageByEffect select_on_stage_by_effect = 1093;

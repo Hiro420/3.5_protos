@@ -2,12 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "NIHOOOAICMD.proto";
+import "GCGMessagePack.proto";
 
 // Name: AOMHEMBIHNE
 // CmdId: 7271
 message AOMHEMBIHNE {
     uint32 HCKIILHKKBE = 8;
-    repeated NIHOOOAICMD ABBIFONKPDJ = 1;
+    repeated GCGMessagePack ABBIFONKPDJ = 1;
 }
 

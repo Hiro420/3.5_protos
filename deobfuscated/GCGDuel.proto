@@ -2,8 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "AHGODAFKPIM.proto";
-import "EIDMNOJMFIF.proto";
+import "GCGPlayerField.proto";
+import "GCGPhase.proto";
 import "FMOEOCJBOPN.proto";
 import "GCGCard.proto";
 import "GCGCostReviseInfo.proto";
@@ -11,20 +11,20 @@ import "GCGDuelChallenge.proto";
 import "GPCKNDGKBBD.proto";
 import "HHKFLCHIBJJ.proto";
 import "MNNNHOOHGHF.proto";
-import "NIHOOOAICMD.proto";
+import "GCGMessagePack.proto";
 
 // Name: HHACKKBLLHO
-message HHACKKBLLHO {
+message GCGDuel {
     uint32 HCKIILHKKBE = 15;
     repeated HHKFLCHIBJJ FLECBBNJDOB = 8;
     uint32 DELFEGPPGMK = 6;
     repeated GCGDuelChallenge challenge_list = 1778;
-    EIDMNOJMFIF JFFMMIKBICI = 11;
+    GCGPhase JFFMMIKBICI = 11;
     repeated MNNNHOOHGHF CBNFENJBKKE = 1;
-    repeated GCGCard AAOFBGCFKGN = 301;
-    repeated AHGODAFKPIM field_list = 9;
+    repeated GCGCard history_card_list = 301;
+    repeated GCGPlayerField field_list = 9;
     uint32 OAEDGPFFFIB = 4;
-    repeated NIHOOOAICMD KBPJNIFEAHN = 924;
+    repeated GCGMessagePack history_msg_pack_list = 924;
     repeated GCGCard card_list = 2;
     repeated uint32 ECNNODOGJIA = 5;
     repeated GPCKNDGKBBD FJFPKAGBFPE = 345;

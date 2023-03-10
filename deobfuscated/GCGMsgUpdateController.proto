@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "Uint32Pair.proto";
 
 // Name: GIHCLFFDKLE
-message GIHCLFFDKLE {
-    repeated Uint32Pair PAAKNMDNEGJ = 5;
+message GCGMsgUpdateController {
+    repeated Uint32Pair allow_controller_map = 5;
 }
 

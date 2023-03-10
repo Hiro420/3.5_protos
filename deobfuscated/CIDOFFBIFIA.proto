@@ -2,7 +2,7 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "HHACKKBLLHO.proto";
+import "GCGDuel.proto";
 
 // Name: CIDOFFBIFIA
 message CIDOFFBIFIA {
@@ -10,7 +10,7 @@ message CIDOFFBIFIA {
     uint32 JCMACGJEEAD = 3;
     oneof detail {
         string BDBMFCIHJPL = 12;
-        HHACKKBLLHO IEOMECODBLG = 7;
+        GCGDuel IEOMECODBLG = 7;
     }
 }
 

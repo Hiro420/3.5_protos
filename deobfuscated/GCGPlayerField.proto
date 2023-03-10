@@ -3,12 +3,12 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "AEEKABMMKNE.proto";
-import "DIGLBMAEMML.proto";
+import "GCGZone.proto";
 import "HHKFLCHIBJJ.proto";
 import "GCGDiceSideType.proto";
 
 // Name: AHGODAFKPIM
-message AHGODAFKPIM {
+message GCGPlayerField {
     uint32 ONKDMOMNGBG = 824;
     repeated GCGDiceSideType dice_side_list = 1;
     uint32 IGMNOEBOCJP = 3;
@@ -18,12 +18,12 @@ message AHGODAFKPIM {
     uint32 AJFMMFEEDFF = 14;
     uint32 IAEJLGAILAK = 2;
     uint32 AGPFPMEDGKI = 9;
-    DIGLBMAEMML KOIGNIFNCMI = 7;
-    DIGLBMAEMML HBCOFFFLNAI = 5;
-    DIGLBMAEMML JLPLPDNEFJA = 15;
-    DIGLBMAEMML DIFHGPIAFNK = 13;
-    map<uint32, DIGLBMAEMML> JFAINLBMGJP = 8;
-    DIGLBMAEMML CGBIBGGMGEF = 11;
+    GCGZone KOIGNIFNCMI = 7;
+    GCGZone HBCOFFFLNAI = 5;
+    GCGZone JLPLPDNEFJA = 15;
+    GCGZone DIFHGPIAFNK = 13;
+    map<uint32, GCGZone> modify_zone_map = 8;
+    GCGZone CGBIBGGMGEF = 11;
     uint32 controller_id = 4;
     uint32 NKNMAGGJMFP = 6;
 }

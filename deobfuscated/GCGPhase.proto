@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGPhaseType.proto";
+
+// Name: EIDMNOJMFIF
+message GCGPhase {
+    map<uint32, uint32> allow_controller_map = 10;
+    GCGPhaseType phase_type = 8;
+}
+

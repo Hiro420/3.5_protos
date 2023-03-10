@@ -4,7 +4,7 @@ option java_package = "emu.grasscutter.net.proto";
 
 
 // Name: DIGLBMAEMML
-message DIGLBMAEMML {
+message GCGZone {
     repeated uint32 card_list = 9;
 }
 

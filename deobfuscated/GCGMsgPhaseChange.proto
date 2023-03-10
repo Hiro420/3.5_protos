@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGPhaseType.proto";
+import "Uint32Pair.proto";
+
+// Name: LNDLOPKJALI
+message GCGMsgPhaseChange {
+    GCGPhaseType NKIMJKMFBDD = 3;
+    GCGPhaseType KGEFLIIHKBP = 2;
+    repeated Uint32Pair allow_controller_map = 4;
+}
+

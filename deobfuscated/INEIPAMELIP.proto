@@ -2,12 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "HHACKKBLLHO.proto";
+import "GCGDuel.proto";
 
 // Name: INEIPAMELIP
 // CmdId: 7287
 message INEIPAMELIP {
-    HHACKKBLLHO IEOMECODBLG = 4;
+    GCGDuel IEOMECODBLG = 4;
     int32 retcode = 13;
 }
 

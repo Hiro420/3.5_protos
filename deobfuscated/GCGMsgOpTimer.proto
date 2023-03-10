@@ -2,13 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "DOINBFHLBHP.proto";
+import "GCGPhaseType.proto";
 
 // Name: AOHEFFCPELI
-message AOHEFFCPELI {
+message GCGMsgOpTimer {
     uint32 controller_id = 11;
     uint64 begin_time = 5;
-    uint64 OAKPHGNDJLO = 12;
-    DOINBFHLBHP JFFMMIKBICI = 14;
+    uint64 time_stamp = 12;
+    GCGPhaseType phase = 14;
 }
 

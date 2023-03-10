@@ -7,6 +7,6 @@ option java_package = "emu.grasscutter.net.proto";
 message GPCKNDGKBBD {
     uint64 begin_time = 8;
     uint32 controller_id = 14;
-    uint64 OAKPHGNDJLO = 9;
+    uint64 time_stamp = 9;
 }
 
