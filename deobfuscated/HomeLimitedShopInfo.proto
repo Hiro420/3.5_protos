@@ -8,9 +8,8 @@ import "Vector.proto";
 message HomeLimitedShopInfo {
     uint32 CLCPIJBAOEA = 12;
     uint32 PGENOLMDFEM = 11;
-    Vector CKJKPEEKOGG = 1;
+    Vector djinn_pos = 1; //CKJKPEEKOGG
     uint32 NIDABDPMHHF = 6;
     uint32 uid = 14;
-    Vector GMPJFCODOLK = 9;
+    Vector djinn_rot = 9; //GMPJFCODOLK
 }
-

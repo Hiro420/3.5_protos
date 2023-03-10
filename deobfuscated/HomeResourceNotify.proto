@@ -2,12 +2,11 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "FHCMHOPJELB.proto";
+import "HomeResource.proto";
 
 // Name: PEPNHFLKBLG
 // CmdId: 4753
 message HomeResourceNotify {
-    FHCMHOPJELB DPCGMOMFNCD = 5;
-    FHCMHOPJELB ONMIIOIPGAI = 14;
+    HomeResource fetter_exp = 5; //DPCGMOMFNCD
+    HomeResource home_coin = 14; //ONMIIOIPGAI
 }
-

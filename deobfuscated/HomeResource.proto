@@ -2,11 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-
 // Name: FHCMHOPJELB
-message FHCMHOPJELB {
+message HomeResource {
     uint32 next_refresh_time = 1;
-    uint32 MEKKKFKHOPD = 14;
-    uint32 JECDNACMJKP = 3;
+    uint32 store_limit = 14; //MEKKKFKHOPD
+    uint32 store_value = 3; //JECDNACMJKP
 }
-

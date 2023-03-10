@@ -8,11 +8,11 @@ import "HomeLimitedShopInfo.proto";
 message HomeBasicInfo {
     uint32 level = 14;
     uint64 exp = 8;
-    uint32 FBNCMGADPOF = 3;
+    uint32 cur_module_id = 3; //FBNCMGADPOF
     string owner_nick_name = 7;
-    uint32 PGOLLEEPPFI = 2;
+    uint32 cur_room_scene_id = 2; //PGOLLEEPPFI
     HomeLimitedShopInfo limited_shop_info = 5;
-    uint32 PGOONNIGDEH = 6;
+    uint32 home_owner_uid = 6; //PGOONNIGDEH
     bool is_in_edit_mode = 9;
 }
 

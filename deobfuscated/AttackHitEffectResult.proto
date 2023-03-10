@@ -2,9 +2,8 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-
 // Name: KPDGACKMNJA
-message KPDGACKMNJA {
+message AttackHitEffectResult {
     float OGEJIAIJMDB = 14;
     float AKLACKOIKOE = 7;
     uint32 NCIHLNFLAAF = 10;
@@ -12,4 +11,3 @@ message KPDGACKMNJA {
     float JLEGJBGOHHP = 2;
     uint32 LDDDDFHEMBA = 3;
 }
-

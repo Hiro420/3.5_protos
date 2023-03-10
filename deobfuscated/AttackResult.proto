@@ -3,8 +3,8 @@ syntax = "proto3";
 option java_package = "emu.grasscutter.net.proto";
 
 import "AbilityIdentifier.proto";
-import "CPAKHCFDGLO.proto";
-import "KPDGACKMNJA.proto";
+import "HitCollision.proto";
+import "AttackHitEffectResult.proto";
 import "Vector.proto";
 
 // Name: PKHKLDLFMBJ
@@ -22,7 +22,7 @@ message AttackResult {
     float GCKKIKJLCKG = 1030;
     uint32 GFAODFMIIIB = 278;
     float AEIPHPGEFAN = 474;
-    KPDGACKMNJA BFGNKLMFGKB = 10;
+    AttackHitEffectResult hit_eff_result = 10;
     uint32 IPPPOLACNMI = 13;
     bool ANNLKCIDPEC = 1534;
     uint32 attacker_id = 2;
@@ -30,7 +30,7 @@ message AttackResult {
     bool JKJBOKBIIBI = 196;
     string anim_event_id = 5;
     Vector resolved_dir = 15;
-    CPAKHCFDGLO BBFFCPJKNOP = 7;
+    HitCollision hit_collision = 7;
     uint32 BIHIHLDIPOK = 6;
     uint32 element_type = 4;
     uint32 OOLJHPBLPDL = 352;

@@ -2,12 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "FHCMHOPJELB.proto";
+import "HomeResource.proto";
 
 // Name: KHPGKFLMLEE
 // CmdId: 4554
 message HomeResourceTakeHomeCoinRsp {
     int32 retcode = 3;
-    FHCMHOPJELB ONMIIOIPGAI = 9;
+    HomeResource home_coin = 9;
 }
 
