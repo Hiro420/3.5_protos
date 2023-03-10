@@ -9,9 +9,9 @@ import "Uint32Pair.proto";
 message ActivityCondStateChangeNotify {
     uint32 activity_id = 10;
     repeated Uint32Pair disable_transfer_point_interaction_list = 7;
-    repeated uint32 PAGIONJOCJN = 13;
+    repeated uint32 meet_cond_list = 13; //PAGIONJOCJN
     repeated uint32 activated_sale_id_list = 6;
-    repeated uint32 LGCJBENHFOB = 9;
+    repeated uint32 expire_cond_list = 9; //LGCJBENHFOB
     uint32 schedule_id = 12;
 }
 

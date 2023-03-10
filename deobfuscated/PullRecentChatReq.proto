@@ -6,7 +6,7 @@ option java_package = "emu.grasscutter.net.proto";
 // Name: MNJBPJGKHLJ
 // CmdId: 5032
 message PullRecentChatReq {
-    uint32 GODLNLIJKDE = 15;
-    uint32 JBKDCKFOAGH = 8;
+    uint32 begin_sequence = 15; //GODLNLIJKDE
+    uint32 pull_num = 8; //JBKDCKFOAGH
 }
 

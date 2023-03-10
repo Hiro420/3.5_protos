@@ -6,8 +6,7 @@ option java_package = "emu.grasscutter.net.proto";
 // Name: APPHCCAKOKB
 // CmdId: 466
 message QuestProgressUpdateNotify {
-    repeated uint32 DOFGANFLADG = 7;
-    repeated uint32 NAJLNEMFEGA = 2;
+    repeated uint32 finish_progress_list = 7; //DOFGANFLADG
+    repeated uint32 fail_progress_list = 2; //NAJLNEMFEGA
     uint32 quest_id = 3;
 }
-

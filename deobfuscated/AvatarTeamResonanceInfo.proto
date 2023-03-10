@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 // Name: LLKMMEJJNNF
 message AvatarTeamResonanceInfo {
-    repeated uint32 INOIJMMCNEF = 8;
+    repeated uint32 add_team_resonance_id_list = 8; //INOIJMMCNEF
     uint32 entity_id = 2;
-    repeated uint32 MJMEKGPPGIO = 10;
+    repeated uint32 del_team_resonance_id_list = 10; //MJMEKGPPGIO
     uint64 avatar_guid = 3;
 }
 

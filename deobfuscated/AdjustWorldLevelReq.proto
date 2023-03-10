@@ -9,4 +9,3 @@ message AdjustWorldLevelReq {
     uint32 GKPAJDAOHDN = 10;
     uint32 HFANGCIKHFI = 6;
 }
-

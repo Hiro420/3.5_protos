@@ -82,13 +82,13 @@ message ActivityInfo {
     bool FLFGIDFALEK = 15;
     uint32 LPOCNCICJHM = 485;
     map<uint32, uint32> activity_coin_map = 703;
-    repeated uint32 PAGIONJOCJN = 2;
+    repeated uint32 meet_cond_list = 2; //PAGIONJOCJN
     uint32 end_time = 4;
     bool GLOONPBGOHM = 1331;
     repeated ActivityPushTipsData activity_push_tips_data_list = 1827;
-    repeated uint32 meet_cond_list = 13; // LGCJBENHFOB
+    repeated uint32 expire_cond_list = 13; // LGCJBENHFOB
     bool is_finished = 6;
-    repeated uint32 EOPFKDBBOII = 894;
+    repeated uint32 taken_reward_list = 894; //EOPFKDBBOII
     repeated ActivityWatcherInfo watcher_info_list = 8;
     uint32 activity_type = 5; // KMOFHMKLGHD
     uint32 activity_id = 7;
