@@ -2,12 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "DKDAOPDHNED.proto";
-import "GKPCNMJKNBG.proto";
+import "TowerMonthlyBrief.proto";
+import "TowerMonthlyCombatRecord.proto";
 
 // Name: MBJAKBMCIDD
 message TowerMonthlyDetail {
-    DKDAOPDHNED GPCJOCOKPCL = 3;
-    GKPCNMJKNBG PLABCAJDHND = 2;
+    TowerMonthlyBrief monthly_brief = 3;
+    TowerMonthlyCombatRecord monthly_combat_record = 2;
 }
 

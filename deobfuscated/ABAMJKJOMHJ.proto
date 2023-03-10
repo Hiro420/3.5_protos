@@ -2,12 +2,12 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "PENJFODAGGI.proto";
+import "GCGDiceSideType.proto";
 
 // Name: ABAMJKJOMHJ
 // CmdId: 7765
 message ABAMJKJOMHJ {
     repeated uint32 MFJPHFOJKEF = 8;
-    repeated PENJFODAGGI GGGHONFOAKP = 13;
+    repeated GCGDiceSideType dice_side_list = 13;
 }
 

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: TowerMonthlyBrief
+message TowerMonthlyBrief {
+    uint32 tower_schedule_id = 11; //IOOHBFIGKHH
+    uint32 total_star_count = 12; //BNODKLKHBPA
+    uint32 best_level_index = 14; //JILIANEOBAP
+    uint32 best_floor_index = 10; //GIMMDPJPPNH
+}
+

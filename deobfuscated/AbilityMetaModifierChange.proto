@@ -4,21 +4,20 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "AbilityAttachedModifier.proto";
 import "AbilityString.proto";
-import "HBMJGKJKIGL.proto";
+import "ModifierProperty.proto";
 import "ModifierAction.proto";
 
 // Name: IPPNBIDINLA
 message AbilityMetaModifierChange {
-    bool EHNDJAIGJGL = 8;
+    bool isAttachedParentAbility = 8;
     int32 modifier_local_id = 11;
-    repeated HBMJGKJKIGL JONDGNPJAFA = 4;
+    repeated ModifierProperty properties = 4;
     uint32 apply_entity_id = 3;
     AbilityAttachedModifier attached_instanced_modifier = 1;
     ModifierAction action = 9; // NOAJNAPDEMN
-    bool is_attached_parent_ability = 15;
+    bool is_durability_zero = 15;
     AbilityString parent_ability_name = 6;
-    bool AODBABIFPHH = 2;
+    bool is_mute_remote = 2;
     AbilityString parent_ability_override = 12;
     uint32 server_buff_uid = 13;
 }
-

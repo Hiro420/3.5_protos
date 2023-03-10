@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PENJFODAGGI
+enum GCGDiceSideType {
+  GCG_DICE_SIDE_TYPE_INVALID = 0;
+  GCG_DICE_SIDE_TYPE_CRYO = 1;
+  GCG_DICE_SIDE_TYPE_HYDRO = 2;
+  GCG_DICE_SIDE_TYPE_PYRO = 3;
+  GCG_DICE_SIDE_TYPE_ELECTRO = 4;
+  GCG_DICE_SIDE_TYPE_GEO = 5;
+  GCG_DICE_SIDE_TYPE_DENDRO = 6;
+  GCG_DICE_SIDE_TYPE_ANEMO = 7;
+  GCG_DICE_SIDE_TYPE_PAIMON = 8;
+}
+

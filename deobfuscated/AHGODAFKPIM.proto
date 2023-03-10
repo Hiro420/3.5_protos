@@ -5,12 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 import "AEEKABMMKNE.proto";
 import "DIGLBMAEMML.proto";
 import "HHKFLCHIBJJ.proto";
-import "PENJFODAGGI.proto";
+import "GCGDiceSideType.proto";
 
 // Name: AHGODAFKPIM
 message AHGODAFKPIM {
     uint32 ONKDMOMNGBG = 824;
-    repeated PENJFODAGGI GGGHONFOAKP = 1;
+    repeated GCGDiceSideType dice_side_list = 1;
     uint32 IGMNOEBOCJP = 3;
     repeated HHKFLCHIBJJ AICAJEFEHLF = 1540;
     repeated AEEKABMMKNE PLPMEJFNDKA = 12;

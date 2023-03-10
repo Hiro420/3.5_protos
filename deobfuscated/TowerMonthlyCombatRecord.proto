@@ -5,11 +5,11 @@ option java_package = "emu.grasscutter.net.proto";
 import "TowerFightRecordPair.proto";
 
 // Name: GKPCNMJKNBG
-message GKPCNMJKNBG {
+message TowerMonthlyCombatRecord {
     TowerFightRecordPair KFFEALHCIJC = 12;
     TowerFightRecordPair NDAHNFFJDPL = 5;
     TowerFightRecordPair LNHEKFHKMII = 8;
-    repeated TowerFightRecordPair OOGCKBPCGJO = 10;
+    repeated TowerFightRecordPair most_reveal_avatar_list = 10;
     TowerFightRecordPair FKHAPDOIMPL = 13;
     TowerFightRecordPair BJGKHPECJAE = 1;
 }

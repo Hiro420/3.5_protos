@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "AbilityString.proto";
 
 // Name: HBMJGKJKIGL
-message HBMJGKJKIGL {
+message ModifierProperty {
     float value = 9;
     AbilityString key = 8;
 }
