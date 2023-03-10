@@ -7,8 +7,8 @@ import "DungeonEntryInfo.proto";
 // Name: ILBGCAPNDLF
 message DailyDungeonEntryInfo {
     uint32 recommend_dungeon_id = 3;
-    uint32 GGGEMNHNCNJ = 1;
-    uint32 MNDEGGLANGF = 14;
+    uint32 dungeon_entry_config_id = 1; //GGGEMNHNCNJ
+    uint32 dungeon_entry_id = 14; //MNDEGGLANGF
     DungeonEntryInfo recommend_dungeon_entry_info = 7;
 }
 
