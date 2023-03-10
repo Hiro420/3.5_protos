@@ -7,14 +7,14 @@ option java_package = "emu.grasscutter.net.proto";
 // CmdId: 4592
 message GetHomeExchangeWoodInfoRsp {
     // Name: LHNJKLLKOAI
-    message LHNJKLLKOAI {
-        uint32 KHGAODFOGNM = 10;
-        uint32 HFHHPNMIHPA = 4;
+    message HomeExchangeWoodInfo {
+        uint32 exchangeLimit = 10;
+        uint32 exchangedCount = 4;
         uint32 next_refresh_time = 9;
         uint32 wood_id = 11;
     }
 
     int32 retcode = 1;
-    repeated LHNJKLLKOAI NMIIHLAHDBN = 10;
+    repeated HomeExchangeWoodInfo woodInfoList = 10;
 }
 
