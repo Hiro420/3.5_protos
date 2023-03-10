@@ -7,8 +7,8 @@ import "DailyTaskInfo.proto";
 // Name: IHPCDCEIDJD
 // CmdId: 130
 message WorldOwnerDailyTaskNotify {
-    uint32 CDFPMDEEHKO = 10;
-    uint32 DOCJEPPBKOH = 8;
+    uint32 finished_daily_task_num = 10;
+    uint32 filter_city_id = 8;
     repeated DailyTaskInfo task_list = 6;
 }
 
