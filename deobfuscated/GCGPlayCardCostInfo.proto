@@ -5,8 +5,8 @@ option java_package = "emu.grasscutter.net.proto";
 import "Uint32Pair.proto";
 
 // Name: MJMMGKPBGGH
-message MJMMGKPBGGH {
-    repeated Uint32Pair FHMGOBDDINB = 9;
+message GCGPlayCardCostInfo {
+    repeated Uint32Pair costMap = 9;
     uint32 card_id = 5;
 }
 

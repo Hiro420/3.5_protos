@@ -2,16 +2,16 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "JFDLFELGAEJ.proto";
-import "MJMMGKPBGGH.proto";
-import "PLPINEPGFHD.proto";
+import "GCGSelectOnStageCostInfo.proto";
+import "GCGPlayCardCostInfo.proto";
+import "GCGAttackCostInfo.proto";
 
 // Name: DPBAJDJIMAA
 message GCGCostReviseInfo {
-    repeated JFDLFELGAEJ EFLDLOMLAHO = 13;
+    repeated GCGSelectOnStageCostInfo selectOnStageCostList = 13;
     bool is_can_attack = 15;
     repeated uint32 can_use_hand_card_id_list = 1;
-    repeated PLPINEPGFHD FIJCIJMNPLB = 6;
-    repeated MJMMGKPBGGH GNPBHDMACIH = 5;
+    repeated PLPINEPGFHD attackCostList = 6;
+    repeated GCGPlayCardCostInfo playCardCostList = 5;
 }
 
