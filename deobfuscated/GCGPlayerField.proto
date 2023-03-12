@@ -2,9 +2,9 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "AEEKABMMKNE.proto";
+import "GCGWaitingCharacter.proto";
 import "GCGZone.proto";
-import "HHKFLCHIBJJ.proto";
+import "GCGPVEIntention.proto";
 import "GCGDiceSideType.proto";
 
 // Name: AHGODAFKPIM
@@ -12,8 +12,8 @@ message GCGPlayerField {
     uint32 ONKDMOMNGBG = 824;
     repeated GCGDiceSideType dice_side_list = 1;
     uint32 IGMNOEBOCJP = 3;
-    repeated HHKFLCHIBJJ AICAJEFEHLF = 1540;
-    repeated AEEKABMMKNE PLPMEJFNDKA = 12;
+    repeated GCGPVEIntention intentionList = 1540;
+    repeated GCGWaitingCharacter waitingList = 12;
     bool is_passed = 10;
     uint32 AJFMMFEEDFF = 14;
     uint32 IAEJLGAILAK = 2;

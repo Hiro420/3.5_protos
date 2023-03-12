@@ -4,23 +4,23 @@ option java_package = "emu.grasscutter.net.proto";
 
 import "GCGPlayerField.proto";
 import "GCGPhase.proto";
-import "FMOEOCJBOPN.proto";
+import "GCGGameBusinessType.proto";
 import "GCGCard.proto";
 import "GCGCostReviseInfo.proto";
 import "GCGDuelChallenge.proto";
 import "GPCKNDGKBBD.proto";
-import "HHKFLCHIBJJ.proto";
-import "MNNNHOOHGHF.proto";
+import "GCGPVEIntention.proto";
+import "GCGControllerShowInfo.proto";
 import "GCGMessagePack.proto";
 
 // Name: HHACKKBLLHO
 message GCGDuel {
     uint32 HCKIILHKKBE = 15;
-    repeated HHKFLCHIBJJ FLECBBNJDOB = 8;
+    repeated GCGPVEIntention intentionList = 8;
     uint32 DELFEGPPGMK = 6;
     repeated GCGDuelChallenge challenge_list = 1778;
     GCGPhase JFFMMIKBICI = 11;
-    repeated MNNNHOOHGHF CBNFENJBKKE = 1;
+    repeated GCGControllerShowInfo showInfoList = 1;
     repeated GCGCard history_card_list = 301;
     repeated GCGPlayerField field_list = 9;
     uint32 OAEDGPFFFIB = 4;
@@ -28,7 +28,7 @@ message GCGDuel {
     repeated GCGCard card_list = 2;
     repeated uint32 ECNNODOGJIA = 5;
     repeated GPCKNDGKBBD FJFPKAGBFPE = 345;
-    FMOEOCJBOPN AECBJKLBGFK = 14;
+    GCGGameBusinessType businessType = 14;
     uint32 LGCAPIJMFHK = 13;
     GCGCostReviseInfo cost_revise = 7;
     repeated uint32 HLJEJHHAICH = 217;

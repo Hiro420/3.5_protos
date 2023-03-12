@@ -2,7 +2,7 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "FMOEOCJBOPN.proto";
+import "GCGGameBusinessType.proto";
 import "GCGEndReason.proto";
 import "ItemParam.proto";
 
@@ -15,7 +15,7 @@ message JNPBOGLAGMK {
     repeated uint32 HLJEJHHAICH = 8;
     bool is_win = 12;
     repeated ItemParam reward_item_list = 4;
-    FMOEOCJBOPN AECBJKLBGFK = 15;
+    GCGGameBusinessType businessType = 15;
     GCGEndReason reason = 7;
 }
 

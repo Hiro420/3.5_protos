@@ -11,7 +11,7 @@ message GCGCostReviseInfo {
     repeated GCGSelectOnStageCostInfo selectOnStageCostList = 13;
     bool is_can_attack = 15;
     repeated uint32 can_use_hand_card_id_list = 1;
-    repeated PLPINEPGFHD attackCostList = 6;
+    repeated GCGAttackCostInfo attackCostList = 6;
     repeated GCGPlayCardCostInfo playCardCostList = 5;
 }
 

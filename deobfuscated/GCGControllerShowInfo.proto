@@ -5,7 +5,7 @@ option java_package = "emu.grasscutter.net.proto";
 import "ProfilePicture.proto";
 
 // Name: MNNNHOOHGHF
-message MNNNHOOHGHF {
+message GCGControllerShowInfo {
     ProfilePicture profile_picture = 4;
     string online_id = 13;
     string nick_name = 2;
