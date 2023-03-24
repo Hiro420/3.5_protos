@@ -4,7 +4,7 @@ option java_package = "emu.grasscutter.net.proto";
 
 
 // Name: MBLNIKHFGKN
-message MBLNIKHFGKN {
-    repeated uint32 INLGCJEOHJI = 1;
+message ParamList {
+    repeated uint32 param_list = 1;
 }
 

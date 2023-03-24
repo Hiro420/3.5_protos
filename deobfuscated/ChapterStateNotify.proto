@@ -8,19 +8,19 @@ import "ChapterState.proto";
 // CmdId: 427
 message ChapterStateNotify {
     // Name: POAIPEHKEHE
-    message POAIPEHKEHE {
+    message NeedPlayerLevel {
         bool is_limit = 12;
-        uint32 PJDJCBIINIC = 11;
+        uint32 configNeedPlayerLevel = 11; //PJDJCBIINIC
     }
 
     // Name: OKNHDJOIJFI
-    message OKNHDJOIJFI {
+    message NeedBeginTime {
         bool is_limit = 10;
-        uint32 LENAHOJKKFP = 3;
+        uint32 configNeedBeginTime = 3; //LENAHOJKKFP
     }
 
-    OKNHDJOIJFI JFOHACAIDHE = 14;
+    NeedBeginTime need_begin_time = 14; //JFOHACAIDHE
     uint32 chapter_id = 7;
     ChapterState chapter_state = 10;
-    POAIPEHKEHE HIJBMEKPPKJ = 8;
+    NeedPlayerLevel need_player_level = 8; //HIJBMEKPPKJ
 }

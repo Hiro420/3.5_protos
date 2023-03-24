@@ -4,10 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 // Name: KPDGACKMNJA
 message AttackHitEffectResult {
-    float OGEJIAIJMDB = 14;
-    float AKLACKOIKOE = 7;
+    float hitHaltTime = 14; //OGEJIAIJMDB
+    float airStrength = 7; //AKLACKOIKOE
     uint32 NCIHLNFLAAF = 10;
-    float PFNLKOMLOIO = 4;
-    float JLEGJBGOHHP = 2;
+    float retreatStrength = 4; //PFNLKOMLOIO
+    float hitHaltTimeScale = 2; //JLEGJBGOHHP
     uint32 LDDDDFHEMBA = 3;
 }

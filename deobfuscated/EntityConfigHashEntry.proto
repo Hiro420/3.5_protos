@@ -4,7 +4,7 @@ option java_package = "emu.grasscutter.net.proto";
 
 
 // Name: MGPCDHIOCGA
-message MGPCDHIOCGA {
+message EntityConfigHashEntry {
     uint32 job_id = 8;
     int32 hash_value = 3;
     uint32 entity_id = 10;

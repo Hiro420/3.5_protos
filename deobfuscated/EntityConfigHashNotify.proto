@@ -2,13 +2,13 @@ syntax = "proto3";
 
 option java_package = "emu.grasscutter.net.proto";
 
-import "MGPCDHIOCGA.proto";
+import "EntityConfigHashEntry.proto";
 
 // Name: GKMMJPKLMAN
 // CmdId: 3103
 message EntityConfigHashNotify {
-    repeated MGPCDHIOCGA LJEBDGHMJHG = 6;
-    repeated MGPCDHIOCGA LJCPLFAOJJP = 3;
-    repeated MGPCDHIOCGA LKOBJJCPKHD = 14;
+    repeated EntityConfigHashEntry combatEntryList = 6; //LJEBDGHMJHG
+    repeated EntityConfigHashEntry avatarEntryList = 3; //LJCPLFAOJJP
+    repeated EntityConfigHashEntry abilityEntryList = 14; //LKOBJJCPKHD
 }
 

@@ -4,7 +4,7 @@ option java_package = "emu.grasscutter.net.proto";
 
 
 // Name: PKGGDPOEDKH
-message PKGGDPOEDKH {
+message QueryFilter {
     int32 IMNKIGNBJFG = 13;
     int32 DGABGOHFAOB = 4;
 }

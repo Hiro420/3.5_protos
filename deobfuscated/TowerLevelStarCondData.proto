@@ -6,8 +6,8 @@ option java_package = "emu.grasscutter.net.proto";
 // Name: KMPDADDDNCP
 message TowerLevelStarCondData {
     bool EOJOAHGECCE = 13;
-    uint32 NLNHJFLCGHB = 4;
-    uint32 KOPBLHONCEF = 7;
+    uint32 star_cond_index = 4; //NLNHJFLCGHB
+    uint32 cond_value = 7; //KOPBLHONCEF
     bool MFPMLIGPNIJ = 2;
 }
 
