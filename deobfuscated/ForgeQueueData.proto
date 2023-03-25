@@ -5,12 +5,12 @@ option java_package = "emu.grasscutter.net.proto";
 
 // Name: DBDNABMNFAO
 message ForgeQueueData {
-    uint32 NEGHCLJNONO = 11;
+    uint32 finish_count = 11; //NEGHCLJNONO
     uint32 avatar_id = 13;
     uint32 forge_id = 3;
-    uint32 IJIGJHCPBIO = 6;
-    uint32 DPLHKMGEIKA = 5;
-    uint32 GFMEEGMBJKI = 2;
-    uint32 KOLFAOPJMFA = 10;
+    uint32 queue_id = 6; //IJIGJHCPBIO
+    uint32 next_finish_timestamp = 5; //DPLHKMGEIKA
+    uint32 unfinish_count = 2; //GFMEEGMBJKI
+    uint32 total_finish_timestamp = 10; //KOLFAOPJMFA
 }
 

@@ -9,9 +9,9 @@ import "ItemParam.proto";
 // CmdId: 688
 message ForgeQueueManipulateRsp {
     int32 retcode = 4;
-    repeated ItemParam LJGHMOMAFGD = 13;
+    repeated ItemParam extra_output_item_list = 13; //LJGHMOMAFGD
     ForgeQueueManipulateType manipulate_type = 8;
-    repeated ItemParam PODPGGGOFGP = 3;
-    repeated ItemParam CBLILOJFLPO = 11;
+    repeated ItemParam output_item_list = 3; //PODPGGGOFGP
+    repeated ItemParam return_item_list = 11; //CBLILOJFLPO
 }
 

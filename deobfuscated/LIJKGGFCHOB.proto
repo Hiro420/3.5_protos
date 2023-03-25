@@ -10,7 +10,7 @@ message LIJKGGFCHOB {
     uint32 JOIANPCEKPB = 3;
     uint32 GOJEILKOHBH = 4;
     uint32 CGACGBLLNGP = 5;
-    uint32 KCHMFBKCLKO = 6;
+    uint32 bought_num = 6;
     bool is_audit = 7;
 }
 

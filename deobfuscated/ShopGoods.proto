@@ -7,13 +7,13 @@ import "ItemParam.proto";
 // Name: EFLDHGLFIDD
 message ShopGoods {
     uint32 min_level = 7; //OCIGJMBPIMN
-    uint32 JAFFFHILNCD = 1817;
+    uint32 secondary_sheet_id = 1817; //JAFFFHILNCD
     ItemParam goods_item = 8;
     uint32 end_time = 12; //ok
     uint32 scoin = 14; //JPCBEPKDBGA
     repeated uint32 pre_goods_id_list = 3; //ok
     uint32 ALOPKNFLFBE = 570;
-    uint32 KCHMFBKCLKO = 4;
+    uint32 bought_num = 4; //KCHMFBKCLKO
     uint32 goods_id = 9; //GOMAIIJPDKD
     uint32 max_level = 11; //HBAEGHNDCKB
     uint32 KKINAOMJKAD = 505;

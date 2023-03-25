@@ -7,10 +7,10 @@ import "ItemParam.proto";
 // Name: BKPBJLHMEIG
 // CmdId: 637
 message CombineRsp {
-    repeated ItemParam NOBMIMNDGLA = 9;
+    repeated ItemParam result_item_list = 9; //NOBMIMNDGLA
     repeated ItemParam AKCCLGFBJMD = 13;
     uint64 avatar_guid = 10;
-    repeated ItemParam LOCKHJBEGDL = 6;
+    repeated ItemParam total_return_item_list = 6; //LOCKHJBEGDL
     repeated ItemParam INKENHANDMB = 14;
     repeated ItemParam cost_item_list = 5;
     uint32 combine_count = 1;
