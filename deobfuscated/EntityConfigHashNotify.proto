@@ -8,7 +8,7 @@ import "EntityConfigHashEntry.proto";
 // CmdId: 3103
 message EntityConfigHashNotify {
     repeated EntityConfigHashEntry combatEntryList = 6; //LJEBDGHMJHG
-    repeated EntityConfigHashEntry avatarEntryList = 3; //LJCPLFAOJJP
-    repeated EntityConfigHashEntry abilityEntryList = 14; //LKOBJJCPKHD
+    repeated EntityConfigHashEntry abilityEntryList = 3; //LJCPLFAOJJP
+    repeated EntityConfigHashEntry avatarEntryList = 14; //LKOBJJCPKHD
 }
 
