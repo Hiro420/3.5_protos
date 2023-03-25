@@ -6,7 +6,7 @@ option java_package = "emu.grasscutter.net.proto";
 // Name: LIOGDEJCPAJ
 // CmdId: 643
 message McoinExchangeHcoinReq {
-    uint32 CALAJIHCLCF = 8;
-    uint32 MIBMBPJHBBM = 6;
+    uint32 mcoin_cost = 8;
+    uint32 hcoin = 6;
 }
 

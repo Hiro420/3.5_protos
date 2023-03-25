@@ -5,6 +5,6 @@ option java_package = "emu.grasscutter.net.proto";
 // Name: FCJLAGHOIFC
 message AiSyncInfo {
     uint32 entity_id = 10;
-    bool CJIBIGJNKKE = 6;
-    bool OOJFENIJJDB = 8;
+    bool is_self_killing = 6;
+    bool has_path_to_target = 8;
 }

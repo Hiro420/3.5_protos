@@ -6,8 +6,8 @@ option java_package = "emu.grasscutter.net.proto";
 // Name: NBMNMAAOFAN
 // CmdId: 636
 message McoinExchangeHcoinRsp {
-    uint32 MIBMBPJHBBM = 2;
+    uint32 hcoin = 2;
     int32 retcode = 15;
-    uint32 CALAJIHCLCF = 4;
+    uint32 mcoin_cost = 4;
 }
 

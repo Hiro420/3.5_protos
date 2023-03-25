@@ -6,8 +6,8 @@ option java_package = "emu.grasscutter.net.proto";
 // Name: PKOMPHLMLED
 // CmdId: 4146
 message CardProductRewardNotify {
-    uint32 MIBMBPJHBBM = 2;
-    uint32 LLBAKMPCPGI = 6;
+    uint32 hcoin = 2;
+    uint32 remain_days = 6;
     string product_id = 15;
 }
 
